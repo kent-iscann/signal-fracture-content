@@ -10,7 +10,7 @@ A proposed transport corridor running through southern Armenia (Syunik province)
 - **For Russia:** Views the corridor as unacceptable — it would place US-backed infrastructure along Russia's southern periphery and near the Iranian border.
 
 ## Current Status
-The agreement was signed during Secretary of State Marco Rubio's May 2026 visit to Yerevan. Implementation details remain contested, particularly regarding security arrangements and the legal status of the corridor through Armenian territory.
+The agreement was signed during Secretary of State Marco Rubio's May 2026 visit to Yerevan. Implementation details remain contested, particularly regarding security arrangements and the legal status of the corridor through Armenian territory. In May 2026, Pashinyan stated Armenia is preparing to sign a final agreement with the US on TRIPP implementation, though no timeline was provided. The opening of the Akhalkalaki-Kars railway and the broader regional connectivity vision are directly linked to TRIPP's implementation.
 
 ## Risks
 - Russia has explicitly warned against foreign military presence in the corridor zone

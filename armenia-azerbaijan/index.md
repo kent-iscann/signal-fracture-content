@@ -1,6 +1,6 @@
 # Armenia-Azerbaijan Relations Wiki Index
 
-> Content catalog. Last updated: 2026-06-09 | Total pages: 8 | Total sources: 8
+> Content catalog. Last updated: 2026-06-16 | Total pages: 8 | Total sources: 12
 
 ## Timelines
 - [[armenia-azerbaijan-timeline]] — Chronological overview of Armenia-Azerbaijan relations

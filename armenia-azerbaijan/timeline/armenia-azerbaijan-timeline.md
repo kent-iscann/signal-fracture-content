@@ -31,3 +31,7 @@
 - **June 3:** Historic Armenia-Turkey business forum held in Kars.
 - **June 7:** Armenia holds parliamentary elections. Pashinyan's Civil Contract party wins 49.8% of votes, securing a majority. International observers document Russian interference.
 - **June 8:** Pashinyan declares victory, mandates peace talks with Azerbaijan and continued Western pivot.
+- **May 28:** Pashinyan delivers Republic Day speech announcing transformed military doctrine — army's sole mission is defense of internationally recognized territory. Military equipment from seven countries in parade. Defense industry received 170 billion drams since 2022. New fortified border zones constructed.
+- **May 26:** Türkiye Today publishes analysis of railway opening geopolitics, revealing Armenia's railways remain bound by Russian concession regime until 2038.
+- **May 24:** Akhalkalaki-Kars railway opens for Armenian exports/imports. Pashinyan announces plans to repair Gyumri-Kars railway and Yeraskh junction despite Russian concession agreements.
+- **May 19:** Azerbaijani Ambassador to Turkey Rashad Mammadov outlines sequential conditions for border opening: constitutional change → peace agreement signing → Turkey-Armenia and Armenia-Azerbaijan border openings. Reveals Azerbaijan is supplying Armenia with oil/fuel.
