@@ -25,3 +25,12 @@
 
 ## [2026-06-10] ingest | China's influence in Africa is no longer just economic
 - Added source 15: Lowy Institute (May 2026) on RightsCon cancellation in Zambia, Eswatini-Taiwan diplomatic pressure, zero-tariff exclusion as political tool. New dimension: China's political/diplomatic influence beyond economics.
+
+## [2026-06-17] ingest | China Sees Strategic Opportunity in Africa's Shift Toward Mineral Processing
+- Added source 16: Ecofin Agency (May 2026). New data on China's pivot from raw mineral access to local processing: Kamoa-Kakula copper smelter (Africa's largest, Zijin 39.6% stake) operational in DRC; Zimbabwe's lithium export quota system (April 2026) ahead of full ban by 2027; China absorbs ~15% of Zimbabwe's lithium exports; Guinea plans 5 alumina refineries by 2030; SPIC, WCAG, Chalco all building in Guinea; Sichuan Yahua joins Sinomine/Huayou in Zimbabwe lithium processing. Updated DRC and Zimbabwe entity pages, timeline, and critical minerals strategy concept page.
+
+## [2026-06-17] ingest | Building The Ecosystem For Critical Minerals Mining In DRC
+- Added source 17: Infrastructurenews.co.za (June 17, 2026). DRC's mineral reserves still underestimated with significant exploration upside. Manono lithium project emerging as new frontier beyond copper-cobalt. SRK Consulting perspective on DRC's transition from state-led to internationally financed mining. Updated DRC entity page and timeline.
+
+## [2026-06-17] ingest | Beyond Ports: China Embeds Itself in Africa's Maritime Networks
+- Added source 18: Africa Center for Strategic Studies (June 10, 2026). China accounts for ~22% of African trade; Chinese firms in ~1/3 of African ports. New shipping corridors to Qingdao/Tianjin/Yantai free-trade zones. Maritime integration extends to port operations software, AI, cybersecurity, and training programs. Updated timeline and critical minerals strategy concept page.

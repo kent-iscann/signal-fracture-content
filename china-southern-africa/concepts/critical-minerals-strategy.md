@@ -17,5 +17,6 @@ China's Southern African infrastructure plays are fundamentally driven by a stra
 - **First-mover:** Decades of sustained investment before Western competition materialized
 - **Integrated supply chain:** Controls mining operations, processing, refining, and battery manufacturing
 - **Infrastructure control:** Owns or finances the logistics corridors (rail, port) that minerals flow through
+- **Maritime dominance:** China accounts for ~22% of all African trade; Chinese firms operate/finance/hold stakes in ~1/3 of African ports. New shipping corridors connect African port clusters to Chinese hubs (Qingdao, Tianjin, Yantai) and adjacent free-trade zones. China's maritime integration extends to port operations software, automation, AI, cybersecurity tech, and maritime training programs.
 - **Financing leverage:** Chinese banks offer loans when Western lenders won't, secured against mineral assets
 - **Beneficiation pivot:** Responding to host-nation demands for domestic processing rather than withdrawing
