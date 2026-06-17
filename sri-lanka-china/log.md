@@ -72,3 +72,18 @@
   - index.md: Updated last-updated date and source count (30 → 33).
 
 - **Total sources**: 30 → 33
+
+## [2026-06-17] ingest | 3 new sources added (IDSA, China Focus, Xinhua)
+
+- **Source #34**: "India and China's Economic Engagement in Sri Lanka Post-2022 Crisis" -- IDSA Issue Brief (June 2026). Comprehensive analysis with significant new quantitative data: China suffered $7B in losses from debt restructuring; Sri Lanka's outstanding debt to China fell from $8B (2022) to $4.9B (2025); China's share of external bilateral debt decreased from 57% (2022) to 45.3% (2024-2025); SINOPEC Hambantota refinery ($3.7B) faces delays over China's demand to sell 30% locally vs current 20%; India's UPI launched in Sri Lanka; bilateral trade surpassed $5.5B in 2024; India's FDI was $213M in FY2025 (2nd largest after Singapore); China's accumulated FDI is $15B over two decades; Adani took over West Container Terminal in 2025; India-UAE-Sri Lanka Trincomalee energy hub MoU signed in 2025.
+
+- **Source #35**: "Port City Colombo and Sri Lanka's Economic Transformation" -- China Focus (May 25, 2026). Detailed progress report: $1.3-1.4B invested in land reclamation and core infrastructure; 150+ companies licensed under Colombo Port City Economic Commission; South Asia's first downtown duty-free retail mall operational; Bay One Residences under construction; projected 80,000+ jobs and $13-15B GDP addition and $5B fiscal revenue annually at completion.
+
+- **Source #36**: "From breakwater to 'biobank' beneath Sri Lanka's Hambantota Port" -- Xinhua (June 9, 2026). Reports coral reef ecosystem flourishing within Hambantota Port's underwater infrastructure despite global coral decline — an unintended ecological consequence of the BRI port project.
+
+- **Wiki pages updated**:
+  - timeline/china-sri-lanka-timeline.md: Added 4 new timeline entries (IDSA brief June 2026, Port City Colombo May 2026, coral reef June 2026, plus existing tourism entry). Added 12 new statistics to key statistics table (China's restructuring losses, bilateral debt share changes, SINOPEC refinery value, India-Sri Lanka trade, FDI figures, Port City Colombo investment/companies/GDP/jobs/revenue projections).
+  - sources.md: Added 3 new source entries in 2 new categories: "Post-Crisis Economic Engagement & FDI" and "Environment & Ecology" (total now 36).
+  - index.md: Updated last-updated date (2026-06-10 → 2026-06-17) and source count (33 → 36).
+
+- **Total sources**: 33 → 36

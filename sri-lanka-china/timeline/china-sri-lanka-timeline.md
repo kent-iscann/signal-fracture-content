@@ -137,6 +137,15 @@ India and Sri Lanka signed their first formalized framework for bilateral securi
 ### June 9, 2026 -- Sri Lanka's Tourism Push in China; 70th Anniversary of Diplomatic Relations Announced
 Sri Lanka's Deputy Chief of Mission in Beijing highlighted tourism as a new bridge strengthening China-Sri Lanka ties. Key data: Sri Lanka welcomed more than 2 million international visitors in 2025; 23 direct flights per week operate between Sri Lanka and the Chinese mainland; Chinese citizens receive free tourist Electronic Travel Authorization for stays up to 30 days. Both countries agreed to jointly commemorate the 70th anniversary of diplomatic relations in 2027.
 
+### June 2026 -- IDSA Issue Brief: India and China's Economic Engagement Post-2022 Crisis
+The Institute for Defence Studies and Analyses (IDSA) published a comprehensive issue brief with significant new data on post-crisis economic engagement. Key findings: China suffered $7 billion in losses from debt restructuring; Sri Lanka's outstanding debt to China fell from $8 billion (2022) to $4.9 billion (2025); China's share of external bilateral debt decreased from 57% (2022) to 45.3% (2024-2025), though it remains the largest bilateral lender. The SINOPEC Hambantota oil refinery ($3.7 billion) faces delays as China demands to sell 30% of output locally versus the current 20%. India's UPI was launched in Sri Lanka; bilateral trade surpassed $5.5 billion in 2024. India's FDI was $213 million in FY2025 (2nd largest after Singapore), while China's accumulated FDI stands at $15 billion over two decades. Adani took over the West Container Terminal in 2025, and an India-UAE-Sri Lanka Trincomalee energy hub MoU was signed in 2025.
+
+### May 25, 2026 -- Port City Colombo: $1.3-1.4B Invested, 150+ Companies Licensed
+China Focus published a detailed analysis of Port City Colombo's progress. Key data: approximately $1.3-1.4 billion has been invested in land reclamation and core infrastructure; more than 150 companies have been licensed under the Colombo Port City Economic Commission framework; South Asia's first downtown duty-free retail mall (outside an airport) is operational; Bay One Residences (first residential tower) is under active construction. Independent projections estimate the project could support more than 80,000 jobs and add $13-15 billion to GDP and $5 billion in fiscal revenue annually when fully completed.
+
+### June 9, 2026 -- Coral Reef "Biobank" Discovered at Hambantota Port
+Xinhua reported that a surprising coral reef ecosystem is flourishing within Hambantota Port's underwater infrastructure. Despite global coral decline, researchers found a balanced reef community thriving within the port's limited underwater space — an unintended ecological consequence of the BRI deep-water port construction.
+
 ### December 2025 Statistics -- Updated Bilateral Debt Figures (Published April 2026)
 Updated Sri Lankan treasury data revealed bilateral debt figures as of December 2025:
 - Outstanding debt to China: **USD 4.974 billion**
@@ -175,5 +184,17 @@ This confirms China remains Sri Lanka's largest bilateral creditor by a wide mar
 ||| **Sri Lanka international visitors (2025)** | **>2 million** | **Guangming Online, June 9 2026** |
 ||| **Direct flights Sri Lanka-China (weekly)** | **23** | **Guangming Online, June 9 2026** |
 ||| **70th anniversary of China-Sri Lanka diplomatic relations** | **2027** | **Multiple sources** |
+||| **China's losses from debt restructuring** | **$7 billion** | **IDSA Issue Brief, June 2026** |
+||| **China's share of external bilateral debt (2022)** | **57%** | **IDSA Issue Brief, June 2026** |
+||| **China's share of external bilateral debt (2024-2025)** | **45.3%** | **IDSA Issue Brief, June 2026** |
+||| **SINOPEC Hambantota refinery project value** | **$3.7 billion** | **IDSA Issue Brief, June 2026** |
+||| **India-Sri Lanka bilateral trade (2024)** | **>$5.5 billion** | **IDSA Issue Brief, June 2026** |
+||| **India's FDI in Sri Lanka (FY2025)** | **$213 million (2nd largest)** | **IDSA Issue Brief, June 2026** |
+||| **China's accumulated FDI in Sri Lanka** | **$15 billion (over 2 decades)** | **IDSA Issue Brief, June 2026** |
+||| **Port City Colombo investment to date** | **$1.3-1.4 billion** | **China Focus, May 25 2026** |
+||| **Port City Colombo companies licensed** | **150+** | **China Focus, May 25 2026** |
+||| **Port City Colombo projected GDP addition** | **$13-15 billion/year at completion** | **China Focus, May 25 2026** |
+||| **Port City Colombo projected fiscal revenue** | **$5 billion/year at completion** | **China Focus, May 25 2026** |
+||| **Port City Colombo projected jobs** | **80,000+** | **China Focus, May 25 2026** |
 
 See also: [[debt-trap-debate]], [[hambantota-port]], [[belt-and-road-initiative]], [[key-conclusions]]

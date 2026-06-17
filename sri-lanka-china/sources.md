@@ -164,3 +164,23 @@
 33. "IMF Executive Board Completes the Combined Fifth and Sixth Reviews Under the Extended Fund Facility for Sri Lanka" -- IMF Press Release PR26/172 (May 27, 2026)
     https://www.elibrary.imf.org/view/journals/002/2026/111/article-A000-en.pdf
     Official IMF press release. The combined 5th and 6th reviews provide SDR508 million (about US$695 million), bringing total purchases under the EFF to SDR1.778 billion (about US$2.4 billion). Performance under the program was generally strong. All end-December 2025 quantitative performance criteria were met. Most structural benchmarks were met or implemented with a delay. Staff recommended approval of a waiver on new external arrears and exchange restrictions. Discussions took place March 25 – April 9, 2026 in Colombo. Debt restructuring is nearing completion, but debt sustainability risks remain high.
+
+---
+
+## Post-Crisis Economic Engagement & FDI
+
+34. "India and China's Economic Engagement in Sri Lanka Post-2022 Crisis" -- Institute for Defence Studies and Analyses (IDSA), India (June 2026)
+    https://idsa.in/publisher/issuebrief/india-and-chinas-economic-engagement-in-sri-lanka-post-2022-crisis
+    Comprehensive issue brief analyzing India's and China's economic engagement with Sri Lanka post-2022 crisis. Key new data: China suffered $7B in losses from debt restructuring; Sri Lanka's outstanding debt to China fell from $8B (2022) to $4.9B (2025); China's share of external bilateral debt decreased from 57% (2022) to 45.3% (2024-2025); SINOPEC Hambantota refinery ($3.7B) faces delays over China's demand to sell 30% locally vs current 20%; India's UPI launched in Sri Lanka; bilateral trade surpassed $5.5B in 2024; India's FDI was $213M in FY2025 (2nd largest after Singapore); China's accumulated FDI is $15B over two decades; Adani took over West Container Terminal in 2025; India-UAE-Sri Lanka Trincomalee energy hub MoU signed in 2025.
+
+35. "Port City Colombo and Sri Lanka's Economic Transformation" -- China Focus (May 25, 2026)
+    http://www.cnfocus.com/port-city-colombo-and-sri-lanka-s-economic-transformation
+    Detailed analysis of Port City Colombo's progress and economic significance. Key data: $1.3-1.4B invested in land reclamation and core infrastructure; 150+ companies licensed under Colombo Port City Economic Commission; South Asia's first downtown duty-free retail mall is operational; Bay One Residences under active construction; projected to create 80,000+ jobs across finance, technology, hospitality, and professional services; estimated to add $13-15B to GDP and $5B in fiscal revenue annually when fully completed. Argues the project is structured to attract productive FDI rather than debt-financed consumption.
+
+---
+
+## Environment & Ecology
+
+36. "From breakwater to 'biobank' beneath Sri Lanka's Hambantota Port" -- Xinhua (June 9, 2026)
+    https://english.news.cn/20260609/e3b02ffe51f44c07ba4e91b647ec2356/c.html
+    Reports on a surprising coral reef ecosystem flourishing within Hambantota Port's underwater infrastructure. Despite global coral decline, researchers found a balanced reef community thriving within the port's limited underwater space — an unintended ecological consequence of the BRI deep-water port project.
