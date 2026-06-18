@@ -34,5 +34,20 @@ GD has dramatically deepened ties with China in 2026:
 GD's foreign policy is best understood as a transactional, multi-vector strategy designed to maximize regime survival rather than align with any single power. It simultaneously pursues:
 - A US reset (Trump Tower, Rubio call, State Department visits)
 - A China pivot (comprehensive strategic partnership, trade, infrastructure)
-- Functional ties with Russia (no condemnation of Ukraine invasion, economic links)
+- An Iran connection (sanctions evasion, cultural/religious influence)
+- Functional ties with Moscow (no condemnation of Ukraine invasion, economic links)
 - Resistance to EU conditionality (frozen accession, foreign agents law)
+
+## Iran vector (2025–2026)
+GD's Iran engagement adds a fourth authoritarian vector to its multi-directional foreign policy:
+- Deputy Foreign Minister signaled solidarity with Tehran in 2025
+- Nearly 13,000 Iranian companies registered in Georgia, many providing sanctions-evasion services
+- Kobakhidze threatened Hudson Institute report co-author who documented Iranian influence
+- Iran using Georgia as a sanctions evasion route and for religious/political influence expansion
+
+## China partnership: substance vs. signaling (The Diplomat analysis, June 2026)
+A Diplomat analysis argues the upgraded China partnership reflects GD's political anxieties more than genuine bilateral deepening:
+- Anaklia deep-water port is the flagship project but "has yet to leave port"
+- China is not yet a significant driver of Georgia's tourism economy
+- The partnership is a "louder signal" but potentially an "empty promise"
+- The timing (immediately after US House bill on Chinese influence) suggests reactive posturing rather than strategic planning

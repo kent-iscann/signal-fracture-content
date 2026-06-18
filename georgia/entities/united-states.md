@@ -27,3 +27,12 @@ Despite executive branch openness, Congress has grown increasingly alarmed:
 
 ## Key uncertainty
 Whether the US reset is durable or merely a transactional pause. Congress is moving toward conditionality (intelligence assessment, strategy review) while the executive branch pursues engagement. Kobakhidze called bill sponsor Wilson "absolutely frivolous" but says he's having "specific conversations" with the Trump administration. The EU remains deeply skeptical of Georgian Dream.
+
+## Iran as a new friction point (June 2026)
+Iran has emerged as a significant new strain on US-Georgia relations:
+- **Hudson Institute report (March 2026):** Documented systematic Iranian political, religious, and economic influence in Georgia. Nearly 13,000 Iranian companies registered (many to phantom addresses). Kobakhidze threatened the report's co-author with legal consequences.
+- **RFE/RL investigation (October 2025):** Found Iranian companies using Georgia for sanctions evasion on a massive scale.
+- **US framing:** Iranian activity "directly threatens US national security interests in the South Caucasus."
+
+## Strategic debate in Washington
+A June 2026 National Interest analysis argued that normalizing relations with GD without behavioral change would be "strategic self-sabotage" for Washington. GD's entire diplomatic strategy is "reputational rehabilitation without behavioral change" — seeking reset without releasing political prisoners, repealing the foreign agents law, or restoring democratic pluralism. The analysis argued the Trump administration should not re-engage if Tbilisi continues deepening ties with Russia, China, and Iran.

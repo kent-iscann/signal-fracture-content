@@ -52,3 +52,12 @@
 
 ### June 2026
 - **EU strategic analysis** — SCEEUS report documents EU's fading influence in the South Caucasus. EU slow to confront Georgia's authoritarian turn while deepening engagement with Armenia (visa liberalization, EUPM mission, €500M energy commitment). Region now characterized as "competitive multipolarity" with Turkey, China, and Gulf states all exerting growing influence. EU sidelined as US brokered Armenia-Azerbaijan peace (TRIPP).
+
+### June 13-18, 2026
+- **Iran influence revelations** — RFE/RL and Eurasia Review report on systematic Iranian expansion in Georgia: 13,000 Iranian companies registered (many phantom addresses), sanctions evasion on massive scale, religious/political influence growing. Hudson Institute report triggered Kobakhidze threats against its co-author. Iran emerges as a new friction point in US-Georgia relations.
+- **TRIPP finalized** — Armenia and US complete signing process for TRIPP agreement. Foreign Minister Mirzoyan confirms document fully finalized and ready for ratification.
+- **Pashinyan election victory** — Civil Contract wins 49.8% in Armenian parliamentary elections. Pro-Russian opposition could slow peace process. Reshapes Georgia's regional positioning as Armenia potentially aligns more closely with Western interests.
+- **Azerbaijan-Türkiye-Georgia trilateral** — 10th trilateral foreign ministers meeting in Istanbul. New regional connectivity logic linking China-Central Asia-Europe via the three countries. Turkey positioned as key gateway to Europe.
+- **Strategic debate in Washington** — National Interest analysis argues normalizing GD without behavioral change would be "strategic self-sabotage." GD's strategy is "reputational rehabilitation without behavioral change."
+- **China partnership questioned** — The Diplomat analysis argues China partnership is "louder signal, empty promise" — Anaklia port flagship hasn't left port, timing suggests reactive posturing.
+- **South Caucasus as great power arena** — Georgia Today analysis frames South Caucasus as "coldest arena of geopolitical competition" — Georgia's transit corridor value is both asset and vulnerability.

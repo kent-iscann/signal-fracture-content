@@ -27,3 +27,8 @@ A comprehensive SCEEUS report documented the EU's structural weaknesses in the S
 
 ## Strategic significance
 EU membership was the central organizing principle of Georgian foreign policy for over a decade. Its suspension represents the most significant strategic shift in Georgia's post-Soviet history. The EU's inability to respond decisively to Georgia's drift risks further eroding its credibility as a strategic actor in its own neighborhood.
+
+## Latest developments (June 2026)
+- **Pashinyan's victory:** Civil Contract won 49.8% in Armenian parliamentary elections. While pro-Russian opposition could slow progress, Armenia's westward trajectory continues — deepening the contrast with Georgia's drift.
+- **Turkey-Armenia trade resumption:** Direct trade resumes after 33-year freeze, reducing Georgia's transit monopoly and altering South Caucasus economic geography.
+- **TRIPP finalization:** Armenia-US completed the Trump International Route for Peace and Prosperity signing process, ready for ratification. Further sidelines EU influence in the region.

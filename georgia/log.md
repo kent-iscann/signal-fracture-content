@@ -49,3 +49,43 @@
 - Turkey-Armenia direct trade resumes after 33-year freeze
 - Bureaucratic preparations completed May 11
 - Could reduce Georgia's transit monopoly and alter regional power dynamics
+
+## 2026-06-18 | ingest | RFE/RL: Georgia's Iran Embrace Is Costing It Washington
+- Systematic expansion of Iranian political, religious, economic influence in Georgia
+- Nearly 13,000 Iranian companies registered (many to phantom addresses)
+- Hudson Institute report triggered Kobakhidze threats against its co-author
+- Iran using Georgia for sanctions evasion; threatens US national security interests
+
+## 2026-06-18 | ingest | Eurasia Review: Georgia's Iranian Turn
+- Georgia's pivot toward Iran visible at highest government levels
+- Deputy Foreign Minister signaled solidarity with Tehran in 2025
+- Iranian companies using Georgia for sanctions evasion at scale
+
+## 2026-06-18 | ingest | The Diplomat: China Partnership — Louder Signal, Empty Promise
+- Argues comprehensive strategic partnership reflects GD's anxieties more than genuine ties
+- Anaklia deep-water port flagship "has yet to leave port"
+- China not yet significant driver of Georgia's tourism economy
+- Timing suggests reactive posturing after US House bill on Chinese influence
+
+## 2026-06-18 | ingest | The National Interest: Why Georgia's Rulers Are Not America's Friends
+- Normalizing GD without behavioral change would be "strategic self-sabotage"
+- GD's entire strategy is "reputational rehabilitation without behavioral change"
+- Trump administration should not re-engage if Tbilisi deepens ties with Russia, China, Iran
+
+## 2026-06-18 | ingest | Carnegie Endowment: Pashinyan's Parliamentary Victory
+- Civil Contract won 49.8% in Armenian parliamentary elections
+- Pro-Russian opposition could slow peace with Azerbaijan and EU rapprochement
+- Reshapes Georgia's regional positioning as Armenia aligns more closely with West
+
+## 2026-06-18 | ingest | Caspian Post: Azerbaijan-Türkiye-Georgia Trilateral
+- 10th trilateral foreign ministers meeting in Istanbul
+- New regional logic: China-Central Asia-Europe via Azerbaijan, Georgia, Turkey
+- Turkey positioned as key gateway to Europe and Mediterranean
+
+## 2026-06-18 | ingest | JAMnews: TRIPP Finalized, Armenia-EU Market Diversification
+- Armenia-US completed TRIPP signing process, ready for ratification
+- EU working on mechanisms to help Armenian businesses amid Russian restrictions
+
+## 2026-06-18 | ingest | Georgia Today: Battle for Eurasian Connectivity
+- South Caucasus as "coldest arena of geopolitical competition"
+- Georgia's transit corridor value is both greatest asset and greatest vulnerability
