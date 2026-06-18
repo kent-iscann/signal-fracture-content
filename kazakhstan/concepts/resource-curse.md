@@ -8,9 +8,9 @@ Kazakhstan's economy remains heavily dependent on oil and gas. Hydrocarbons acco
 - **Institutional weakness:** Resource wealth concentrates power and rents, reinforcing authoritarian governance and limiting economic reform incentives.
 
 ## Diversification efforts
-- **Tech pivot:** AI, cryptocurrency mining, startup ecosystem (Astana Hub, GITEX, AI & Digital Bridge forum)
+- **Tech pivot:** AI, cryptocurrency mining, startup ecosystem (Astana Hub, GITEX, AI & Digital Bridge forum). $10B NVIDIA/Firebird Data Center Valley deal. 100+ AI startups, first AI unicorn (Higgsfield AI).
 - **Mining:** Uranium (world's largest producer), rare earths, copper, zinc
-- **Agriculture:** Wheat exports, but limited value-added processing
+- **Agriculture:** Wheat exports, growing agricultural trade with China (grain-trading platform launched May 2026, agri exports to China $1.43B in 2025)
 - **Transit:** Leveraging geographic position as a China-Europe corridor (BRI, Middle Corridor)
 - **National crypto reserve:** Government developing $500M-$1B crypto reserve from seized digital assets and state-backed mining proceeds.
 

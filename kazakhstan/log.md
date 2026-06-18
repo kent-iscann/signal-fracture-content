@@ -1,5 +1,43 @@
 # Log: Kazakhstan Wiki Ingest
 
+## 2026-06-18 | Weekly source update — 7 new sources added
+
+### Sources added
+
+1. **GITEX: Kazakhstan's AI Startup Ecosystem Expands** (June 2026)
+   - AI venture funding rose from $14M (2023) to $73M (2025) — fivefold increase, now >50% of all VC in Kazakhstan. 100+ AI startups operating. Higgsfield AI became first AI unicorn. 1M people AI-trained by 2025, goal 5M by 2030. AI expected to contribute 0.5-2% to GDP growth.
+
+2. **The Diplomat: 6 Months Into Kazakhstan's Year of AI** (June 2026)
+   - $10B package with Firebird and NVIDIA for Data Center Valley in Ekibastuz (100,000 GPUs). 2026 declared "Year of AI" with Central Asia's first comprehensive AI law, National AI Platform, and Alem.ai international center launched.
+
+3. **RISE Research: Startups and Venture Capital in Central Asia 2026** (June 2026)
+   - Record $320M regional VC in 2025. Kazakhstan VC hit $209M (3x YoY), total startup valuation $2.16B. $1B Fund of Funds launched. "Pipeline Gap": $0.5-1.1B annual capital needed to match global benchmarks.
+
+4. **SCMP: China-Kazakhstan Grain-Trading Deal** (June 2026)
+   - Joint grain-trading platform launched May 21 in Astana. Agricultural trade hit nearly $2B (+36.8%). Kazakh agri exports to China: $1.43B in 2025 (+35.3%), +61.7% in early 2026. Aims to reduce Asian dependence on maritime chokepoints.
+
+5. **Timesca: Kazakhstan's Middle Power Moment** (June 2026)
+   - Tokayev elevating Kazakhstan from "balancer" to "regional organizer" — using convening power, logistics, and diplomacy to structure the space between great powers. Michel Duclos (Institut Montaigne) cites Kazakhstan as a middle power test case.
+
+6. **IPS Journal: Steppe Manoeuvre** (June 2026)
+   - Kazakhstan and Mongolia signed 18 intergovernmental agreements. New cross-border corridor cuts distance from 1,604km to 837km. Mongolia gains Trans-Caspian Corridor access via Kazakhstan. SCO marks 30th anniversary; Khorgos rail cargo at 85 train pairs/day.
+
+7. **New Lines Institute: Central Asia Roundup May 2026** (May 2026)
+   - New constitution takes effect July 1 (unicameral Kurultai, vice presidency, People's Council). Cloud-seeding project with UAE covers 911k hectares. OTS informal summit in Turkistan. Putin state visit: 15 bilateral documents, $29B Russia-Kazakhstan trade record (2025), 177 joint projects worth $53B.
+
+### Files updated
+- sources.md: 17 → 24 sources
+- timeline/kazakhstan-timeline.md: extended through June 2026
+- concepts/tech-pivot.md: added Year of AI, $10B NVIDIA deal, VC data, unicorn, AI training
+- concepts/multi-vector-foreign-policy.md: added middle power evolution, Mongolia axis, constitutional reform
+- concepts/resource-curse.md: added tech pivot milestones, agricultural trade
+- concepts/caspian-geopolitics.md: added production challenges, sanctions dimension
+- entities/china.md: added agricultural trade, grain platform
+- entities/kassym-jomart-tokayev.md: added constitutional reform, climate cooperation, middle power diplomacy
+- index.md: updated source count
+
+---
+
 ## 2026-06-11 | Weekly source update — 9 new sources added
 
 ### Sources added
