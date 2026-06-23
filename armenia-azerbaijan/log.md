@@ -13,3 +13,7 @@
 - Washington Examiner: TRIPP corridor details, legal obstacles to peace, Azerbaijan-Israel operations angle
 - RFERL: Republic Day parade with Indian/French/Chinese/Iranian weapons, Eagle Partner 2026 with US/France/Greece
 - Added 4 new sources (17-20). Updated source count: 12 → 16
+
+## [2026-06-23] manual ingest | Eurasianet
+- Eurasianet: Yerevan appealing Russian bans on Armenian exports — Rosselkhoznadzor banned food/seed/flower/fertilizer imports; Armenia appealing to Eurasian Economic Commission; ban seen as punitive for Pashinyan's pivot
+- Added 1 new source (21). Updated source count: 16 → 17
