@@ -6,3 +6,10 @@
 - Updated TRIPP concept page with latest status
 - Updated Pashinyan entity page with military reforms and expanded relationship details
 - Updated index.md source count: 8 → 12
+
+## [2026-06-23] ingest | The Guardian, Lemkin Institute, Washington Examiner, RFERL
+- The Guardian: "A bridge, not an obstacle" — Pashinyan's Real Armenia doctrine, JD Vance visit, passport stamp controversy, "no peace no war" risk
+- Lemkin Institute: Aliyev's direct threat to Armenian voters, TRIPP as rebranded territorial expansion, Pashinyan's concessions on Artsakh narratives
+- Washington Examiner: TRIPP corridor details, legal obstacles to peace, Azerbaijan-Israel operations angle
+- RFERL: Republic Day parade with Indian/French/Chinese/Iranian weapons, Eagle Partner 2026 with US/France/Greece
+- Added 4 new sources (17-20). Updated source count: 12 → 16
