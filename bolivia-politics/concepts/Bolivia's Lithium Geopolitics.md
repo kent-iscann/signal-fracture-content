@@ -1,0 +1,3 @@
+# Bolivia's Lithium Geopolitics
+
+Bolivia holds ~23 million metric tonnes of certified lithium reserves (part of the "Lithium Triangle" with Argentina and Chile). Chinese and Russian firms have signed extraction deals, but projects have drawn complaints over delays, quality problems, labor disputes, and corruption allegations. Potosí region especially resistant due to water use and environmental concerns. Central question: will lithium wealth fund national development or replicate Bolivia's history of raw material extraction with value captured abroad? Paz administration's growing ties with Trump administration add another dimension to resource geopolitics.

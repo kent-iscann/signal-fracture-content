@@ -86,3 +86,19 @@ topics:
     cron_jobs:
       weekly_source_monitor: "58c8e7d6d3a3"
       monthly_watch_report: "d060f6392ec9"
+  - name: "Bolivia's Political Situation"
+    slug: "bolivia-politics"
+    path: "/root/wiki/bolivia-politics"
+    created: "2026-06-24"
+    search_queries:
+      - "Bolivia political crisis protests 2026"
+      - "Bolivia Rodrigo Paz government latest"
+      - "Bolivia economic crisis inflation fuel subsidies"
+      - "Bolivia lithium China Russia geopolitics"
+      - "South America political shift rightward 2026"
+      - "Bolivia post-MAS fragmentation opposition"
+      - "Bolivia military state of emergency blockades"
+      - "Bolivia Evo Morales Chapare arrest warrant"
+    cron_jobs:
+      weekly_source_monitor: "a12445504ea0"
+      monthly_watch_report: "89a27e250099"

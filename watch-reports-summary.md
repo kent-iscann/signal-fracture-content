@@ -36,3 +36,9 @@
 | # | Date | Prediction | Probability | Target |
 |---|------|------------|-------------|--------|
 | 1 | 09-06-2026 | No comprehensive peace treaty signed | 75% | Jun 2027 |
+
+## [Bolivia's Political Situation](bolivia-politics/watch-reports-summary.md)
+
+| # | Date | Prediction | Probability | Target |
+|---|------|------------|-------------|--------|
+| 1 | 24-06-2026 | Paz survives but emerges politically crippled | 65% | Dec 2026 |

@@ -1,0 +1,3 @@
+# South America's Rightward Shift
+
+Continental realignment from Pink Tide left-wing dominance to conservative governance. As of mid-2026: Argentina (Milei's LLA with multi-decade parliamentary control), Chile (right-centrist plurality in lower house), Ecuador (conservative gains), Colombia (right-wing president elected), Bolivia (first right-wing president in decades). Drivers: inflation crises, organized crime, migration pressures, public frustration with political elites. Risks: rapid austerity and security crackdowns may deepen democratic instability rather than resolve it. Brazil remains the major outlier — electorate less rigidly polarized, 2026 election cycle fluid.
