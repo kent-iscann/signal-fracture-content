@@ -46,7 +46,9 @@ The post-crisis period has seen intensified India-China competition for influenc
 - **India-Sri Lanka-UAE Trilateral Framework** (2025-2026): A trilateral partnership to develop Trincomalee as a regional energy hub, covering energy infrastructure, a potential pipeline, and a new refinery — an attempt to anchor Indian projects in a multilateral structure less susceptible to bilateral friction.
 - **Mazagon Dock's Colombo Dockyard acquisition** (April 2026): India's state-run MDL acquired 51% of Colombo Dockyard PLC, establishing a strategic Indian foothold in the Port of Colombo.
 - **Mattala Airport EoI** (May 2026): Sri Lanka's offer to lease the underutilized Mattala Airport near Hambantota has drawn Indian strategic interest as a way to establish presence near the Chinese-controlled port.
-|- **SINOPEC Hambantota Refinery** (Q1 2026): China moved to finalize an oil refinery agreement in Hambantota, deepening its commercial stake in the port area.
+- **SINOPEC Hambantota Refinery** (Q1 2026): China moved to finalize an oil refinery agreement in Hambantota, deepening its commercial stake in the port area.
+- **Prime Melwa Marina Deal** (May 2026): A $57.6M luxury marina-front real estate deal between Prime Melwa and CHEC Port City Colombo, signaling Port City's evolution from controversy to active investment zone.
+- **Dissanayake Government Revises Port City Act** (June 2026): The NPP government is revising the Colombo Port City Economic Commission Act to strengthen compliance, tax incentive monitoring, and institutional reorganization — framing the challenge as governance rather than cancellation.
 
 ## January 2025 China-Sri Lanka Joint Statement on BRI Cooperation
 Following President Dissanayake's January 2025 Beijing visit, China and Sri Lanka issued a joint statement reaffirming Belt and Road cooperation in specific areas: Hambantota, Colombo Port City, logistics, green development, and the digital economy. This signals China's intent to continue deepening economic engagement despite Sri Lanka's debt restructuring.^[Lowy Institute, May 14, 2026]
@@ -74,6 +76,10 @@ Sri Lankan treasury data published in 2026 revealed updated bilateral debt figur
 - **India: USD 0.984 billion**
 - Cumulative Chinese infrastructure investment (2006-2019): **USD 12.1 billion**
 - India's emergency financing following the 2022 crisis: **USD 4 billion**, plus **$450 million** in cyclone disaster relief
+
+## Colombo Port City: Small-State Agency Analysis (June 2026)
+
+Dr. Kulani Wijayabahu (University of Colombo), writing for the Stimson Center's South Asian Voices, offered a new framework for understanding Colombo Port City as a case study in diminishing small-state policy autonomy. The analysis argues that Port City's continuity across five successive Sri Lankan administrations (Rajapaksa 2005-2015, Sirisena-Wickremesinghe 2015-2019, G. Rajapaksa 2019-2022, Wickremesinghe 2022-2024, Dissanayake 2024-present) demonstrates how agency narrows as projects become legally embedded, diplomatically inherited, and economically constrained. The key challenge for Sri Lanka is no longer whether to accept or reject Port City, but whether it can govern it transparently and ensure public benefits beyond a narrow commercial enclave. This represents an evolution beyond the binary "debt-trap" framing toward a governance-centered analysis.^[South Asian Voices, June 12, 2026]
 
 ---
 

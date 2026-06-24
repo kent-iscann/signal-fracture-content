@@ -184,3 +184,19 @@
 36. "From breakwater to 'biobank' beneath Sri Lanka's Hambantota Port" -- Xinhua (June 9, 2026)
     https://english.news.cn/20260609/e3b02ffe51f44c07ba4e91b647ec2356/c.html
     Reports on a surprising coral reef ecosystem flourishing within Hambantota Port's underwater infrastructure. Despite global coral decline, researchers found a balanced reef community thriving within the port's limited underwater space — an unintended ecological consequence of the BRI deep-water port project.
+
+---
+
+## Colombo Port City & Economic Diplomacy
+
+37. "Colombo Port City and the Diminishing Scope of Sri Lankan Policy Autonomy" -- South Asian Voices / Stimson Center (June 12, 2026)
+    https://southasianvoices.org/ec-f-sl-n-colombo-port-city-06-12-2026
+    By Dr. Kulani Wijayabahu (University of Colombo). Argues that Colombo Port City illustrates how small-state agency narrows over time as projects become legally and institutionally embedded. Key new data: the May 2026 Prime Melwa marina-front real estate deal ($57.6M) with CHEC Port City Colombo; the Dissanayake government is revising the Colombo Port City Economic Commission Act to strengthen compliance, monitoring of tax incentives, and institutional reorganization. Frames Port City as a test case for whether Sri Lanka can govern a major BRI project transparently rather than whether it should cancel it.
+
+38. "Sri Lanka external debt settles at $37.5-bn in Q1 2026 amid restructuring" -- EconomyNext (June 3, 2026)
+    https://economynext.com/sri-lanka-external-debt-settles-at-37-5-bn-in-q1-2026-amid-restructuring-274345
+    Provides the latest official data from Sri Lanka's March 2026 Statistical Debt Bulletin. Key new figures: total government external debt at USD 37,468 million (down $195M from Q4 2025); multilateral debt accounts for 38% of total, commercial debt 34%, bilateral credit 28%; within bilateral segment, non-Paris Club nations (led by China) hold 59% vs Paris Club's 41%; ADB and World Bank represent over 82% of multilateral debt; 81% of commercial debt is International Sovereign Bonds.
+
+39. "Colombo hosts Dragon Boat Festival celebrations" -- China Daily (June 24, 2026)
+    https://www.chinadaily.com.cn/a/202606/24/WS6a3b83d0a310986e2b461aa2.html
+    Reports on the 2026 Dragon Boat Cultural Festival and China–Sri Lanka Friendship Cup Regatta held on June 14 at Colombo Port City, co-hosted by the Chinese Embassy and Sri Lanka's Ministry of Youth Affairs and Sports. Over 1,000 participants attended, including Chinese Ambassador Qi Zhenhong. 19 teams competed. Signals the use of cultural diplomacy to reinforce the Port City as a bilateral showcase project.

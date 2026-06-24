@@ -146,6 +146,12 @@ China Focus published a detailed analysis of Port City Colombo's progress. Key d
 ### June 9, 2026 -- Coral Reef "Biobank" Discovered at Hambantota Port
 Xinhua reported that a surprising coral reef ecosystem is flourishing within Hambantota Port's underwater infrastructure. Despite global coral decline, researchers found a balanced reef community thriving within the port's limited underwater space — an unintended ecological consequence of the BRI deep-water port construction.
 
+### June 14, 2026 -- Dragon Boat Festival at Colombo Port City
+The 2026 Dragon Boat Cultural Festival and China–Sri Lanka Friendship Cup Regatta was held at Colombo Port City, co-hosted by the Chinese Embassy and Sri Lanka's Ministry of Youth Affairs and Sports. Over 1,000 participants attended, including Chinese Ambassador Qi Zhenhong. 19 teams competed. The event signals the use of cultural diplomacy to reinforce Port City as a bilateral showcase project.
+
+### June 24, 2026 -- Q1 2026 External Debt Data Released (March 2026 Bulletin)
+Sri Lanka's March 2026 Statistical Debt Bulletin (Public Debt Management Office) reported total government external debt at USD 37,468 million, down $195M from Q4 2025. Debt composition: multilateral 38%, commercial 34%, bilateral 28%. Within the bilateral segment, non-Paris Club nations (led by China) hold 59% vs Paris Club's 41%. ADB and World Bank represent over 82% of multilateral debt. 81% of commercial debt is International Sovereign Bonds.
+
 ### December 2025 Statistics -- Updated Bilateral Debt Figures (Published April 2026)
 Updated Sri Lankan treasury data revealed bilateral debt figures as of December 2025:
 - Outstanding debt to China: **USD 4.974 billion**
@@ -195,6 +201,9 @@ This confirms China remains Sri Lanka's largest bilateral creditor by a wide mar
 ||| **Port City Colombo companies licensed** | **150+** | **China Focus, May 25 2026** |
 ||| **Port City Colombo projected GDP addition** | **$13-15 billion/year at completion** | **China Focus, May 25 2026** |
 ||| **Port City Colombo projected fiscal revenue** | **$5 billion/year at completion** | **China Focus, May 25 2026** |
-||| **Port City Colombo projected jobs** | **80,000+** | **China Focus, May 25 2026** |
+|||| **Port City Colombo projected jobs** | **80,000+** | **China Focus, May 25 2026** |
+|||| **Total government external debt (Q1 2026)** | **USD 37,468 million** | **EconomyNext / PDMO, June 3 2026** |
+|||| **Bilateral debt: non-Paris Club share (Q1 2026)** | **59% (led by China)** | **EconomyNext / PDMO, June 3 2026** |
+|||| **Bilateral debt: Paris Club share (Q1 2026)** | **41%** | **EconomyNext / PDMO, June 3 2026** |
 
 See also: [[debt-trap-debate]], [[hambantota-port]], [[belt-and-road-initiative]], [[key-conclusions]]

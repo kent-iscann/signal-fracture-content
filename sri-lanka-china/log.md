@@ -87,3 +87,17 @@
   - index.md: Updated last-updated date (2026-06-10 → 2026-06-17) and source count (33 → 36).
 
 - **Total sources**: 33 → 36
+
+## [2026-06-24] ingest | 3 new sources added (South Asian Voices, EconomyNext, China Daily)
+
+- **South Asian Voices / Stimson Center (June 12, 2026)**: "Colombo Port City and the Diminishing Scope of Sri Lankan Policy Autonomy" by Dr. Kulani Wijayabahu. New analysis framing Port City as a case study in diminishing small-state agency across 5 successive administrations. Key new data: May 2026 Prime Melwa $57.6M marina deal; Dissanayake government revising Port City Economic Commission Act.
+- **EconomyNext (June 3, 2026)**: Q1 2026 external debt data from March 2026 Statistical Debt Bulletin. New figures: total government external debt $37,468M (down $195M from Q4 2025); debt composition: multilateral 38%, commercial 34%, bilateral 28%; non-Paris Club holds 59% of bilateral (led by China).
+- **China Daily (June 24, 2026)**: Dragon Boat Festival and China-Sri Lanka Friendship Cup Regatta at Colombo Port City (June 14). Cultural diplomacy event with 1,000+ participants, Chinese Ambassador Qi Zhenhong attending.
+
+**Wiki pages updated**:
+- sources.md: Added 3 new entries (sources 37-39), new category "Colombo Port City & Economic Diplomacy"
+- timeline/china-sri-lanka-timeline.md: Added 3 new timeline entries (Dragon Boat Festival June 14, Q1 2026 debt data June 24, plus statistics). Added 4 new key statistics rows.
+- concepts/belt-and-road-initiative.md: Added 2 new bullet points (Prime Melwa deal, Port City Act revision) and new "Colombo Port City: Small-State Agency Analysis" section
+- index.md: Updated last-updated date (2026-06-17 → 2026-06-24) and source count (36 → 39)
+
+**Total sources**: 36 → 39
