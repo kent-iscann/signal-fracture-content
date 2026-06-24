@@ -12,5 +12,8 @@
 |- Graphite (critical to anode manufacturing)
 |- Nickel
 |- Helium
-|- Gold
-|- Tanzanite
+- Gold
+- Tanzanite
+
+## Strategic minerals policy shift (2026)
+Tanzania's strategic minerals agreement represents a structural change in resource governance. The government is embedding expectations around local processing, state participation, and regulatory oversight — going beyond royalty adjustments to redefine the extraction architecture. Infrastructure (energy, transport) is positioned as the operational foundation enabling local beneficiation mandates. This forms part of a broader continental renegotiation wave alongside DRC, Zimbabwe, and Namibia.

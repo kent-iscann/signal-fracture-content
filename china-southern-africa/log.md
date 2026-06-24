@@ -34,3 +34,13 @@
 
 ## [2026-06-17] ingest | Beyond Ports: China Embeds Itself in Africa's Maritime Networks
 - Added source 18: Africa Center for Strategic Studies (June 10, 2026). China accounts for ~22% of African trade; Chinese firms in ~1/3 of African ports. New shipping corridors to Qingdao/Tianjin/Yantai free-trade zones. Maritime integration extends to port operations software, AI, cybersecurity, and training programs. Updated timeline and critical minerals strategy concept page.
+
+## [2026-06-24] ingest | Weekly source update — AidData DRC profile, Zambia Ndola Lime JV, Tanzania strategic minerals deal, China-Africa 70th anniversary
+- Added source 19: AidData DRC Chinese Development Finance Profile (May 2026) — $22B via 112 loans + 169 grant commitments from 2000-2023, confirming DRC as China's largest African development finance destination. Provides concrete lending-scale data.
+- Added source 20: Bloomberg (May 27, 2026) — ZCCM-IH $30M JV with China's Wonderful Group (55% stake, $25M equity + $5M loan) to revive Ndola Lime facility (600 tonnes/day plant + cement). Chinese expansion into industrial processing infrastructure in Zambia's Copperbelt.
+- Added source 21: African Security Analysis (June 2026) — Tanzania's strategic minerals agreement identified as structural shift in resource governance model. Mandates local processing, state participation, regulatory oversight. Part of continental renegotiation wave (DRC, Zimbabwe, Namibia).
+- Added source 22: CGTN (May 30, 2026) — China-Africa 70th anniversary; zero-tariff confirmed at 100% of tariff lines for 53 African countries; first shipment (Egyptian oranges) cleared Shanghai Waigaoqiao; 2024 FOCAC elevated relationship to "all-weather community."
+- Updated timeline with 4 new events (May-June 2026).
+- Updated Tanzania entity: added strategic minerals policy shift section.
+- Updated Zambia entity: added Wonderful Group as key Chinese actor.
+- Updated index source count from 18→22, date from 2026-06-17→2026-06-24.

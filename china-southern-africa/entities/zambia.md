@@ -11,3 +11,4 @@ Zambia sits at the heart of the Copperbelt, one of the world's richest copper an
 - China Nonferrous Metal Mining (CNMC)
 - Various BRI infrastructure financiers
 - TAZARA (joint Tanzania-Zambia railway with Chinese backing)
+- Wonderful Group (Ndola Lime 2026 JV partner — 55% stake in Ndola Lime for $30M)
