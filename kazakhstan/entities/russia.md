@@ -15,4 +15,6 @@ Russia is trying to anchor Kazakhstan more firmly into its sanctions-era archite
 ## Sanctions escalation
 - **EU 20th sanctions package (April 2026):** For the first time, the EU can block supplies of sanctioned goods to third countries systematically used for circumvention. Kyrgyzstan was the first target. As a close EAEU partner with documented sanctions-evasion flows, Kazakhstan faces growing secondary sanctions risk.
 - **UK sanctions:** UK lowered Russian oil price cap from $47.60 to $44.10 (January 2026) and sanctioned 18 crypto exchanges/banks/individuals using crypto to help Russia bypass trade blockades.
+- **UK A-7 network sanctions (May 2026):** 18 entities in Kyrgyzstan + 3 in Georgia sanctioned for enabling Russian sanctions evasion via the A-7 network ($90B+ in 2025 transactions). Signals expanding UK sanctions architecture to Central Asia/Caucasus, raising stakes for Kazakhstan.
+- **UK active interdiction (June 2026):** OFSI interdiction general licence and 70 new sanctions shift UK to "active, repeatable interdiction architecture" — direct enforcement actions (ship boardings) that could affect Kazakhstan's transit trade.
 - **AI adoption gap:** Kazakhstan's AI adoption rate (15.9%) now exceeds Russia's (9.5%) per Microsoft's Global AI Diffusion ranking — a notable shift in the regional technology balance.

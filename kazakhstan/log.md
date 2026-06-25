@@ -1,5 +1,33 @@
 # Log: Kazakhstan Wiki Ingest
 
+## 2026-06-25 | Weekly source update — 6 new sources added
+
+### Sources added
+
+1. **Frontiers: Geoeconomic Rivalry in Central Asia** (June 2026)
+   - Peer-reviewed study analyzing BRI and US NSS 2025 impact on Central Asia. Kazakhstan's bilateral trade shifted significantly 2020-2024 vs 2013-2019. Kazakhstan framed as key test case for middle-power hedging in great-power economic competition.
+
+2. **AzerNews: Kazakhstan–China Trade Hit Record Levels** (June 2026)
+   - Bilateral trade exceeded $48B in 2025; Chinese DI reached ~$2.8B. Rail freight hit 35.6M tons (+11%). Over 85% of China-Europe overland cargo transits Kazakhstan. $35B+ invested in transport infrastructure over 7 years. Five BRI priority directions outlined.
+
+3. **Eurasianet: Kyrgyzstan and Georgia Hit with More Sanctions** (May 2026)
+   - UK sanctioned 18 entities in Kyrgyzstan, 3 in Georgia for Russian sanctions evasion. A-7 Kremlin-backed network handled $90B+ in 2025 (~50% of Russian military procurement). Russia 2026 growth forecast cut from 1.3% to 0.4%. Precedent-setting UK sanctions expansion to Central Asia.
+
+4. **CryptoBriefing: Kazakhstan BTC Pipeline Oil Exports 2026** (June 2026)
+   - Kazakhstan targeting 1.5-2.2M tons via BTC pipeline in 2026 (up from ~1.2M). Diversifies away from Russia-dependent CPC pipeline, aligning with Western energy security goals.
+
+5. **Trade Practitioner: UK 16 June 2026 Sanctions Package** (June 2026)
+   - 70 new Russia sanctions (43 entities + 27 ships). OFSI interdiction general licence enables active ship boarding. Shift to "active, repeatable interdiction architecture" — escalation relevant to Kazakhstan's transit trade.
+
+6. **Fitch: KazTransOil BBB Stable Outlook** (June 2026)
+   - KazTransOil affirmed at 'BBB' with Stable Outlook, rated at par with parent KazMunayGas. Monopolistic domestic oil transit position, stable cash flows, profitable export/transit exposure.
+
+### Files updated
+- sources.md: 24 → 30 sources
+- index.md: updated source count
+
+---
+
 ## 2026-06-18 | Weekly source update — 7 new sources added
 
 ### Sources added

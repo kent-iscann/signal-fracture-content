@@ -12,3 +12,10 @@ China is Kazakhstan's second-largest trading partner and a key source of investm
 
 ## Current dynamic
 China's economic influence in Kazakhstan is growing but remains secondary to Russia's in terms of security and institutional ties. Kazakhstan views China as a counterweight to Russian dominance, but is cautious about over-dependence on Beijing. China is increasingly willing to fill supply chain gaps (especially in critical components) that Russia can no longer provide due to sanctions. The agricultural trade deepening — particularly the grain platform — signals a structural shift in the bilateral relationship beyond energy and minerals.
+
+## Trade data (2025–2026)
+- **2025 bilateral trade:** Exceeded $48B (some sources cite $227.9B including all goods). Chinese direct investment in Kazakhstan reached ~$2.8B.
+- **Rail freight:** 35.6 million tons in 2025 (+11% YoY). Over 85% of China-Europe overland cargo transits through Kazakhstan.
+- **Infrastructure investment:** Kazakhstan invested $35B+ in transport infrastructure over past 7 years, including Aktau container hub, Xi'an dry port, and Dostyk-Moyynty railway expansion.
+- **BRI priorities (2026):** Bektenov outlined five directions — infrastructure connectivity, Middle Corridor development, digital logistics, green energy, financial/investment cooperation.
+- **Academic analysis (June 2026):** Peer-reviewed study (Frontiers in Political Science) shows Kazakhstan's bilateral trade shifted significantly 2020-2024 vs 2013-2019, with growing China share forcing Kazakhstan to hedge between BRI and US strategic response (NSS 2025).

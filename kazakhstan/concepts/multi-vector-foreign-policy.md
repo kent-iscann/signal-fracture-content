@@ -17,6 +17,8 @@ Kazakhstan's defining foreign policy doctrine since independence. The concept is
 - Russia's sanctions-era pressure is making the balancing act harder. Moscow wants Kazakhstan to serve as a sanctions-bypass corridor; the West wants Kazakhstan to comply with sanctions.
 - The margin for error is narrowing. Secondary sanctions risk is real and growing.
 - Kazakhstan's authoritarian governance model limits Western engagement depth, pushing Astana closer to Moscow and Beijing by default.
+- **UK sanctions escalation:** UK A-7 network sanctions (May 2026) targeting Kyrgyzstan/Georgia and active interdiction architecture (June 2026) demonstrate Western willingness to enforce sanctions across the post-Soviet space, directly threatening Kazakhstan's balancing strategy.
+- **BRI vs US NSS 2025:** Academic analysis (Frontiers, June 2026) frames Kazakhstan as a test case for hedging between China's BRI and the US National Security Strategy 2025, with Kazakhstan's trade patterns already shifting toward China.
 
 ## Iran-Israel War (2025–2026)
 - Kazakhstan maintained formal neutrality on the Iran-Israel war, calling for de-escalation and diplomacy.
