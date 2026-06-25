@@ -26,3 +26,10 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - The Caspian region is increasingly contested, with Russia, China, Turkey, and the EU all seeking influence.
 - Kazakhstan's multi-vector approach aims to balance these competing interests while maximizing energy revenues and transit leverage.
 - The SCO marks its 30th anniversary in 2026, with Kyrgyzstan chairing efforts to establish an SCO Development Bank.
+
+## EU-Kazakhstan Middle Corridor breakthrough (June 2026)
+- Tokayev's Brussels visit (June 21-23) produced $12B+ in agreements/MoUs with the EU, explicitly framed within the EU's Global Gateway program.
+- Joint statement stressed "strategic importance of the Trans-Caspian International Transport Route."
+- 50 Airbus aircraft deal (€7.1B) — significant for Kazakhstan's aviation connectivity to Europe.
+- Critical raw materials and green hydrogen value chain — positions Kazakhstan as a Western partner in clean-energy supply chain diversification.
+- Trans-Afghan corridor push (Khaf-Herat railway, Kabul visit) extends Kazakhstan's southward connectivity ambitions beyond the Caspian/Caucasus axis.

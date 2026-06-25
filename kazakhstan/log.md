@@ -1,5 +1,25 @@
 # Log: Kazakhstan Wiki Ingest
 
+## 2026-06-25 | Weekly source update — 3 new sources added
+
+### Sources added
+
+1. **Eurasianet: Kazakhstan and EU Sign Agreements to Develop Middle Corridor** (June 2026)
+   - Tokayev's Brussels visit (June 21-23) yielded $12B+ in agreements/MoUs with EU. Key deal: 50 Airbus jets (€7.1B). Critical raw materials cooperation, batteries, and green hydrogen value chain reaffirmed under strategic partnership roadmap. Framed within EU Global Gateway program. Met with Šefčovič, Stiprais, Mora (EIB).
+
+2. **Eurasianet: Top Kazakh Official Visits Kabul for Transit-Focused Discussions** (June 2026)
+   - Kazakhstan helping complete Khaf-Herat railway (Iran-Afghanistan) and pursuing rail/road connections through Afghanistan to South Asian/Gulf ports. Uzbekistan also pushing Trans-Afghan corridor; Uzbek-Afghan trade at $1.7B (2025), target $5B in 5 years.
+
+3. **Eurasianet: Kazakh and Chinese Officials Sign Protocol on Nuclear Energy** (June 2026)
+   - Inaugural Kazakhstan-China Joint Working Group on Civil Nuclear Energy (Astana, June 16). CNNC selected to build 2 large-scale reactors; Rosatom tapped for first plant on Lake Balkhash. Jiangsu Province Center for Central Asia opened; export diversification (wheat, meat, honey) agreed.
+
+### Files updated
+- sources.md: 30 → 33 sources
+- timeline/kazakhstan-timeline.md: extended June 2026
+- index.md: updated source count
+
+---
+
 ## 2026-06-25 | Weekly source update — 6 new sources added
 
 ### Sources added

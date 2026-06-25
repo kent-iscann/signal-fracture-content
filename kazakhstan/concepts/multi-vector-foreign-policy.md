@@ -46,5 +46,14 @@ Kazakhstan's defining foreign policy doctrine since independence. The concept is
 - Approved by referendum March 15 with ~87% support.
 - Human rights organizations assess the reforms as consolidating rather than dispersing executive authority.
 
+## EU engagement (2026)
+- **June 21-23, 2026:** Tokayev visited Brussels, signed agreements/MoUs valued at $12B+.
+  - 50 Airbus passenger jets (€7.1B).
+  - Critical raw materials cooperation, batteries, green hydrogen value chain under strategic partnership roadmap.
+  - Framed within EU's Global Gateway program.
+  - Met with European Commissioner Maroš Šefčovič (Trade), EU Special Representative Eduards Stiprais (Central Asia), and EIB Vice President Marek Mora.
+  - Joint statement stressed strategic importance of Trans-Caspian International Transport Route (Middle Corridor).
+- EU's 20th sanctions package (April 2026) and UK active interdiction architecture (June 2026) demonstrate intensifying Western enforcement — raising the cost of Kazakhstan's balancing act.
+
 ## Key question
 Whether multi-vector foreign policy can survive the intensifying great power competition, or whether Kazakhstan will be forced to choose sides.

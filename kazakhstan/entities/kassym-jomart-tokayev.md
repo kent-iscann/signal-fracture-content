@@ -23,3 +23,5 @@ President of Kazakhstan since June 2019, succeeding Nursultan Nazarbayev. Tokaye
 - **Constitutional reform:** New constitution approved by referendum (87% support, March 15, 2026) takes effect July 1, introducing unicameral Kurultai, vice presidency, and People's Council.
 - **Climate cooperation:** Launched cloud-seeding project with UAE covering 911,000 hectares in Turkistan region — first Central Asian country to implement artificial rain technology at scale.
 - **Middle power diplomacy:** Hosted Regional Ecological Summit (9 heads of state), informal OTS summit on AI, and positioned Kazakhstan as a convening state for multilateral initiatives.
+- **EU breakthrough (June 2026):** Visited Brussels (June 21-23), secured $12B+ in agreements/MoUs with EU — 50 Airbus jets (€7.1B), critical raw materials partnership, green hydrogen value chain under Global Gateway framework. Met with Šefčovič, Stiprais, Mora (EIB). Joint statement emphasized Trans-Caspian International Transport Route.
+- **Trans-Afghan corridor (June 2026):** Visited Kabul to advance Khaf-Herat railway completion and rail/road connections through Afghanistan to South Asian/Gulf seaports.

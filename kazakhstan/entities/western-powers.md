@@ -10,3 +10,9 @@ The EU, US, and other Western countries are increasingly engaging with Kazakhsta
 
 ## Current dynamic
 Western powers are cautiously increasing engagement with Kazakhstan, viewing it as a potential alternative energy supplier and a counterweight to Russian and Chinese influence. However, they remain skeptical of Kazakhstan's democratic credentials and wary of its deep ties to Moscow.
+
+## June 2026 breakthrough
+- Tokayev's Brussels visit (June 21-23) produced $12B+ in EU-Kazakhstan agreements/MoUs — the most significant single Western engagement event in recent years.
+- Key: 50 Airbus aircraft (€7.1B) — major milestone for Kazakhstan's aviation modernization.
+- Critical raw materials and green hydrogen value chain under Global Gateway framework — signals EU's intent to integrate Kazakhstan into Western clean-energy supply chains.
+- Simultaneously, UK active interdiction architecture and EU anti-circumvention tool (20th sanctions package) raise the stakes for Kazakhstan's balancing act.

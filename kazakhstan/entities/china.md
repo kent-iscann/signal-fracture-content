@@ -10,8 +10,15 @@ China is Kazakhstan's second-largest trading partner and a key source of investm
 - **Cryptocurrency mining:** After China banned crypto mining in 2021, many miners relocated to Kazakhstan, straining the power grid and contributing to the 2022 blackouts.
 - **Military/tech exports:** Chinese CHPL (critical high-priority list) exports to Kazakhstan rose from $610M (2022) to $931M (2025), filling gaps left by unavailable Russian goods.
 
+## Nuclear energy cooperation
+- **June 2026:** Inaugural Kazakhstan-China Joint Working Group on Civil Nuclear Energy held in Astana (June 16). Wang Hongzhi (China's National Energy Administration head) attended.
+- Kazakhstan selected **CNNC (China National Nuclear Corp.)** to build two large-scale reactors.
+- **Rosatom** tapped to build Kazakhstan's first nuclear plant on Lake Balkhash — maintaining Russia's role in the country's nuclear debut while China becomes a secondary nuclear partner.
+- Jiangsu Province Center for Central Asia opened in Astana as a unified service hub for Chinese firms.
+- Export diversification agreement: plans to increase Kazakh shipments of wheat, meat, and honey to Jiangsu.
+
 ## Current dynamic
-China's economic influence in Kazakhstan is growing but remains secondary to Russia's in terms of security and institutional ties. Kazakhstan views China as a counterweight to Russian dominance, but is cautious about over-dependence on Beijing. China is increasingly willing to fill supply chain gaps (especially in critical components) that Russia can no longer provide due to sanctions. The agricultural trade deepening — particularly the grain platform — signals a structural shift in the bilateral relationship beyond energy and minerals.
+China's economic influence in Kazakhstan is growing but remains secondary to Russia's in terms of security and institutional ties. Kazakhstan views China as a counterweight to Russian dominance, but is cautious about over-dependence on Beijing. China is increasingly willing to fill supply chain gaps (especially in critical components) that Russia can no longer provide due to sanctions. The agricultural trade deepening — particularly the grain platform — signals a structural shift in the bilateral relationship beyond energy and minerals. The nuclear protocol adds a new strategic dimension to the relationship.
 
 ## Trade data (2025–2026)
 - **2025 bilateral trade:** Exceeded $48B (some sources cite $227.9B including all goods). Chinese direct investment in Kazakhstan reached ~$2.8B.
