@@ -61,3 +61,12 @@
 - **Strategic debate in Washington** — National Interest analysis argues normalizing GD without behavioral change would be "strategic self-sabotage." GD's strategy is "reputational rehabilitation without behavioral change."
 - **China partnership questioned** — The Diplomat analysis argues China partnership is "louder signal, empty promise" — Anaklia port flagship hasn't left port, timing suggests reactive posturing.
 - **South Caucasus as great power arena** — Georgia Today analysis frames South Caucasus as "coldest arena of geopolitical competition" — Georgia's transit corridor value is both asset and vulnerability.
+
+### June 4, 2026
+- **US strategy in the South Caucasus** — SovaNews interview with diplomat Valeri Chechelashvili reveals US strategic vision: "3+2" concept (Armenia-Azerbaijan-Georgia + US + EU) or "3+3" (adding Turkey). Georgia described as "an important piece of the puzzle" but project incomplete without Tbilisi. US waiting for concrete Georgian actions (not rhetoric) to demonstrate reliability as partner. Litmus test for genuine reset: US diplomatic help withdrawing Venezuela and Syria's recognition of Abkhazia/Tskhinvali.
+
+### June 16, 2026
+- **Zurabishvili's warning from Washington** — Former President Salome Zurabishvili (in Washington interview) warns West risks "giving away" Georgia to Moscow through inattention as protests mark 560+ days. Describes Georgia increasingly a "gray zone" — 100+ weekly flights to Russia, Russian shadow fleet vessels in Georgian ports, unregulated cryptocurrency, foreign nationals obtaining Georgian documentation. GD's foreign policy shaped by "what Russia would tolerate." Warns GD confidence eroding alongside Russia's wartime image; snap elections possible. Civil society remains defiant but opposition needs "a united national front." Received Freedom House 2026 Mark Palmer Prize for civil society solidarity.
+
+### May 27, 2026
+- **EU norms as political weapons** — PRIF analysis documents how GD captured and weaponized EU language ("transparency," "accountability") to pass repressive media laws. Civil society "practically dead" (per Prof. Stephen Jones). April 2025 Foreign Agents Registration Act introduced criminal penalties (up to 5 years prison). Broadcasting Law banned all foreign funding for broadcasters. Georgia fell 37 places in RSF Press Freedom Index in 2 years. EU's formal conditionality pushed to its limits by domestic political context.

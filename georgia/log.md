@@ -89,3 +89,21 @@
 ## 2026-06-18 | ingest | Georgia Today: Battle for Eurasian Connectivity
 - South Caucasus as "coldest arena of geopolitical competition"
 - Georgia's transit corridor value is both greatest asset and greatest vulnerability
+
+## 2026-06-25 | ingest | RFE/RL: With Georgia Sliding Toward Russia, Former President Appeals For Renewed US Attention
+- Zurabishvili warns West is "giving away" Georgia to Moscow through inattention
+- Describes Georgia as emerging "gray zone" (sanctions evasion, shadow fleet, crypto)
+- GD foreign policy shaped by what Russia tolerates; internal instability growing
+- 560+ days of protests continue; civil society defiant
+
+## 2026-06-25 | ingest | SovaNews: Georgia in US Strategy in the South Caucasus — Interview with Valeri Chechelashvili
+- "3+2" concept (South Caucasus + US + EU) or "3+3" (adding Turkey) as US strategic vision
+- Georgia "important piece of the puzzle" but project incomplete without Tbilisi
+- Litmus test for genuine reset: US help withdrawing Venezuela/Syria recognition of Abkhazia
+- Russia's South Caucasus influence narrowing as Ukraine balance shifts
+
+## 2026-06-25 | ingest | PRIF Blog: When EU Norms Become Political Weapons — Media Freedom in Georgia
+- GD captured EU transparency language to pass repressive media laws
+- April 2025: criminal penalties for "foreign agents" (up to 5 years prison)
+- Broadcasting Law banned all foreign funding; Georgia fell 37 places in RSF index in 2 years
+- EU formal conditionality failing; Georgia "candidate country in name only"

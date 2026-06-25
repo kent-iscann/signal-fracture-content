@@ -28,6 +28,14 @@ A comprehensive SCEEUS report documented the EU's structural weaknesses in the S
 ## Strategic significance
 EU membership was the central organizing principle of Georgian foreign policy for over a decade. Its suspension represents the most significant strategic shift in Georgia's post-Soviet history. The EU's inability to respond decisively to Georgia's drift risks further eroding its credibility as a strategic actor in its own neighborhood.
 
+## Media freedom collapse (PRIF analysis, May 2026)
+Research from PRIF documents how GD captured and weaponized EU norms ("transparency," "accountability") to pass repressive media laws:
+- **Foreign Agents Registration Act (April 2025):** Replaced 2024 administrative fines with criminal penalties — directors face up to 5 years prison for failing to register as "foreign agents"
+- **Broadcasting Law amendments (April 2025):** Banned all foreign funding for broadcasters; National Communications Commission (government-aligned) gains power to intervene in editorial content, assess factual accuracy, and revoke licenses
+- **Grant Law amendments (April 2025):** Media and CSOs must obtain explicit government approval before accepting foreign grants — giving GD veto over independent funding
+- **Impact:** Georgia fell 37 places in 2 years in RSF World Press Freedom Index. Civil society described as "practically dead" (Prof. Stephen Jones, Harvard). Legal incidents against journalists nearly doubled in 2025.
+- **EU response limits:** EU declared Georgia "candidate country in name only" (Nov 2025); suspended visa-free regime for diplomatic passport holders (March 2026). But formal conditionality is failing because GD uses EU norms as political weapons rather than reform benchmarks. Russia/GD/Georgian Church promote "traditional values" framing that positions EU integration as cultural threat.
+
 ## Latest developments (June 2026)
 - **Pashinyan's victory:** Civil Contract won 49.8% in Armenian parliamentary elections. While pro-Russian opposition could slow progress, Armenia's westward trajectory continues — deepening the contrast with Georgia's drift.
 - **Turkey-Armenia trade resumption:** Direct trade resumes after 33-year freeze, reducing Georgia's transit monopoly and altering South Caucasus economic geography.

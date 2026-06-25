@@ -34,5 +34,13 @@ Iran has emerged as a significant new strain on US-Georgia relations:
 - **RFE/RL investigation (October 2025):** Found Iranian companies using Georgia for sanctions evasion on a massive scale.
 - **US framing:** Iranian activity "directly threatens US national security interests in the South Caucasus."
 
+## Zurabishvili's warning (June 2026)
+Former President Salome Zurabishvili, in a Washington interview (June 16), delivered a stark warning that the West risks "giving away" Georgia to Moscow through inattention. Key points:
+- **"Gray zone" emerging:** Georgia increasingly a space where sanctions enforcement, financial oversight, and border controls break down — 100+ weekly flights to Russia, shadow fleet vessels in Georgian ports, unregulated cryptocurrency, foreign nationals obtaining Georgian documentation
+- **GD strategy:** Foreign policy is "to try to be close to anybody that they are allowed by Russia to be close to" — not an independent course
+- **Internal instability:** Arrests within GD's own ranks suggest confidence eroding alongside Russia's wartime image; snap elections possible
+- **Need for opposition unity:** Opposition needs "a united national front" rather than conventional electoral politics
+- Received Freedom House 2026 Mark Palmer Prize for civil society solidarity
+
 ## Strategic debate in Washington
 A June 2026 National Interest analysis argued that normalizing relations with GD without behavioral change would be "strategic self-sabotage" for Washington. GD's entire diplomatic strategy is "reputational rehabilitation without behavioral change" — seeking reset without releasing political prisoners, repealing the foreign agents law, or restoring democratic pluralism. The analysis argued the Trump administration should not re-engage if Tbilisi continues deepening ties with Russia, China, and Iran.
