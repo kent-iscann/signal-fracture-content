@@ -107,3 +107,10 @@
 - April 2025: criminal penalties for "foreign agents" (up to 5 years prison)
 - Broadcasting Law banned all foreign funding; Georgia fell 37 places in RSF index in 2 years
 - EU formal conditionality failing; Georgia "candidate country in name only"
+
+## 2026-06-25 | ingest | Eurasianet: As Georgians back West, their leaders lean East – polling data
+- EU NEIGHBOURS East Programme 2026 survey: 71% support EU membership (41% strong, 30% somewhat), only 11% oppose
+- Institutional trust collapses: parties 21%/70% distrust; government 41%/54%; judicial/electoral ~60% distrust
+- 56% say restrictive laws harm EU prospects (up from 50% in 2025); Russia 12% trust/79% distrust; China 26%/60% distrust
+- House Armed Services Committee approved two Georgia NDAA amendments (political prisoners + Russian/Chinese intelligence)
+- UK Embassy confirmed Russian "shadow fleet" vessel docked at Kulevi Port (Feb 2026); Georgia claimed it wasn't sanctionable at the time
