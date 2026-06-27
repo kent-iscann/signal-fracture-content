@@ -489,7 +489,7 @@ body {{
 
 /* ── What's New ── */
 .whats-new {{
-    background: #0A1426;
+    background: #05080F;
     border-left: 4px solid #E8A33D;
     padding: 6mm 20mm;
 }}
