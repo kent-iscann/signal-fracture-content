@@ -257,7 +257,7 @@ def generate_pdf(md_path, output_path, prev_md_path=None):
     if s['whatsnew_items']:
         wn_html = '<div class="whats-new"><h3>What&rsquo;s New</h3><ul>'
         for item in s['whatsnew_items']:
-            wn_html += f'<li>{item}</li>'
+            wn_html += f'<li>{convert_markdown(item)}</li>'
         wn_html += '</ul></div>'
 
     # Analysis
@@ -271,7 +271,7 @@ def generate_pdf(md_path, output_path, prev_md_path=None):
     if s['watch_indicators']:
         wi_html = '<div class="watch-indicators"><h3>Watch Indicators</h3><ul>'
         for item in s['watch_indicators']:
-            wi_html += f'<li>{item}</li>'
+            wi_html += f'<li>{convert_markdown(item)}</li>'
         wi_html += '</ul></div>'
 
     # Probability Triggers
