@@ -37,5 +37,13 @@
 - **June 1:** Philippines and Vietnam sign Enhanced Strategic Partnership.
 - **June 2:** Manila Times reports BARMM at crossroads — CCAA warns violence likely to increase ahead of September polls.
 - **June:** Comelec declares "very ready" for September 14 BARMM parliamentary elections — 6,500 ACMs, 2.4M registered voters, 5,212 precincts. Gun ban July 16–Sept 29. ACM shading threshold proposed at 25%.
+- **June 8:** Magnitude-7.8 earthquake strikes offshore Maasim, Sarangani — 65+ dead, 736,400+ affected across Regions IX, XI, XII, and BARMM. Compounds existing state of calamity (oil crisis + El Niño).
+- **June:** MILF Central Committee suspends Macacua as BIAF Chief of Staff — retaliatory move over BFP formation and Iqbal ouster. Rift penetrates MILF's armed wing.
+- **June:** 1,000+ MILF members (including Cotabato City Mayor Bruce Matabalao) leave UBJP for BFP. BFP one of 16 parties contesting September polls.
+- **June 15:** Save Bangsamoro Movement protests at Mendiola, Manila — appeals to Marcos to "restore the leadership" of BARMM, expressing concern over unilateral national government actions on peace agreement.
+- **June 23:** COMELEC confirms September 14 BARMM election will proceed — no legal basis for postponement. Campaign period July 30–September 12. PRO-BAR identifies 92 towns as areas of concern. Up to 7,991 police for election security.
+- **June 23:** Regional Joint Security Control Center established at WestMinCom HQ, Zamboanga City.
+- **June:** Philippines targets end-2026 for SCS Code of Conduct. Monthly COC negotiations underway. 59th AMM scheduled July 21.
+- **June:** UNOCT CT TECH+ workshop in Manila (June 4–5) — UN-INTERPOL-Philippines partnership on counter-terrorism technology capacity-building.
 - **June:** First BARMM parliamentary election scheduled for September 14, 2026. Peace adviser targets exit agreement by 2028.
 - **June:** Philippines holds ASEAN Chairship; South China Sea Code of Conduct negotiations accelerate with China. CoC July deadline considered rhetorical by analysts.

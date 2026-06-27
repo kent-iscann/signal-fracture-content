@@ -1,5 +1,10 @@
 # Ingest Log: Islamic Extremism in the Philippines
 
+## [2026-06-27] watch-report | Watch Report 27-06-2026
+- New report (3+ new sources, major developments). Probability 70% → 75% (↑5%). Prediction unchanged.
+- Major developments: Mindanao M7.8 earthquake (June 8); COMELEC confirms BARMM election proceeding; MILF Central Committee suspends Macacua as BIAF Chief; 1,000+ MILF members defect to BFP; PRO-BAR identifies 92 towns as election areas of concern; Save Bangsamoro Movement protests; UNOCT CT TECH+ workshop; Philippines targets end-2026 SCS COC.
+- 6 new sources added (14–19). Total sources: 19.
+
 ## [2026-06-13] ingest | BARMM faces tension ahead of first parliamentary election (Manila Times)
 - CCAA briefer reveals violent extremism incidents rose sharply (29→40, late 2025 to Jan-May 2026), deaths doubled (9→20). Abu Sayyaf regrouping in Sulu (Feb Patikul encounter). Dawla Islamiyah emir killed. BFP splits from UBJP. Mohagher Iqbal removed over corruption, 37K MILF rally. BARMM under state of calamity.
 

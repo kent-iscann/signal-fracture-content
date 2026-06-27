@@ -11,6 +11,9 @@ The largest and most politically sophisticated Moro insurgent group in the Phili
 - **May 2026:** Mohagher Iqbal removed as MP and education minister over corruption allegations; ~37,000 MILF supporters held emergency peace rally in Cotabato City demanding reinstatement of Murad Ebrahim and full CAB implementation.
 - **May 2026:** Bangsamoro Federalist Party (BFP) formed by Macacua supporters — a direct challenge to the MILF's dominant United Bangsamoro Justice Party (UBJP), signaling a major internal split.
 - **2026:** CCAA data shows clan feuding (rido) at 43 incidents in first four months (vs. 48 for all of 2025); several firefights involved MILF commands, exposing flaws in the decommissioning process as weapons remain in MILF hands.
+- **June 2026:** MILF Central Committee suspends Abdulraof Macacua as BIAF Chief of Staff — retaliatory move over BFP formation and Iqbal ouster. Rift penetrates MILF's armed wing.
+- **June 2026:** 1,000+ MILF members (including Cotabato City Mayor Bruce Matabalao) leave UBJP for BFP. Breakaway party now institutionalized as MILF's primary electoral rival.
+- **June 2026:** COA finds P2.2–4.9 billion in irregularities at MBHTE under Iqbal's tenure. Macacua orders charges before Ombudsman.
 
 ## Significance
 The MILF's transformation from insurgent group to political authority is the central variable in the Mindanao peace process. If the September 2026 elections proceed credibly, the track record of Islamist governance in BARMM will influence whether splinter groups retain recruitment appeal. If elections are marred by fraud, violence, or Manila interference, spoiler factions could rearm. The emergence of the BFP as a breakaway faction and the Iqbal corruption crisis represent the most serious internal challenge to MILF cohesion since the 2014 CAB.
