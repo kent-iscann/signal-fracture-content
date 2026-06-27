@@ -71,7 +71,7 @@ topics:
       - "ISIS Philippines Mindanao terrorism 2025 2026"
       - "Marcos Duterte rivalry Mindanao security implications"
     cron_jobs:
-      weekly_source_monitor: "5aaf1dd82283"
+      weekly_source_monitor: "e130db2f5c4b"
       monthly_watch_report: "4aa9baba9300"
   - name: "Armenia-Azerbaijan Relations"
     slug: "armenia-azerbaijan"
