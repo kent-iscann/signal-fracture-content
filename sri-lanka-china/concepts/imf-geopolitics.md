@@ -1,10 +1,10 @@
 ---
 title: IMF, China, and Sri Lanka's Debt Restructuring
 created: 2026-05-27
-updated: 2026-06-10
+updated: 2026-07-01
 type: concept
 tags: [IMF, debt restructuring, geopolitics, China-US rivalry, creditor governance, voting shares]
-sources: [raw/articles/stair-imf-geopolitics-2026.md]
+sources: [raw/articles/stair-imf-geopolitics-2026.md, raw/articles/imf-pr26229-june-2026.md]
 confidence: high
 ---
 
@@ -48,7 +48,7 @@ Economist Talal Rafi (a Sri Lanka-based policy advisor and former ADB consultant
 2. **Voting share reform**: Adjust quotas to reflect modern economic realities (particularly China's larger share).
 3. **Agreed debt restructuring framework**: A G20-level agreement on multilateral debt restructuring, transparency, and comparability of treatment to prevent future Sri Lanka-style standoffs between the US and China.
 
-## May 2026: IMF Completes Combined 5th and 6th Reviews (PR26/172)
+## IMF EFF Program (2022–2026)
 
 On May 27, 2026, the IMF Executive Board completed the combined Fifth and Sixth Reviews of Sri Lanka's EFF-supported program (Press Release PR26/172). Key details:
 
@@ -62,6 +62,29 @@ On May 27, 2026, the IMF Executive Board completed the combined Fifth and Sixth 
 - **Reform priorities**: Medium-term revenue strategy, exchange rate flexibility, phasing out balance-of-payments measures, structural reforms for investment climate
 
 This continued disbursement reflects the IMF's assessment that Sri Lanka's reform program remains firmly on track.
+
+## June 2026: IMF Staff Visit Assesses Middle East War Impact (PR26/229)
+
+On June 30, 2026, the IMF concluded a staff visit to Colombo (June 24-30) led by Evan Papageorgiou. This was a preparatory mission ahead of the Seventh EFF Review, scheduled for fall 2026. Key findings from the concluding statement:
+
+### Economic Impact of the Middle East War
+- **Inflation spike**: Headline inflation rose from **1.6% y/y** (February 2026) to **5.5% y/y** (May 2026) following energy price increases driven by the Middle East conflict.
+- **Tourism**: Tourist arrival growth softened and gross international reserves accumulation decelerated.
+- **Policy response**: The Central Bank of Sri Lanka implemented a **100-basis-point policy rate hike** and deployed macroprudential measures.
+- **Fiscal response**: The government rolled out a temporary, on-budget relief package comprising fuel, electricity, and fertilizer subsidies, plus cash transfers to the most vulnerable households.
+
+### Forward Commitments
+- **Primary balance**: Authorities committed to reverting to a primary balance target of **2.3% of GDP in 2027** following fiscal easing in 2026.
+- **SOE reform**: Accelerating state-owned enterprise reform and maintaining cost-recovery energy pricing to minimize fiscal risks.
+- **Debt restructuring**: Described as "nearing completion" but with emphasis on accelerating Public Debt Management Office (PDMO) capacity building.
+- **Monetary policy**: Should remain "prudent, agile, and data-dependent" — exchange rate flexibility is "paramount."
+- **BOP restrictions**: Balance of payments restrictions should be phased out.
+
+### Seventh Review Timeline
+The formal Seventh Review of the EFF arrangement will take place during an upcoming IMF mission in the fall of 2026. This marks the next major checkpoint in Sri Lanka's IMF program.
+
+### Meetings
+The mission held meetings with President and Finance Minister Anura Kumara Dissanayake, Prime Minister Dr. Harini Amarasuriya, Labor Minister and Deputy Finance Minister Prof. Anil Jayantha Fernando, CBSL Governor Dr. P. Nandalal Weerasinghe, Secretary to the Treasury Dr. Harshana Suriyapperuma, and other senior officials, as well as private sector, civil society, and development partners.
 
 ---
 

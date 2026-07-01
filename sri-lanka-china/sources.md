@@ -198,5 +198,25 @@
     Provides the latest official data from Sri Lanka's March 2026 Statistical Debt Bulletin. Key new figures: total government external debt at USD 37,468 million (down $195M from Q4 2025); multilateral debt accounts for 38% of total, commercial debt 34%, bilateral credit 28%; within bilateral segment, non-Paris Club nations (led by China) hold 59% vs Paris Club's 41%; ADB and World Bank represent over 82% of multilateral debt; 81% of commercial debt is International Sovereign Bonds.
 
 39. "Colombo hosts Dragon Boat Festival celebrations" -- China Daily (June 24, 2026)
-    https://www.chinadaily.com.cn/a/202606/24/WS6a3b83d0a310986e2b461aa2.html
-    Reports on the 2026 Dragon Boat Cultural Festival and China–Sri Lanka Friendship Cup Regatta held on June 14 at Colombo Port City, co-hosted by the Chinese Embassy and Sri Lanka's Ministry of Youth Affairs and Sports. Over 1,000 participants attended, including Chinese Ambassador Qi Zhenhong. 19 teams competed. Signals the use of cultural diplomacy to reinforce the Port City as a bilateral showcase project.
+   https://www.chinadaily.com.cn/a/202606/24/WS6a3b83d0a310986e2b461aa2.html
+   Reports on the 2026 Dragon Boat Cultural Festival and China–Sri Lanka Friendship Cup Regatta held on June 14 at Colombo Port City, co-hosted by the Chinese Embassy and Sri Lanka's Ministry of Youth Affairs and Sports. Over 1,000 participants attended, including Chinese Ambassador Qi Zhenhong. 19 teams competed. Signals the use of cultural diplomacy to reinforce the Port City as a bilateral showcase project.
+
+---
+
+## IMF Program & Recent Assessments
+
+40. "IMF Staff Concludes Visit to Sri Lanka" -- IMF Press Release No. 26/229 (June 30, 2026)
+    https://www.imf.org/en/news/articles/2026/06/30/pr26229-sri-lanka-imf-staff-concludes-visit
+    IMF mission led by Evan Papageorgiou visited Colombo from June 24–30, 2026. Key new data: headline inflation rose from 1.6% (Feb 2026) to 5.5% (May 2026) due to Middle East war energy price increases; CBSL responded with a 100-basis-point rate hike and macroprudential measures. The government rolled out a temporary relief package (fuel, electricity, fertilizer subsidies + cash transfers). Authorities committed to 2.3% of GDP primary balance target in 2027. Debt restructuring is "nearing completion." Seventh EFF Review mission scheduled for fall 2026. Exchange rate flexibility, SOE reform, and PDMO capacity building identified as priorities. The mission met with President Dissanayake, PM Amarasuriya, CBSL Governor Weerasinghe, and other officials.
+
+---
+
+## Diplomatic Engagement & Trade
+
+41. "Met this morning with Mr Bai Yinzhan, Chairman of China Harbour Engineering Company (CHEC)" -- President Anura Kumara Dissanayake, Instagram (June 13, 2026)
+    https://www.instagram.com/p/DZhSlkNjX21
+    President Dissanayake posted about meeting CHEC Chairman Bai Yinzhan at the Presidential Secretariat. CHEC expressed confidence in Sri Lanka's investment climate. Dissanayake emphasized FDI as a vital driver of economic growth, noted policy stability through IMF agreements, and reaffirmed that transforming Port City Colombo into a modern economic zone remains a key government objective. He thanked CHEC for its assistance to Cyclone Ditwah-affected communities. Signals continued top-level engagement with China's largest infrastructure investor in Sri Lanka.
+
+42. "Sri Lanka Strengthens Trade and Investment Ties with China at China–South Asia Exposition 2026" -- Sri Lanka Department of Commerce (June 2026)
+    https://www.doc.gov.lk/index.php?option=com_content&view=article&id=347&lang=en
+    Sri Lanka participated in the 10th China–South Asia Exposition (June 11–16, 2026) in Kunming with a delegation of 250+ business representatives from ~100 exporters, led by Trade Minister Wasantha Samarasinghe. The 100-booth Sri Lanka Pavilion (1,000+ sqm) showcased Ceylon tea, spices, gems, apparel, and other exports. A B2B matchmaking event produced an MoU between Sri Lankan liquor exporter Premium Beverages and a leading Chinese distributor. China offered Sri Lankan exporters free warehouse access at the Kunming Comprehensive Bonded Zone under the "Three Facilitations and Three Exemptions" initiative. Sri Lanka's Department of Commerce received the "Outstanding Exhibition Organizer Award." Represents one of Sri Lanka's largest-ever trade delegations to China.

@@ -101,3 +101,20 @@
 - index.md: Updated last-updated date (2026-06-17 → 2026-06-24) and source count (36 → 39)
 
 **Total sources**: 36 → 39
+
+## [2026-07-01] ingest | 3 new sources: IMF June 2026 staff visit, Dissanayake-CHEC meeting, China-South Asia Expo 2026
+
+- **IMF Staff Visit PR26/229 (June 30, 2026)**: Most significant addition. IMF mission led by Evan Papageorgiou visited Colombo June 24-30, 2026 for a preparatory mission ahead of the Seventh EFF Review (fall 2026). New data: inflation rose from 1.6% (Feb) to 5.5% (May 2026) due to Middle East war energy price shocks; CBSL 100bp rate hike; government temporary relief package (fuel, electricity, fertilizer subsidies + cash transfers); authorities committed to 2.3% GDP primary balance target in 2027; debt restructuring "nearing completion"; exchange rate flexibility, SOE reform, PDMO capacity building identified as priorities.
+
+- **Dissanayake-CHEC Meeting (June 13, 2026)**: President Dissanayake met CHEC Chairman Bai Yinzhan at Presidential Secretariat. CHEC expressed confidence in Sri Lanka's investment climate; Dissanayake reaffirmed Port City Colombo as a key objective, highlighted IMF policy stability enabling FDI, and thanked CHEC for Cyclone Ditwah relief.
+
+- **China-South Asia Expo 2026 (June 11-16)**: Sri Lanka fielded one of its largest-ever trade delegations (~100 exporters, 250+ reps) to Kunming. 100-booth Sri Lanka Pavilion; MoU between Premium Beverages and Chinese distributor; China offered free warehouse access at Kunming Bonded Zone for Sri Lankan exporters.
+
+**Wiki pages updated**:
+- sources.md: Added 3 new entries (#40-42) in 2 new categories: "IMF Program & Recent Assessments" and "Diplomatic Engagement & Trade"
+- timeline/china-sri-lanka-timeline.md: Added 3 new timeline entries (Expo June 11-16, CHEC meeting June 13, IMF visit June 24-30). Updated frontmatter date.
+- concepts/imf-geopolitics.md: Added full "June 2026: IMF Staff Visit Assesses Middle East War Impact (PR26/229)" section with inflation data, policy responses, forward commitments, and 7th Review timeline. Updated frontmatter date/sources.
+- concepts/belt-and-road-initiative.md: Added 2 new bullet points (Dissanayake-CHEC meeting, China-South Asia Expo). Updated frontmatter date.
+- index.md: Updated last-updated date (2026-06-24 → 2026-07-01) and source count (39 → 42)
+
+**Total sources**: 39 → 42

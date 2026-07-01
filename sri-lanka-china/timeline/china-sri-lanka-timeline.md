@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-06-10
+updated: 2026-07-01
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -157,6 +157,15 @@ Updated Sri Lankan treasury data revealed bilateral debt figures as of December 
 - Outstanding debt to China: **USD 4.974 billion**
 - Outstanding debt to India: **USD 0.984 billion**
 This confirms China remains Sri Lanka's largest bilateral creditor by a wide margin.
+
+### June 11-16, 2026 -- Sri Lanka's Largest-Ever Trade Delegation to China-South Asia Expo
+Sri Lanka participated in the 10th China–South Asia Exposition in Kunming with over 250 business representatives from approximately 100 exporters — one of the country's largest-ever business contingents to the event. Led by Trade Minister Wasantha Samarasinghe, the delegation featured a 100-booth Sri Lanka Pavilion (1,000+ sqm) showcasing tea, spices, gems, apparel, and other exports. A B2B matchmaking event produced a MoU between Sri Lankan liquor exporter Premium Beverages and a leading Chinese distributor. China also offered Sri Lankan exporters free warehouse access at the Kunming Comprehensive Bonded Zone. The Sri Lanka Department of Commerce received the "Outstanding Exhibition Organizer Award."
+
+### June 13, 2026 -- Dissanayake Meets CHEC Chairman, Reaffirms Port City Commitment
+President Dissanayake met with Mr. Bai Yinzhan, Chairman of China Harbour Engineering Company (CHEC), at the Presidential Secretariat. CHEC — the main Chinese developer of Colombo Port City — expressed confidence in Sri Lanka's investment climate. Dissanayake emphasized FDI as vital to economic growth, highlighted policy stability from IMF agreements, and reaffirmed that transforming Port City Colombo into a modern economic zone remains a key government priority. He also thanked CHEC for assisting communities affected by Cyclone Ditwah.
+
+### June 24-30, 2026 -- IMF Mission Visits Colombo; Seventh Review Scheduled for Fall
+An IMF mission led by Evan Papageorgiou visited Colombo to review macroeconomic developments and program progress. Key findings: the Middle East war drove inflation from 1.6% (February) to 5.5% y/y (May 2026); the Central Bank responded with a 100-basis-point rate hike; the government deployed temporary fuel, electricity, and fertilizer subsidies plus cash transfers. The authorities committed to returning to a primary balance target of 2.3% of GDP in 2027. The IMF noted that debt restructuring is "nearing completion" but emphasized accelerating PDMO capacity building. The mission met with President Dissanayake, PM Amarasuriya, CBSL Governor Weerasinghe, and other senior officials. The formal Seventh EFF Review mission is scheduled for fall 2026.
 
 ---
 

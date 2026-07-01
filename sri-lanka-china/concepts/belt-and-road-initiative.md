@@ -1,7 +1,7 @@
 ---
 title: Belt and Road Initiative in Sri Lanka
 created: 2026-05-20
-updated: 2026-06-10
+updated: 2026-07-01
 type: concept
 tags: [BRI, infrastructure, diplomacy, geopolitics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -49,6 +49,8 @@ The post-crisis period has seen intensified India-China competition for influenc
 - **SINOPEC Hambantota Refinery** (Q1 2026): China moved to finalize an oil refinery agreement in Hambantota, deepening its commercial stake in the port area.
 - **Prime Melwa Marina Deal** (May 2026): A $57.6M luxury marina-front real estate deal between Prime Melwa and CHEC Port City Colombo, signaling Port City's evolution from controversy to active investment zone.
 - **Dissanayake Government Revises Port City Act** (June 2026): The NPP government is revising the Colombo Port City Economic Commission Act to strengthen compliance, tax incentive monitoring, and institutional reorganization — framing the challenge as governance rather than cancellation.
+- **Dissanayake-CHEC Meeting** (June 13, 2026): President Dissanayake met with CHEC Chairman Bai Yinzhan, who expressed confidence in Sri Lanka's investment climate. Dissanayake reaffirmed Port City Colombo as a key government priority and noted policy stability from IMF agreements as enabling FDI. CHEC was also thanked for Cyclone Ditwah relief assistance.
+- **China-South Asia Expo 2026** (June 11-16, 2026): Sri Lanka fielded one of its largest-ever trade delegations (~100 exporters, 250+ reps) to Kunming. Outcomes included a 100-booth pavilion, a MoU between Sri Lanka's Premium Beverages and a Chinese distributor, and China's offer of free warehouse access at the Kunming Comprehensive Bonded Zone for Sri Lankan exporters.
 
 ## January 2025 China-Sri Lanka Joint Statement on BRI Cooperation
 Following President Dissanayake's January 2025 Beijing visit, China and Sri Lanka issued a joint statement reaffirming Belt and Road cooperation in specific areas: Hambantota, Colombo Port City, logistics, green development, and the digital economy. This signals China's intent to continue deepening economic engagement despite Sri Lanka's debt restructuring.^[Lowy Institute, May 14, 2026]
