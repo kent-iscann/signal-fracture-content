@@ -18,12 +18,12 @@
 - Eurasianet: Yerevan appealing Russian bans on Armenian exports — Rosselkhoznadzor banned food/seed/flower/fertilizer imports; Armenia appealing to Eurasian Economic Commission; ban seen as punitive for Pashinyan's pivot
 - Added 1 new source (21). Updated source count: 16 → 17
 
-## [2026-07-01] ingest | Weekly source update
+## [2026-07-01] ingest | Weekly source update (corrected — removed biased source, added Eurasianet)
 - Carnegie Endowment (June 11): Post-election roadmap — NATO summit in Ankara as diplomatic window, border opening as confidence-building step, broader South Caucasus economic compact vision
 - DFC TRIPP Summary: Concrete implementation details — TDC as 74/26% US-Armenia JV, multimodal scope (rail/road/pipeline/electricity/fiber), World Bank economic projections ($100M/yr savings, 0.5-1% GDP, 3% export growth)
-- Armenian Weekly (June 30): Aliyev escalates demands to UN — 300K Azerbaijani resettlement, former enclaves return, territorial adjustments via border "delimitation"; US Congress conference on June 24
 - Orta Sayfa Haber (June 24): Deputy FM Kostanyan announces 2030 target for full border reopening; certain routes may operationalize earlier
-- German Marshall Fund (June 1): Armenia reframed as emerging connectivity hub, part of Black Sea–South Caucasus–Central Asia architecture
+- German Marshall Fund (June 1): Armenia reframed as emerging connectivity hub, part of Black Sea–South Caucasus–Central Asia connectivity architecture
+- Eurasianet (June 25): Armenia putting more distance between itself and Russia — EU agricultural export deal, Ukraine engagement, Russia's threats, 2030 normalization target
 - Added 5 new sources (22–26). Updated source count: 21 → 26
 - Updated timeline with 4 new entries (June 11–30)
 - Expanded TRIPP concept page with DFC implementation structure and economic projections
