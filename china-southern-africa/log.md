@@ -44,3 +44,13 @@
 - Updated Tanzania entity: added strategic minerals policy shift section.
 - Updated Zambia entity: added Wonderful Group as key Chinese actor.
 - Updated index source count from 18→22, date from 2026-06-17→2026-06-24.
+
+## [2026-07-01] ingest | Weekly source update — Zimbabwe resource-backed infrastructure deal, Zimbabwe lithium boom analysis, China-BRICS minerals strategy
+- Added source 23: MINING.COM (June 2026) — Zimbabwe's Finance Minister Mthuli Ncube announces talks with China Railway on resource-backed infrastructure financing (roads/railways) at WEF Dalian, modeled on DRC's $7 billion Sicomines deal. New model extends infrastructure-for-resources into transport infrastructure explicitly serving Chinese miners' logistics.
+- Added source 24: Al Jazeera (June 18, 2026) — Comprehensive analysis of Zimbabwe's lithium boom beneficiaries. New data: Bikita Minerals $400M investment for lithium precursor chemicals (phase one 60,000 tonnes/year, Q2 2027); Mutapa Energy Minerals partners with Zhejiang Huayou Cobalt and Tsingshan Holding Group at Sandawana Mine — bringing a major new Chinese industrial actor (Tsingshan) into Zimbabwe; Q1 2026 mineral sales hit $983.85M (27% volume increase, 79% value increase). Raises questions about whether local communities benefit.
+- Added source 25: Business Insider Africa (June 2026) — G7 targets <60% reliance on China for rare earths/magnets by 2030; China responds by deepening BRICS strategic minerals coordination. Wang Yi called for stronger BRICS minerals cooperation at 16th BRICS National Security Advisors meeting (June 2026). China's embedded position across BRICS supply nodes acts as "stabilizing buffer" making clean decoupling impossible.
+- Updated timeline with 6 new June 2026 events (Zimbabwe-China Railway talks, Bikita timeline, Sandawana partnership, Q1 export data, BRICS coordination).
+- Updated Zimbabwe entity: added Tsingshan as new actor, Sandawana Mine JV, Bikita $400M programme, Q1 2026 export data, China Railway infrastructure discussions.
+- Updated critical-minerals-strategy concept: added BRICS coordination as new competitive advantage for China.
+- Updated infrastructure-for-resources concept: added Zimbabwe-China Railway resource-backed model as latest evolution.
+- Updated index source count from 22→25, date from 2026-06-24→2026-07-01.
