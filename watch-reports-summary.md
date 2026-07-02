@@ -43,3 +43,4 @@
 | # | Date | Prediction | Probability | Target |
 |---|------|------------|-------------|--------|
 | 1 | 24-06-2026 | Paz survives but emerges politically crippled | 65% | Dec 2026 |
+| 2 | 02-07-2026 | Paz survives but emerges politically crippled | 65% | Dec 2026 |

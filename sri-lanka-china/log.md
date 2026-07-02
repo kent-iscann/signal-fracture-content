@@ -118,3 +118,20 @@
 - index.md: Updated last-updated date (2026-06-24 → 2026-07-01) and source count (39 → 42)
 
 **Total sources**: 39 → 42
+
+## [2026-07-02] report | New Watch Report 02-07-2026
+- Created new watch report covering developments since 01-06-2026
+- **Probability unchanged: 70%** — intensified engagement signals (Dissanayake-CHEC meeting, record trade delegation, Port City progress) offset by mounting structural constraints (China's $7B restructuring losses, inflation spike to 5.5%, SINOPEC refinery delays)
+- **Key changes:**
+  - President Dissanayake personally met CHEC Chairman Bai Yinzhan (June 13) and reaffirmed Port City as key government priority — strongest NPP endorsement yet
+  - IMF staff visit (June 24-30, PR26/229): inflation spiked 1.6%→5.5%, CBSL 100bp rate hike, temporary subsidies deployed, Seventh Review scheduled fall 2026
+  - Sri Lanka sent largest-ever trade delegation to China-South Asia Expo (June 11-16): ~100 exporters, 250+ reps, 100-booth pavilion, B2B MoU, free warehouse access
+  - IDSA Issue Brief: China suffered $7B in restructuring losses; China's bilateral debt share declined 57%→45.3%; accumulated Chinese FDI $15B
+  - SINOPEC refinery ($3.7B) facing delays over 30%-vs-20% local sale dispute
+  - Port City Colombo: 150+ licensed companies, $1.3-1.4B invested, Dragon Boat Festival cultural diplomacy
+  - Q1 2026 external debt $37.47B (down $195M); non-Paris Club (China-led) 59% of bilateral segment
+  - 14 new sources (#29-42) added since last report — all integrated into corpus
+- **Confidence level: Medium**
+- **Next review: 2026-10-02**
+- Watch report: Watch Report 02-07-2026.md
+- PDF generated successfully

@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-07-01 | Total pages: 15 | Total sources: 42
+> Last updated: 2026-07-02 | Total pages: 16 | Total sources: 42
 
 ## Timelines
 
@@ -21,4 +21,5 @@
 ## Watch Reports
 
 - [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
-- [[Watch Report 01-06-2026]] -- Latest watch report: post-crisis normalization, SINOPEC refinery, India-China competition intensifies (probability: 70%)
+- [[Watch Report 01-06-2026]] -- Post-crisis normalization, SINOPEC refinery, India-China competition intensifies (probability: 70%)
+- [[Watch Report 02-07-2026]] -- Latest watch report: Dissanayake-CHEC engagement, China's $7B restructuring losses, inflation pressure, deepening trade ties (probability: 70%)

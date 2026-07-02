@@ -2,4 +2,6 @@
 
 | # | Date | Prediction | Probability | Target Date |
 |---|------|------------|-------------|-------------|
-| 1 | 04-06-2026 | Georgia will continue its strategic drift over the next 18 months, maintaining transactional relationships with the US, Russia, and the EU without firmly anchoring to any single camp — until a domestic political crisis or external shock forces a definitive choice. | 75% | December 2027 |
+| 1 | 03-06-2026 | Georgia will continue its strategic drift over the next 18 months, maintaining transactional relationships with the US, Russia, and the EU without firmly anchoring to any single camp — until a domestic political crisis or external shock forces a definitive choice. | 75% | December 2027 |
+| 2 | 04-06-2026 | The US reset will deepen over the next 18 months, giving Georgian Dream enough cover to further delay EU accession reforms without triggering a definitive break with Washington. | 75% | December 2027 |
+| 3 | 02-07-2026 | Georgia's strategic drift will accelerate over the next 18 months as deepening China and Iran ties supersede the contested US reset, without triggering a definitive break from any major power. | 75% | December 2027 |

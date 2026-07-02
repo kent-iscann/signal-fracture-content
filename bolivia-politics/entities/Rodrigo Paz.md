@@ -9,3 +9,5 @@ Key decisions: eliminated fuel subsidies (triggering inflation — gasoline up 8
 Facing existential crisis after 50+ days of protests demanding resignation. Signed agreement with Bolivian Workers' Confederation (COB) on June 19, 2026 as step toward resolution. Declared state of emergency June 20, 2026. CSIS assessment (June 30): will likely survive current struggle but could be forced to resign before end of 2026.
 
 Has warned Evo Morales that "jail is coming," referencing Morales's arrest warrant for aggravated human trafficking.
+
+On June 26, 2026, Paz's government ended the 15-year dollar peg, devaluing the boliviano by ~30% (6.96 to 9.73 per dollar) and transitioning to a floating exchange rate. Economy Minister José Gabriel Espinoza announced an IMF financing programme advancing toward $5 billion. Paz received formal US backing for his state of emergency from the Trump administration. Moody's (June 30) maintained Bolivia's Caa3 rating with projected 2026 economic contraction but credited Paz's willingness to reform.

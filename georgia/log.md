@@ -133,3 +133,9 @@
 - Followed Kyrgyzstan visit earlier in June 2026
 - Part of Central Asia pivot: repositioning Georgia as bridge to Middle Corridor
 - GD widening diplomatic options beyond Western partners
+
+## 2026-07-02 | watch-report | Third watch report generated
+- Third watch report generated: "Georgia's strategic drift will accelerate over the next 18 months as deepening China and Iran ties supersede the contested US reset, without triggering a definitive break from any major power" (75% probability, target December 2027)
+- Prediction changed from June 4 report to reflect China-Iran pivot and contested US reset as dominant dynamics
+- 17 key sources cited spanning China pivot, US congressional pushback, Iran influence, Central Asia outreach, and domestic repression
+- PDF generated successfully

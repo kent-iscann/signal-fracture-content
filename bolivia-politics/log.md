@@ -17,3 +17,8 @@
 
 ## [2026-07-01] ingest | Morales waits in wings as Bolivia crisis tests Trump-backed government (Reuters/KFGO)
 - Exclusive Reuters interview: Morales from Chapare says discontent "made him think" about return to politics; warns "if not with votes, it's with bullets"; Paz backed by Trump as part of hemispheric strategy; 42% of La Paz restaurants closed; tomatoes doubled, chicken up 70%.
+
+## [2026-07-02] watch-report-update | Watch Report 02-07-2026
+- Generated Watch Report #2. Key new developments: dollar peg ended June 26 (30% devaluation to 9.73 BOB/USD), floating exchange rate activated June 29, IMF package advancing toward $5B, June inflation 5.2% (38-year high), Trump admin formally backs state of emergency, Moody's Caa3 with 2026 contraction projected.
+- Updated: index.md, timeline, watch-reports-summary (per-topic + global), Rodrigo Paz entity page, Post-MAS Fragmentation concept page.
+- Prediction unchanged at 65%. Files: Watch Report 02-07-2026.md + PDF.
