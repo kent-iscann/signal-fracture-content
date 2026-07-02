@@ -90,7 +90,7 @@ Turkey's normalization includes potential cooperation on telecommunications and 
 ---
 
 ## Probability Triggers
-| Thing | Direction |
+| Event | Direction |
 |-------|-----------|
 | Aliyev formalizes "Western Azerbaijan" resettlement and enclave demands as new peace treaty preconditions | Up |
 | NATO summit in Ankara produces concrete diplomatic framework or timeline for peace treaty signing | Down |
