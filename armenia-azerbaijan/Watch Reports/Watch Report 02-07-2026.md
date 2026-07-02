@@ -7,8 +7,8 @@
 ---
 
 ## Signal & Fracture
-**Signal:** Armenia's Western pivot has accelerated with operational trade across the Turkish border, expanded multinational military exercises with US and European forces, and deepening EU economic integration to offset Russian pressure.
-**Fracture:** Aliyev has escalated his preconditions for peace far beyond constitutional reform — including demands for the resettlement of 300,000 Azerbaijanis in Armenia, return of former Azerbaijani enclaves, and territorial adjustments — while Pashinyan lacks the parliamentary supermajority to deliver even the constitutional baseline Azerbaijan once set.
+**Signal:** Armenia's Western pivot is accelerating — trade with Turkey is operational and military integration with the US and Europe is deepening.
+**Fracture:** Aliyev has escalated peace preconditions far beyond constitutional reform while Pashinyan lacks the parliamentary supermajority to deliver even that baseline demand.
 
 ---
 
