@@ -107,8 +107,14 @@ def update_manifest(topic_slug, topic_name, date_str, filename, url, prediction,
         "uploaded_at": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
     })
 
-    # Sort reports within topic by date descending
+    # Sort reports within topic by date descending (newest first)
     topic_entry["reports"].sort(key=lambda r: r["date"], reverse=True)
+
+    # Calculate status for all reports in this topic
+    # Active = prediction matches the latest report; Inactive = prediction differs
+    latest_pred = topic_entry["reports"][0]["prediction"] if topic_entry["reports"] else ""
+    for r in topic_entry["reports"]:
+        r["status"] = "Active" if r["prediction"] == latest_pred else "Inactive"
 
     # Sort topics alphabetically
     manifest["topics"].sort(key=lambda t: t["slug"])
