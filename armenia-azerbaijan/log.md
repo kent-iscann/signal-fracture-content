@@ -18,7 +18,21 @@
 - Eurasianet: Yerevan appealing Russian bans on Armenian exports — Rosselkhoznadzor banned food/seed/flower/fertilizer imports; Armenia appealing to Eurasian Economic Commission; ban seen as punitive for Pashinyan's pivot
 - Added 1 new source (21). Updated source count: 16 → 17
 
-## [2026-07-01] ingest | Weekly source update (corrected — removed biased source, added Eurasianet)
+## [2026-07-02] Watch Report #2 | Armenia-Azerbaijan Relations
+- Generated Watch Report 02-07-2026 — second monthly watch report
+- Key developments since Report #1:
+  - Aliyev escalated preconditions: "Western Azerbaijan" conference in US Congress (June 24), UN-level demands for resettlement of 300,000 Azerbaijanis, return of enclaves, territorial adjustments
+  - Deputy FM Kostanyan announced 2030 target for full border reopening with Turkey and Azerbaijan (June 24)
+  - Eagle Partner 2026 expanded to multinational format with US, France, Greece (June 17–25); Armenia at Eurosatory 2026 in Paris
+  - DFC TRIPP Public Information Summary reveals no funding committed, sub-project equity capped at 40%
+  - Armenia further distanced from Russia: Zelensky meeting, Ukraine recovery conference attendance
+  - NATO summit in Ankara (July 2026) identified as critical diplomatic window
+- Prediction unchanged: "Armenia and Azerbaijan will fail to sign a comprehensive peace treaty over the next 12 months."
+- Probability raised: 75% → 80% due to Aliyev's escalated demands structurally reducing treaty probability
+- Updated index.md, watch-reports-summary.md (both per-topic and global)
+- Files updated: Watch Report 02-07-2026.md, index.md, watch-reports-summary.md (x2), log.md
+
+## 2026-07-01 ingest | Weekly source update (corrected — removed biased source, added Eurasianet)
 - Carnegie Endowment (June 11): Post-election roadmap — NATO summit in Ankara as diplomatic window, border opening as confidence-building step, broader South Caucasus economic compact vision
 - DFC TRIPP Summary: Concrete implementation details — TDC as 74/26% US-Armenia JV, multimodal scope (rail/road/pipeline/electricity/fiber), World Bank economic projections ($100M/yr savings, 0.5-1% GDP, 3% export growth)
 - Orta Sayfa Haber (June 24): Deputy FM Kostanyan announces 2030 target for full border reopening; certain routes may operationalize earlier

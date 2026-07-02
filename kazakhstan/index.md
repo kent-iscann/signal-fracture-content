@@ -20,4 +20,5 @@
 
 ## Watch Reports
 - [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
+- [[Watch Report 02-07-2026]] — Second watch report: $10B NVIDIA deal, EU sanctions escalation, Karachaganak disruption (probability: 70%)
 - [[Watch Report 04-06-2026]] — First watch report: Kazakhstan's diversification faces structural headwinds (probability: 70%)

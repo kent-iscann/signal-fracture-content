@@ -1,5 +1,17 @@
 # Log: Kazakhstan Wiki Ingest
 
+## 2026-07-02 | Watch Report #2 generated
+
+### Watch Report 02-07-2026
+- **Prediction:** Kazakhstan's economic diversification will not advance enough over the next 18 months to provide the country with a viable third path. (unchanged from first report)
+- **Probability:** 70% (unchanged)
+- **Target:** December 2027
+- **Confidence:** Medium
+- **Key new developments:** $10B NVIDIA/Firebird AI deal, EU $12B+ breakthrough (Brussels visit), EU 21st sanctions package targeting Kazakhstan entities, Karachaganak field output cut 25%+ after drone attack on Russian gas plant, US tungsten deal ($1.6B), China $100B trade goal reaffirmed, new constitution enacted, Pax Silica/AI Opportunity Partnership joined, IsDB $1.3B industrial zones, multi-vector limits analysis
+- **Files updated:** Watch Reports/Watch Report 02-07-2026.md (new), index.md, watch-reports-summary.md (per-topic and global), log.md
+
+---
+
 ## 2026-07-02 | Weekly source update — 5 new sources added
 
 ### Sources added

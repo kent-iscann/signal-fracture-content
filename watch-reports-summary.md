@@ -23,7 +23,8 @@
 
 | # | Date | Prediction | Probability | Target |
 |---|------|------------|-------------|--------|
-| 1 | 04-06-2026 | Tech diversification advances but hydrocarbons remain dominant | 70% | Dec 2027 |
+| 1 | 04-06-2026 | Diversification fails to provide viable third path | 70% | Dec 2027 |
+| 2 | 02-07-2026 | Diversification fails to provide viable third path | 70% | Dec 2027 |
 
 ## [Islamic Extremism in the Philippines](philippines-islamic-extremism/watch-reports-summary.md)
 
@@ -37,6 +38,7 @@
 | # | Date | Prediction | Probability | Target |
 |---|------|------------|-------------|--------|
 | 1 | 09-06-2026 | No comprehensive peace treaty signed | 75% | Jun 2027 |
+| 2 | 02-07-2026 | No comprehensive peace treaty signed | 80% | Jun 2027 |
 
 ## [Bolivia's Political Situation](bolivia-politics/watch-reports-summary.md)
 
