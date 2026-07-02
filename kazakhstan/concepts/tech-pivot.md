@@ -38,5 +38,10 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 - **StartupBlink 2026:** Kazakhstan ranked 71st globally (down 1 spot), with 26.5% ecosystem growth. Almaty (291st) and Astana (332nd) in top 1000 cities.
 - **Structural challenge:** The "split structure" between Almaty and Astana competing for leadership may be hampering overall growth. StartupBlink analysts suggest consolidating around a single dominant hub.
 
+## AI Opportunity Partnership (June 2026)
+- Kazakhstan joined the **Joint Statement on the AI Opportunity Partnership**, signed in Washington, D.C. by Deputy PM and Minister of AI Zhaslan Madiyev.
+- The US-led initiative promotes trusted AI cooperation through pro-innovation policies, R&D investment, computing infrastructure access, and secure AI ecosystems.
+- Notably links AI development to **physical infrastructure**: critical minerals, energy, data centers, semiconductors, and supply chains — aligning Kazakhstan's resource wealth with its AI ambitions.
+
 ## Assessment
 The tech pivot is real but nascent. Kazakhstan has made significant progress in creating the institutional framework (ministry, hub, forums, AI law) and attracting attention (GITEX, Dealroom ranking, AI diffusion ranking, $10B NVIDIA deal). The emergence of the first AI unicorn (Higgsfield AI) and the surge in AI venture funding to $73M are concrete milestones. The national crypto reserve plan signals a more sophisticated approach to digital assets beyond just mining. However, the ecosystem remains small, government-dependent, and faces structural challenges including brain drain, corruption, and competition from more established tech hubs. The authoritarian governance model and limited internet freedom also constrain the open innovation culture that drives successful tech ecosystems.

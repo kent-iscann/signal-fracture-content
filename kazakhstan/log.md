@@ -1,5 +1,36 @@
 # Log: Kazakhstan Wiki Ingest
 
+## 2026-07-02 | Weekly source update — 5 new sources added
+
+### Sources added
+
+1. **IsDB: $1.3B Development of Economic and Industrial Zones Project** (July 2026)
+   - IsDB Chairman met with Kazakhstan's Minister of Industry and Construction in Astana to expedite the US$1.3 billion project — one of IsDB's landmark financing operations. Focus on industrial transformation, investment, jobs, and economic diversification.
+
+2. **Astana Times: Kazakhstan Pushes for $100B Trade Goal at Eurasia Expo** (June 2026)
+   - Kazakhstan and China reaffirmed $100B trade goal at 9th China-Eurasia Expo. Trade at $22B in Jan-May 2026 (+27% YoY), expected >$50B by year-end. Third cross-border railway agreed; border capacity expanding to 100M tons. Pilot sales of Kazakh brands in 200-300 Xinjiang retail outlets.
+
+3. **Aju Press: Tungsten Race Puts Kazakhstan Between US and China** (June 2026)
+   - Major critical minerals development: Kazakhstan holds world's largest undeveloped tungsten deposit (1.4M tons WO₃). Kaz Resources (US, $1.6B federal financing) secured rights — Trump personally negotiated with Tokayev. China's export controls sent tungsten prices tripling. Kazakhstan playing both sides: Chinese Boguty mine in Almaty Oblast also operating.
+
+4. **Substack: Central Asia May Reach Limits of Multi-Vectorism** (June 2026)
+   - Murad Nasibov warns multi-vector foreign policy approaching limits due to resource saturation and intensifying rivalry. Recommends OTS as durable geopolitical bloc. Kazakhstan's rapid deal-making may exhaust marginal returns before sustainable framework is built.
+
+5. **Astana Times: Kazakhstan Joins Global AI Partnership** (June 2026)
+   - Kazakhstan joined US-led AI Opportunity Partnership, signed in Washington by Deputy PM Madiyev. Links AI to critical minerals, data centers, semiconductors, and supply chains.
+
+### Files updated
+- sources.md: 33 → 38 sources
+- timeline/kazakhstan-timeline.md: extended June 2026, added July 2026 entry
+- concepts/multi-vector-foreign-policy.md: added tungsten/critical minerals race, AI partnership, sustainability analysis
+- concepts/resource-curse.md: added tungsten section, IsDB industrial diversification
+- concepts/tech-pivot.md: added AI Opportunity Partnership
+- entities/china.md: added $100B trade goal section with new data
+- entities/western-powers.md: added US tungsten deal, AI partnership
+- index.md: updated source count and date
+
+---
+
 ## 2026-06-25 | Weekly source update — 3 new sources added
 
 ### Sources added

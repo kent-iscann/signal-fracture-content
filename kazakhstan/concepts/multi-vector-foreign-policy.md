@@ -55,5 +55,23 @@ Kazakhstan's defining foreign policy doctrine since independence. The concept is
   - Joint statement stressed strategic importance of Trans-Caspian International Transport Route (Middle Corridor).
 - EU's 20th sanctions package (April 2026) and UK active interdiction architecture (June 2026) demonstrate intensifying Western enforcement — raising the cost of Kazakhstan's balancing act.
 
+## Critical minerals and the tungsten race (2026)
+- Kazakhstan is the arena for a US-China critical minerals competition centered on **tungsten**, a "war metal" essential for armor-piercing projectiles, missile warheads, semiconductors, and cutting tools.
+- Kazakhstan holds the **world's largest known undeveloped tungsten deposit** (Northern Katpar / Upper Kairakty, Karaganda region: 1.4M tons WO₃) and ranks **#2 globally** (2M tons total, behind China).
+- **US side:** Kaz Resources (US firm, up to $1.6B federal financing, 70% stake with state miner Tau-Ken Samruk at 30%) — Trump personally negotiated the deal with Tokayev. Commerce Secretary Lutnick signed the MoU.
+- **China side:** Boguty mine in Almaty Oblast entered commercial production April 2025 under Jiaxin International (Hong Kong-listed Chinese firm); targeted 7,085 tons tungsten oxide in 2026.
+- China's 2025 export controls sent tungsten prices tripling (APT: $331 → $1,090-1,150/mtu); China became a net importer of tungsten for the first time.
+- Kazakhstan plays both sides: "In the south, a Chinese company mines tungsten. In the center, an American company is preparing to do the same" (Aju Press, June 2026).
+- US critical minerals exports from Kazakhstan: only 5% (vs China 27%, Russia 16%). C5+1 critical minerals dialogue held in Astana (June 2026).
+
+## AI Opportunity Partnership (June 2026)
+- Kazakhstan joined the US-led Joint Statement on the AI Opportunity Partnership, signed in Washington by Deputy PM Zhaslan Madiyev.
+- Links AI development to physical infrastructure: critical minerals, energy, data centers, semiconductors, and resilient supply chains — reinforcing the dual-use character of Kazakhstan's resource and tech bets.
+
+## Sustainability of multi-vectorism (June 2026)
+- Analyst Murad Nasibov argues Central Asian states are approaching the **limits** of multi-vectorism due to: (1) resource saturation — the marginal geopolitical returns of each new partnership are diminishing; and (2) intensifying great-power rivalry making it harder to prevent one partnership from being conditioned on another.
+- Recommends Central Asian states pool sovereignty through the **Organization of Turkic States (OTS)** as a durable geopolitical bloc, drawing strength from geography and trade-route positioning rather than economic power alone.
+- Warns that Kazakhstan's rapid pace of deal-making risks exhausting the returns before a sustainable institutional framework is built.
+
 ## Key question
-Whether multi-vector foreign policy can survive the intensifying great power competition, or whether Kazakhstan will be forced to choose sides.
+Whether multi-vector foreign policy can survive the intensifying great power competition, or whether Kazakhstan will be forced to choose sides — and whether the OTS or other regional frameworks can provide a collective buffer against that pressure.
