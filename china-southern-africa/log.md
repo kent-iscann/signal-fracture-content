@@ -54,3 +54,11 @@
 - Updated critical-minerals-strategy concept: added BRICS coordination as new competitive advantage for China.
 - Updated infrastructure-for-resources concept: added Zimbabwe-China Railway resource-backed model as latest evolution.
 - Updated index source count from 22→25, date from 2026-06-24→2026-07-01.
+
+## [2026-07-02] report | New Watch Report 02-07-2026
+- Created second watch report: probability raised from 70% → 75% based on 15 new sources and multiple major developments
+- Key drivers: Zimbabwe resource-backed infrastructure negotiations with China Railway; BRICS strategic minerals coordination activation; EU €12B counter-investment in South Africa; Kamoa-Kakula smelter operational in DRC; Tsingshan entering Zimbabwe lithium sector; Tanzania structural governance shift; China maritime technology integration; Zimbabwe Q1 2026 revenue validation (+79%)
+- Prediction unchanged: beneficiation demands deepen rather than break Chinese mineral lock-in
+- Updated index with new watch report entry, date (2026-07-02), page count (10→11)
+- Updated watch-reports-summary with probability change and new report
+- PDF generated for new watch report

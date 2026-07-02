@@ -1,6 +1,6 @@
 # Chinese Infrastructure Plays in Southern Africa — Wiki Index
 
-> Content catalog. Last updated: 2026-07-01 | Total pages: 10 | Total sources: 25
+> Content catalog. Last updated: 2026-07-02 | Total pages: 11 | Total sources: 25
 
 ## Timelines
 - [[china-southern-africa-timeline]] — Chronological overview of Chinese infrastructure and mineral access plays in Southern Africa
@@ -19,3 +19,4 @@
 ## Watch Reports
 - [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
 - [[Watch Report 03-06-2026]] — First watch report: resource nationalism will force Chinese firms toward domestic processing, deepening long-term mineral lock-in (probability: 70%)
+- [[Watch Report 02-07-2026]] — Second watch report: beneficiation model validated by Zimbabwe revenue data; BRICS coordination and resource-backed infrastructure model extend Chinese lock-in (probability: 75%, up from 70%)
