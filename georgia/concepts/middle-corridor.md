@@ -23,6 +23,7 @@ China → Kazakhstan → Caspian Sea → Azerbaijan → Georgia → Turkey → E
 - Anaklia Deep Sea Port (planned, Chinese-financed — controversial; Chinese consortium selected over US company, cited in HR 7668 as national security concern)
 
 ## 2026 developments
+- **Central Asia outreach (June 2026):** Kobakhidze visits Kyrgyzstan and Tajikistan — part of Georgia's effort to link Central Asian transport projects (including China-Kyrgyzstan-Uzbekistan railway) with Black Sea routes. 11 documents signed with Tajikistan including Joint Intergovernmental Commission. Georgia actively courting Central Asian cargo before corridor maps are finalized.
 - Container traffic grew 71% in January-August 2025
 - Cargo volume in 2024 was 15x higher than 2023
 - Turkey-Armenia trade resumption (June 2026) could create alternative routes bypassing Georgia

@@ -114,3 +114,22 @@
 - 56% say restrictive laws harm EU prospects (up from 50% in 2025); Russia 12% trust/79% distrust; China 26%/60% distrust
 - House Armed Services Committee approved two Georgia NDAA amendments (political prisoners + Russian/Chinese intelligence)
 - UK Embassy confirmed Russian "shadow fleet" vessel docked at Kulevi Port (Feb 2026); Georgia claimed it wasn't sanctionable at the time
+
+## 2026-07-02 | ingest | Forbes: Georgian Wine Is Caught Between Russia And The West
+- Russia buys 60-65% of Georgia's wine exports — powerful economic coercion tool
+- New excise taxes caused 15.8% export drop in first 8 months of 2025
+- History of 2006 embargo (50% export loss); dependency rebuilt to 66% by 2024
+- European-owned producers threatened with Russian "bad lists"
+- US market growing (15.5% CAGR) but unable to absorb Russian shortfall
+
+## 2026-07-02 | ingest | commonspace.eu: Georgia — U.S. Talks and New Hate Speech Law
+- GD creates Interior Ministry "hate speech" department — critics see it as censorship mechanism
+- Department to monitor social media and automatically prosecute alleged offenders
+- Follows Media Freedom Rapid Response warning about press freedom deterioration
+- US State Department delegation concluded visit emphasizing need for stable political climate
+
+## 2026-07-02 | ingest | Georgia's First High-Level Visit to Tajikistan — Central Asia Diplomatic Pivot
+- First-ever Georgian PM visit to Tajikistan (June 19); 11 documents signed
+- Followed Kyrgyzstan visit earlier in June 2026
+- Part of Central Asia pivot: repositioning Georgia as bridge to Middle Corridor
+- GD widening diplomatic options beyond Western partners

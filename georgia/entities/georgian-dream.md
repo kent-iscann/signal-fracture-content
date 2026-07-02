@@ -38,6 +38,20 @@ GD's foreign policy is best understood as a transactional, multi-vector strategy
 - Functional ties with Moscow (no condemnation of Ukraine invasion, economic links)
 - Resistance to EU conditionality (frozen accession, foreign agents law)
 
+## Central Asia diplomatic pivot (June 2026)
+GD is expanding diplomatic engagement with Central Asia to widen its room for maneuver beyond Western partners:
+- **June 19:** PM Kobakhidze made first-ever Georgian PM visit to Tajikistan; 11 bilateral documents signed including a Joint Intergovernmental Commission on Economic Cooperation
+- **Earlier June:** Kobakhidze visited Kyrgyzstan focusing on transport connectivity and Black Sea infrastructure access
+- **Strategic logic:** Repositioning Georgia as a bridge between Central Asia, South Caucasus, Turkey, and Europe via the Middle Corridor
+- **Goal:** Link China-Kyrgyzstan-Uzbekistan railway with Black Sea routes; attract Central Asian cargo through Georgian ports
+- **Signal:** GD expanding non-Western diplomatic options as relations with US/EU remain strained
+
+## Domestic repression escalation (June 2026)
+- **New hate speech department:** Interior Ministry creates unit to "systematically monitor hate speech" — critics argue it will monitor social media and automatically prosecute government critics, functioning as censorship
+- GD leader Mamuka Mdinaradze framed it as protection against "pseudo-liberal ideology aimed at sowing hatred"
+- Chairman of Georgian Young Lawyers' Association warns the department is about "controlling dissent and criticism of the government"
+- Comes weeks after Media Freedom Rapid Response warning about Georgia's press freedom deterioration
+
 ## Iran vector (2025–2026)
 GD's Iran engagement adds a fourth authoritarian vector to its multi-directional foreign policy:
 - Deputy Foreign Minister signaled solidarity with Tehran in 2025
