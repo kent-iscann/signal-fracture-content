@@ -18,10 +18,11 @@
 - Eurasianet: Yerevan appealing Russian bans on Armenian exports — Rosselkhoznadzor banned food/seed/flower/fertilizer imports; Armenia appealing to Eurasian Economic Commission; ban seen as punitive for Pashinyan's pivot
 - Added 1 new source (21). Updated source count: 16 → 17
 
-## 2026-07-03 manual ingest | ANCA press release + OC Media Baku Initiative Group conference
+## 2026-07-03 manual ingest + watch report revision | ANCA + OC Media Baku Initiative Group
 - **Source 29 — ANCA:** Congressional press conference marking 1,000 days of Armenian POWs; Sherman, Chu, Friedman, Costa demand release; Sherman Amendment vote advancing; 8 pro-Armenian amendments in House; bipartisan Senate/House statements (Schiff, Kim, Fong, TLHRC)
 - **Source 30 — OC Media:** Baku Initiative Group hosts "Right of Return and Self-Determination" conference in US Congress — first event of its kind in the building; "Western Azerbaijani" personal stories of expulsion; ANCA held simultaneous separate event
 - Updated sources.md (28 → 30), timeline (2 new entries for June 24), Aliyev entity page (added Baku Initiative Group detail), index.md (source count 28 → 30)
+- Revised Watch Report 02-07-2026: added What's New bullet on Congressional accountability track (Sherman Amendment, 8 amendments); expanded Political analysis with Congressional track paragraph; added Probability Trigger for Congressional action; added both sources to Key Sources
 - Generated Watch Report 02-07-2026 — second monthly watch report
 - Key developments since Report #1:
   - Aliyev escalated preconditions: "Western Azerbaijan" conference in US Congress (June 24), UN-level demands for resettlement of 300,000 Azerbaijanis, return of enclaves, territorial adjustments

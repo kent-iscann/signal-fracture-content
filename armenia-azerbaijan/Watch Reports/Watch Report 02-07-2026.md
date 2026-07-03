@@ -23,6 +23,7 @@ Armenia and Azerbaijan will fail to sign a comprehensive peace treaty over the n
 
 ## What's New
 - Western Azerbaijan Community held an irredentist conference in the US Congress (June 24) — the latest venue in a long-running campaign exposed by OC Media in Nov 2025, not a post-election escalation. The underlying demands (enclave returns, territorial adjustments, resettlement) have been part of Aliyev's negotiating posture since before the election.
+- US Congressional pressure on Azerbaijan is intensifying: the Sherman Amendment is advancing to a recorded roll call vote in House Foreign Affairs Committee, declaring it the sense of Congress that Azerbaijan should unconditionally release all Armenian POWs and political prisoners. Eight pro-Armenian amendments to FY2027 NDAA and appropriations bills are moving through House Rules, covering hostage release, withdrawal from occupied territory, cultural heritage protection, and refugee return (ANCA). Bipartisan statements from Schiff, Kim, Fong, and the Tom Lantos Commission marked the 1,000-day hostage milestone. ANCA's Hamparian called the peace framework a "consolidation of Azerbaijan's ethnic cleansing of Artsakh — a prelude to the next war."
 - Armenia's Deputy Foreign Minister Vahan Kostanyan announced in Brussels that Armenia has set **2030** as the target year for full border reopening with Turkey and Azerbaijan, formally pushing the normalization timeline years beyond the peace treaty horizon
 - Eagle Partner 2026 military exercises (June 17–25) expanded to a multinational format with US, France, and Greece participating for the first time; Armenia also participated in Paris Eurosatory 2026 defense exhibition with 30 domestic defense companies and signed a cooperation agreement between BooTech and Thales
 - DFC TRIPP Public Information Summary revealed the implementation structure but confirms no DFC funding has been committed — sub-project equity is capped at 40% and the corporate structure alone does not obligate US financial participation
@@ -43,6 +44,8 @@ The June 7 election gave Pashinyan a mandate — but not the one he needed. Civi
 This pattern is consistent with Aliyev's negotiating behavior: he is in no rush to sign a deal. Each time Pashinyan accepts an existing demand, Aliyev maintains or re-emphasizes others. The constitutional amendment — once framed by Azerbaijani Ambassador Mammadov as the final precondition before peace agreement signing — is now clearly just one item in a broader set of demands. The sequential condition chain (constitutional change → peace agreement → border openings) has been effectively broken by demands that have no realistic diplomatic path to resolution.
 
 **The NATO summit in Ankara (July 2026) is the imminent diplomatic moment.** Carnegie analysts Coşkun and Paylan (June 11) proposed Erdoğan convene Trump, Pashinyan, and Aliyev on the sidelines. This is the most plausible venue for a diplomatic breakthrough — but the format (Erdoğan as host, Aliyev as Erdoğan's closest ally) is inherently stacked. Trump may prioritize a photo-op; the substance will depend on whether the US is willing to define what Aliyev's "Western Azerbaijan" demands mean in practice and whether the White House is willing to push back.
+
+**A parallel Congressional accountability track is gaining momentum independently of the Executive branch.** The Sherman Amendment — advancing to a recorded roll call vote in House Foreign Affairs Committee with bipartisan support from Chairman Mast (R-FL) — targets the hostage issue directly, declaring it the sense of Congress that Azerbaijan should unconditionally release all Armenian POWs and political prisoners. Eight pro-Armenian amendments to FY2027 NDAA and appropriations bills, introduced by Caucus Co-Chairs Pallone (D-NJ) and Bilirakis (R-FL), Vice-Chair Sherman, and Representatives Amo (D-RI) and Costa (D-CA), cover: hostage release, withdrawal from occupied Armenian territory, protection of Artsakh cultural heritage, and safe return of displaced persons. While none are binding, their advancement through House Rules signals tangible escalation in Congressional attention to Azerbaijani human rights violations — and creates a potential friction point with the White House peace agenda if the Trump administration prioritizes transactional diplomacy over accountability. ANCA's Hamparian explicitly warned against "rewarding Azerbaijani aggression with American tax dollars."
 
 Pashinyan's meeting with Zelensky in Yerevan and Security Council Secretary Grigoryan's attendance at the Ukraine recovery conference in Gdansk drew explicit condemnation from Putin aide Ushakov, who warned of potential "tragedy" akin to Ukraine. Russia's pressure campaign continues post-election — trade bans have expanded to cover most Armenian agricultural exports, and Russia still holds significant leverage through gas agreements and the railway concession regime (until 2038).
 
@@ -90,16 +93,17 @@ Turkey's normalization includes potential cooperation on telecommunications and 
 ---
 
 ## Probability Triggers
-| Event | Direction |
-|-------|-----------|
-| Aliyev formalizes "Western Azerbaijan" resettlement and enclave demands as new peace treaty preconditions | Up |
-| NATO summit in Ankara produces concrete diplomatic framework or timeline for peace treaty signing | Down |
-| Pashinyan secures opposition support or an alternative legal path around the constitutional supermajority deadlock | Down |
-| Major border incident or Azerbaijani military escalation targeting Armenian territorial positions | Up |
-| US announces committed DFC funding for TRIPP sub-projects with specific timeline | Down |
-| Russia conducts new large-scale interference operation or escalates economic pressure beyond trade bans | Up |
-| Turkey announces a timeline for land border opening with Armenia independent of the Azerbaijan peace treaty | Down |
-| Iran objects formally to the Armenia-West military relationship or AD-08 deployment conditions | Up |
+|| Event | Direction |
+||-------|-----------|
+|| Aliyev formalizes "Western Azerbaijan" resettlement and enclave demands as new peace treaty preconditions | Up |
+|| NATO summit in Ankara produces concrete diplomatic framework or timeline for peace treaty signing | Down |
+|| Pashinyan secures opposition support or an alternative legal path around the constitutional supermajority deadlock | Down |
+|| Major border incident or Azerbaijani military escalation targeting Armenian territorial positions | Up |
+|| Congress passes Sherman Amendment or advances binding pro-Armenian accountability measures | Down |
+|| US announces committed DFC funding for TRIPP sub-projects with specific timeline | Down |
+|| Russia conducts new large-scale interference operation or escalates economic pressure beyond trade bans | Up |
+|| Turkey announces a timeline for land border opening with Armenia independent of the Azerbaijan peace treaty | Down |
+|| Iran objects formally to the Armenia-West military relationship or AD-08 deployment conditions | Up |
 
 ---
 
@@ -113,6 +117,8 @@ Turkey's normalization includes potential cooperation on telecommunications and 
 7. [German Marshall Fund: A New Connectivity Hub](https://www.gmfus.org/news/new-connectivity-hub) (June 1, 2026) — Armenia reframed as connectivity hub in Black Sea–South Caucasus–Central Asia architecture
 8. [CNN: Poised to Accelerate a Pivot Away from Russia, Armenian PM Claims Election Win](https://www.cnn.com/2026/06/08/europe/armenia-election-pashinyan-russia-analysis-intl) (June 8, 2026) — Post-election analysis, Trump endorsement, constitutional reform deadlock
 9. [Carnegie Endowment: Will Russia–Armenia Relations Improve Following Pashinyan's Re-Election?](https://carnegieendowment.org/russia-eurasia/politika/2026/06/russia-armenia-post-election) (June 11, 2026) — Russia still holds significant leverage, limited pre-election tools, gas and railway leverage remain
+10. [ANCA: Congressional Leaders Demand Release of Armenian Hostages](https://anca.org/press-release/congressional-leaders-demand-release-of-armenian-hostages/?ref=oc-media.org) (June 24, 2026) — Bipartisan Congressional press conference marking 1,000 days; Sherman Amendment advancing; 8 pro-Armenian amendments in House Rules
+11. [OC Media: Baku-linked NGO hosts first ever event on ethnic cleansing of Azerbaijanis in US Congress](https://oc-media.org/baku-linked-ngo-hosts-first-ever-event-on-ethnic-cleansing-of-azerbaijanis-in-us-congress/) (June 24, 2026) — Baku Initiative Group's "Right of Return" conference in US Capitol, simultaneous with ANCA separate hostage event
 
 ---
 
