@@ -29,7 +29,7 @@ Armenia and Azerbaijan will fail to sign a comprehensive peace treaty over the n
 - DFC TRIPP Public Information Summary revealed the implementation structure but confirms no DFC funding has been committed — sub-project equity is capped at 40% and the corporate structure alone does not obligate US financial participation
 - Armenia further distanced itself from Russia: Pashinyan met with Zelensky in Yerevan, Security Council Secretary Grigoryan attended the Ukraine recovery conference in Gdansk, and the Kremlin explicitly condemned both gestures, with Putin aide Ushakov warning of potential "tragedy" akin to Ukraine
 - Carnegie Endowment analysts (June 11) identified the upcoming July 2026 NATO summit in Ankara as the critical diplomatic window, proposing Erdoğan convene Trump, Pashinyan, and Aliyev on the sidelines
-- Probability unchanged at 80%: the structural deadlock (Pashinyan's supermajority deficit + Aliyev's broadened demands) remains the binding constraint on a peace treaty within 12 months. The long-running Western Azerbaijan campaign, the constitutional impasse, and the 2030 normalization timeline announced by Kostanyan all reinforce the assessment.
+- Probability increased from 75% to 80%: the structural deadlock (Pashinyan's supermajority deficit + Aliyev's broadened demands) remains the binding constraint on a peace treaty within 12 months. The long-running Western Azerbaijan campaign, the constitutional impasse, and the 2030 normalization timeline announced by Kostanyan all reinforce the assessment.
 
 ---
 
