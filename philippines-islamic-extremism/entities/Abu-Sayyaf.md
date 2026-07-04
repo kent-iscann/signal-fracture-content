@@ -12,3 +12,9 @@ Jihadist militant organization based in the Sulu Archipelago (Jolo and Basilan i
 
 ## Spoiler potential
 ASG remnants serve as a recruitment pipeline for more ideologically committed splinter groups. Former ASG members who reject the MILF's peace deal represent a spoiler threat to the Bangsamoro transition. The February 2026 Patikul encounter suggests the group may be attempting a tactical resurgence ahead of the September elections.
+
+## RSIS CTTA 2026 Analysis
+- ASG leader Radullan Sahiron long disagreed with IS ideology and rejected foreign fighter recruitment. In late 2022, he ordered ASG remnants to return to their communities, but surrendered combatants remain isolated from mainstream Sulu society.
+- Retributive violence persists: Ustaz Bahang (surrendered radical preacher) was killed by unknown elements in Basilan in October 2025, demonstrating ongoing insecurity for former combatants.
+- Most ASG surrenders occurred after leadership decapitation (e.g., 110 members surrendered in Sulu after Hajan Sawadjaan's death in July 2020).
+- ASG members from the Sahiron faction who surrendered remain socially isolated in Sulu.

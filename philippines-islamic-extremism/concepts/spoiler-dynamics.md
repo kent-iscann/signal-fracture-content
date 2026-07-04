@@ -7,6 +7,8 @@
 ### Total spoilers
 - Hardline Islamist factions (ISIS-affiliated groups in Lanao del Sur/Maguindanao) who reject any peace with Manila and seek to establish an Islamic state through violence
 - Goal: collapse the BARMM process entirely
+- **BIFF (Salahuddin faction):** Being rebuilt by "Muhammad Usman" through familial networks in the SPMS Box marshlands (Maguindanao) — despite the 2023 surrender of Turaife faction, the Salahuddin faction continues fighting.
+- **DIMG (Dawlah Islamiyah-Maute Group):** Leadership vacuum after Abu Zacariah killed (June 2023), but rebuilding underway in Piagapo municipality (Lanao del Sur). Notably recruited children under 10 during the 2017 Marawi siege.
 
 ### Limited spoilers
 - MILF commanders and politicians who lost intra-party power struggles and may resort to violence or sabotage to derail elections

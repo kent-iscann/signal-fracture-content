@@ -20,6 +20,10 @@ The ongoing implementation of the 2014 Comprehensive Agreement on the Bangsamoro
 - **Resource control:** Disputes over Bangsamoro's fiscal autonomy and natural resource revenue sharing with Manila
 - **MILF fragmentation:** BFP split from UBJP and Iqbal corruption crisis threaten MILF unity ahead of elections
 - **Reintegration failures:** Three of those killed in the April 2026 Dawla Islamiyah operation were former surrenderees, exposing serious flaws in extremist reintegration programs
+- **Decommissioning suspended (2026):** MILF suspended BIAF decommissioning citing OPAPRU failures to deliver socioeconomic programmes — a major regression in the normalisation track that risks leaving 40,000 former fighters in limbo.
+- **BIFF rebuilding and DIMG recovery:** RSIS CTTA reports BIFF's Salahuddin faction being rebuilt by "Muhammad Usman" in SPMS Box marshlands and DIMG attempting to regroup in Piagapo, Lanao del Sur — both indicators of persistent Islamist recruitment despite diminished capacity.
+- **UBJP's narrow electoral base:** RSIS CTTA analysis notes UBJP only represents Maguindanao, not the broader Bangsamoro indigenous population, potentially undermining the legitimacy of MILF governance.
+- **Limited female representation:** MindaNews reports only 31.1% of candidates are women; UBJP and BFP have zero women in top 10 party nominee lists, risking governance legitimacy gaps.
 
 ## Assessment
 The peace process is at its most fragile point since 2019. CCAA warns violence will likely increase in 2026 as the region heads to its first parliamentary election. Violent extremism incidents rose from 29 (late 2025) to 40 (Jan–May 2026), with deaths nearly doubling. The June 8 magnitude-7.8 earthquake has added a compounding humanitarian crisis that diverts governance bandwidth from election preparation. PRO-BAR has identified 92 towns as areas of concern for election security. Successful elections would consolidate the MILF's political legitimacy and undermine extremist recruitment narratives. Failed or fraudulent elections could reverse years of progress.
