@@ -62,3 +62,13 @@
 - Updated index with new watch report entry, date (2026-07-02), page count (10→11)
 - Updated watch-reports-summary with probability change and new report
 - PDF generated for new watch report
+
+## [2026-07-08] ingest | Weekly source update — Namibia China investment push, Lobito Corridor critical assessment, China's emerging ESG framework, US MCC/TAZARA corridor competition
+- Added source 26: FurtherAfrica (July 7, 2026) — Namibia's President Nandi-Ndaitwah courts Chinese firms in Guangzhou for value-addition investment. New country dimension: Husab uranium mine (CGN), Atlantic logistics hub ambitions, renewable energy PPA offer. Created new Namibia entity page.
+- Added source 27: ECDPM (July 8, 2026) — Critical assessment of Lobito Corridor by Jones/Hameiri. Reveals inflated Western spending figures: actual EU support under €112M; US $550M loan undrawn; 80-95% of Lobito copper China-bound; consortium ~11% Chinese-owned; Zambian spur ($4-5B) unlikely to be built.
+- Added source 28: Africa-China Centre (June 29, 2026) — China's evolving ESG governance of overseas mining: CCCMC Sustainable Mining Code, National Human Rights Action Plan (2026-2030). New Western initiatives: US-Kenya Mrima Hill deal ($62.4B), G7 Critical Minerals Action Plan, FORGE. ~13 African countries now with export restrictions; Namibia's ban on unprocessed mineral exports.
+- Added source 29: Geopolitical Futures (June 2026) — US MCC expands $491M Zambia compact for Lobito Corridor support; China's $1.4B TAZARA rehabilitation plan.
+- Updated timeline with 7 new events (June-July 2026, including ECDPM analysis, MCC compact, Namibia state visit, G7/China ESG/Kenya deal).
+- Updated lobito-corridor.md: added Critical Assessment section with ECDPM data.
+- Updated critical-minerals-strategy.md: added ESG governance, export restriction wave, Western counter-initiative sections.
+- Updated index: source count 25→29, page count 11→12, added Namibia entity.

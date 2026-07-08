@@ -1,6 +1,6 @@
 # Chinese Infrastructure Plays in Southern Africa — Wiki Index
 
-> Content catalog. Last updated: 2026-07-02 | Total pages: 11 | Total sources: 25
+> Content catalog. Last updated: 2026-07-08 | Total pages: 12 | Total sources: 29
 
 ## Timelines
 - [[china-southern-africa-timeline]] — Chronological overview of Chinese infrastructure and mineral access plays in Southern Africa
@@ -11,6 +11,7 @@
 - [[zambia]] — Zambia: Copperbelt copper/cobalt; key node in Lobito Corridor and TAZARA railway
 - [[angola]] — Angola: Lobito Corridor Atlantic gateway; diamonds, iron ore
 - [[tanzania]] — Tanzania: Indian Ocean export hub (Dar es Salaam); emerging rare earth producer
+- [[namibia]] — Namibia: Husab uranium mine (CGN); Atlantic logistics hub ambitions; rare earth, lithium, copper deposits; beneficiation push
 
 ## Concepts
 - [[infrastructure-for-resources]] — The infrastructure-for-resources model: how China trades roads, railways, and ports for mining concessions

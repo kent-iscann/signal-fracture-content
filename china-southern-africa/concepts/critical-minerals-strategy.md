@@ -21,3 +21,22 @@ China's Southern African infrastructure plays are fundamentally driven by a stra
 - **Financing leverage:** Chinese banks offer loans when Western lenders won't, secured against mineral assets. Zimbabwe (June 2026) is now negotiating resource-backed infrastructure financing with China Railway, modeled on DRC's $7 billion Sicomines deal — extending the infrastructure-for-resources model into new territory.
 - **Beneficiation pivot:** Responding to host-nation demands for domestic processing rather than withdrawing
 - **BRICS coordination:** China is leveraging BRICS as an institutional buffer against G7 de-risking. At the June 2026 BRICS National Security Advisors meeting, Wang Yi called for deeper strategic minerals cooperation. China's embedded position across BRICS supply nodes (DRC cobalt, Zambia copper, Zimbabwe lithium/manganese, Brazil niobium, Russia nickel) creates overlapping supply chains that make a clean Western decoupling impossible.
+- **TAZARA renewal:** China has a ~$1.4B plan to rehabilitate the TAZARA railway (completed 1975, Zambia-Dar es Salaam), renewing its infrastructure position in the Copperbelt's Indian Ocean export route.
+
+## Evolving governance: China's emerging sustainability framework
+China is developing new governance mechanisms for overseas mining, responding to international scrutiny:
+- **CCCMC Sustainable Mining Code:** The China Chamber of Commerce of Metals, Minerals and Chemicals Importers and Exporters opened a call for inputs into a new code covering environmental management, stakeholder engagement, biodiversity conservation, occupational health and safety, mine closure, and community relations — aligning with EU frameworks.
+- **National Human Rights Action Plan (2026-2030):** Encourages Chinese enterprises operating overseas to undertake human rights due diligence, strengthen grievance mechanisms, and minimize adverse social/environmental impacts (inspired by UN Guiding Principles on Business and Human Rights).
+
+## Competing initiatives: Western counter-strategies
+- **US Millennium Challenge Corporation:** Expanded $491M Zambia agriculture compact to support Lobito Corridor critical minerals infrastructure
+- **US-Kenya Mrima Hill deal:** Preliminary agreement for access to rare earth/niobium deposit valued at $62.4B (June 2026)
+- **G7 Critical Minerals Action Plan:** Adopted at Evian summit (June 17, 2026), targeting supply chain security
+- **FORGE:** Forum on Resource Geostrategic Engagement led by the Trump administration
+- **Minerals Security Partnership:** US-led initiative with partner nations
+
+## Africa's export restriction wave
+~13 African countries have introduced export restrictions, taxes, or bans on unprocessed minerals, inspired by Indonesia's nickel policy:
+- Zimbabwe: banned raw lithium ore (2022), set full concentrate export ban for January 2027
+- Namibia: prohibited export of unprocessed lithium, cobalt, graphite, manganese, rare earths without written approval
+- Similar debates underway in Zambia, DRC, Ghana, Tanzania, Malawi, Guinea
