@@ -1,5 +1,22 @@
 # Wiki Ingest Log
 
+## 2026-07-08 ingest | Weekly source update (armenia-azerbaijan)
+- **Priority Sources (8 new):**
+  - Eurasianet (Jul 7): Pashinyan-Mishustin Yekaterinburg meeting — Russia extends olive branch with warnings about investor protection
+  - JAMnews (Jul 2026): Armenia begins independent restoration of railway sections to Turkey/Azerbaijan borders, bypassing Russia's South Caucasus Railway concession
+  - Caucasus Watch (Jul 3): Von der Leyen in Yerevan — €18M final tranche, autonomous trade measures liberalizing ~80% of Armenian exports to EU, "economic violence" from Russia
+  - Caucasus Watch (Jul 7): Pashinyan — fuel market resilient; EU duty-free access approved by EC, pending formal adoption
+  - Caucasus Watch (Jun 29): Pashinyan warns against reviving Karabakh issue, questions EAEU functioning; TRIPP in active phase, construction possible before year-end
+  - Caucasus Watch (Jul 2026): Galuzin links EAEU stability, transport corridors, and Russian military presence in Armenia
+  - Caucasus Watch (Jul 2026): Azerbaijan summons Russian ambassador over SOCAR facility strike in Ukraine
+  - Meydan TV (Jun 22): Grigoryan-Hajiyev meeting in Dilijan — first bilateral at this level on Armenian territory; "managing threat of war"; next meeting in Azerbaijan
+- **Tavily Searches (2 new):**
+  - Reuters (Jul 6): Pashinyan hopes to resolve "problematic issues" with Russia; €52M EU support post-election
+  - AEI/Michael Rubin (Jul 2026): Trump's Section 907 waiver allowing US weapons to Azerbaijan contradicts peace process; Aliyev occupies ~100 sq mi of Armenian land
+- Updated sources.md (30 → 40), index.md source count (30 → 40)
+- Pashinyan entity: added Yekaterinburg visit, railway independence move, EU trade access development
+- TRIPP concept: added construction timeline (Pashinyan: before year-end, no political/financial obstacles)
+
 ## 2026-06-16 ingest | Weekly source update (armenia-azerbaijan)
 - Added 4 new sources covering: Azerbaijani ambassador's conditions for border opening, Akhalkalaki-Kars railway opening, geopolitical analysis of railway normalization, and Pashinyan's Republic Day military reforms speech.
 - Updated timeline with 4 new entries (May 19-28)
