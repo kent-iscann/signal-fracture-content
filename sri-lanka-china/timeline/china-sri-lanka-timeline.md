@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-07-01
+updated: 2026-07-08
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -170,6 +170,17 @@ An IMF mission led by Evan Papageorgiou visited Colombo to review macroeconomic 
 ---
 
 ## Key Statistics
+
+### July 1, 2026 -- World Bank Reclassifies Sri Lanka as Upper-Middle-Income Economy
+The World Bank's annual income classification update, released July 1, 2026, reclassified Sri Lanka from lower-middle to upper-middle income. Sri Lanka's Atlas GNI per capita reached $4,670 in 2025 (up 11.2%), narrowly crossing the $4,636 threshold. Real GDP grew 5% in 2025, driven by broad-based recovery across industry, manufacturing, financial services, and tourism. The World Bank described the country as "a story of recovery" and the reclassification as "a marker of resilience." Sri Lanka first entered this category in 2019 before falling back during the 2022 economic crisis. The milestone serves as a symbolic marker of the nation's IMF-backed economic rebound.^[The Hindu, July 2, 2026]^[Xinhua, July 2, 2026]^[World Bank blog, July 1, 2026]
+
+### July 2, 2026 -- CPC 105th Anniversary: Ambassador Qi Pledges Party-to-Party Cooperation
+Chinese Ambassador Qi Zhenhong hosted a reception in Colombo marking the 105th anniversary of the founding of the Communist Party of China, attended by representatives of all major Sri Lankan political parties: JVP (Tilvin Silva), SJB (Sajith Premadasa), SLPP (Sagara Kariyawasam), UNP (Wajira Abeywardena), and CPSL (G. Weerasinghe). The CPC pledged to strengthen exchanges on governance, poverty alleviation, and digital cities. The ambassador emphasized the "successful meeting between President Xi Jinping and President Anura Kumara Dissanayake" as providing a new blueprint for bilateral relations and reaffirmed China's commitment to the Belt and Road Initiative, Global Development Initiative, and other multilateral frameworks.^[Newswire, July 2, 2026]
+
+### July 2026 -- China EXIM Bank Vice President Visits Sri Lanka; Central Expressway Amendment Progressed
+A high-level delegation from the Export-Import Bank of China, led by Vice President Yang Dongning, visited Sri Lanka for discussions with Deputy Finance Minister Dr. Anil Jayantha Fernando and senior Treasury officials. The key agenda item was the amended Financing Agreement for Section I of the Central Expressway Project (Kadawatha-Meerigama), financed by China EXIM Bank. Both sides reviewed the amendment process, and the Sri Lankan government expressed its intention to complete all formalities and sign the amended agreement before the end of August 2026. Dr. Fernando outlined the government's strategy prioritizing tourism, value-added manufacturing, logistics, energy, and IT. This represents the first substantive EXIM Bank engagement with the Dissanayake administration on an active infrastructure project since the debt restructuring.^[Global CEO Magazine, July 2026]
+
+---
 
 | Metric | Value | Source |
 |--------|-------|--------|

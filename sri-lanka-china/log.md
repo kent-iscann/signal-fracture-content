@@ -135,3 +135,20 @@
 - **Next review: 2026-10-02**
 - Watch report: Watch Report 02-07-2026.md
 - PDF generated successfully
+
+## [2026-07-08] ingest | 3 new sources: World Bank reclassification, CPC party-to-party ties, EXIM Bank Central Expressway amendment
+
+- **Source #43-44**: World Bank reclassifies Sri Lanka as upper-middle-income economy (July 1, 2026). The Hindu and Xinhua cover the milestone: Sri Lanka's GNI per capita reached $4,670, 5% GDP growth in 2025. First entry to this category since 2019 before the crisis. Symbolic marker of IMF-backed recovery and important context for evolving China-Sri Lanka financial engagement.
+
+- **Source #45**: "China pledges closer party-to-party ties with Sri Lanka" -- Newswire (July 2, 2026). Ambassador Qi Zhenhong hosted all major Sri Lankan political parties at CPC 105th anniversary. Pledged cooperation on governance, poverty alleviation, digital cities. Signals new party-to-party diplomacy dimension alongside government-to-government relations.
+
+- **Source #46**: "Chinese EXIM Bank Reaffirms Commitment" -- Global CEO Magazine (July 2026). EXIM Bank VP Yang Dongning visited Sri Lanka to discuss amended Financing Agreement for Central Expressway Section I (Kadawatha-Meerigama). Sri Lanka aims to sign by end of August 2026. First substantive EXIM Bank engagement on an active infrastructure project with the Dissanayake administration.
+
+**Wiki pages updated:**
+- sources.md: Added 3 new source entries (#43-46) in 2 new categories: "Post-Crisis Recovery & International Recognition" and "Infrastructure Financing & Active Projects"
+- timeline/china-sri-lanka-timeline.md: Added 3 new timeline entries (July 1 World Bank reclassification, July 2 CPC reception, July 2026 EXIM Bank visit). Updated frontmatter date.
+- index.md: Updated last-updated date (2026-07-02 → 2026-07-08) and source count (42 → 46)
+- concepts/belt-and-road-initiative.md: Added 2 new bullet points (CPC reception, EXIM Bank amendment). Updated frontmatter date.
+- concepts/imf-geopolitics.md: Added "Post-Crisis Milestone: World Bank Reclassification" section. Updated frontmatter date.
+
+**Total sources**: 42 → 46

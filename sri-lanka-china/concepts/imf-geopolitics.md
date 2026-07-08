@@ -1,7 +1,7 @@
 ---
 title: IMF, China, and Sri Lanka's Debt Restructuring
 created: 2026-05-27
-updated: 2026-07-01
+updated: 2026-07-08
 type: concept
 tags: [IMF, debt restructuring, geopolitics, China-US rivalry, creditor governance, voting shares]
 sources: [raw/articles/stair-imf-geopolitics-2026.md, raw/articles/imf-pr26229-june-2026.md]
@@ -85,6 +85,10 @@ The formal Seventh Review of the EFF arrangement will take place during an upcom
 
 ### Meetings
 The mission held meetings with President and Finance Minister Anura Kumara Dissanayake, Prime Minister Dr. Harini Amarasuriya, Labor Minister and Deputy Finance Minister Prof. Anil Jayantha Fernando, CBSL Governor Dr. P. Nandalal Weerasinghe, Secretary to the Treasury Dr. Harshana Suriyapperuma, and other senior officials, as well as private sector, civil society, and development partners.
+
+## Post-Crisis Milestone: World Bank Reclassification (July 2026)
+
+On July 1, 2026, the World Bank upgraded Sri Lanka from lower-middle to upper-middle income status, citing 5% GDP growth in 2025 and describing the country as "a story of recovery." While not an IMF action, this reclassification reflects the success of the IMF-backed stabilization program — fiscal consolidation, monetary reforms, and external debt restructuring — that Sri Lanka has pursued since 2023. The milestone provides a macroeconomic context for understanding how China-Sri Lanka financial relations are evolving from crisis-era restructuring toward a new phase of normalized engagement.^[The Hindu, July 2, 2026]^[World Bank blog, July 1, 2026]
 
 ---
 

@@ -1,5 +1,7 @@
 # Sources
 
+> Total sources: 45 | Last updated: 2026-07-08
+
 ## Debt and Lending
 
 1. "Evolution of Chinese Lending to Sri Lanka Since the mid-2000s" -- China-Africa Research Initiative (CARI) at Johns Hopkins SAIS
@@ -220,3 +222,31 @@
 42. "Sri Lanka Strengthens Trade and Investment Ties with China at China–South Asia Exposition 2026" -- Sri Lanka Department of Commerce (June 2026)
     https://www.doc.gov.lk/index.php?option=com_content&view=article&id=347&lang=en
     Sri Lanka participated in the 10th China–South Asia Exposition (June 11–16, 2026) in Kunming with a delegation of 250+ business representatives from ~100 exporters, led by Trade Minister Wasantha Samarasinghe. The 100-booth Sri Lanka Pavilion (1,000+ sqm) showcased Ceylon tea, spices, gems, apparel, and other exports. A B2B matchmaking event produced an MoU between Sri Lankan liquor exporter Premium Beverages and a leading Chinese distributor. China offered Sri Lankan exporters free warehouse access at the Kunming Comprehensive Bonded Zone under the "Three Facilitations and Three Exemptions" initiative. Sri Lanka's Department of Commerce received the "Outstanding Exhibition Organizer Award." Represents one of Sri Lanka's largest-ever trade delegations to China.
+
+---
+
+## Post-Crisis Recovery & International Recognition
+
+43. "Sri Lanka upgraded to upper-middle income economy by World Bank" -- The Hindu (July 2, 2026)
+    https://www.thehindu.com/business/Economy/sri-lanka-upgraded-to-upper-middle-income-economy-by-world-bank/article71173142.ece
+    The World Bank reclassified Sri Lanka from lower-middle to upper-middle income on July 1, 2026, after the economy expanded by 5% in 2025. Sri Lanka's Atlas GNI per capita reached $4,670 (up 11.2%), narrowly crossing the $4,636 threshold. Described the country as "a story of recovery" driven by broad-based growth across industries, tourism, and financial services. Sri Lanka first entered this category in 2019 before falling back during the crisis.
+
+44. "World Bank reclassifies Sri Lanka as upper-middle income economy" -- Xinhua (July 2, 2026)
+    https://english.news.cn/asiapacific/20260702/5ec27fdc45a546bfb9ab67b4198e265b/c.html
+    Official Xinhua report on the same reclassification, providing an additional authoritative source on the milestone.
+
+---
+
+## Diplomatic Engagement & Party-to-Party Relations
+
+45. "China pledges closer party-to-party ties with Sri Lanka" -- Newswire (July 2, 2026)
+    https://www.newswire.lk/2026/07/02/china-pledges-closer-party-to-party-ties-with-sri-lanka
+    Chinese Ambassador Qi Zhenhong spoke at a reception marking the 105th anniversary of the founding of the CPC, attended by representatives of all major Sri Lankan political parties (JVP, SJB, SLPP, UNP, CPSL). The CPC pledged deeper exchanges on governance, poverty alleviation, and digital cities. The ambassador cited the "successful meeting between Xi Jinping and Anura Kumara Dissanayake" as providing a new blueprint for bilateral relations. Signals a new dimension of party-to-party diplomacy.
+
+---
+
+## Infrastructure Financing & Active Projects
+
+46. "Chinese EXIM Bank Reaffirms Commitment to Sri Lanka's Development Priorities" -- Global CEO Magazine (July 2026)
+    https://www.facebook.com/GlobalCEOTV/posts/chinese-exim-bank-reaffirms-commitment-to-sri-lankas-development-prioritiesa-hig/918173777989008
+    A high-level delegation from China EXIM Bank, led by Vice President Yang Dongning, visited Sri Lanka. Key focus: amended Financing Agreement for Section I of the Central Expressway Project (Kadawatha-Meerigama). The government aims to finalize and sign the amended agreement before the end of August 2026. Deputy Finance Minister Dr. Anil Jayantha Fernando outlined Sri Lanka's economic strategy prioritizing tourism, value-added manufacturing, logistics, energy, and IT. Represents the first substantive China EXIM Bank engagement with the Dissanayake administration on an active infrastructure project since the debt restructuring.
