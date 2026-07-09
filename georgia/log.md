@@ -139,3 +139,40 @@
 - Prediction changed from June 4 report to reflect China-Iran pivot and contested US reset as dominant dynamics
 - 17 key sources cited spanning China pivot, US congressional pushback, Iran influence, Central Asia outreach, and domestic repression
 - PDF generated successfully
+
+## 2026-07-09 | ingest | EU Awareness Centre: The West's Blind Spots in Russia's Hybrid War Against Georgia
+- Comprehensive analysis of Russia's cognitive warfare campaign against Georgia by Ambassador David Dondua
+- Three narratives examined: Saakashvili factor, fear of war, anti-LGBTQ+ "values war"
+- Critiques Western miscalculations: inconsistent conditionality, personalizing democracy around Saakashvili, public resolutions exploited as propaganda
+- Argues West brought "constructive capital" while Russia deployed "destructive capital" with greater precision
+- Lesson: quiet leverage over public resolutions, structural patience over episodic conditionality, communication calibrated to specific societies
+- Despite everything, Georgian society remains overwhelmingly pro-European; protest movement shows democratic resilience
+
+## 2026-07-09 | ingest | SovaNews: Georgia President at Khamenei's Funeral
+- President Kavelashvili attended Khamenei's funeral in Tehran, met with Pezeshkian
+- Drew sharp criticism from pro-Western forces given cooling US/EU relations and Iran sanctions evasion allegations
+- GD justified as regional protocol (Armenia, Azerbaijan also sent representatives)
+- Article traces Iran-Georgia relations: 2008 non-recognition of Abkhazia/S. Ossetia, 2010s visa-free era, post-2022 expansion
+- Bilateral trade reached $322M in 2024 ($285M Iranian imports); visit read as signal of foreign policy shift
+
+## 2026-07-09 | ingest | Georgia Today: The New Eurasian Axis — Kazakhstan and Georgia
+- Examines Kazakhstan-Georgia connectivity axis as structural transformation in world politics
+- Russia-Ukraine war elevated Middle Corridor; Kazakhstan ~60% of Central Asia GDP
+- Georgia is indispensable gateway from Central Asia to Black Sea ports and European markets
+- Baku-Tbilisi-Ceyhan, Southern Gas Corridor, BTK railway, Trans-Caspian route create "new Eurasian axis"
+- Europe views these projects as instruments of geopolitical resilience, not just economic initiatives
+
+## 2026-07-09 | ingest | Caucasus Watch: Washington's New South Caucasus Policy
+- Analysis by Emil Avdaliani of US hybrid approach: transactional, connectivity-centered, not democracy-promotion
+- South Caucasus treated as corridor space linking Europe, Turkey, Caspian basin, Central Asia
+- TRIPP designed to reduce Russian leverage over regional transport, limit Iran's transit role
+- Washington sees Armenia as most dynamic opening; Georgia indispensable for Middle Corridor/Black Sea security
+- Turkey's role critical; durability depends on sustained investment and credible security assurances
+
+## 2026-07-09 | ingest | GEOpolitics: Georgia's Clean Slate with the U.S.
+- In-depth analysis by Shota Gvineria on gap between diplomatic engagement and genuine normalization
+- GD seeks improved tone, not structural change: relief from sanctions, propaganda narrative
+- Documents pattern: concrete concessions end conversation; goodwill signals without change continue it
+- GD uses Frontera Resources lobbying, Trump Tower Tbilisi to create appearance of improving relations
+- Anaklia port negotiated away to Beijing while US-focused optics maintained
+- Three benchmarks proposed: release political prisoners, repeal repressive laws, restore electoral framework
