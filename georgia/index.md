@@ -1,9 +1,6 @@
 # Georgia — Geopolitical Positioning Wiki Index
 
-> Content catalog. Last updated: 2026-07-09 | Total pages: 12 | Total sources: 39
-
-## Priority Sources
-- [[priority-sources]] — Curated source list for weekly source monitor runs (regional specialists, think tanks, official sources, advocacy)
+> Content catalog. Last updated: 2026-07-09 | Total pages: 11 | Total sources: 39
 
 ## Timelines
 - [[georgia-timeline]] — Chronological overview of Georgia's geopolitical positioning from 2008 to present
