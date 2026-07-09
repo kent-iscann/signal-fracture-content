@@ -83,3 +83,6 @@
 
 ### June 19, 2026
 - **Kobakhidze visits Tajikistan** — First-ever official visit of a Georgian PM to Tajikistan. Signed 11 bilateral documents including Joint Intergovernmental Commission on Economic Cooperation. Followed earlier June visit to Kyrgyzstan. Part of Georgia's Central Asia diplomatic pivot: Tbilisi repositioning as bridge between Central Asia, South Caucasus, Turkey, and Europe via the Middle Corridor. Seeks to link China-Kyrgyzstan-Uzbekistan railway with Black Sea routes. Signals GD widening diplomatic room for maneuver beyond Western partners.
+
+### July 6, 2026
+- **China exits Anaklia port** — Georgian government confirms China's CCCC and China Harbour Investment formally withdrawn from Anaklia Deep Sea Port project. Announces "landlord" model: state retains ownership of core infrastructure while seeking multiple limited partners. 2029 target for first phase. Confirms GD's strategy of avoiding Western investment while courting Middle Corridor partners.

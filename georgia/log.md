@@ -176,3 +176,10 @@
 - GD uses Frontera Resources lobbying, Trump Tower Tbilisi to create appearance of improving relations
 - Anaklia port negotiated away to Beijing while US-focused optics maintained
 - Three benchmarks proposed: release political prisoners, repeal repressive laws, restore electoral framework
+
+## 2026-07-09 | ingest | Eurasianet: China quietly exits Georgian port deal
+- China formally walks away from Anaklia Deep Sea Port project (July 6 announcement)
+- Georgian government announces "landlord" model: state retains ownership of core infrastructure
+- China's CCCC and China Harbour Investment had 49% stake since 2024; exit formalizes months of speculation
+- Government targeting 2029 for first phase; Uzbek officials expressed vague interest in participation
+- Confirms GD strategy of avoiding Western investment while courting Middle Corridor partners
