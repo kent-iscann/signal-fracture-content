@@ -47,6 +47,9 @@ Kazakhstan's defining foreign policy doctrine since independence. The concept is
 - Human rights organizations assess the reforms as consolidating rather than dispersing executive authority.
 
 ## EU engagement (2026)
+- **EU Dialogue Platform (June 11, 2026):** 19th meeting chaired by PM Bektenov in Astana. Trade $45.2B in 2025; $12.4B in Jan-Apr 2026. Agricultural exports to EU up 34.3%. EU >30% of Kazakhstan's foreign trade. Cumulative EU investment >$200B. German representatives pressed for harmonized technical standards.
+- **Convention 108 observer status (June 2026):** Kazakhstan became first Central Asian country to obtain observer status at Council of Europe's data protection convention — signals digital governance alignment with European frameworks.
+- **European Parliament conference (June 2026):** Dedicated to Kazakhstan's political developments. MEP Mariani: "Astana is choosing a path of gradual and sovereign modernization at its own pace. This pragmatism is something we should understand, not replace with our own perceptions."
 - **June 21-23, 2026:** Tokayev visited Brussels, signed agreements/MoUs valued at $12B+.
   - 50 Airbus passenger jets (€7.1B).
   - Critical raw materials cooperation, batteries, green hydrogen value chain under strategic partnership roadmap.

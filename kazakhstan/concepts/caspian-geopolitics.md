@@ -12,6 +12,13 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - Kazakhstan revised its 2026 oil production target down to 98 million tons (from 100.5M) due to Tengiz field outages and CPC pipeline issues.
 - These constraints reinforce the urgency of diversification both in export routes and in the broader economy.
 
+## Caspian Green Energy Corridor (2026)
+- Kazakhstan, Azerbaijan, and Uzbekistan advancing plans for the **Caspian Green Energy Corridor** — HVDC submarine cable across the Caspian Sea connecting Central Asian renewables to European markets.
+- **5 GW renewable capacity by 2030**. Feasibility study by CESI (Italy, ~€1M, started Jan 2026, ~May 2027). Green Corridor Alliance JV (Azerenerji, Uzbek National Electric Grids, KEGOC) registered Baku July 2025. ADB/AIIB support.
+- Kazakhstan: 3.7 GW renewables installed (169 facilities), 10 GW planned by 2035 (QaJET), 9 new facilities (503 MW) in 2025.
+- Challenges: domestic electricity shortages, import reliance. Potential initial exports ~2032.
+- Complements Middle Corridor as both energy and trade corridor.
+
 ## Sanctions dimension
 - Russia is trying to anchor Kazakhstan more firmly into its sanctions-era architecture; Kazakhstan is trying to turn that embrace into leverage rather than dependence.
 - The EU's 20th sanctions package (April 2026) deployed a precedent-setting tool to block supplies of sanctioned goods to third countries used for circumvention. Kazakhstan faces growing secondary sanctions risk.
@@ -27,7 +34,17 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - Kazakhstan's multi-vector approach aims to balance these competing interests while maximizing energy revenues and transit leverage.
 - The SCO marks its 30th anniversary in 2026, with Kyrgyzstan chairing efforts to establish an SCO Development Bank.
 
-## EU-Kazakhstan Middle Corridor breakthrough (June 2026)
+## Alstom Middle Corridor investment (July 2026)
+- **Alstom** has invested **€200M+ ($228M)** in Kazakhstan over 15 years — its largest industrial footprint in Central Asia/Caucasus.
+- Employs **1,300+ people** (96% local). Produced 200+ electric locomotives; signed Dec 2025 for **205 KZ6 container-focused locomotives** (testing 2028, commercial ops 2029).
+- Expanding signaling (digital railway traffic management) business in Kazakhstan.
+- Uses Kazakh operations to serve Azerbaijan, Ukraine, Georgia markets.
+- Alstom President: only 4% of China-Europe freight goes by rail; Middle Corridor appetite growing as sea costs/insurance surge.
+- Validates Kazakhstan's long-term bet on the Middle Corridor as a strategic trade route.
+
+## EU-Kazakhstan trade deepening (June 2026)
+- **19th Kazakhstan-EU Dialogue Platform** (June 11, Astana) chaired by Bektenov: trade turnover $45.2B in 2025; $12.4B in Jan-Apr 2026. Kazakh agricultural exports to EU up 34.3% to $266.2M. EU accounts for >30% of foreign trade. Cumulative EU investment >$200B.
+- **Middle Corridor cargo growth:** Cargo volumes up **69%** in first 5 months of 2026; vehicles using route up 38%.
 - Tokayev's Brussels visit (June 21-23) produced $12B+ in agreements/MoUs with the EU, explicitly framed within the EU's Global Gateway program.
 - Joint statement stressed "strategic importance of the Trans-Caspian International Transport Route."
 - 50 Airbus aircraft deal (€7.1B) — significant for Kazakhstan's aviation connectivity to Europe.

@@ -10,10 +10,13 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 - **Dealroom.co ranking:** Kazakhstan entered the top 10 "Rising Stars" in the Global Tech Ecosystem Index 2026.
 - **Microsoft Global AI Diffusion Ranking (2026):** Kazakhstan ranked 70th out of 147 countries (15.9% AI adoption rate among 15-64 age group), leading all Central Asian and EAEU nations. Also in the top 10 globally for AI user growth (25.6% increase vs H2 2025).
 - **GITEX Central Asia & Caucasus 2026:** Inaugural GITEX event in Astana with 600+ global exhibitors, 60+ countries, 10,000+ professionals — ninth stop in the global GITEX network.
-- **Year of AI (2026):** Kazakhstan declared 2026 the "Year of Digitalization and Artificial Intelligence." Passed Central Asia's first comprehensive AI law. Launched National AI Platform and Alem.ai international AI center.
-- **Data Center Valley:** In June 2026, Kazakhstan signed a $10 billion package with Firebird and NVIDIA to build a massive data center cluster in Ekibastuz, including a planned 100,000 NVIDIA GPU cluster.
-- **AI economic impact:** AI adoption expected to contribute 0.5-2% to annual GDP growth in the medium term by improving productivity across more than half of all jobs.
+|- **Year of AI (2026):** Kazakhstan declared 2026 the "Year of Digitalization and Artificial Intelligence." Passed Central Asia's first comprehensive AI law. Launched National AI Platform and Alem.ai international AI center.
+|- **Data Center Valley:** In June 2026, Kazakhstan signed a $10 billion package with Firebird and NVIDIA to build a massive data center cluster in Ekibastuz, including a planned 100,000 NVIDIA GPU cluster.
+## AI economic impact
+- AI adoption expected to contribute 0.5-2% to annual GDP growth in the medium term by improving productivity across more than half of all jobs.
 - **AI training:** Approximately 1 million people received AI training by 2025; goal is to equip 5 million citizens with AI skills by 2030.
+- **Industrial digitalization:** Share of manufacturing enterprises using digital tools rose from **13% in 2022 to 21% in 2025**; 7,000 facilities deploying Industrial Internet of Things.
+- **Convention 108 observer status (June 2026):** Kazakhstan became first Central Asian country to obtain observer status at the Council of Europe's Convention 108, the leading international framework for personal data protection and privacy. Kazakhstan ranks **10th worldwide in UN Online Services Index** (leading CIS region).
 
 ## AI startup ecosystem
 - **100+ AI startups** operating nationwide as of mid-2026.

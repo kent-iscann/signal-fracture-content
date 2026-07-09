@@ -8,6 +8,15 @@ The EU, US, and other Western countries are increasingly engaging with Kazakhsta
 - **Conditionality:** Western engagement comes with expectations on democratic governance, human rights, and sanctions compliance. Kazakhstan's authoritarian governance model limits the depth of Western partnerships.
 - **Sanctions risk:** As Russia uses Kazakhstan to bypass Western sanctions, the risk of secondary sanctions against Kazakh entities increases. The UK's lowering of the Russian oil price cap in January 2026 heightened this risk.
 
+## EU engagement deepening (June-July 2026)
+- **19th Kazakhstan-EU Dialogue Platform** (June 11, Astana): trade $45.2B in 2025; $12.4B in Jan-Apr 2026. Agricultural exports to EU up 34.3%. EU >30% of Kazakhstan's foreign trade. Cumulative EU investment >$200B.
+- **Convention 108 observer status:** Kazakhstan became first Central Asian country to obtain observer status at the Council of Europe's Convention 108 (data protection/privacy framework) — represents growing digital governance alignment with European standards.
+- **European Parliament conference (June 2026):** Dedicated to Kazakhstan's political developments and EU-Kazakhstan relations, organized by Patriots for Europe group. MEP Thierry Mariani called for "pragmatic approach" to understanding Kazakhstan's reform process.
+- Middle Corridor cargo up **69%** in first 5 months of 2026 — directly addresses EU's supply chain diversification goals.
+- German representatives emphasized harmonizing technical/regulatory standards with EU norms.
+- **ADB VP Fatima Yasmin** (July 2026): Kazakhstan "well positioned to benefit" from global investment shift; digital infrastructure, AI, and critical minerals offer new opportunities.
+- **EBRD record investment:** EBRD indicated its investments in Kazakhstan could reach a record **€1.3 billion** in 2026, supporting transport, engineering, and social infrastructure.
+
 ## Current dynamic
 Western powers are cautiously increasing engagement with Kazakhstan, viewing it as a potential alternative energy supplier and a counterweight to Russian and Chinese influence. However, they remain skeptical of Kazakhstan's democratic credentials and wary of its deep ties to Moscow.
 

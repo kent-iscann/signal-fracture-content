@@ -12,7 +12,40 @@
 
 ---
 
-## 2026-07-02 | Weekly source update — 5 new sources added
+## 2026-07-09 | Weekly source update — 6 new sources added
+
+### Sources added
+
+1. **Trend.az: Course toward $25.5 billion — What Kazakhstan expects from international investors** (July 2026)
+   - Kazakhstan aims for $25.5B FDI in 2026 (up from $20B in 2025). 38th Foreign Investors' Council with Eni (247-MW hybrid plant), Baker Hughes (95% localization), EBRD (record €1.3B). Emphasis on technology transfer and production localization.
+
+2. **EUalive: Central Asia's green energy push — Caspian Green Energy Corridor** (June 2026)
+   - Kazakhstan, Azerbaijan, Uzbekistan advancing HVDC submarine cable across Caspian Sea for 5 GW renewable exports to Europe by 2030. Feasibility study by CESI (Italy, ~May 2027). Green Corridor Alliance JV. Kazakhstan: 3.7 GW renewables, 10 GW planned by 2035.
+
+3. **Astana Times: Alstom — Kazakhstan's Early Bet on the Middle Corridor Is Paying Off** (July 2026)
+   - Alstom invested €200M+ ($228M), its largest Central Asia/Caucasus footprint. 1,300+ employees (96% local). 205 KZ6 container locomotives for Middle Corridor (commercial ops 2029). Expanding signaling business.
+
+4. **Astana Times: Kazakhstan-EU Relations Deepen Beyond Trade** (June 2026)
+   - 19th EU Dialogue Platform: trade $45.2B in 2025; agricultural exports to EU up 34.3%. Convention 108 observer status (first Central Asian country). Middle Corridor cargo up 69% in 5 months. EU Parliament conference.
+
+5. **Astana Times: ADB VP Says Kazakhstan Can Benefit** (July 2026)
+   - ADB VP Fatima Yasmin at Foreign Investors' Council: Kazakhstan "well positioned" for global investment shift; digital infrastructure, AI, critical minerals as opportunity areas.
+
+6. **Trend.az: Kazakhstan offers favorable conditions for industrial investors — PM** (July 2026)
+   - Bektenov at INNOPROM (Yekaterinburg): digital tools adoption 13%→21% (2022-2025); 7,000 IIoT facilities. Priority: mechanical engineering, metallurgy, petrochemicals, advanced materials.
+
+### Files updated
+- sources.md: 38 → 44 sources
+- timeline/kazakhstan-timeline.md: extended July 2026
+- concepts/resource-curse.md: added FDI target, Green Energy Corridor
+- concepts/caspian-geopolitics.md: added Green Energy Corridor, Alstom, trade data, Middle Corridor cargo growth
+- concepts/tech-pivot.md: added industrial digitalization stats, Convention 108 observer status
+- concepts/multi-vector-foreign-policy.md: added EU Dialogue Platform, Convention 108, European Parliament conference
+- entities/western-powers.md: added EU engagement deepening section, ADB, EBRD record
+- entities/china.md: added Alstom Middle Corridor
+- entities/kassym-jomart-tokayev.md: added FDI strategy, EU relations deepening
+- entities/russia.md: added Middle Corridor cargo shift, INNOPROM
+- index.md: updated source count and date
 
 ### Sources added
 

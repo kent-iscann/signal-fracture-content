@@ -20,7 +20,7 @@ China is Kazakhstan's second-largest trading partner and a key source of investm
 ## Current dynamic
 China's economic influence in Kazakhstan is growing but remains secondary to Russia's in terms of security and institutional ties. Kazakhstan views China as a counterweight to Russian dominance, but is cautious about over-dependence on Beijing. China is increasingly willing to fill supply chain gaps (especially in critical components) that Russia can no longer provide due to sanctions. The agricultural trade deepening — particularly the grain platform — signals a structural shift in the bilateral relationship beyond energy and minerals. The nuclear protocol adds a new strategic dimension to the relationship.
 
-## $100 billion trade goal (June 2026)
+## $100 billion trade goal — and the Middle Corridor buildout (June-July 2026)
 - At the 9th China-Eurasia Expo in Urumqi (June 25, 2026), Deputy PM Serik Zhumangarin and Chinese Vice Premier Ding Xuexiang reaffirmed the goal of reaching **$100 billion in bilateral trade**.
 - **Key data:** Trade hit record $48.7B in 2025. Trade in Jan-May 2026: $22B (+27% YoY), expected to exceed $50B by year-end.
 - **New infrastructure:** China confirmed readiness for a **third cross-border railway crossing**; Kazakhstan expanding border capacity to 100M tons annually.
@@ -31,5 +31,6 @@ China's economic influence in Kazakhstan is growing but remains secondary to Rus
 - **2025 bilateral trade:** Exceeded $48B (some sources cite $227.9B including all goods). Chinese direct investment in Kazakhstan reached ~$2.8B.
 - **Rail freight:** 35.6 million tons in 2025 (+11% YoY). Over 85% of China-Europe overland cargo transits through Kazakhstan.
 - **Infrastructure investment:** Kazakhstan invested $35B+ in transport infrastructure over past 7 years, including Aktau container hub, Xi'an dry port, and Dostyk-Moyynty railway expansion.
+- **Alstom Middle Corridor investment (July 2026):** French rail giant Alstom invested €200M+ ($228M) in Kazakhstan — its largest industrial footprint in Central Asia. Signed 205 KZ6 container-focused locomotives (Dec 2025) specifically designed for Middle Corridor container traffic (commercial ops 2029). Alstom: only 4% of China-Europe freight goes by rail but appetite growing. Validates Kazakhstan's BRI/Middle Corridor strategy.
 - **BRI priorities (2026):** Bektenov outlined five directions — infrastructure connectivity, Middle Corridor development, digital logistics, green energy, financial/investment cooperation.
 - **Academic analysis (June 2026):** Peer-reviewed study (Frontiers in Political Science) shows Kazakhstan's bilateral trade shifted significantly 2020-2024 vs 2013-2019, with growing China share forcing Kazakhstan to hedge between BRI and US strategic response (NSS 2025).

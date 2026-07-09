@@ -9,6 +9,8 @@ Kazakhstan's economy remains heavily dependent on oil and gas. Hydrocarbons acco
 
 ## Diversification efforts
 - **Tech pivot:** AI, cryptocurrency mining, startup ecosystem (Astana Hub, GITEX, AI & Digital Bridge forum). $10B NVIDIA/Firebird Data Center Valley deal. 100+ AI startups, first AI unicorn (Higgsfield AI).
+- **FDI target:** Kazakhstan targeting **$25.5B in FDI in 2026** (up from $20B in 2025), with emphasis on technology transfer, production localization, and domestic capability building. 38th Foreign Investors' Council (July 2, 2026) featured Eni (247-MW hybrid plant in Zhanaozen), Baker Hughes (95% local operations), and EBRD (record €1.3B in 2026).
+- **Caspian Green Energy Corridor:** Ambitious plan with Azerbaijan and Uzbekistan for HVDC submarine cable across the Caspian Sea. **5 GW renewable capacity by 2030**. Feasibility study by CESI (Italy, ~May 2027). Green Corridor Alliance JV registered Baku July 2025. Kazakhstan: 3.7 GW renewables installed, 10 GW planned by 2035, 9 new facilities (503 MW) in 2025. Potential exports to Europe ~2032.
 - **Mining:** Uranium (world's largest producer), rare earths, copper, zinc
 - **Agriculture:** Wheat exports, growing agricultural trade with China (grain-trading platform launched May 2026, agri exports to China $1.43B in 2025)
 - **Transit:** Leveraging geographic position as a China-Europe corridor (BRI, Middle Corridor). BTC pipeline expansion (1.5-2.2M tons in 2026, up from ~1.2M) diversifies away from Russia-dependent CPC pipeline.
