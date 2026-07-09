@@ -50,3 +50,21 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - 50 Airbus aircraft deal (€7.1B) — significant for Kazakhstan's aviation connectivity to Europe.
 - Critical raw materials and green hydrogen value chain — positions Kazakhstan as a Western partner in clean-energy supply chain diversification.
 - Trans-Afghan corridor push (Khaf-Herat railway, Kabul visit) extends Kazakhstan's southward connectivity ambitions beyond the Caspian/Caucasus axis.
+
+## Azerbaijan-Kazakhstan connectivity boom (June 2026)
+- **First direct Baku-Shymkent flight** (June 16, 2026) by Azerbaijan Airlines — milestone in bilateral connectivity.
+- Direct flights from Baku to Aktobe and Atyrau (western Kazakhstan) expected to launch soon.
+- **First Caspian submarine fiber-optic cable** (380 km, 400 Tbps capacity) shipped from Azerbaijan to Kuryk Port, Kazakhstan (June 15, 2026); completion expected Q3 2026. Supports cross-border AI and digital infrastructure — a "digital Middle Corridor."
+- Kazakhstan-Azerbaijan bilateral trade: surpassed **$500M in 2022**, now targeting **$1B**.
+- **Kazakh oil via BTC pipeline:** 4 million tons from Tengiz and Kashagan fields have transited the Caspian to Azerbaijan and onward to global markets via the Baku-Tbilisi-Ceyhan pipeline.
+- **Kazakhstan-Azerbaijan Direct Investment Fund** (Samruk-Kazyna JSC and Azerbaijan Investment Holding) signed cooperation agreement with SOCAR (Oct 2025) on energy projects.
+- Joint ventures: **iron plant** in eastern Azerbaijan, **Baku Grain Terminal** storing Kazakh wheat.
+- **Tokayev's planned visit to Baku** later in 2026 — both heads of state have exchanged 14 visits in the last 5 years (Aliyev: 8 to KZ, Tokayev: 6 to AZ).
+
+## Kazakhstan-Uzbekistan financial integration (June 2026)
+- **Saida Mirziyoyeva's visit** to Kazakhstan (June 2026) — Head of Uzbekistan's Presidential Administration; met with Tokayev, First Deputy PM Sklyar, State Counselor Karin.
+- Uzbekistan plans a **Tashkent International Financial Center (TIFC)** modeled on the **Astana International Financial Center (AIFC)** — English common law jurisdiction, zero-percent major tax rates.
+- AIFC Governor Bekturov briefed the Uzbek delegation on AIFC mechanisms; 23 Uzbek companies already registered in AIFC.
+- Bilateral trade **$4.8B in 2025** (+16.2% vs 2024). Principal exports from KZ: wheat, metal products, flour, petroleum products.
+- **7 joint projects worth $1.2B** launched during Tokayev's state visit to Uzbekistan (Nov 2025), covering industry, construction, petrochemicals, finance, logistics, and tourism.
+- Deepening cooperation on **Islamic finance, green finance, sustainable finance, and capital market development**.

@@ -78,3 +78,16 @@ Kazakhstan's defining foreign policy doctrine since independence. The concept is
 
 ## Key question
 Whether multi-vector foreign policy can survive the intensifying great power competition, or whether Kazakhstan will be forced to choose sides — and whether the OTS or other regional frameworks can provide a collective buffer against that pressure.
+
+## Sovereign Connectivity Statecraft (academic framework, June 2026)
+- A peer-reviewed article (Verri, JCAS, June 2026) introduces **"sovereign connectivity statecraft"** as an analytical framework that goes beyond describing multi-vector diplomacy as a posture and instead identifies the **mechanism** through which Kazakhstan converts its diversified external relations into usable routes, rules, partnerships, and regional services.
+- **Five pillars:** (1) sovereignty — formal independence as a baseline; (2) balance — calibrated equidistance between powers; (3) connectivity — physical infrastructure linking Eurasia; (4) institutional resilience — stable governance despite external pressures; (5) regional public goods — providing services (transit, diplomacy, stability) that others rely on.
+- The framework argues multi-vector diplomacy is **necessary but insufficient**: it describes what Kazakhstan does, whereas sovereign connectivity statecraft explains **how it works** — by translating diplomatic openness into connective assets that give Kazakhstan conditional platform-state functions.
+- **Conclusion:** Kazakhstan has acquired limited bargaining power as a Eurasian connectivity platform, but this remains vulnerable to corridor bottlenecks (CPC, Middle Corridor chokepoints), commodity concentration (oil, gas, minerals), implementation gaps (reform vs. execution), and geopolitical asymmetry (small state vs. great power).
+
+## Oeconomus comprehensive analysis (2026)
+- The Oeconomus Foundation (Hungary) published a comprehensive analysis of Kazakhstan's economic evolution from 1991 to the present, framing it as a successful case of post-Soviet transformation driven by multi-vector pragmatism.
+- Nominal GDP projected at **$360.5B in 2026** (up from $302.8B in 2025), reflecting continued growth despite geopolitical turbulence.
+- Highlights Kazakhstan's **21 of 34 EU Critical Raw Materials** — positioning it as indispensable for Western green/tech transitions.
+- Discusses Hungarian-Kazakh bilateral relations as a case study in Europe-Central Asia engagement.
+- Assesses AIFC development as a key institutional success in attracting regional financial activity.

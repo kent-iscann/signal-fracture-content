@@ -35,16 +35,31 @@
    - Bektenov at INNOPROM (Yekaterinburg): digital tools adoption 13%→21% (2022-2025); 7,000 IIoT facilities. Priority: mechanical engineering, metallurgy, petrochemicals, advanced materials.
 
 ### Files updated
-- sources.md: 38 → 44 sources
-- timeline/kazakhstan-timeline.md: extended July 2026
-- concepts/resource-curse.md: added FDI target, Green Energy Corridor
-- concepts/caspian-geopolitics.md: added Green Energy Corridor, Alstom, trade data, Middle Corridor cargo growth
-- concepts/tech-pivot.md: added industrial digitalization stats, Convention 108 observer status
-- concepts/multi-vector-foreign-policy.md: added EU Dialogue Platform, Convention 108, European Parliament conference
-- entities/western-powers.md: added EU engagement deepening section, ADB, EBRD record
-- entities/china.md: added Alstom Middle Corridor
-- entities/kassym-jomart-tokayev.md: added FDI strategy, EU relations deepening
-- entities/russia.md: added Middle Corridor cargo shift, INNOPROM
+- sources.md: 44 → 48 sources
+- log.md: updated
+- index.md: updated source count and date
+
+---
+
+## 2026-07-10 | Weekly source update — 4 new sources added
+
+### Sources added
+
+1. **JCAS Journal (Verri): Sovereign Connectivity Statecraft** (June 2026)
+   - Peer-reviewed (Scopus) article introducing "sovereign connectivity statecraft" framework for Kazakhstan's middle-power diplomacy. Five pillars: sovereignty, balance, connectivity, institutional resilience, regional public goods. Concludes Kazakhstan has conditional platform-state functions.
+
+2. **CPC (Mohr): Connectivity Between Azerbaijan and Kazakhstan Takes Flight** (June 2026)
+   - First direct Baku-Shymkent flight (June 16). First Caspian submarine fiber-optic cable (380 km, 400 Tbps). Kazakhstan-Azerbaijan trade targeting $1B. 4M tons Kazakh oil via BTC pipeline. Tokayev's planned Baku visit.
+
+3. **CPC (Orynbassar): Kazakhstan and Uzbekistan Deepening Financial Cooperation** (June 2026)
+   - Saida Mirziyoyeva visit: Uzbekistan plans TIFC modeled on AIFC. Bilateral trade $4.8B (2025, +16.2%). 7 joint projects worth $1.2B (Nov 2025). Islamic finance, green finance, capital markets cooperation.
+
+4. **Oeconomus: Kazakhstan's Development in Turbulent Times** (2026)
+   - Comprehensive economic analysis 1991-present. Nominal GDP $360.5B (2026). Multi-vector foreign policy, critical raw materials (21 of 34 EU CRM). Hungarian-Kazakh bilateral relations as case study.
+
+### Files updated
+- sources.md: 44 → 48 sources
+- log.md: updated
 - index.md: updated source count and date
 
 ### Sources added

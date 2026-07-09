@@ -37,3 +37,8 @@ Kazakhstan's economy remains heavily dependent on oil and gas. Hydrocarbons acco
 - The tech ecosystem is small and dependent on government support. Private venture capital is limited.
 - Corruption and weak rule of law deter foreign investment outside the resource sector.
 - Russia's economic gravity (EAEU membership, pipeline dependence) limits diversification options.
+
+## GDP trajectory (Oeconomus 2026)
+- Kazakhstan's nominal GDP projected at **$360.5B in 2026** (up from $302.8B in 2025) — a ~19% increase reflecting both real growth and resource price effects.
+- Per Oeconomus Foundation comprehensive analysis, Kazakhstan's economy has demonstrated resilience through multiple crises (2014 oil crash, 2020 pandemic, 2022 sanctions shock) and is now benefiting from multi-vector diversification strategies.
+- The GDP milestone positions Kazakhstan firmly as Central Asia's largest economy and the dominant economic power in the post-Soviet space outside Russia.

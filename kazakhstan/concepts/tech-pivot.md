@@ -46,5 +46,11 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 - The US-led initiative promotes trusted AI cooperation through pro-innovation policies, R&D investment, computing infrastructure access, and secure AI ecosystems.
 - Notably links AI development to **physical infrastructure**: critical minerals, energy, data centers, semiconductors, and supply chains — aligning Kazakhstan's resource wealth with its AI ambitions.
 
+## Digital Middle Corridor: Caspian fiber-optic cable (June 2026)
+- The **first Caspian submarine fiber-optic cable** (380 km long, 400 Tbps capacity) was shipped from Azerbaijan to Kuryk Port, Kazakhstan on June 15, 2026.
+- Expected completion: **Q3 2026**. Will support cross-border AI and digital infrastructure alongside the traditional Middle Corridor trade route.
+- Represents a "digital Middle Corridor" — complementing physical transport connectivity with high-speed data connectivity between Central Asia and the South Caucasus.
+- A joint project between Kazakhstan and Azerbaijan, reflecting deepening bilateral digital infrastructure cooperation.
+
 ## Assessment
 The tech pivot is real but nascent. Kazakhstan has made significant progress in creating the institutional framework (ministry, hub, forums, AI law) and attracting attention (GITEX, Dealroom ranking, AI diffusion ranking, $10B NVIDIA deal). The emergence of the first AI unicorn (Higgsfield AI) and the surge in AI venture funding to $73M are concrete milestones. The national crypto reserve plan signals a more sophisticated approach to digital assets beyond just mining. However, the ecosystem remains small, government-dependent, and faces structural challenges including brain drain, corruption, and competition from more established tech hubs. The authoritarian governance model and limited internet freedom also constrain the open innovation culture that drives successful tech ecosystems.
