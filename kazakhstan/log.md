@@ -219,3 +219,10 @@
 - entities/kassym-jomart-tokayev.md: added military, HCI, crypto reserve
 - entities/china.md: added CHPL export figures
 - index.md: updated source count
+
+## 2026-07-10 | manual ingest | Eurasianet Iran port and petroleum controls
+- Deputy PM Serik Zhumangarin announced 15-hectare terminal at Bandar Abbas for direct access to Indian, East African, Persian Gulf, Southeast Asian markets
+- Extended petroleum export ban to May 2027; checkpoints on 60 roads along Russia border amid Russian shortages from Ukrainian drone attacks
+- Intercepted 3 tons of smuggled fuel. Kyrgyzstan requested humanitarian exception
+
+---
