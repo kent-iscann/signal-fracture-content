@@ -17,5 +17,8 @@
 ## [2026-07-04] ingest | Philippines - RSIS Counter Terrorist Trends and Analyses (Kenneth Yeo)
 - RSIS CTTA: Terrorism threat landscape declined but risk factors persist. No major attacks in 2025. BIFF's Salahuddin faction rebuilding under "Muhammad Usman" in SPMS Box. DIMG rebuilding in Piagapo (child soldiers). ASG's Sahiron ordered surrenders but remnants isolated. MILF decommissioning suspended over OPAPRU failures. Reintegration challenges: insufficient livelihoods, no psychosocial support, retributive violence (Ustaz Bahang killed Oct 2025). UBJP only represents Maguindanao.
 
-## [2026-07-04] ingest | 1st Bangsamoro Parliament will still be male-dominated (MindaNews)
-- 631 candidates for 80 seats, only 31.1% women. UBJP and BFP have zero women in top 10. Only Mahardika Party (MNLF/Misuari) has woman #1 nominee. 64 of 173 women nominees at bottom of lists (ranks 31-40). Only 1 of 80 seats mandated for women.
+## [2026-07-11] ingest | BIFF-Bungos faction leader killed in clash (SunStar Zamboanga)
+- Esmael Abubakar (alias Bungos), BIFF-Bungos faction head, killed in Maguindanao del Norte raid on July 5. Part of Westmincom campaign also neutralizing DI-Hassan leader Emarudin Kulaw, DI-Maute leader Amerol Mangoranca, CTG's Anthony Narvasa. Leadership of multiple terrorist groups significantly weakened ahead of September BARMM elections.
+
+## [2026-07-11] ingest | MILF declares DI-MG, NPA persona non grata in Lanao del Norte (GMA Regional TV)
+- MILF 127th (May 23, Munai) and 123rd (June 23, Tagoloan) Base Commands formally declared Dawlah Islamiyah-Maute Group and NPA's SRC-5 persona non grata in their areas of influence. Ceremonies included signing of peace commitment pledges with LGUs, military, and peace stakeholders.

@@ -16,6 +16,7 @@ The largest and most politically sophisticated Moro insurgent group in the Phili
 - **June 2026:** COA finds P2.2–4.9 billion in irregularities at MBHTE under Iqbal's tenure. Macacua orders charges before Ombudsman.
 - **2026 (RSIS CTTA):** UBJP only represents Maguindanao, not the wider indigenous population. Census data shows locals trust Manila government more than Bangsamoro authorities, highlighting precarious state of the UBJP.
 - **2026 (RSIS CTTA):** MILF decommissioning suspended — OPAPRU failed to deliver socioeconomic programmes for combatant reintegration, leading to BTA's inability to support MILF combatants. Suspension is a potential flashpoint requiring monitoring.
+- **June 23, 2026:** MILF 123rd Base Command (Tagoloan, Lanao del Norte) declares Dawlah Islamiyah-Maute Group and NPA's SRC-5 persona non grata — joining 127th Base Command's similar declaration in Munai (May 23). Ceremonies with LGUs, 1st Infantry Division, and peace mechanisms. Expands MILF-Army counter-terror cooperation.
 - **June 7, 2026 (MindaNews):** UBJP has no women in its top 10 party nominees for the September 14 parliamentary election. Only one woman is a #1 nominee among 13 parties (Mahardika/MNLF).
 
 ## Significance
