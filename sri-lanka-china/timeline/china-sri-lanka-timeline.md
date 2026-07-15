@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-07-08
+updated: 2026-07-15
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -179,6 +179,12 @@ Chinese Ambassador Qi Zhenhong hosted a reception in Colombo marking the 105th a
 
 ### July 2026 -- China EXIM Bank Vice President Visits Sri Lanka; Central Expressway Amendment Progressed
 A high-level delegation from the Export-Import Bank of China, led by Vice President Yang Dongning, visited Sri Lanka for discussions with Deputy Finance Minister Dr. Anil Jayantha Fernando and senior Treasury officials. The key agenda item was the amended Financing Agreement for Section I of the Central Expressway Project (Kadawatha-Meerigama), financed by China EXIM Bank. Both sides reviewed the amendment process, and the Sri Lankan government expressed its intention to complete all formalities and sign the amended agreement before the end of August 2026. Dr. Fernando outlined the government's strategy prioritizing tourism, value-added manufacturing, logistics, energy, and IT. This represents the first substantive EXIM Bank engagement with the Dissanayake administration on an active infrastructure project since the debt restructuring.^[Global CEO Magazine, July 2026]
+
+### June 23, 2026 -- AidData Report: China Eximbank Requiring Yuan-Denominated Borrowing from Sri Lanka
+A Reuters-reported AidData study revealed that China Eximbank is now encouraging — and in some cases requiring — sovereign borrowers including Sri Lanka to take loans in yuan rather than dollars. The shift is part of a broader strategy to accelerate RMB internationalization. At least five other nations (Ethiopia, Mozambique, Zambia, Pakistan, Indonesia) are exploring similar conversions. The report warns that yuan-denominated borrowing is not risk-free: local currency depreciation against the RMB or costly RMB liquidity could erode the benefits of lower interest rates. This represents a significant structural shift in China's bilateral lending practices with direct implications for Sri Lanka's future borrowing terms.^[Reuters, June 23, 2026]
+
+### July 7, 2026 -- MSC in Talks to Acquire Stake in Hambantota Port; Transshipment Calls Switching from Colombo
+Mediterranean Shipping Co. (MSC), the world's largest container shipping line, entered discussions with China Merchants Port Holdings (CMPort, 85% owner) and the Sri Lanka Ports Authority (15% owner) to acquire a significant stake in Hambantota International Port, according to multiple local industry sources cited by the Journal of Commerce. MSC has already started switching transshipment calls from Colombo to Hambantota for regular and ad hoc sailings. An official announcement is expected soon. This development would bring a major global shipping operator into the Chinese-controlled port, potentially transforming its commercial viability and marking a new phase in the port's post-lease history.^[Journal of Commerce, July 7, 2026]
 
 ---
 

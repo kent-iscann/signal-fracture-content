@@ -152,3 +152,13 @@
 - concepts/imf-geopolitics.md: Added "Post-Crisis Milestone: World Bank Reclassification" section. Updated frontmatter date.
 
 **Total sources**: 42 → 46
+
+## [2026-07-15] ingest | 2 new sources: AidData yuan-switch report, MSC Hambantota stake talks
+- **Source #47**: "Kenya's China loan revamp sparks wider interest in yuan switch, AidData says" -- Reuters (June 23, 2026). China Eximbank now encouraging/requiring sovereigns including Sri Lanka to borrow in yuan rather than dollars — a structural shift in bilateral lending practices tied to RMB internationalization. Warns of currency risk for borrowers.
+- **Source #48**: "MSC in talks to buy into Sri Lanka's Hambantota amid port deal spree: sources" -- Journal of Commerce (July 7, 2026). MSC, world's largest container shipping line, in discussions with CMPort and SLPA to acquire stake in Hambantota Port. MSC already switching transshipment calls from Colombo to Hambantota.
+- **Wiki pages updated**:
+  - sources.md: Added 2 new source entries (#47-48) in 2 new categories: "Yuan-Denominated Lending & RMB Internationalization" and "Hambantota Port: New Commercial Developments"
+  - timeline/china-sri-lanka-timeline.md: Added 2 new timeline entries (June 23 AidData report, July 7 MSC stake talks). Updated frontmatter date.
+  - entities/hambantota-port.md: Added MSC stake talks development to 2025-2026 section. Updated frontmatter date.
+  - index.md: Updated last-updated date (2026-07-08 → 2026-07-15) and source count (46 → 48)
+- **Total sources**: 46 → 48

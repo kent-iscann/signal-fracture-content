@@ -1,6 +1,6 @@
 # Sources
 
-> Total sources: 45 | Last updated: 2026-07-08
+> Total sources: 48 | Last updated: 2026-07-15
 
 ## Debt and Lending
 
@@ -250,3 +250,19 @@
 46. "Chinese EXIM Bank Reaffirms Commitment to Sri Lanka's Development Priorities" -- Global CEO Magazine (July 2026)
     https://www.facebook.com/GlobalCEOTV/posts/chinese-exim-bank-reaffirms-commitment-to-sri-lankas-development-prioritiesa-hig/918173777989008
     A high-level delegation from China EXIM Bank, led by Vice President Yang Dongning, visited Sri Lanka. Key focus: amended Financing Agreement for Section I of the Central Expressway Project (Kadawatha-Meerigama). The government aims to finalize and sign the amended agreement before the end of August 2026. Deputy Finance Minister Dr. Anil Jayantha Fernando outlined Sri Lanka's economic strategy prioritizing tourism, value-added manufacturing, logistics, energy, and IT. Represents the first substantive China EXIM Bank engagement with the Dissanayake administration on an active infrastructure project since the debt restructuring.
+
+---
+
+## Yuan-Denominated Lending & RMB Internationalization
+
+47. "Kenya's China loan revamp sparks wider interest in yuan switch, AidData says" -- Reuters (June 23, 2026)
+    https://www.reuters.com/world/asia-pacific/kenyas-china-loan-revamp-sparks-wider-interest-yuan-switch-aiddata-says-2026-06-23
+    AidData report revealing that China Eximbank is now encouraging — and in some cases requiring — sovereigns to borrow in yuan rather than dollars, citing recent examples from Sri Lanka and Bangladesh. The shift is part of a broader strategy to accelerate RMB internationalization. At least five other nations (Ethiopia, Mozambique, Zambia, Pakistan, Indonesia) are exploring similar conversions. The report warns that yuan-denominated borrowing is not risk-free: local currency depreciation against the RMB or costly RMB liquidity could erode benefits. Represents a significant structural shift in China's bilateral lending practices directly affecting Sri Lanka's future borrowing terms.
+
+---
+
+## Hambantota Port: New Commercial Developments
+
+48. "MSC in talks to buy into Sri Lanka's Hambantota amid port deal spree: sources" -- Journal of Commerce (July 7, 2026)
+    https://www.joc.com/article/msc-in-talks-to-buy-into-sri-lankas-hambantota-amid-port-deal-spree-sources-6249532
+    Mediterranean Shipping Co. (MSC), the world's largest container shipping line, is in discussions with China Merchants Port Holdings (CMPort, 85% owner) and the Sri Lanka Ports Authority (15% owner) to acquire a significant stake in Hambantota International Port. MSC has already started switching transshipment calls from Colombo to Hambantota for regular and ad hoc sailings, according to multiple local industry sources. An official announcement is expected soon. This development would bring a major global shipping operator into the Chinese-controlled port, potentially transforming its commercial viability.
