@@ -23,6 +23,17 @@ In 2024-2026, Namibia prohibited the export of unprocessed lithium, cobalt, grap
 
 President Nandi-Ndaitwah used the Namibia-China Business Forum in Guangzhou (July 2026) during her state visit to China to position the country as open for Chinese investment in value-addition industries. She acknowledged that the long-standing "extract and export" pattern has produced limited domestic industrialisation.
 
+## July 2026: Beijing State Visit Deals
+
+Following the Guangzhou forum, Nandi-Ndaitwah travelled to Beijing where she was hosted by President Xi Jinping for talks at the Great Hall of the People — her first state visit outside Africa since assuming office. The meeting produced:
+
+- **Eight signed documents** covering green minerals cooperation, a framework economic partnership, and agreements across infrastructure, energy, agriculture, and science & technology
+- **Joint statement on critical minerals**: Both sides recognised "the strategic value of critical minerals" and agreed to strengthen cooperation in uranium, lithium, and rare earths
+- **Beneficiation commitments**: The statement explicitly promoted local processing, technology transfer, and local skills development
+- **Oil potential**: Xinhua noted Namibia could become Africa's fourth-largest oil producer by 2030, with Shell and TotalEnergies discovering an estimated 2.6 billion barrels of crude
+
+The visit signalled a significant deepening of China-Namibia relations, moving from general investment courtship to concrete bilateral agreements with Xi Jinping's personal imprimatur.
+
 ## Logistics Hub Ambition
 
 - 1,570km Atlantic coastline with two deep-water harbours
@@ -52,3 +63,4 @@ Namibia extends the geographic scope of Chinese infrastructure-for-resources act
 ## Sources
 - Source 26: [Namibia China Investment Targets Value Addition and Industrial Growth](https://furtherafrica.com/2026/07/07/namibia-china-investment-targets-value-addition-and-industrial-growth) (FurtherAfrica, July 7, 2026)
 - Source 28: [China's Emerging Sustainability Framework & Africa's Critical Minerals Future](https://africachinacentre.org/chinas-emerging-sustainability-framework-africas-critical-minerals-future) (Africa-China Centre, June 29, 2026)
+- Source 30: [China's Xi offers deals on infrastructure, mining as he hosts Namibian leader](https://www.trtafrika.com/article/d952f4a8f53c) (TRT Afrika, July 10, 2026)

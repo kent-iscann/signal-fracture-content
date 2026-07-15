@@ -11,7 +11,15 @@ In June 2026, the Kamoa-Kakula copper smelter — Africa's largest copper smelti
 - Lithium (Manono project — emerging)
 
 ## Key Chinese actors
-- CMOC Group (China Molybdenum)
-- Zhejiang Huayou Cobalt
-- Sinomine Resource Group
-- Zijin Mining (39.6% stake in Kamoa-Kakula copper smelter)
+|- CMOC Group (China Molybdenum)
+|- Zhejiang Huayou Cobalt
+|- Sinomine Resource Group
+|- Zijin Mining (39.6% stake in Kamoa-Kakula copper smelter)
+
+## Notable developments (2026)
+
+### Glencore stake sale to US/Gulf consortium
+In 2026, Glencore sold 40% stakes in select DRC copper-cobalt assets to a US- and Gulf-backed consortium valued at $8–9 billion. This represents the first significant non-Chinese capital injection into DRC's cobalt sector in years, though Glencore retains operational control. The diversification suggests limited appetite among Western firms for majority operational risk in the DRC, and does not fundamentally challenge China's dominant position in the country's mineral export chain.
+
+### DRC reserves and exploration potential
+SRK Consulting (June 2026) reports DRC's mineral reserves remain underestimated with significant exploration upside. Beyond traditional copper-cobalt, the Manono lithium project is emerging as a new frontier. DRC is transitioning from state-led to internationally financed mining development, creating opportunities for new entrants alongside established Chinese operators.

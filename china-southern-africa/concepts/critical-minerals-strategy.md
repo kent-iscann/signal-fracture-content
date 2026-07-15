@@ -6,8 +6,8 @@ China's Southern African infrastructure plays are fundamentally driven by a stra
 
 | Mineral | Primary use | Key SA sources | China's position |
 |---------|-------------|----------------|------------------|
-| Cobalt | EV batteries, alloys | DRC (~70% global reserves) | Controls ~70% of DRC exports; dominates global refining |
-| Lithium | EV batteries, energy storage | Zimbabwe (Africa's largest reserves) | ~$1bn invested in Zimbabwe processing; Huayou, Sinomine, Chengxin |
+| Cobalt | EV batteries, alloys | DRC (~70% global reserves) | Controls ~60% of DRC exports; dominates global refining |
+| Lithium | EV batteries, energy storage | Zimbabwe (Africa's largest reserves) | Controls >70% of Africa's operating lithium output; $1bn+ invested in Zimbabwe processing; Huayou, Sinomine, Chengxin |
 | Copper | Electronics, wiring, renewables | Zambia (Copperbelt), DRC | Major creditor/operator; ~40% of Zambia's exports routed through Chinese-linked ports |
 | Rare earths | Magnets, electronics, defense | Tanzania (neodymium, praseodymium confirmed 2026) | Chinese firm confirmed Tanzania deposits; China dominates global processing |
 | Platinum group metals | Catalysts, hydrogen tech, jewelry | Zimbabwe | Zimbabwe demanding Chinese firms build smelters domestically |
@@ -15,8 +15,8 @@ China's Southern African infrastructure plays are fundamentally driven by a stra
 
 ## China's competitive advantages
 - **First-mover:** Decades of sustained investment before Western competition materialized
-- **Integrated supply chain:** Controls mining operations, processing, refining, and battery manufacturing
-- **Infrastructure control:** Owns or finances the logistics corridors (rail, port) that minerals flow through
+- **Integrated supply chain:** Controls mining operations, processing, refining, and battery manufacturing. Controls >70% of Africa's operating lithium, ~60% of DRC copper/cobalt exports, and 90% of rare earth processing accessible to African mines.
+- **Infrastructure control:** Owns or finances the logistics corridors (rail, port) that minerals flow through. The SADC railway revolution — including TAZARA rehabilitation, Lobito Corridor concession, and Tanzania's standard gauge railway — further integrates Chinese mineral supply chains across the region.
 - **Maritime dominance:** China accounts for ~22% of all African trade; Chinese firms operate/finance/hold stakes in ~1/3 of African ports. New shipping corridors connect African port clusters to Chinese hubs (Qingdao, Tianjin, Yantai) and adjacent free-trade zones. China's maritime integration extends to port operations software, automation, AI, cybersecurity tech, and maritime training programs.
 - **Financing leverage:** Chinese banks offer loans when Western lenders won't, secured against mineral assets. Zimbabwe (June 2026) is now negotiating resource-backed infrastructure financing with China Railway, modeled on DRC's $7 billion Sicomines deal — extending the infrastructure-for-resources model into new territory.
 - **Beneficiation pivot:** Responding to host-nation demands for domestic processing rather than withdrawing
