@@ -64,3 +64,19 @@
 - Expanded TRIPP concept page with DFC implementation structure and economic projections
 - Updated Pashinyan entity: post-election outlook, NATO summit, Aliyev's escalated demands
 - Updated Aliyev entity: "Western Azerbaijan" campaign, UN escalation, territorial demands
+
+## 2026-07-15 ingest | Weekly source update (armenia-azerbaijan)
+- **Priority Sources (11 new):**
+  - Caucasus Watch (Jul 9): Iranian Ambassador Shirgholami discusses TRIPP concerns, Iran's "legitimate" fears about US presence near borders, Nakhchivan Airport incident, Armenia as energy transit hub
+  - Caucasus Watch (Jul 9): Zakharova criticizes Armenia over WWII narrative, Hovhannisyan appointment as "revisionist"
+  - Caucasus Watch (Jul 7): Police raid 70+ sites linked to Tsarukyan/Multi Group in tax evasion probe — post-election crackdown on opposition
+  - Caucasus Watch (Jul 4): Parliament committee clears final reading of law opening EU market to Armenian fish exports via TRACES system
+  - Caucasus Watch (Jul 3): Parliament takes up electoral code changes requiring 366/730 day residency for voting
+  - JAMnews (Jul 13): Aliyev at Shusha forum — Azerbaijan may quit Council of Europe, US relations at "strongest," gas exports to 16 countries, military procurement from China, Russia relations "fully normalised"
+  - JAMnews (Jul 13): Azerbaijan-Georgia 20-year electricity agreement signed May 18, approved Jul 9 — strengthens Middle Corridor, reduces Georgian dependence on Russia
+  - JAMnews (Jul 9): TRIPP and Middle Corridor become central to US South Caucasus strategy
+  - JAMnews (Jul 5): Constitutional Court rejects opposition bid to annul elections; 5 opposition parties declare "political resistance"
+  - OC Media (Jul 14): Armenia-Russia trade turnover drops 20.5% ($570M), Russia's share falls from 35.1% to 28%, EAEU share from 36.7% to 29.8%
+  - OC Media (Jul 14): Aliyev at Shusha forum — Russia reconciliation, China weapons procurement, CoE departure threat, Ukraine advice
+- **Tavily Searches (0 new):** No new substantively unique sources not already covered by priority sources
+- Updated sources.md (40 → 51), index.md source count (40 → 51)
