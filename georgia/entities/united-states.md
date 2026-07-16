@@ -44,3 +44,20 @@ Former President Salome Zurabishvili, in a Washington interview (June 16), deliv
 
 ## Strategic debate in Washington
 A June 2026 National Interest analysis argued that normalizing relations with GD without behavioral change would be "strategic self-sabotage" for Washington. GD's entire diplomatic strategy is "reputational rehabilitation without behavioral change" — seeking reset without releasing political prisoners, repealing the foreign agents law, or restoring democratic pluralism. The analysis argued the Trump administration should not re-engage if Tbilisi continues deepening ties with Russia, China, and Iran.
+
+## Heritage Foundation view (June 2026)
+James Carafano, senior national security expert at the Heritage Foundation, gave a comprehensive assessment of the Trump administration's approach in a June 2026 interview:
+- **Results over rhetoric:** "Trump does not care about symbolic gestures or warm words if they are not backed by concrete political or economic outcomes." GD's MAGA-style messaging ("deep state," "Global War Party") carries no weight in Washington.
+- **"Second front" narrative:** Carafano dismissed GD's claim that the West sought to drag Georgia into war with Ukraine as Russian disinformation — "the idea that anyone wanted to drag Georgia into a war with Russia was absurd from the start."
+- **Middle Corridor focus:** Washington wants Georgia to play a larger role in the Middle Corridor and Black Sea security. If Georgia continues distancing itself, it risks being "bypassed" entirely.
+- **China:** Carafano warned China will not provide strategic guarantees to Georgia — "Beijing will not confront Russia or Iran on Georgia's behalf." Washington's concern is not Chinese goods moving through the corridor but China owning or controlling strategic infrastructure.
+- **Neither side:** The US will not side with the GD government or the opposition. Carafano criticized the opposition as "fragmented and impractical."
+- **Sanctions:** Lifting sanctions on Ivanishvili depends on concrete political actions, not promises.
+- **EU contrast:** "The EU still favours pressure and isolation. The US is looking for a different path."
+
+## Former PM Gakharia's call for conditional engagement (July 2026)
+Former Georgian Prime Minister Georgi Gakharia (Statecraft & Strategy, July 2026) argued that GD's trajectory is "a direct challenge to a continued American stake in the region." Key points:
+- Without Georgia, the Middle Corridor and TRIPP remain vulnerable and "only partially functional."
+- A strategic opening exists: Russia preoccupied in Ukraine, Iran under pressure, Ukraine's resilience reinforcing Western posture.
+- Calls for conditional US engagement demanding: return to democratic principles, restoration of free speech/fair elections, end to political persecution, dismantlement of sanctions evasion networks.
+- Georgia was not just part of US strategy but an enabler of it — anchoring Azerbaijan in Western frameworks, serving as model for Armenia's Western pivot.

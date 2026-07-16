@@ -65,3 +65,21 @@ A Diplomat analysis argues the upgraded China partnership reflects GD's politica
 - China is not yet a significant driver of Georgia's tourism economy
 - The partnership is a "louder signal" but potentially an "empty promise"
 - The timing (immediately after US House bill on Chinese influence) suggests reactive posturing rather than strategic planning
+
+## Serbia-GD axis (June/July 2026)
+FDD analysts (Washington Examiner, July 2, 2026) compared GD and Serbia's Vucic as "twin authoritarian regimes":
+- **Vucic's Tbilisi visit (June 2026):** First Serbian head-of-state visit to Georgia. Announced free-trade deal (bilateral trade only $20M — economically trivial). Vucic praised Georgia's 9.3% GDP growth; Kobakhidze called Vucic an "outstanding leader."
+- **Parallel playbook:** Both refused to sanction Russia, serve as sanctions evasion hubs, passed "foreign agent" laws, claimed victory in disputed elections, aggressively pursued closer China ties, frame Western criticism as hostile interference.
+- **GD's "Global War Party" narrative** compared to Vucic's "color revolution" accusations.
+- **Shared legitimacy:** "Shared legitimacy is easier to manufacture between two like-minded authoritarian regimes than it is to earn from one's own citizens or Western partners."
+- **Conclusion:** "Vucic and Georgian Dream are not friends of the United States. They are authoritarians that repress their citizens and make common cause with American adversaries."
+
+## Ukrainian-Georgian relations: lowest point (SCEEUS, June 2026)
+SCEEUS Commentary no. 9 (June 23, 2026) analyzed the complete breakdown of once-close bilateral relations:
+- Georgia's post-2022 shift created a "critical geopolitical vacuum" in the South Caucasus that bolsters Russian influence.
+- Armenian PM Pashinyan identified frozen EU-Tbilisi dialogue as the "biggest obstacle" to Armenia's own EU ambitions.
+- Zelenskyy and Kobakhidze met at the May 2026 European Political Community Summit in Armenia — the first meeting between the two leaders since Russia's full-scale invasion.
+- **Domestic politics:** GD weaponized the 2008 war memory, contrasting images of destroyed Ukrainian cities with peaceful Georgian cities and framing "neutrality" as the only responsible choice.
+- ~3,000 Georgians have joined the Ukrainian army since 2022 despite official GD policy.
+- 66.2% of Ukrainians disapprove of Georgia's abandonment of European integration.
+- The new Hungarian PM Peter Magyar (replacing Orbán) is likely to be less supportive of GD in EU forums.

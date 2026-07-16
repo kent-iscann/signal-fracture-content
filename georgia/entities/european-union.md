@@ -38,5 +38,7 @@ Research from PRIF documents how GD captured and weaponized EU norms ("transpare
 
 ## Latest developments (June 2026)
 - **Pashinyan's victory:** Civil Contract won 49.8% in Armenian parliamentary elections. While pro-Russian opposition could slow progress, Armenia's westward trajectory continues — deepening the contrast with Georgia's drift.
+- **Pashinyan's obstacle:** Armenian PM Pashinyan publicly identified the frozen EU-Tbilisi dialogue as the "biggest obstacle" to Armenia's own EU ambitions. Without Georgia on a European track, regional connectivity and political alignment become structurally incomplete.
 - **Turkey-Armenia trade resumption:** Direct trade resumes after 33-year freeze, reducing Georgia's transit monopoly and altering South Caucasus economic geography.
 - **TRIPP finalization:** Armenia-US completed the Trump International Route for Peace and Prosperity signing process, ready for ratification. Further sidelines EU influence in the region.
+- **Hungary's political shift:** Former PM Viktor Orbán, GD's principal EU ally (vetoed sanctions, validated contested elections, advocated for Georgia's accession), was replaced by Peter Magyar, who is likely to be more aligned with mainstream European trends. This removes GD's key institutional patron within the EU.
