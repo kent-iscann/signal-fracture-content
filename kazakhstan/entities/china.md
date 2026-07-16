@@ -28,9 +28,10 @@ China's economic influence in Kazakhstan is growing but remains secondary to Rus
 - Kazakhstan-China Trade and Economic Cooperation Program and Roadmap for 2027-2030 being accelerated.
 
 ## Trade data (2025–2026)
-- **2025 bilateral trade:** Exceeded $48B (some sources cite $227.9B including all goods). Chinese direct investment in Kazakhstan reached ~$2.8B.
+- **2025 bilateral trade:** Exceeded $48B. Chinese direct investment in Kazakhstan reached ~$2.8B.
 - **Rail freight:** 35.6 million tons in 2025 (+11% YoY). Over 85% of China-Europe overland cargo transits through Kazakhstan.
 - **Infrastructure investment:** Kazakhstan invested $35B+ in transport infrastructure over past 7 years, including Aktau container hub, Xi'an dry port, and Dostyk-Moyynty railway expansion.
 - **Alstom Middle Corridor investment (July 2026):** French rail giant Alstom invested €200M+ ($228M) in Kazakhstan — its largest industrial footprint in Central Asia. Signed 205 KZ6 container-focused locomotives (Dec 2025) specifically designed for Middle Corridor container traffic (commercial ops 2029). Alstom: only 4% of China-Europe freight goes by rail but appetite growing. Validates Kazakhstan's BRI/Middle Corridor strategy.
 - **BRI priorities (2026):** Bektenov outlined five directions — infrastructure connectivity, Middle Corridor development, digital logistics, green energy, financial/investment cooperation.
 - **Academic analysis (June 2026):** Peer-reviewed study (Frontiers in Political Science) shows Kazakhstan's bilateral trade shifted significantly 2020-2024 vs 2013-2019, with growing China share forcing Kazakhstan to hedge between BRI and US strategic response (NSS 2025).
+- **All China Review (July 2026):** Comprehensive analysis published during Tokayev-Xi meeting in Shanghai (July 16) notes Kazakhstan's GDP of $306B constitutes 53.7% of Central Asia — more than 2x Uzbekistan's $147.1B. GDP per capita ~$15,000 vs $3,800 in Uzbekistan. Banking assets $140B. IMF projects Kazakhstan's GDP to reach $360.4B in 2026 (49th globally). Implicit argument: China's bet on Kazakhstan is structurally sound because Kazakhstan is the region's dominant, most diversified economy.

@@ -36,3 +36,10 @@ Western powers are cautiously increasing engagement with Kazakhstan, viewing it 
 - Key: 50 Airbus aircraft (€7.1B) — major milestone for Kazakhstan's aviation modernization.
 - Critical raw materials and green hydrogen value chain under Global Gateway framework — signals EU's intent to integrate Kazakhstan into Western clean-energy supply chains.
 - Simultaneously, UK active interdiction architecture and EU anti-circumvention tool (20th sanctions package) raise the stakes for Kazakhstan's balancing act.
+
+## US Russia sanctions bill breakthrough (July 2026)
+- **July 10, 2026:** Bipartisan US Senate agreement with the Trump administration to advance the "Sanctioning Russia Act" — long-delayed legislation allowing the US to punish countries helping Russia evade sanctions.
+- Sen. Lindsey Graham, who negotiated the deal, stated: "It means it's going to become law."
+- Represents the most significant US secondary sanctions escalation since the 2022 invasion — directly relevant to Kazakhstan as a key transit corridor for trade with Russia.
+- Follows UK's 70-designation sanctions package (June 16, 2026) and EU's 20th package targeting third-country circumvention, creating a multi-jurisdictional enforcement architecture targeting Central Asian transit trade.
+- Gives President Trump a powerful new tool to pressure Putin as Washington seeks an end to Russia's now-fifth-year war in Ukraine.

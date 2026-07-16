@@ -24,6 +24,7 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 - **First AI unicorn:** Higgsfield AI became Kazakhstan's first unicorn startup (surpassed $1B valuation) in September 2025.
 - **Focus areas:** Enterprise AI, business automation, Industry 4.0, MarTech, EdTech, MedTech.
 - **Regional VC context:** Per RISE Research 2026, Kazakhstan VC hit $209M (3x YoY), total startup valuation $2.16B. $1B target Fund of Funds launched. "Pipeline Gap" of $0.5-1.1B annual capital needed.
+- **Alem Capital fund-of-funds (June 2026):** Alem Capital Management (managing $1B fund-of-funds) committed $5M to Sturgeon Capital's $25M Emerging Opportunities II fund — the Kazakh manager's first publicly disclosed regional venture bet. Qazaqstan Investment Corporation separately committed $30M to the Alem Ventures Fund. IFC also a participant. Signals government strategy using public capital to crowd in private investment, modeled on Temasek/Yozma playbooks. Sturgeon portfolio: 11 investments in logistics, content infrastructure, enterprise automation.
 
 ## Cryptocurrency mining
 - After China banned crypto mining in 2021, Kazakhstan became one of the world's largest Bitcoin mining hubs.
@@ -51,6 +52,23 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 - Expected completion: **Q3 2026**. Will support cross-border AI and digital infrastructure alongside the traditional Middle Corridor trade route.
 - Represents a "digital Middle Corridor" — complementing physical transport connectivity with high-speed data connectivity between Central Asia and the South Caucasus.
 - A joint project between Kazakhstan and Azerbaijan, reflecting deepening bilateral digital infrastructure cooperation.
+
+## Education & digital skills (July 2026)
+- Kazakhstan ranked **37th globally in the Global Skills Report 2025** (Coursera), reflecting strong digital skills development.
+- **100% of secondary schools** have digital textbooks; basic digital literacy at **87.3%**.
+- **OpenAI partnership:** 165,000 Kazakh teachers received ChatGPT Edu licenses.
+- **Higher education:** 30 universities offer 42 specialized AI/robotics programs (2,800+ students). Five universities in THE World University Rankings 2026.
+- Nazarbayev University's ISSAI advancing AI research; Irgetas supercomputer launched.
+- 93 universities partnered with Coursera; 503,000+ international certificates earned.
+- **AI-Sana program** targets 100,000 students in IT development.
+- **Challenges:** urban-rural digital divide, teacher shortages in regions, PISA scores still below OECD averages.
+
+## Global competitiveness (July 2026)
+- **IMD World Competitiveness Ranking 2026:** Kazakhstan ranked **36th globally**.
+- **IMF GDP projection:** $360.4B in 2026, ranking 49th globally.
+- **Banking sector:** $140B in assets (80%+ higher than Uzbekistan, 24x Tajikistan); deposits $96.4B.
+- **Trade:** ~20% of national GVA; manufacturing 13%; mining 11.9%.
+- **FDI inflows:** ~$28B in 2025.
 
 ## Assessment
 The tech pivot is real but nascent. Kazakhstan has made significant progress in creating the institutional framework (ministry, hub, forums, AI law) and attracting attention (GITEX, Dealroom ranking, AI diffusion ranking, $10B NVIDIA deal). The emergence of the first AI unicorn (Higgsfield AI) and the surge in AI venture funding to $73M are concrete milestones. The national crypto reserve plan signals a more sophisticated approach to digital assets beyond just mining. However, the ecosystem remains small, government-dependent, and faces structural challenges including brain drain, corruption, and competition from more established tech hubs. The authoritarian governance model and limited internet freedom also constrain the open innovation culture that drives successful tech ecosystems.

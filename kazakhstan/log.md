@@ -226,3 +226,37 @@
 - Intercepted 3 tons of smuggled fuel. Kyrgyzstan requested humanitarian exception
 
 ---
+
+## 2026-07-16 | Weekly source update — 6 new sources added
+
+### Sources added
+
+1. **DKNews.kz: Economic diversification — Kazakhstan is preparing for a large-scale investment breakthrough** (February 2026)
+   - Government unveiled $400B cumulative investment target (2025-2029), investment-to-GDP ratio from 14-15% to 23% by 2029. Economic Complexity Index: rose from 87th to 55th. Manufacturing share rose to 12.4% of GDP while oil/gas extraction fell to 8.1%. Baiterek Holding to receive up to 1T tenge capitalization.
+
+2. **TNW: A Kazakh fund-of-funds makes first public venture bet** (June 2026)
+   - Alem Capital Management (managing $1B fund-of-funds) committed $5M to Sturgeon Capital's $25M Emerging Opportunities II fund. Qazaqstan Investment Corporation separately committed $30M. IFC also a participant. Government strategy using public capital to crowd in private investment, modeled on Temasek/Yozma.
+
+3. **All China Review: More Than Scale — The Sources of Kazakhstan's Competitive Edge** (July 2026)
+   - Comprehensive analysis: GDP $306B (53.7% of Central Asia), GDP per capita ~$15,000, banking assets $140B, FDI ~$28B in 2025. Ranked 36th in IMD World Competitiveness Ranking 2026. IMF projects $360.4B GDP in 2026.
+
+4. **OCA Magazine: Kazakhstan's Education System at a Digital Turning Point** (July 2026)
+   - Ranked 37th in Global Skills Report 2025. 100% of secondary schools have digital textbooks; 87.3% digital literacy. 165,000 ChatGPT Edu licenses. 30 universities with 42 AI/robotics programs. 5 universities in THE rankings. 503,000+ Coursera certificates.
+
+5. **The Platinum Capital: Central Asia Between Powers — The Multi-Vector Investment Play** (July 2026)
+   - Abu Dhabi's $300B L'imad fund unveiled $30B venture targeting Central Asia with BlackRock/GIP and Temasek. Gulf sovereign funds deployed $26B (Mar-May 2026). Saudi PIF joint ventures in petrochemicals and green hydrogen. Frames Kazakhstan as "generational repositioning play."
+
+6. **RFE/RL: US Senators, Administration Agree to Advance Russia Sanctions Bill** (July 2026)
+   - Bipartisan US Senate agreement to advance "Sanctioning Russia Act" (July 10). Would enable US to punish countries helping Russia evade sanctions. Graham: "It's going to become law." Directly relevant to Kazakhstan's secondary sanctions risk.
+
+### Files updated
+- sources.md: 50 → 56 sources
+- log.md: updated
+- index.md: updated source count and date
+- concepts/resource-curse.md: added $400B investment target, Economic Complexity Index data
+- concepts/tech-pivot.md: added Alem Capital fund-of-funds, education & skills section, global competitiveness data
+- concepts/multi-vector-foreign-policy.md: added Gulf sovereign wealth influx, US sanctions bill breakthrough
+- entities/china.md: added All China Review data on economic scale, Tokayev-Xi meeting
+- entities/western-powers.md: added US sanctions bill breakthrough section
+
+---
