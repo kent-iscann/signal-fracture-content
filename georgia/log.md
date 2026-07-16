@@ -177,9 +177,39 @@
 - Anaklia port negotiated away to Beijing while US-focused optics maintained
 - Three benchmarks proposed: release political prisoners, repeal repressive laws, restore electoral framework
 
-## 2026-07-09 | ingest | Eurasianet: China quietly exits Georgian port deal
-- China formally walks away from Anaklia Deep Sea Port project (July 6 announcement)
-- Georgian government announces "landlord" model: state retains ownership of core infrastructure
-- China's CCCC and China Harbour Investment had 49% stake since 2024; exit formalizes months of speculation
-- Government targeting 2029 for first phase; Uzbek officials expressed vague interest in participation
-- Confirms GD strategy of avoiding Western investment while courting Middle Corridor partners
+## 2026-07-16 | ingest | SCEEUS: Ukrainian-Georgian relations: All love lost?
+- Comprehensive analysis of Ukrainian-Georgian bilateral relations
+- Pashinyan called frozen EU-Tbilisi dialogue the "biggest obstacle" to Armenia's EU ambitions
+- Zelenskyy-Kobakhidze meeting at EPC Summit (May 2026), first since Russia's full-scale invasion
+- Kobakhidze's Ashgabat meeting with Putin (2025) — first Georgian leader-Russian president encounter in 15 years
+- Russia reclassified Georgia from "unfriendly" (12/100) to "relatively friendly" (19.4/100)
+- ~3,000 Georgians fighting in Ukraine; New Hungarian PM Magyar likely less pro-GD than Orbán
+- EU has not sanctioned Ivanishvili despite US and Ukraine having done so
+
+## 2026-07-16 | ingest | JAMnews: Interview with James Carafano on Georgia-US Relations
+- Heritage Foundation's Carafano: Trump admin wants results, not rhetoric
+- GD's MAGA messaging ("deep state," "Global War Party") carries no weight in Washington
+- "Second front" narrative dismissed as Russian disinformation
+- Warns Georgia risks being bypassed in Middle Corridor
+- China will not provide strategic guarantees; sanctions on Ivanishvili depend on concrete actions
+- US will not side with government or opposition; criticizes opposition as fragmented
+
+## 2026-07-16 | ingest | FDD: Serbia and Georgia aren't our friends
+- Vucic's first head-of-state visit to Tbilisi (June 2026); free-trade deal announced ($20M trade)
+- Both regimes compared: authoritarian, sanctions evasion hubs, "foreign agent" laws, disputed elections
+- GD's "Global War Party" narrative compared to Vucic's "color revolution" accusations
+- FDD argues Washington should have no illusions about either regime
+
+## 2026-07-16 | ingest | Statecraft & Strategy: Seeking a Reset in the South Caucasus
+- Former PM Georgi Gakharia argues GD's trajectory is a "direct challenge to a continued American stake"
+- Without Georgia, Middle Corridor and TRIPP remain vulnerable
+- Strategic opening: Russia preoccupied in Ukraine, Iran under pressure
+- Calls for conditional US engagement demanding democratic reforms, end to sanctions evasion
+- Georgia was not just part of US strategy, but an enabler of it
+
+## 2026-07-16 | ingest | OC Media: Leaked Russian report details diaspora influence strategy
+- Leaked Dec 2025 Moscow State University report for Russian Presidential Administration
+- Described as updated 1968 KGB manual on managing diaspora communities
+- Budget: ₽13B ($165M); Georgia is primary destination for post-2022 Russian emigrants (15.5%)
+- Russian Orthodox Church identified as key channel for soft-power engagement
+- Report divides diaspora into three groups; recommends apolitical cultural engagement
