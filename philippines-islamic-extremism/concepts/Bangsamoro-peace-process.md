@@ -25,5 +25,14 @@ The ongoing implementation of the 2014 Comprehensive Agreement on the Bangsamoro
 - **UBJP's narrow electoral base:** RSIS CTTA analysis notes UBJP only represents Maguindanao, not the broader Bangsamoro indigenous population, potentially undermining the legitimacy of MILF governance.
 - **Limited female representation:** MindaNews reports only 31.1% of candidates are women; UBJP and BFP have zero women in top 10 party nominee lists, risking governance legitimacy gaps.
 
+## Key developments (July 2026)
+- **July 3:** OPAPRU confirms Sulu remains a priority area for peace work under the 1996 Final Peace Agreement with MNLF, despite SC ruling excluding Sulu from BARMM. Bangsamoro government retained funding for Sulu offices.
+- **July 3:** Comelec disqualifies UBJP candidate Anwar Alamada (MILF Ad Hoc Joint Action Group chairman) for Maguindanao del Sur 5th District — BFP rival challenged his residency.
+- **July 15:** Marcos appoints Mel Sarmiento as chair of Government Peace Implementing Panel for the Bangsamoro, filling the long-vacant post left by Cesar Yano's resignation. Sarmiento retains OPAPRU role. The appointment was a key MILF demand for resuming decommissioning.
+- **July 16:** Gun ban takes effect across BARMM (July 16–September 29) for the September 14 parliamentary elections.
+- **July 16:** Councilor Nasser Dalandang of Kadayangan town (SGA-BARMM) shot dead on first day of gun ban — rido or election-related violence under investigation.
+- **July 18:** Maguindanao del Sur Rep. Esmael "Toto" Mangudadatu defects from UBJP to BFP, joining growing exodus from MILF's political party.
+- **July 2026:** In-depth Rappler analysis documents widespread concern over CAB erosion. MILF's Commander Bravo warns the MILF remains prepared to return to armed struggle if the government fails to honor commitments. Peace adviser Sarmiento acknowledges CAB implementation at a "critical phase."
+
 ## Assessment
 The peace process is at its most fragile point since 2019. CCAA warns violence will likely increase in 2026 as the region heads to its first parliamentary election. Violent extremism incidents rose from 29 (late 2025) to 40 (Jan–May 2026), with deaths nearly doubling. The June 8 magnitude-7.8 earthquake has added a compounding humanitarian crisis that diverts governance bandwidth from election preparation. PRO-BAR has identified 92 towns as areas of concern for election security. Successful elections would consolidate the MILF's political legitimacy and undermine extremist recruitment narratives. Failed or fraudulent elections could reverse years of progress.

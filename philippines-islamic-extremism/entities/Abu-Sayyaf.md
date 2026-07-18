@@ -10,6 +10,10 @@ Jihadist militant organization based in the Sulu Archipelago (Jolo and Basilan i
 - Maintains limited IS ideological branding but operational links to central IS command are negligible
 - **February 2026:** Armed encounter in Patikul, Sulu (Feb 1) left four dead — suspected ASG remnants regrouping in Sulu, reversing the post-2019 decline narrative. CCAA reports ASG remnants regaining ground.
 
+## July 2026 developments
+- **July 15:** AFP-WestMinCom begins intensified crackdown on ASG remnants in Basilan and BIFF splinters ahead of July 16 BARMM-wide gun ban. CARES framework rolled out as pre-election security measure.
+- **July 16:** BARMM-wide election gun ban takes effect — security forces establish checkpoints. ASG remnants in Basilan identified as potential tools for political coercion and election-related violence.
+
 ## Spoiler potential
 ASG remnants serve as a recruitment pipeline for more ideologically committed splinter groups. Former ASG members who reject the MILF's peace deal represent a spoiler threat to the Bangsamoro transition. The February 2026 Patikul encounter suggests the group may be attempting a tactical resurgence ahead of the September elections.
 

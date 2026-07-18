@@ -22,3 +22,13 @@
 
 ## [2026-07-11] ingest | MILF declares DI-MG, NPA persona non grata in Lanao del Norte (GMA Regional TV)
 - MILF 127th (May 23, Munai) and 123rd (June 23, Tagoloan) Base Commands formally declared Dawlah Islamiyah-Maute Group and NPA's SRC-5 persona non grata in their areas of influence. Ceremonies included signing of peace commitment pledges with LGUs, military, and peace stakeholders.
+
+## [2026-07-18] ingest | Weekly source update (7 new sources)
+- 7 new sources added (24-30). Total sources: 30.
+- Source 24: AFP begins crackdown on ASG/BIFF ahead of BARMM gun ban (Rappler) — CARES framework, Basilan security ops, mixed political reactions
+- Source 25: Party switching reshapes Bangsamoro political landscape (Inquirer) — Mangudadatu defects UBJP→BFP, continuing exodus
+- Source 26: Sulu remains 'priority area' for peace work despite BARMM exit (Rappler) — MNLF engagement continues under 1996 Final Peace Agreement
+- Source 27: Comelec disqualifies MILF candidate in Maguindanao del Sur (Rappler) — Alamada COC cancelled; BFP rival challenged residency
+- Source 28: BARMM town councilor shot dead on first day of election gun ban (Rappler) — Dalandang killed in Kadayangan, SGA-BARMM, July 16
+- Source 29: Marcos appoints Mel Sarmiento as head of gov't peace implementing panel (Rappler) — Fills long-vacant post, counterpart to MILF's Iqbal
+- Source 30: BARMM transition strained by peace deal implementation issues (Rappler) — Thousands rally warning of CAB erosion; Commander Bravo warns MILF could return to armed struggle
