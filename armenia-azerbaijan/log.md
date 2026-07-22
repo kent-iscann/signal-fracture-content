@@ -80,3 +80,22 @@
   - OC Media (Jul 14): Aliyev at Shusha forum — Russia reconciliation, China weapons procurement, CoE departure threat, Ukraine advice
 - **Tavily Searches (0 new):** No new substantively unique sources not already covered by priority sources
 - Updated sources.md (40 → 51), index.md source count (40 → 51)
+
+## 2026-07-22 ingest | Weekly source update (armenia-azerbaijan)
+- **Priority Sources (10 new):**
+  - Eurasianet (Jul 16): TRIPP takes step toward implementation — Armenian govt approves bill, TRIPP Development Co. with 49-year lease, Sokolov named to head $200M Middle Corridor fund
+  - Eurasianet (Jul 15): China & Japan calibrating trans-Caspian trade strategies — focus on Pashinyan's constitutional amendment efforts
+  - JAMnews (Jul 21): Russia destroyed 40,000 Armenian roses shipped via Belarus — trade war escalation
+  - JAMnews (Jul 21): Armenia begins recruiting border guards for Azerbaijan border — border security development
+  - JAMnews (Jul 21): Aliyev's visit to Germany — energy diplomacy with EU
+  - JAMnews (Jul 17): Azerbaijani FM Bayramov visits Moscow despite Russian smear campaign
+  - JAMnews (Jul 17): Azerbaijan's withdrawal from CoE analysis
+  - JAMnews (Jul 16): Armenia begins ratifying TRIPP agreement
+  - JAMnews (Jul 15): New EU mission to counter hybrid threats in Armenia
+  - OC Media (Jul 20): Armenia exports flowers to UAE amid Russian trade restrictions
+- **Tavily Searches (5 new):**
+  - Foreign Policy (Jul 21): Anna Ohanyan on Armenia's 'predatory opposition' and democratic challenges
+  - Mirror-Spectator (Jul 21): TRIPP deal in conflict with Armenian law, says Justice Ministry
+  - Mirror-Spectator (Jul 21): Trump Route Fund Chair Sokolov buys second-largest Armenian mine (Teghut)
+  - Caucasus Watch (Jul 2026): VTB sells Teghut mine, EU advisory mission, 3+3 meeting, Aliyev global strategy, Fitch rating
+- Updated sources.md (51 → 69), index.md source count (51 → 69)
