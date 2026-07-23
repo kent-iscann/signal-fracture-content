@@ -213,3 +213,22 @@
 - Budget: ₽13B ($165M); Georgia is primary destination for post-2022 Russian emigrants (15.5%)
 - Russian Orthodox Church identified as key channel for soft-power engagement
 - Report divides diaspora into three groups; recommends apolitical cultural engagement
+
+## 2026-07-23 | ingest | GEOpolitics: Is Annexation Close? The South Ossetian Trap
+- Gagloev resignation (June 23, 2026) and appointment as Putin adviser analyzed
+- History of Russian "parachutists" in de facto government since 2004 documented
+- Marat Kambolov (Russian citizen, former Kurchatov Institute director) installed as acting president
+- 2026 Treaty on Deepening Allied Interaction further integrates South Ossetia into Russia
+- "Neverendum" of annexation referendums (1992, 2006, 2017, 2022) analyzed
+- MRB Bank used as financial cut-out for Donbas (49B rubles in 2017) and North Korea sanctions evasion
+- Georgia's economic dependence on Russia: 97% wheat imports, 60-65% wine exports
+- Formal annexation possible as political compensation for Ukraine difficulties
+
+## 2026-07-23 | ingest | JAMnews: Georgia's Asian Pivot
+- Kobakhidze met leaders of all five Central Asian states (summer 2026)
+- Strategic partnership agreements with Kazakhstan and Uzbekistan
+- First official visits to Kyrgyzstan and Tajikistan; Turkmen president's first Tbilisi visit
+- Economic data: exports dominated by vehicle re-exports (95.5% to Kyrgyzstan, ~90% to Tajikistan)
+- Kazakhstan oil transit via BTC pipeline (49M barrels Q1 2026)
+- Experts warn Central Asia cannot substitute for Western ties
+- Middle Corridor faces structural challenges (port capacity, customs, costs)

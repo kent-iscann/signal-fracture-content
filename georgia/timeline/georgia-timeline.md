@@ -86,3 +86,9 @@
 
 ### July 6, 2026
 - **China exits Anaklia port** — Georgian government confirms China's CCCC and China Harbour Investment formally withdrawn from Anaklia Deep Sea Port project. Announces "landlord" model: state retains ownership of core infrastructure while seeking multiple limited partners. 2029 target for first phase. Confirms GD's strategy of avoiding Western investment while courting Middle Corridor partners.
+
+### July 21, 2026
+- **Georgia's Asian pivot documented** — JAMnews comprehensive analysis of Kobakhidze's outreach to all five Central Asian states. Strategic partnerships with Kazakhstan and Uzbekistan. First visits to Kyrgyzstan and Tajikistan. Economic data shows exports dominated by vehicle re-exports (95.5% to Kyrgyzstan). Experts warn Central Asia cannot substitute for Western ties.
+
+### July 22, 2026
+- **South Ossetia annexation analysis** — GEOpolitics publishes deep analysis following Gagloev's resignation (June 23) and appointment as Putin adviser. Traces Russian "parachutists" in de facto government since 2004. Documents 2026 Treaty on Deepening Allied Interaction and MRB Bank's role in Donbas and North Korea sanctions evasion. Argues formal annexation possible as political compensation for Ukraine difficulties.
