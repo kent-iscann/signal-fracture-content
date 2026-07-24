@@ -260,3 +260,32 @@
 - entities/western-powers.md: added US sanctions bill breakthrough section
 
 ---
+
+## 2026-07-24 | Weekly source update — 5 new sources added
+
+### Sources added
+
+1. **OilPrice.com: Ukraine's Drone War Is Choking Kazakhstan's Oil Exports** (July 23, 2026)
+   - Major analysis: CPC carries 80% of Kazakh crude (~1.7M b/d). Tanker attacks July 17-21 halted loadings. Tengiz halved to 406K b/d; total output dropped to 1.63M b/d. Three-part crisis: war-exposed export system, insufficient alternatives, recurring operational disruptions.
+
+2. **Timesca: Kazakhstan's Main Oil Route Remains Vulnerable — It Is Expanding Alternatives** (July 21, 2026)
+   - Four tankers hit near CPC terminal (July 17-20). Kazakhstan Foreign Ministry condemned attacks. BTC exports 1.3M tons in 2025, targeting 1.6M in 2026. Pax Silica accession (first in region).
+
+3. **Trend.az: Transit, AI, and factories become new pillars of Kazakhstan-China cooperation** (July 20, 2026)
+   - Tokayev's WAIC 2026 visit: $15B+ in 70+ agreements, Trade and Economic Cooperation Program, Roadmap 2027-2030, CATL gigafactory, Digital Bridge, WAICO launch, 2027 Year of Joint AI Initiatives.
+
+4. **Qazinform: Kazakhstan leads Central Asia in investment market stability** (July 23, 2026)
+   - Kazakhstan ranked 53rd/150 in "Safest Countries for Investors 2026" (up from 70th in Oct 2025). Digital tenge in government procurement starting August 2026.
+
+5. **IntPolicyDigest: Mr. Tokayev goes to Brussels** (July 2026)
+   - Analysis of Brussels visit with constitutional reform context. CoE declaration (20+ members), Chatham House skepticism, US Investment Roundtable (May 3), KMG Ustyurt discovery, Airbus 25 A320neo order.
+
+### Files updated
+- sources.md: 56 → 61 sources
+- log.md: updated
+- index.md: updated source count and date
+- concepts/caspian-geopolitics.md: added CPC tanker crisis section (July 2026)
+- entities/russia.md: added CPC dependency vulnerability section
+- entities/china.md: added Tokayev's WAIC 2026 visit section
+- entities/western-powers.md: added Pax Silica, CoE declaration, US investment roundtable, KMG Ustyurt discovery
+- timeline/kazakhstan-timeline.md: extended July 2026 entries

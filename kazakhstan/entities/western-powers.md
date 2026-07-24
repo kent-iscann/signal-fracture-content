@@ -43,3 +43,22 @@ Western powers are cautiously increasing engagement with Kazakhstan, viewing it 
 - Represents the most significant US secondary sanctions escalation since the 2022 invasion — directly relevant to Kazakhstan as a key transit corridor for trade with Russia.
 - Follows UK's 70-designation sanctions package (June 16, 2026) and EU's 20th package targeting third-country circumvention, creating a multi-jurisdictional enforcement architecture targeting Central Asian transit trade.
 - Gives President Trump a powerful new tool to pressure Putin as Washington seeks an end to Russia's now-fifth-year war in Ukraine.
+
+## Pax Silica accession (June 2026)
+- Kazakhstan became the first Central Asian country to join the US-led **Pax Silica initiative** (June 2026), a framework covering AI, critical minerals, semiconductors, data centers, energy infrastructure, high-tech manufacturing, research, and talent development.
+- Signals US intent to integrate Kazakhstan into technology supply chains beyond raw materials.
+
+## Council of Europe declaration (June 2026)
+- **June 25, 2026:** 20+ members of the Parliamentary Assembly of the Council of Europe issued a declaration welcoming Kazakhstan's constitutional reforms, praising a "transition towards a more balanced model of governance."
+- Signatories included Armenia, Greece, Hungary, Luxembourg, Spain, Turkey.
+- **Chatham House skepticism** (March 2026): Alternative analysis argued constitutional changes could further consolidate presidential authority.
+- Kazakhstan's EU relations: Enhanced Partnership and Cooperation Agreement (EPCA) marked 10th anniversary in 2025.
+
+## Inaugural US-Kazakhstan Investment Roundtable (May 2026)
+- **May 3, 2026:** First Kazakhstan-US Investment Roundtable held alongside SelectUSA Investment Summit near Washington, D.C.
+- Part of broader US effort to boost economic engagement with Central Asia beyond critical minerals deals.
+
+## KazMunayGas Ustyurt discovery (April 2026)
+- KazMunayGas (KMG) announced discovery of an onshore oil and gas deposit north of the Ustyurt Plateau, which stretches across Kazakhstan and Uzbekistan between the Caspian and Aral Seas.
+- **BP** leading effort to develop energy deposits in the region.
+- Potentially significant for Europe's energy diversification strategy.

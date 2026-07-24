@@ -35,3 +35,16 @@ China's economic influence in Kazakhstan is growing but remains secondary to Rus
 - **BRI priorities (2026):** Bektenov outlined five directions — infrastructure connectivity, Middle Corridor development, digital logistics, green energy, financial/investment cooperation.
 - **Academic analysis (June 2026):** Peer-reviewed study (Frontiers in Political Science) shows Kazakhstan's bilateral trade shifted significantly 2020-2024 vs 2013-2019, with growing China share forcing Kazakhstan to hedge between BRI and US strategic response (NSS 2025).
 - **All China Review (July 2026):** Comprehensive analysis published during Tokayev-Xi meeting in Shanghai (July 16) notes Kazakhstan's GDP of $306B constitutes 53.7% of Central Asia — more than 2x Uzbekistan's $147.1B. GDP per capita ~$15,000 vs $3,800 in Uzbekistan. Banking assets $140B. IMF projects Kazakhstan's GDP to reach $360.4B in 2026 (49th globally). Implicit argument: China's bet on Kazakhstan is structurally sound because Kazakhstan is the region's dominant, most diversified economy.
+
+## Tokayev's China visit — WAIC 2026 and $15B+ agreements (July 2026)
+- **July 16-20, 2026:** President Tokayev made a working visit to China, attending the World Artificial Intelligence Conference (WAIC 2026) in Shanghai and meeting President Xi Jinping.
+- **Trade and Economic Cooperation Program** and **Roadmap for 2027-2030** signed by both leaders — designed to accelerate joint projects, expand investment cooperation, and move bilateral trade closer to the $100B goal.
+- **Kazakhstan-China Business Forum** produced **70+ commercial agreements worth over $15B**, covering AI, digital infrastructure, transport, mechanical engineering, agriculture, finance, and manufacturing.
+- **Bilateral trade data:** $22B in Jan-May 2026 (+27% YoY), could approach $55-60B this year if current pace continues. Tokayev stated China invested over $30B in Kazakhstan's economy and 8,500+ enterprises with Chinese capital operate in Kazakhstan.
+- **CATL** (world's largest EV battery manufacturer) is considering building **Central Asia's first EV battery gigafactory** in Kazakhstan.
+- **Kazakhstan-China Digital Bridge initiative** proposed by Tokayev. He also proposed **declaring 2027 the Year of Kazakhstan-China Joint AI Initiatives**.
+- Kazakhstan proposed hosting the inaugural meeting of the **World Artificial Intelligence Cooperation Organization (WAICO)** in Astana and establishing its Central Asia regional office there. WAICO was launched by 29 founding states.
+- **Kazakhstan Temir Zholy** concluded $400M in industry-specific agreements covering transport digitalization, port infrastructure, terminals, and logistics facilities.
+- Tokayev met with **Huawei, Xiaomi, and CATL** executives. Discussions covered cloud computing, AI infrastructure, data processing, EV manufacturing, and intelligent transport systems.
+- Tokayev stressed Kazakhstan aims to become Central Asia's leading agricultural hub by integrating AI, robotics, and digital technologies into the sector.
+- 13 international transport corridors pass through Kazakhstan; ~85% of China-Europe rail traffic transits Kazakhstan. $35B+ invested in transport/logistics over 15 years.

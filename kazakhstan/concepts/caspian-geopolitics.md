@@ -29,6 +29,16 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 ## BTC pipeline diversification
 - Kazakhstan targeting 1.5-2.2 million tons of crude oil exports through the Baku-Tbilisi-Ceyhan (BTC) pipeline in 2026, up from ~1.2 million tons previously. Diversifies export routes away from Russia-dependent CPC pipeline, aligning with Western energy security goals.
 
+## CPC tanker crisis (July 2026)
+- **July 17-20, 2026:** Four tankers struck near the CPC terminal at Novorossiysk, two while loading Kazakh crude. Loadings suspended repeatedly. CPC stopped accepting crude into pipeline from Kazakhstan by July 21. As of July 23, no confirmed restart.
+- **80% of Kazakh crude exports (~1.7M b/d)** depend on the CPC route. Tengiz production halved from 925K b/d to 406K b/d. Total Kazakh output dropped to 1.63M b/d vs July average of 2.07M b/d.
+- **Karachaganak:** Orenburg gas processing plant strike (June 24) cut field's liquids output from 34K t/d to 25K t/d (~70K b/d decline).
+- **Alternative routes insufficient:** BTC via Aktau only ~30K b/d (Caspian Sea too shallow for larger vessels). Atyrau-Samara: 220K b/d (still Russia-dependent). Kazakhstan-China pipeline: 400K b/d (already integrated into regional flows). Aktau port lacks storage and loading capacity; Caspian tanker fleet limited.
+- **CPC and KEBCO** together account for **~15% of EU crude imports** (June 2026) — Italy's Trieste port receives 300K b/d serving Austrian, Czech, German refiners.
+- Kazakhstan's Foreign Ministry condemned the attacks as a direct threat to its economic interests, saying an agreed mechanism for sharing information about civilian vessels had been disregarded.
+- OilPrice.com analysis frames this as a **three-part crisis**: war-exposed export system, insufficient alternatives, and recurring operational disruptions at major fields.
+- Kazakhstan's oil vulnerability is structural: it is the world's largest landlocked country, bordering Russia, and its export system was not designed for the rupture following Russia's 2022 invasion of Ukraine.
+
 ## Regional dynamics
 - The Caspian region is increasingly contested, with Russia, China, Turkey, and the EU all seeking influence.
 - Kazakhstan's multi-vector approach aims to balance these competing interests while maximizing energy revenues and transit leverage.
