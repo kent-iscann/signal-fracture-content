@@ -32,3 +32,8 @@
 - Source 28: BARMM town councilor shot dead on first day of election gun ban (Rappler) — Dalandang killed in Kadayangan, SGA-BARMM, July 16
 - Source 29: Marcos appoints Mel Sarmiento as head of gov't peace implementing panel (Rappler) — Fills long-vacant post, counterpart to MILF's Iqbal
 - Source 30: BARMM transition strained by peace deal implementation issues (Rappler) — Thousands rally warning of CAB erosion; Commander Bravo warns MILF could return to armed struggle
+
+## [2026-07-25] ingest | Weekly source update (2 new sources)
+- 2 new sources added (31-32). Total sources: 32.
+- Source 31: ANFREL/NDI joint Technical Assessment Mission for BARMM elections (ANFREL) — International election observation deployment for September 14 polls; focus on inclusive participation and peaceful conduct
+- Source 32: UNODC Transnational Organized Crime Threat Assessment 2026 (UNODC) — Illicit tobacco trade funding non-state armed groups in Mindanao; Sulu-Celebes maritime crime corridor; Sangihe Islands smuggling networks; MILF decommissioning data
