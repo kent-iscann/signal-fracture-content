@@ -10,3 +10,6 @@ Angola is a critical infrastructure node in China's Southern African mineral str
 ## Key role
 - Atlantic export gateway via Lobito Corridor
 - Historical oil-for-infrastructure relationship with China
+
+## Key developments (July 2026)
+- **Barra do Dande Port Terminal:** Angola secured a $900M privately funded Chinese investment to construct and operate the Barra do Dande Port Terminal in Bengo province under a 25-year build-operate agreement. The port is expected to generate over $10B in turnover once fully operational. This represents Chinese expansion beyond extractive mining into port infrastructure operations as a privately funded 25-year concession.

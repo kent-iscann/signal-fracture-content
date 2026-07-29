@@ -73,7 +73,19 @@
 - Updated critical-minerals-strategy.md: added ESG governance, export restriction wave, Western counter-initiative sections.
 - Updated index: source count 25→29, page count 11→12, added Namibia entity.
 
-## [2026-07-15] ingest | Weekly source update — Namibia Beijing state visit deals, SADC railway revolution, Glencore DRC stake sale, Africa-China agency analysis
+## [2026-07-29] ingest | Weekly source update — Sandawana $300M deal confirmed, Zimbabwe 13-mineral ban extension, Huayou carbonate plant, Angola Barra do Dande port, Quad minerals initiative, CGD Chinese lending analysis, AMIQ pipeline data, Madagascar rare earths
+- Added source 41: Mining.com (July 23, 2026) — Mutapa Energy Resources secured $300M from Huayou Cobalt/Tsingshan for Sandawana lithium mine and processing facilities. Confirms previously reported negotiation.
+- Added source 42: Japan Times (July 28, 2026) — Zimbabwe designates 13 additional critical minerals (cobalt, PGMs, rare earths) for raw export ban from 2027. Policy framed as "structured inclusion."
+- Added source 43: Al Jazeera (July 26, 2026) — Huayou's lithium carbonate plant ~90% complete; $1.1bn forex generated; battery/solar panel manufacturing ambitions; smaller miner exclusion concerns.
+- Added source 44: Business Insider Africa (July 21, 2026) — Angola $900M Chinese private investment for Barra do Dande Port Terminal (25-year build-operate concession).
+- Added source 45: CSEP (May 26, 2026) — Quad Critical Minerals Initiative Framework ($20B) with bluntest language toward Beijing to date.
+- Added source 46: CGD (2026) — Chinese state-owned bank lending shift: infrastructure <25% of portfolio (from 75%); pivot to $71.5B in fossil fuel extraction.
+- Added source 47: AMIQ/Projectsiq (July 29, 2026) — Zambia copper projects pipeline ($2B Lumwana, $1.25B Kansanshi S3, $2B Mingomba); Kamoa-Kakula copper anodes from new smelter.
+- Added source 48: CNBC Africa (July 28, 2026) — US-backed Madagascar rare earths project challenging China's supply chain dominance.
+- Updated timeline with 5 new July 2026 events (Barra do Dande, Sandawana deal, Huayou plant, 13-mineral ban, Madagascar rare earths).
+- Updated Zimbabwe entity: added Sandawana $300M deal, Huayou carbonate plant completion status, 13-mineral ban extension, battery/solar ambition, smaller miner concerns.
+- Updated Angola entity: added Barra do Dande Port Terminal section.
+- Updated index: source count 33→48, date from 2026-07-15→2026-07-29.
 - Added source 30: TRT Afrika/Reuters (July 10, 2026) — Xi Jinping hosts Namibian President Nandi-Ndaitwah in Beijing; eight documents signed including green minerals cooperation and economic partnership framework. Joint statement commits to cooperation in uranium, lithium, and rare earths with emphasis on local processing, technology transfer, and skills development. New dimension: concrete bilateral agreements signed at Xi level, moving beyond general investment courtship.
 - Added source 31: African Business (July 8, 2026) — Comprehensive survey of SADC railway corridors. Key new data: South Africa opens freight rail to private operators (May 2026) — biggest rail reform in decades; Lobito Corridor concession $500M from Trafigura/Mota-Engil/Vecturis consortium; TAZARA $1.4B tripartite rehabilitation targeting 2.4M tonnes freight (from 400K); Tanzania SGR electric railway ($900M, Turkish contractor); Nacala Corridor ($4.5B, Japanese interest); North-South Corridor connecting DRC/Zambia to South Africa. Provides broader rail integration context for China's mineral logistics.
 - Added source 32: Mining SEE (July 2026) — Control mapping of Africa's battery metals. Glencore sold 40% stakes in DRC copper-cobalt assets to US/Gulf consortium ($8-9B) — first significant non-Chinese capital injection into DRC cobalt. China controls >70% of Africa's operating lithium, ~60% of DRC copper/cobalt, 90% of rare earth processing. Malawi Kangankunde rare earths and Mozambique Balama graphite data added.

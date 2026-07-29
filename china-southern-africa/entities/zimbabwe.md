@@ -6,10 +6,12 @@ In April 2026, Zimbabwe adopted a producer quota system for lithium concentrate 
 
 ## Key minerals
 - Lithium (Africa's largest reserves)
-- Platinum
+- Platinum (including palladium, rhodium, ruthenium, iridium, osmium)
 - Gold
 - Chrome
 - Diamonds
+- Cobalt
+- Rare earth elements
 
 ## Key Chinese actors
 - Zhejiang Huayou Cobalt (Prospect Lithium Zimbabwe, Sandawana Mine JV)
@@ -19,8 +21,11 @@ In April 2026, Zimbabwe adopted a producer quota system for lithium concentrate 
 - Sichuan Yahua Industrial
 - China Railway (resource-backed infrastructure financing discussions, June 2026)
 
-## Key developments (June 2026)
-- **Mineral-backed infrastructure:** Finance Minister Mthuli Ncube announced talks with China Railway at WEF Dalian to use mineral wealth as collateral for road/railway construction, modeled on DRC's $7 billion Sicomines deal.
-- **Sandawana Mine:** State-owned Mutapa Energy Minerals partnered with Zhejiang Huayou Cobalt and Tsingshan Holding Group to develop a lithium concentrate processing plant.
+## Key developments (July 2026)
+- **Sandawana $300M deal confirmed:** Mutapa Energy Resources secured $300M from Chinese entities (Huayou Cobalt, Tsingshan) to develop the Sandawana lithium deposit with both a mine and processing facilities. Confirms deal previously reported as "negotiating."
+- **Huayou lithium carbonate plant ~90% complete:** Prospect Lithium Zimbabwe nearing completion of its lithium carbonate plant. Huayou investments have generated >$1.1bn in foreign exchange for Zimbabwe.
+- **13-mineral ban extension:** From start of 2027, 13 additional critical minerals — including cobalt, platinum group metals (PGMs: palladium, rhodium, ruthenium, iridium, osmium), and rare earth elements — cannot be exported in raw form. Government frames this as "structured inclusion" rather than exclusion.
+- **Battery/solar panel ambition:** Government ambitions extend beyond lithium sulphate/carbonate to manufacturing lithium batteries and solar panels locally.
+- **Smaller miner concerns:** Smaller miners fear exclusion from processing infrastructure, proposing a toll-smelting system with shared facilities at transparent rates.
 - **Bikita Minerals:** $400M investment for lithium precursor chemicals; phase one (60,000 tonnes/year) expected Q2 2027.
 - **Export data:** Q1 2026 mineral sales reached $983.85M — volumes up 27%, values up 79% following the raw lithium export ban.
