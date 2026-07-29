@@ -34,3 +34,9 @@
 
 ## [2026-07-15] ingest | Bolivia declares national emergency, ends fuel subsidies (CPG)
 - Paz ends ~20-year fuel subsidy policy; up to 100% price increases for gasoline/diesel; 50% of savings transferred to regional/subnational governments; Paz describes inheriting "a country wounded in its economy, without dollars, with rising inflation and without fuel."
+
+## [2026-07-29] ingest | US throws support behind Bolivia's president as unrest grows (France 24)
+- US Secretary of State Marco Rubio assured Paz of emergency assistance and logistics support for acute food/medical shortages. Defense Secretary Pete Hegseth denounced "attempts to overthrow" and pledged support against "narco-terrorists." Paz restored severed US relations, introduced sweeping economic reforms including fuel subsidy cuts.
+
+## [2026-07-29] ingest | Fuel crisis threatens soybean production in Bolivia (UkrAgroConsult)
+- Acute diesel shortage threatens Bolivia's soybean harvest — Santa Cruz needs 3M liters/day to harvest 950,000 hectares. Anapo GM warns farmers have no certainty of diesel supply. Soybeans worth $1B+ in 2025 exports; ongoing economic and political crisis compounds agricultural sector pressure.

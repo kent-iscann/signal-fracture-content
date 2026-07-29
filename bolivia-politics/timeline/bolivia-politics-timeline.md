@@ -26,4 +26,6 @@
 |- **June 18:** Paz in CNN interview hints Morales arrest could come "maybe this weekend" or by end of month; describes Morales support base as "a sect"; prosecutors seeking 20-year sentence; government seeking US judicial cooperation on drug trafficking links.
 |- **June 25:** Fair Observer publishes comprehensive analysis: blockades cut off Santa Cruz economic hub, chicken prices up 400%, Law 1720 land reform key trigger, Paz's constitutional reform plan, government accuses Morales-linked groups of "narco-terrorism."
 |- **July 2:** Human Rights Watch publishes "Bolivia Cleared the Roads, but it Hasn't Cleared the Crisis" — exposes 22,000 pending cases, "jurisprudence à la carte," 0.46% judicial budget, 37 deaths from 2019 still uninvestigated, Supreme Court threatens strike for 5% budget allocation.
-|- **July 6:** Supreme Court judicial authorities threaten to begin strike if government does not appropriate 5% of budget to justice system.
+||- **July 6:** Supreme Court judicial authorities threaten to begin strike if government does not appropriate 5% of budget to justice system.
+|- **July 9:** Reuters reports Bolivia invites Petrobras to return to oil and gas production and help restructure state-owned YPFB — significant energy sector pivot amid crisis.
+|- **July 28:** Acute diesel shortage threatens Bolivia's soybean harvest; Santa Cruz needs 3M liters/day to harvest 950,000 hectares of soybeans; soybeans worth $1B+ in 2025 exports.
