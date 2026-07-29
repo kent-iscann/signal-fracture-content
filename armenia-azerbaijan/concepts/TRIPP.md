@@ -41,6 +41,11 @@ Sub-projects will be implemented through dedicated Special Purpose Vehicles (SPV
 ## Post-Election Regional Integration Vision
 Carnegie Endowment (June 11, 2026) frames TRIPP as the foundation for a broader South Caucasus economic compact covering transport, energy, digital infrastructure, and investment. The upcoming NATO summit in Ankara (July 2026) is identified as a key diplomatic window. Proposed concrete first step: opening the Turkey-Armenia border for direct trade and third-country nationals. The German Marshall Fund (June 2026) describes Armenia as an emerging "connectivity hub," with the Crossroads of Peace, Middle Corridor, and TRIPP converging into a Euro-Atlantic effort to diversify trade routes away from corridors vulnerable to geopolitical disruption.
 
+## Latest Developments (July 2026)
+On July 16, the Armenian government approved a draft law for the ratification of the TRIPP Framework Agreement and submitted it to the Constitutional Court for legal review. A freshly created TRIPP Development Co. will have a 49-year lease to build and operate the transit route. Before construction, two additional agreements (shareholders' agreement and TDC charter) must be signed. Armenia's Justice Ministry found that TRIPP provisions conflict with Armenian law (Law on the State Border, tax legislation) but recommended approval for political reasons (Mirror-Spectator, Jul 21).
+
+The Jamestown Foundation (Jul 2026) analyzed TRIPP as a major factor in reordering Eurasian trade routes, framing it as a framework where transport and energy transit corridors function under Armenian jurisdiction — directly contrasting with Russia's Zangezur Corridor concept which would have placed the route under Russian control. The analysis notes that TRIPP's realization will determine the configuration of South Caucasus trade, energy transit flows, and geopolitical influence.
+
 ## Risks
 - Russia has explicitly warned against foreign military presence in the corridor zone
 - Iran views the corridor as a threat to its regional influence

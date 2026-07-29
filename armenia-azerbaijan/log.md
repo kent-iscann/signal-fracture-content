@@ -99,3 +99,21 @@
   - Mirror-Spectator (Jul 21): Trump Route Fund Chair Sokolov buys second-largest Armenian mine (Teghut)
   - Caucasus Watch (Jul 2026): VTB sells Teghut mine, EU advisory mission, 3+3 meeting, Aliyev global strategy, Fitch rating
 - Updated sources.md (51 → 69), index.md source count (51 → 69)
+
+## 2026-07-29 ingest | Weekly source update (armenia-azerbaijan)
+- **Priority Sources (8 new):**
+  - OC Media (Jul 27): Pashinyan-Putin first post-election call — Pashinyan raises Russian import bans, Putin reiterates EU referendum demand, Pashinyan says referendum only possible after Armenia applies to EU
+  - Caucasus Watch (Jul 2026): "Armenia: Squeezed by Moscow, Hedging with Washington and Brussels" — major analytical piece on Armenia's economic squeeze, US DFC $2.5B package, EU €50M aid, €2B connectivity platform
+  - Caucasus Watch (Jul 24): Azerbaijan's Milli Majlis condemns H.R. 9087 (Sherman bill) approved by US House Foreign Affairs Committee
+  - Caucasus Watch (Jul 25): Armenia-Iran energy cooperation — Iran proposes new trade model for gas exports
+  - Caucasus Watch (Jul 25): Pashinyan-Macron phone call reaffirming strategic partnership
+  - Caucasus Watch (Jul 2026): Azerbaijan-Iran media ban escalation — Iran lists AzTV as "enemy media," Azerbaijan bans Sahar TV and Mehr News Agency
+  - Caucasus Watch (Jul 26): Weekly Military Brief — British training of Armenian instructors, Azerbaijan exercise in Jordan, Serbia defense delegation
+  - ARMENPRESS (Jul 2026): Armenia-Turkey business forum to reconvene in September; railway freight up 400%
+- **Tavily Searches (1 new):**
+  - Jamestown Foundation (Jul 2026): TRIPP Plays Role in Reordering of Eurasian Trade Routes
+- Updated sources.md (69 → 78), index.md source count (69 → 78)
+- Updated timeline with 14 new July 2026 entries
+- Updated Pashinyan entity: Putin call details, EU referendum position
+- Updated Aliyev entity: Sherman bill condemnation, Iran media ban, Slovak president visit, Jordan exercise, Serbia delegation
+- Updated TRIPP concept: July 16 approval, Jamestown analysis, legal conflict with Armenian law

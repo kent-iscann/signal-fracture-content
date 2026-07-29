@@ -45,4 +45,17 @@
 - **June 24:** Deputy Foreign Minister Vahan Kostanyan announces 2030 target for full border reopening with Turkey and Azerbaijan; certain transport routes could operationalize earlier.
 - **June 24:** Congressional leaders (Sherman, Chu, Friedman, Costa) hold press conference at US Capitol marking 1,000th day of Armenian POWs in Azerbaijani custody. ANCA's Hamparian calls peace framework consolidation of "genocidal gains." House prepares to vote on Sherman Amendment; 8 pro-Armenian amendments advancing through House Rules (ANCA).
 - **June 24:** Baku Initiative Group (government-linked Azerbaijani NGO) hosts "Right of Return and Self-Determination" conference in US Capitol — first event of its kind in the building, featuring "Western Azerbaijani" personal stories of expulsion (OC Media).
-- **June 30:** Armenian Weekly reports Aliyev escalated demands to the UN: return of former Azerbaijani enclaves, territorial acquisition via border "delimitation," and resettlement of 300,000 Azerbaijanis in Armenia.
+|- **June 30:** Armenian Weekly reports Aliyev escalated demands to the UN: return of former Azerbaijani enclaves, territorial acquisition via border "delimitation," and resettlement of 300,000 Azerbaijanis in Armenia.
+|- **July 2:** Von der Leyen visits Yerevan — announces autonomous trade measures liberalizing ~80% of Armenian exports to EU, final €18M tranche of €52M package. Describes Russian pressure as "economic violence."
+|- **July 6:** Pashinyan travels to Yekaterinburg to meet Russian PM Mishustin in first post-election visit to Russia. Mishustin extends olive branch but warns about protecting Russian investors' interests.
+|- **July 14:** Aliyev hosts Slovak President Pellegrini in Shusha. Discusses energy cooperation, Karabakh reconstruction, and Slovakia's participation in Smart Village project.
+|- **July 15:** EU launches civilian advisory mission to help Armenia counter hybrid threats.
+|- **July 16:** Armenian government approves TRIPP framework agreement bill, sends to Constitutional Court. TRIPP Development Co. created with 49-year lease.
+|- **July 20:** Azerbaijan Special Forces participate in "Zulfiqar" counterterrorism exercise in Jordan alongside Turkey and Pakistan.
+|- **July 21:** Armenia-Georgia military police chiefs discuss expansion of cooperation. British Military Advisory Team completes instructor training course for Armenian Armed Forces (Jun 29-Jul 22).
+|- **July 22:** US House Foreign Affairs Committee approves H.R. 9087 (Sherman bill). Azerbaijan's Milli Majlis condemns the bill, accusing Armenian lobby groups.
+|- **July 22:** Serbian defense delegation visits Azerbaijan for military cooperation talks.
+|- **July 25:** Pashinyan holds phone calls with Macron (France) and separately with Putin (Russia) — first contact with Putin since June elections. Pashinyan raises Russian import bans; Putin reiterates EU referendum demand.
+|- **July 25:** Armenia's Minister Khudatyan meets Iran's Oil Minister Paknejad in Tehran. Iran proposes new trade model for increased natural gas exports to Armenia.
+|- **July 27:** Iran lists AzTV as "enemy media." Azerbaijan retaliates by banning Iranian outlets Sahar TV and Mehr News Agency.
+|- **September (planned):** Armenian-Turkish business forum to reconvene in Yerevan.

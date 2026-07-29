@@ -16,7 +16,14 @@ Aliyev has ruled Azerbaijan since succeeding his father in 2003. He has consolid
 Azerbaijan's military is significantly more powerful than Armenia's, a gap that widened after the 2020 war. Azerbaijan controls strategic positions inside internationally recognized Armenian territory along the border. This military superiority gives Aliyev significant leverage in peace negotiations.
 
 ## Key Relationships
-- **Nikol Pashinyan (Armenia):** Negotiating partner. Aliyev holds the stronger hand militarily and territorially.
-- **Recep Tayyip Erdoğan (Turkey):** Close strategic ally. The Turkey-Azerbaijan axis is a cornerstone of Baku's foreign policy.
-- **Vladimir Putin (Russia):** Relations are pragmatic. Russia is Azerbaijan's largest arms supplier, but Aliyev has diversified partnerships.
-- **Donald Trump (US):** Engaged through the TRIPP corridor framework. Aliyev cautiously welcomed the US-brokered deal.
+|- **Nikol Pashinyan (Armenia):** Negotiating partner. Aliyev holds the stronger hand militarily and territorially. On July 25, Pashinyan held his first call with Putin since the elections — Putin also spoke separately with Aliyev, but neither readout mentioned Armenia.
+|- **Recep Tayyip Erdoğan (Turkey):** Close strategic ally. The Turkey-Azerbaijan axis is a cornerstone of Baku's foreign policy.
+|- **Vladimir Putin (Russia):** Relations are pragmatic. Russia is Azerbaijan's largest arms supplier, but Aliyev has diversified partnerships. Russian media ran a smear campaign against Azerbaijan in July 2026, but Azerbaijani FM Bayramov still visited Moscow for official talks.
+|- **Donald Trump (US):** Engaged through the TRIPP corridor framework. Aliyev cautiously welcomed the US-brokered deal. However, on July 22, the US House Foreign Affairs Committee approved H.R. 9087 (Sherman bill), which Azerbaijan's Milli Majlis condemned as a product of Armenian lobbying.
+
+## Latest Developments (July 2026)
+- **July 14:** Aliyev hosted Slovak President Pellegrini in Shusha for strategic partnership talks covering energy, Karabakh reconstruction, and the Smart Village project.
+- **July 20:** Azerbaijan Special Forces participated in "Zulfiqar" counterterrorism exercise in Jordan alongside Turkey and Pakistan.
+- **July 22:** Azerbaijan's Milli Majlis condemned H.R. 9087 approved by the US House Foreign Affairs Committee, accusing Brad Sherman of promoting Armenian lobby agendas.
+- **July 25:** Iran listed AzTV as "enemy media." Azerbaijan retaliated by banning Iranian outlets Sahar TV and Mehr News Agency.
+- **July 22:** Serbian defense delegation visited Azerbaijan for military cooperation talks, received briefing on the "Geopolitical Aspects of the Conflict."
