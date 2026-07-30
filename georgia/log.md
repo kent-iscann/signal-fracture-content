@@ -231,4 +231,24 @@
 - Economic data: exports dominated by vehicle re-exports (95.5% to Kyrgyzstan, ~90% to Tajikistan)
 - Kazakhstan oil transit via BTC pipeline (49M barrels Q1 2026)
 - Experts warn Central Asia cannot substitute for Western ties
-- Middle Corridor faces structural challenges (port capacity, customs, costs)
+|- Middle Corridor faces structural challenges (port capacity, customs, costs)
+|
+|## 2026-07-30 | ingest | ICDS: Georgia's Foreign Policy Pivot — From Euro-Atlantic Integration to Strategic Irrelevance
+|- Estonian ICDS analysis by Teona Giuashvili (LSE) — argues GD's "multi-alignment" is a façade for domestic power consolidation
+|- Georgia alone in the region narrowing its strategic agency while Armenia, Azerbaijan, Central Asia expand theirs
+|- GD's trajectory amounts to "strategic drift" — burning Western bridges, failing to cultivate viable alternatives
+|- Marginalisation may be intentional to reduce international scrutiny
+|
+|## 2026-07-30 | ingest | Just Security: The U.S. and the EU Must Wake Up to Threats in Georgia
+|- Former US Ambassador Ian Kelly and Bush Institute's David Kramer warn GD creating one-party regime
+|- Proposed legislation to ban all opposition parties deemed "threat to constitutional order"; GD creating "systemic opposition" (People's Power)
+|- Eight opposition leaders face sabotage charges (up to 15 years); verdict expected fall 2026
+|- Warns repression risks uprising and potential Russian military intervention
+|- US has no Senate-confirmed ambassador in Tbilisi — nobody even nominated
+|
+|## 2026-07-30 | ingest | ISPI: The Middle Corridor Paradox — Can Georgia and the EU Afford to Drift Apart?
+|- ISPI analysis by Bako Kheladze (July 27, 2026) on diverging EU-Georgia Middle Corridor perceptions
+|- Economy Minister announced Anaklia under landlord model, invited China/Central Asia/Azerbaijan — not Europe
+|- TRIPP expected to reduce travel times 25% vs Baku-Tbilisi-Kars
+|- Geography alone cannot compensate for deteriorating political trust
+|- Corridor participants paradoxically share interest in restoring EU-Georgia relations
