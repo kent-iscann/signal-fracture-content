@@ -1,6 +1,6 @@
 # Sources
 
-> Total sources: 48 | Last updated: 2026-07-15
+> Total sources: 49 | Last updated: 2026-07-30
 
 ## Debt and Lending
 
@@ -266,3 +266,11 @@
 48. "MSC in talks to buy into Sri Lanka's Hambantota amid port deal spree: sources" -- Journal of Commerce (July 7, 2026)
     https://www.joc.com/article/msc-in-talks-to-buy-into-sri-lankas-hambantota-amid-port-deal-spree-sources-6249532
     Mediterranean Shipping Co. (MSC), the world's largest container shipping line, is in discussions with China Merchants Port Holdings (CMPort, 85% owner) and the Sri Lanka Ports Authority (15% owner) to acquire a significant stake in Hambantota International Port. MSC has already started switching transshipment calls from Colombo to Hambantota for regular and ad hoc sailings, according to multiple local industry sources. An official announcement is expected soon. This development would bring a major global shipping operator into the Chinese-controlled port, potentially transforming its commercial viability.
+
+---
+
+## US-China-Sri Lanka Trilateral Dynamics & Trade
+
+49. "Sri Lanka's Tariff Concession May Carry a Diplomatic Cost With China" -- The Diplomat (July 28, 2026)
+    https://thediplomat.com/2026/07/sri-lankas-tariff-concession-may-carry-a-diplomatic-cost-with-china
+    By Rathindra Kuruwita. Analyzes how Sri Lanka's July 2026 gazette banning forced-labor imports — enacted to secure a lower 10% US tariff rate (vs 12.5%) under Trump's Section 301 forced-labor tariff regime — risks damaging relations with China. Key data: Sri Lanka's apparel/textile exports earned $4.9B in 2025 ($1.96B to US, $1.6B to EU, $688M to UK). The forced-labor narrative is widely understood by analysts to target Chinese Xinjiang cotton, despite data showing 97% mechanization in Chinese cotton farming and over 90% machine-picking in Xinjiang specifically (up from 5% in 1990). The article argues Sri Lanka's performative compliance with US demands to push a contested narrative against its largest bilateral lender and infrastructure investor sends a "dangerous signal" to Beijing and illustrates the narrowing policy space for small states caught between Washington and Beijing.

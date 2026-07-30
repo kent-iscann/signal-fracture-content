@@ -162,3 +162,11 @@
   - entities/hambantota-port.md: Added MSC stake talks development to 2025-2026 section. Updated frontmatter date.
   - index.md: Updated last-updated date (2026-07-08 → 2026-07-15) and source count (46 → 48)
 - **Total sources**: 46 → 48
+
+## [2026-07-30] ingest | The Diplomat: Sri Lanka's Tariff Concession May Carry a Diplomatic Cost With China
+- **Source #49**: "Sri Lanka's Tariff Concession May Carry a Diplomatic Cost With China" — The Diplomat (July 28, 2026) by Rathindra Kuruwita. Analyzes Sri Lanka's July 2026 forced-labor import ban enacted to secure a lower US tariff rate, and the diplomatic risk it poses to China-Sri Lanka relations. Key data: Sri Lanka's $4.9B apparel exports (25% to US); 97% mechanization in Chinese cotton farming; narrowing small-state policy space between Washington and Beijing.
+- **Wiki pages updated**:
+  - sources.md: Added new source entry (#49) in new category "US-China-Sri Lanka Trilateral Dynamics & Trade". Updated source count header to 49 and last-updated date to 2026-07-30.
+  - timeline/china-sri-lanka-timeline.md: Added new July 28, 2026 timeline entry covering the forced-labor import ban and its implications for China-Sri Lanka relations.
+  - index.md: Updated last-updated date (2026-07-15 → 2026-07-30) and source count (48 → 49)
+- **Total sources**: 48 → 49
