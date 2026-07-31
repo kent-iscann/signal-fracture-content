@@ -289,3 +289,29 @@
 - entities/china.md: added Tokayev's WAIC 2026 visit section
 - entities/western-powers.md: added Pax Silica, CoE declaration, US investment roundtable, KMG Ustyurt discovery
 - timeline/kazakhstan-timeline.md: extended July 2026 entries
+
+---
+
+## 2026-07-28 | Weekly source update — 5 new sources added
+
+### Sources added
+
+1. **Incrypted: Kazakhstan's Crypto Miners to Operate under New Rules Starting August 1** (July 2026)
+   - Government approved Strategic Digital Mining rules (Govt Resolution No. 638, July 18, eff. Aug 1, 2026): ≥150 MW data centers, ≥150 TH/s equipment, transfer to National Strategic Crypto Reserve. Alatau City Bank + Binance Kazakhstan launched Crypto Pay. Builds on Alem Crypto Fund (Sept 2025).
+
+2. **Mayer Brown: EU Adopts 21st Package against Russia** (July 23, 2026)
+   - 48 individuals + 170 entities newly designated (94 Russian banks). Six entities in China, Oman, India, Singapore, UAE sanctioned. Kulevi Oil Refinery (Georgia) faces transaction ban unless diversifying from Russian crude. Oil price cap frozen until July 2027. Enhanced third-country sanctions architecture directly relevant to Kazakhstan.
+
+3. **Green Finance & Development Center: China's BRI Engagement 2026 H1** (July 2026)
+   - Sinopec $3.9B gas field investment in Kazakhstan. $2.5B aluminum processing facilities. China-Central Asia trade up 6.5% in H1 2026; Kazakhstan up 25%. Technology +11%, manufacturing +81% YoY. Oil/gas BRI engagement dropped sharply.
+
+4. **Le Monde/Euronews: Tokayev urges Putin to freeze Ukraine war** (July 25-26, 2026)
+   - Tokayev told Putin face-to-face in Omsk to freeze the war, proposed Istanbul 2.0. Ukraine praised it; Kremlin rejected. Bilateral trade $28B (2025), +4% in 5M 2026. ~70 Russian projects worth $30B in Kazakhstan. Nuclear plant progress.
+
+5. **European Economic Review: The Eurasian Roundabout** (July 2026)
+   - Peer-reviewed (EBRD authors) quantification: sanctions circumvention via CCA3 offset ~1/3 of European export decline 2022-23. Two channels: rerouting and "lost in transit" (misreporting destinations). EU transit restrictions partially effective. Directly relevant to Kazakhstan's sanctions exposure.
+
+### Files updated
+- sources.md: 61 → 71 sources
+- log.md: updated
+- index.md: updated source count and date
