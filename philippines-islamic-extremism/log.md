@@ -37,3 +37,9 @@
 - 2 new sources added (31-32). Total sources: 32.
 - Source 31: ANFREL/NDI joint Technical Assessment Mission for BARMM elections (ANFREL) — International election observation deployment for September 14 polls; focus on inclusive participation and peaceful conduct
 - Source 32: UNODC Transnational Organized Crime Threat Assessment 2026 (UNODC) — Illicit tobacco trade funding non-state armed groups in Mindanao; Sulu-Celebes maritime crime corridor; Sangihe Islands smuggling networks; MILF decommissioning data
+
+## [2026-08-01] ingest | Weekly source update (3 new sources)
+- 3 new sources added (33-35). Total sources: 35.
+- Source 33: Crisis Group Report #355 "Peace in the Philippines: The Bangsamoro's Moment of Truth" (July 2026) — ISIS-claimed Munai ambush Jan 23 (4 soldiers killed); peace monitor warns stalled CAB could fuel ISIS activity; educated cadres jihadist network warning; comprehensive diagnosis of peace deal implementation failures
+- Source 34: RSIS Global Terrorism Forecast 2026 (Jan 2026) — Bondi Beach attackers trained in Mindanao Nov 2025; Davao City as FTF hub; Philippines remains "terrorism academy in Asia"
+- Source 35: Global Terrorism Index 2026 (March 2026) — Philippines ranked 20th (down from 9th in 2019); extremism remains rooted in Mindanao conflict
