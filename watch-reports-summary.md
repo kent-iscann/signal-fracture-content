@@ -38,6 +38,7 @@
 |---|------|------------|-------------|--------|
 | 1 | 06-06-2026 | Peace process survives election; BTA extension needed | 70% | Mar 2027 |
 | 2 | 27-06-2026 | Peace process survives election; BTA extension needed | 75% (↑5%) | Mar 2027 |
+| 3 | 01-08-2026 | Peace process survives election; BTA extension needed | 75% | Mar 2027 |
 
 ## [Armenia-Azerbaijan Relations](armenia-azerbaijan/watch-reports-summary.md)
 
