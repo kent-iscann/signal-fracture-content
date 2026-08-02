@@ -116,4 +116,22 @@
 - Updated timeline with 14 new July 2026 entries
 - Updated Pashinyan entity: Putin call details, EU referendum position
 - Updated Aliyev entity: Sherman bill condemnation, Iran media ban, Slovak president visit, Jordan exercise, Serbia delegation
-- Updated TRIPP concept: July 16 approval, Jamestown analysis, legal conflict with Armenian law
+|- Updated TRIPP concept: July 16 approval, Jamestown analysis, legal conflict with Armenian law
+
+## 2026-08-02 watch report | Third monthly watch report — Report #3
+- **Key development:** NATO Ankara Summit (Jul 7-8) produced no diplomatic breakthrough — Aliyev was absent from the summit, the one venue identified as critical for a Trump-mediated meeting
+- **Prediction unchanged:** "Armenia and Azerbaijan will fail to sign a comprehensive peace treaty over the next 12 months."
+- **Probability unchanged at 80%** — structural deadlock confirmed by Aliyev's NATO boycott; no diplomatic mechanism to bridge constitutional impasse
+- **Target adjusted:** August 2027 (consistent with "next 12 months" from August)
+- **Major new developments covered:**
+  - TRIPP ratification bill approved (Jul 16), TRIPP Development Co. established with 49-year lease
+  - Russia escalates economic warfare: 39,000 roses destroyed, dairy ban, trade turnover down 20.5%
+  - Pashinyan-Putin first post-election call (Jul 27) — Putin demands EU referendum, Pashinyan conditions it on EU application
+  - Aliyev at Shusha Forum (Jul 13): threatens CoE withdrawal, discloses China weapons procurement
+  - Sherman Amendment passes House Foreign Affairs Committee 44-7 (Jul 22); Azerbaijan's Milli Majlis condemns
+  - Von der Leyen in Yerevan: €18M tranche, 80% export liberalization to EU
+  - Armenia-Turkey normalization: border envoys meeting Jul 30, railway freight +400%
+  - Armenia recruiting border guards for Azerbaijan border (Jul 21); British forces training Armenian instructors
+- **Report file:** Watch Reports/Watch Report 01-08-2026.md
+- **Files updated:** index.md, watch-reports-summary.md (per-topic and global), log.md
+- **PDF generated and uploaded to R2**

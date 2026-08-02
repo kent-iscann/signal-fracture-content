@@ -1,6 +1,6 @@
 # Armenia-Azerbaijan Relations Wiki Index
 
-> Content catalog. Last updated: 2026-07-29 | Total pages: 10 | Total sources: 78
+> Content catalog. Last updated: 2026-08-02 | Total pages: 10 | Total sources: 78
 
 ## Timelines
 - [[armenia-azerbaijan-timeline]] — Chronological overview of Armenia-Azerbaijan relations
@@ -21,4 +21,7 @@
 - [[priority-sources]] — Categorized list of priority sources for source monitoring (regional specialists, think tanks, official sources, advocacy)
 
 ## Watch Reports
+- [[Watch Report 01-08-2026]] — Third watch report (prediction unchanged at 80%, target Aug 2027)
+- [[Watch Report 02-07-2026]] — Second watch report (prediction unchanged at 80%, target Jun 2027)
+- [[Watch Report 09-06-2026]] — First watch report (prediction at 75%, target Jun 2027)
 - [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
