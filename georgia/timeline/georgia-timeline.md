@@ -92,3 +92,12 @@
 
 ### July 22, 2026
 - **South Ossetia annexation analysis** — GEOpolitics publishes deep analysis following Gagloev's resignation (June 23) and appointment as Putin adviser. Traces Russian "parachutists" in de facto government since 2004. Documents 2026 Treaty on Deepening Allied Interaction and MRB Bank's role in Donbas and North Korea sanctions evasion. Argues formal annexation possible as political compensation for Ukraine difficulties.
+
+### July 27, 2026
+- **ISPI Middle Corridor paradox** — ISPI analysis documents diverging EU-Georgia Middle Corridor perceptions. Economy Minister invited China/Central Asia/Azerbaijan — not Europe — for Anaklia. TRIPP expected to reduce travel times 25% vs Baku-Tbilisi-Kars.
+
+### July 29, 2026
+- **Kelly/Kramer one-party state warning** — Former US Ambassador Ian Kelly and Bush Institute's David Kramer warn GD creating one-party regime. Proposed legislation to ban opposition parties. Eight opposition leaders face sabotage charges (up to 15 years), verdict fall 2026. No Senate-confirmed US ambassador in Tbilisi.
+
+### August 2, 2026
+- **Fourth watch report published** — Probability unchanged at 75%. China's Anaklia exit weakens one pillar of prediction but South Ossetia integration, Central Asia pivot, and domestic repression reinforce drift thesis.

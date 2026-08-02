@@ -252,3 +252,13 @@
 |- TRIPP expected to reduce travel times 25% vs Baku-Tbilisi-Kars
 |- Geography alone cannot compensate for deteriorating political trust
 |- Corridor participants paradoxically share interest in restoring EU-Georgia relations
+
+## 2026-08-02 | watch-report-4 | Fourth Watch Report
+- Generated fourth watch report covering July 2-30 source period plus late-July developments
+- Key new developments: China exits Anaklia port (July 6); South Ossetia governance absorbed into Russian structures (July 22); Kobakhidze completes Central Asia sweep of all five states (July 21); one-party state trajectory accelerates (Kelly/Kramer, July 29); ICDS declares Georgia drifting toward "strategic irrelevance" (July 23); ISPI identifies Middle Corridor paradox (July 27); Russian diaspora soft-power strategy exposed (OC Media, July)
+- Additional late-July developments: Trump Independence Day response (July 18); OSCE PA Hague Declaration (July 8); US Embassy rebuke of Hate Speech division (July 28)
+- Prediction unchanged at 75%: "Georgia's strategic drift will accelerate over the next 18 months as GD's post-Anaklia search for alternative partners converges with deeper South Ossetia absorption and one-party consolidation at home, without triggering a definitive break from any major power."
+- China's Anaklia exit is the most significant counter-development — weakens one pillar of the prediction but other vectors (South Ossetia integration, Central Asia pivot, domestic repression) reinforce the drift thesis
+- PDF generated successfully
+- watch-reports-summary.md updated (row 4); global summary updated; index.md updated
+- Next review scheduled for 2026-09-01

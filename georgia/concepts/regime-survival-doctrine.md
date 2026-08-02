@@ -13,3 +13,6 @@ Georgian Dream's foreign policy since 2022 can best be understood as a "regime s
 - Long-term institutional commitments (EU, NATO) are subordinated to short-term regime needs
 - The "multi-vector" approach risks leaving Georgia without a firm anchor in any camp
 - Western institutions view GD as unreliable; Russia views Georgia as too independent to fully trust
+
+## July 2026: Strategic irrelevance threshold
+The Estonian ICDS analysis (July 23, 2026) by Teona Giuashvili (LSE) argues GD's "multi-alignment" is a façade for domestic power consolidation and has crossed a qualitative threshold: Georgia is now alone in the region narrowing its strategic agency while Armenia, Azerbaijan, and Central Asian states actively expand theirs. China's exit from Anaklia (July 6) exposed the fundamental asymmetry in GD's alternative-partner strategy — Georgia needs China far more than China needs Georgia. The regime survival doctrine has not been abandoned despite its demonstrated failures because it serves a domestic political function (legitimizing repression as "sovereignty") that now outweighs its foreign-policy utility.

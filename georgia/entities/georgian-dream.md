@@ -74,6 +74,28 @@ FDD analysts (Washington Examiner, July 2, 2026) compared GD and Serbia's Vucic 
 - **Shared legitimacy:** "Shared legitimacy is easier to manufacture between two like-minded authoritarian regimes than it is to earn from one's own citizens or Western partners."
 - **Conclusion:** "Vucic and Georgian Dream are not friends of the United States. They are authoritarians that repress their citizens and make common cause with American adversaries."
 
+## China Anaklia exit (July 2026)
+- **July 6, 2026:** China's CCCC and China Harbour Investment formally exited the Anaklia Deep Sea Port project, walking away from their 49% stake. This strips GD's China pivot of its flagship infrastructure project.
+- GD announced a "landlord" model — state retains core infrastructure, seeking multiple international partners with limited roles.
+- Economy Minister Kvrivishvili invited China, Central Asia, and Azerbaijan to participate — notably excluding European partners.
+- Uzbek officials expressed vague interest; no concrete commitments materialized.
+- The exit exposes the fundamental asymmetry in GD's alternative-partner strategy: Georgia needs China far more than China needs Georgia.
+
+## Central Asia sweep (July 2026)
+- By July 21, 2026, Kobakhidze had met leaders of all five Central Asian states (Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan).
+- Strategic partnership agreements signed with Kazakhstan and Uzbekistan.
+- First-ever Georgian PM visits to Kyrgyzstan and Tajikistan (11 bilateral documents with Tajikistan, including Joint Intergovernmental Commission on Economic Cooperation).
+- Turkmen President Berdimuhamedov made his first official visit to Tbilisi.
+- Economic data reveals the pivot's hollowness: 95.5% of $355M exports to Kyrgyzstan are vehicle re-exports; ~90% of $179.6M to Tajikistan same pattern.
+- Experts warn "portraying Asia as an alternative to the West is a dangerous political illusion."
+
+## One-party state trajectory (July 2026)
+- Former US Ambassador Ian Kelly and Bush Institute's David Kramer (Just Security, July 29) warn GD is creating a one-party regime.
+- Proposed Constitutional Court legislation to ban all opposition parties deemed a "threat to constitutional order."
+- GD creating a "systemic opposition" party (People's Power) modeled on United Russia.
+- Eight opposition leaders face sabotage charges carrying up to 15 years; verdict expected fall 2026.
+- US has no Senate-confirmed ambassador in Tbilisi — no one even nominated.
+
 ## Ukrainian-Georgian relations: lowest point (SCEEUS, June 2026)
 SCEEUS Commentary no. 9 (June 23, 2026) analyzed the complete breakdown of once-close bilateral relations:
 - Georgia's post-2022 shift created a "critical geopolitical vacuum" in the South Caucasus that bolsters Russian influence.

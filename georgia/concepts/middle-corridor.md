@@ -29,3 +29,7 @@ China → Kazakhstan → Caspian Sea → Azerbaijan → Georgia → Turkey → E
 - Turkey-Armenia trade resumption (June 2026) could create alternative routes bypassing Georgia
 - EU weighing investment in Nakhchivan railway project as part of TCTC (contingent on EBRD feasibility study)
 - EU committed €500M under Caucasus Transmission Network to synchronize Armenia-Georgia power systems
+
+## July 2026 developments
+- **China exits Anaklia (July 6):** CCCC and China Harbour Investment formally walked away from 49% stake. GD announced "landlord" model — state retains core infrastructure, seeks multiple international partners. 2029 target for first phase.
+- **ISPI Middle Corridor Paradox (July 27):** EU and Georgia have diverging perceptions of the corridor. Economy Minister Kvrivishvili invited China, Central Asia, and Azerbaijan — notably excluding Europe — for Anaklia development. TRIPP expected to reduce travel times 25% vs Baku-Tbilisi-Kars. Geography alone cannot compensate for deteriorating political trust. Corridor participants paradoxically share interest in restoring EU-Georgia relations.

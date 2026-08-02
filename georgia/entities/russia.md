@@ -24,3 +24,11 @@ A leaked December 2025 Moscow State University report produced for a new Russian
 
 ## Reclassification of Georgia (2025)
 In 2025, Russia reclassified Georgia from "unfriendly" (12 points out of 100 in 2023) to a "relatively friendly/unfriendly communication regime" (19.4/100), reflecting the warming of relations under Georgian Dream. This shift was also visible in the first official encounter between a Georgian leader and Vladimir Putin in 15 years — PM Kobakhidze attended an Ashgabat forum in 2025 also attended by Putin.
+
+## South Ossetia governance absorption (July 2026)
+In a qualitatively new phase of de facto annexation, Russia accelerated the administrative integration of South Ossetia:
+- **June 23, 2026:** De facto president Alan Gagloev resigned and was appointed as an adviser to Vladimir Putin.
+- **Acting president:** Russian citizen Marat Kambolov (former director of the Kurchatov Institute — Russia's nuclear and defense research institution) was installed as acting president.
+- **2026 Treaty on Deepening Allied Interaction** (signed May 9, ratified May 13) continued deeper integration: provisions allow Russian citizens to hold posts in South Ossetia's government; coordinated foreign, defense, and security policies; unified economic space.
+- **MRB Bank financial infrastructure:** South Ossetia's MRB Bank documented as a cut-out for Donbas financial intermediation ($49B in 2017) and North Korea sanctions evasion (US Treasury sanction, September 2024).
+- **Georgia's structural dependence:** 97% wheat/flour imports from Russia; 60-65% wine exports to Russia.

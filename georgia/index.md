@@ -1,6 +1,6 @@
 # Georgia — Geopolitical Positioning Wiki Index
 
-> Content catalog. Last updated: 2026-07-30 | Total pages: 11 | Total sources: 48
+> Content catalog. Last updated: 2026-08-02 | Total pages: 11 | Total sources: 48
 
 ## Timelines
 - [[georgia-timeline]] — Chronological overview of Georgia's geopolitical positioning from 2008 to present
@@ -20,3 +20,4 @@
 - [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
 - [[Watch Report 04-06-2026]] — Second watch report: The US reset will deepen over the next 18 months, giving Georgian Dream enough cover to further delay EU accession reforms without triggering a definitive break with Washington (probability: 75%)
 - [[Watch Report 02-07-2026]] — Third watch report: Georgia's strategic drift will accelerate over the next 18 months as deepening China and Iran ties supersede the contested US reset, without triggering a definitive break from any major power (probability: 75%)
+- [[Watch Report 02-08-2026]] — Fourth watch report: Georgia's strategic drift will accelerate over the next 18 months as GD's post-Anaklia search for alternative partners converges with deeper South Ossetia absorption and one-party consolidation at home, without triggering a definitive break from any major power (probability: 75%)
