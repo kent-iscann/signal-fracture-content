@@ -14,6 +14,7 @@
 |---|------|------------|-------------|--------|
 | 1 | 03-06-2026 | Resource nationalism forces Chinese firms toward domestic processing | 70% | Jun 2027 |
 | 2 | 02-07-2026 | Chinese firms will build domestic processing plants | 75% (↑5pp) | Jun 2027 |
+| 3 | 02-08-2026 | Chinese firms will build domestic processing plants | 80% (↑5pp) | Jun 2027 |
 
 ## [Georgia](georgia/watch-reports-summary.md)
 
@@ -21,6 +22,7 @@
 |---|------|------------|-------------|--------|
 | 1 | 04-06-2026 | Strategic drift continues until forced to choose | 75% | Dec 2027 |
 | 2 | 02-07-2026 | Strategic drift accelerates without definitive break | 75% | Dec 2027 |
+| 3 | 02-08-2026 | Strategic drift accelerates without definitive break | 75% | Dec 2027 |
 
 ## [Kazakhstan](kazakhstan/watch-reports-summary.md)
 
@@ -28,6 +30,7 @@
 |---|------|------------|-------------|--------|
 | 1 | 04-06-2026 | Diversification fails to provide viable third path | 70% | Dec 2027 |
 | 2 | 02-07-2026 | Diversification fails to provide viable third path | 70% | Dec 2027 |
+| 3 | 02-08-2026 | Diversification fails to provide viable third path | 75% | Dec 2027 |
 
 ## [Islamic Extremism in the Philippines](philippines-islamic-extremism/watch-reports-summary.md)
 
