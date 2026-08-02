@@ -1,0 +1,61 @@
+{
+  "overall": "FAIL",
+  "criteria": {
+    "prediction_distinctness": {
+      "status": "PASS",
+      "detail": "Prediction projects an outcome (deepening technological lock-in) rather than restating the Signal's present-tense observation about plants moving from construction to commissioning. Distinct and falsifiable."
+    },
+    "prediction_quality": {
+      "status": "PASS",
+      "detail": "One sentence, time-bound (June 2027), falsifiable, ends with the outcome. 'Across Southern Africa' is geographically broad but the prediction is still verifiable — a reader can check whether Chinese firms built new domestic beneficiation plants."
+    },
+    "signal_fracture_quality": {
+      "status": "PASS",
+      "detail": "Both Signal and Fracture are single, concise sentences. Signal describes an observable development; Fracture identifies a clear stress point. No embedded data points, examples, or caveats."
+    },
+    "analysis_supports_prediction": {
+      "status": "PASS",
+      "detail": "All four PEMT sections are substantiated. Political covers resource nationalism and Quad counter-positioning. Economic provides commissioning evidence (Sandawana, Huayou, Luanshya) and financing architecture shift. Military covers strategic competition and sulphuric acid leverage. Technological details four-vector lock-in. No cross-topic references without context."
+    },
+    "source_quality": {
+      "status": "WARN",
+      "detail": "Key Sources are numbered 1-12 with hyperlinks and reflect good hierarchy (Reuters/IEA primary, CGD/CSEP specialized, Japan Times/Al Jazeera general). No single-source over-reliance. However, the 'What's New' section contains inline references (Source 41, 42, 43, 26, 30, 44, 45, 46) that do not map to the 1-12 Key Sources list, making it impossible for a reader to trace those claims to their sources."
+    },
+    "watch_indicators_triggers": {
+      "status": "FAIL",
+      "detail": "Watch Indicators has 11 bullet points. Criterion requires 5-7. The Probability Triggers table is correctly formatted with correct directional logic (Up events increase prediction likelihood, Down events decrease it). Triggers are specific and actionable."
+    },
+    "confidence_level": {
+      "status": "PASS",
+      "detail": "Confidence is stated as Medium, which appropriately matches the evidence quality — multiple independent sources support the prediction but structural uncertainties (financing architecture shift, Quad disbursement velocity unknown) justify Medium rather than High."
+    },
+    "formatting": {
+      "status": "FAIL",
+      "detail": "All required sections are present and separated by '---' dividers. However, the Notes section uses plain text without any *italic* markers, which the criterion explicitly requires ('Notes use *italic* markers on separate lines'). The three Notes lines should each be wrapped in asterisks."
+    },
+    "whats_new": {
+      "status": "PASS",
+      "detail": "What's New is present (this is a 2nd+ report, evidenced by the probability change from 75% to 80%). All 10 bullet points describe specific, verifiable developments. The probability change is shown in the Prediction section and is implicitly supported by the accumulating evidence in What's New."
+    }
+  },
+  "issues": [
+    {
+      "criterion": "watch_indicators_triggers",
+      "severity": "FAIL",
+      "description": "Watch Indicators section contains 11 bullet points — exceeds the maximum of 7. The extra indicators dilute focus and make the monitoring list harder to act on.",
+      "suggested_fix": "Reduce to 5-7 indicators by combining related items and dropping lower-priority ones. Suggested consolidation: (1) merge Huayou plant commissioning + Sandawana construction into one 'Chinese processing plant milestones' indicator; (2) merge Namibia uranium + Zimbabwe 13-mineral ban into one 'resource nationalism implementation' indicator; (3) merge Luanshya restart + Barrick Lumwana into one 'copper competition velocity' indicator; (4) drop Angola Barra do Dande port as it is logistics infrastructure rather than directly tracking the prediction about beneficiation plants; (5) merge Quad disbursement + Chinese acid export policy into one 'Western countermeasure effectiveness' indicator."
+    },
+    {
+      "criterion": "formatting",
+      "severity": "FAIL",
+      "description": "The Notes section lacks *italic* markers. Each note line should be wrapped in asterisks per the formatting specification.",
+      "suggested_fix": "Change the Notes section from:\n  This report was generated on 02-08-2026...\n  The probability reflects IScann Group's analytic judgment...\n  The next review is scheduled for 02-11-2026.\n\nto:\n  *This report was generated on 02-08-2026 based on open-source reporting available as of 02-08-2026.*\n  *The probability reflects IScann Group's analytic judgment, not a statistical model, unless otherwise stated.*\n  *The next review is scheduled for 02-11-2026.*"
+    },
+    {
+      "criterion": "source_quality",
+      "severity": "WARN",
+      "description": "Inline source references in 'What's New' (Source 41, 42, 43, 26, 30, 44, 45, 46) do not map to the numbered Key Sources list (1-12). A reader cannot trace claims like 'Source 41' back to a specific publication.",
+      "suggested_fix": "Either: (a) expand the Key Sources list to include all referenced sources with proper numbering, or (b) replace the Source N references in What's New with the corresponding Key Sources numbers, or (c) use inline hyperlinks in What's New instead of opaque source numbers."
+    }
+  ]
+}

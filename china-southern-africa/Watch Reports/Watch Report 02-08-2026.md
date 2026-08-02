@@ -55,17 +55,13 @@ China's technological lock-in is deepening across four reinforcing vectors. Firs
 ---
 
 ## Watch Indicators
-- Zimbabwe-China Railway resource-backed infrastructure financing — whether formal agreement is reached following WEF Dalian talks
-- Huayou lithium carbonate plant commissioning and first battery-grade production volumes
-- Sandawana Mine construction commencement and processing plant technology specifications
-- Namibia-China uranium processing facility commitments — transition from joint statement to binding agreement
-- DRC-Zambia transboundary battery SEZ implementing framework and Chinese firm participation
-- Zambia Luanshya copper mine restart — August 2026 production volumes and CNMC expansion plans
-- Quad Critical Minerals Initiative disbursement velocity — gap between commitment ($20B) and actual deployment
-- Chinese sulphuric acid export policy — whether curbs are extended, signalling willingness to use midstream inputs as leverage
+- Zimbabwe-China Railway resource-backed infrastructure financing and January 2027 13-mineral export ban implementation
+- Huayou lithium carbonate plant commissioning, Sandawana Mine construction, and processing facility technology deployment
+- Namibia-China uranium/lithium/rare earth processing facility commitments — transition from joint statements to binding agreements
+- DRC-Zambia transboundary battery SEZ and Quad Critical Minerals Initiative disbursement velocity
+- Chinese sulphuric acid export policy — whether curbs signal willingness to weaponise midstream processing inputs
 - Angola Barra do Dande Port construction timeline and operational integration with Lobito Corridor
-- Barrick Lumwana $2B expansion vs Chinese mine acquisitions — whether Western capital can match Chinese brownfield restart speed
-- Zimbabwe 13-mineral export ban implementation — enforcement mechanisms and Chinese firm compliance ahead of January 2027 deadline
+- Western capital deployment vs Chinese brownfield restart speed (Luanshya, Lumwana) — competitive dynamics in Zambian Copperbelt
 
 ---
 
@@ -106,4 +102,4 @@ This free Watch Report is provided by IScann Group for informational and strateg
 ---
 
 ## Notes
-This report was generated on 02-08-2026 based on open-source reporting available as of 02-08-2026. The probability reflects IScann Group's analytic judgment, not a statistical model, unless otherwise stated. The next review is scheduled for 02-11-2026.
+*This report was generated on 02-08-2026 based on open-source reporting available as of 02-08-2026. The probability reflects IScann Group's analytic judgment, not a statistical model, unless otherwise stated. The next review is scheduled for 02-11-2026.*
