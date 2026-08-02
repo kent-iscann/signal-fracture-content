@@ -11,6 +11,7 @@ Jihadist militant organization based in the Sulu Archipelago (Jolo and Basilan i
 - **February 2026:** Armed encounter in Patikul, Sulu (Feb 1) left four dead — suspected ASG remnants regrouping in Sulu, reversing the post-2019 decline narrative. CCAA reports ASG remnants regaining ground.
 
 ## July 2026 developments
+- **July 3:** OPAPRU confirms Sulu remains priority area for peace work despite BARMM exit — 1996 Final Peace Agreement with MNLF still applicable.
 - **July 15:** AFP-WestMinCom begins intensified crackdown on ASG remnants in Basilan and BIFF splinters ahead of July 16 BARMM-wide gun ban. CARES framework rolled out as pre-election security measure.
 - **July 16:** BARMM-wide election gun ban takes effect — security forces establish checkpoints. ASG remnants in Basilan identified as potential tools for political coercion and election-related violence.
 

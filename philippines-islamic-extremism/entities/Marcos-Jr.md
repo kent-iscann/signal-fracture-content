@@ -9,6 +9,9 @@ President of the Philippines since June 2022. His administration oversees both t
 - **June 2026:** Save Bangsamoro Movement protests at Mendiola — appeals to Marcos to "restore the leadership" of BARMM.
 - **June 2026:** Interim Bangsamoro Parliament begins crafting a 10-year strategic framework beyond the transition.
 - **June 8:** Magnitude-7.8 earthquake compounds BARMM's overlapping crises.
+- **July 15:** Marcos appoints Mel Sarmiento as chair of Gov't Peace Implementing Panel for Bangsamoro — fills post vacant since Cesar Yano's resignation.
+- **July 22:** Marcos visits BARMM distributing P3.4B (85% from BARMM funds) but avoids CAB implementation discussion and does not meet MILF leadership.
+- **July 27:** SONA 2026: Bangsamoro peace process receives 40 seconds in 86-minute address — no CAB, decommissioning, or normalization mentions.
 - Oversight of BARMM transition — his administration's relationship with the MILF-led regional government will determine whether the peace process succeeds or stalls
 - Broached joint energy cooperation with China despite South China Sea tensions — a pragmatic/balancing approach
 - The Philippines holds the 2026 ASEAN Chairship, giving Marcos agenda-setting power on South China Sea Code of Conduct negotiations

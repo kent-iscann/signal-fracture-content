@@ -43,3 +43,8 @@
 - Source 33: Crisis Group Report #355 "Peace in the Philippines: The Bangsamoro's Moment of Truth" (July 2026) — ISIS-claimed Munai ambush Jan 23 (4 soldiers killed); peace monitor warns stalled CAB could fuel ISIS activity; educated cadres jihadist network warning; comprehensive diagnosis of peace deal implementation failures
 - Source 34: RSIS Global Terrorism Forecast 2026 (Jan 2026) — Bondi Beach attackers trained in Mindanao Nov 2025; Davao City as FTF hub; Philippines remains "terrorism academy in Asia"
 - Source 35: Global Terrorism Index 2026 (March 2026) — Philippines ranked 20th (down from 9th in 2019); extremism remains rooted in Mindanao conflict
+
+## [2026-08-01] watch-report | Watch Report 01-08-2026
+- New report (6+ new sources, major developments). Probability unchanged at 75%. Prediction unchanged.
+- Major developments: Campaign period opens July 30 (27 areas red/orange concern, 631 candidates for 80 seats); Marcos BARMM visit July 22 (P3.4B distributed but no CAB engagement); SONA July 27 (peace process gets 40 seconds in 86 minutes); Multisectoral Peace Coalition formed and Sarmiento commits to IMT restoration; Commander Bravo warns MILF could return to armed struggle; Crisis Group #355 comprehensive diagnosis; ANFREL/NDI joint TAM deployed; BFP institutionalized as dominant minority party by COMELEC.
+- 6 new sources added (36-41). Total sources: 41.

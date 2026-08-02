@@ -60,4 +60,11 @@
 |- **July 15:** AFP-WestMinCom begins crackdown on Abu Sayyaf remnants and BIFF splinters ahead of July 16 BARMM-wide gun ban. CARES framework rolled out in Basilan hotspots.
 |- **July 16:** BARMM-wide election gun ban takes effect (July 16–September 29).
 |- **July 16:** Councilor Nasser Dalandang of Kadayangan town (SGA-BARMM) shot dead by motorcycle-riding gunmen on first day of gun ban — rido or election-related violence under investigation.
-|- **July 18:** Maguindanao del Sur Rep. Esmael "Toto" Mangudadatu defects from UBJP to BFP, continuing political exodus weeks ahead of September 14 polls.
+|- **July 18:** Maguindanao del Sur Rep. Esmael Toto Mangudadatu defects from UBJP to BFP, continuing political exodus weeks ahead of September 14 polls.
+- **July 20:** Multisectoral Peace Coalition holds three-hour dialogue with Peace Adviser Sarmiento; Sarmiento commits to MILF coordination and IMT restoration.
+- **July 22:** Marcos distributes P3.4B in projects to BARMM at Camp Siongco, Maguindanao del Norte — no CAB implementation discussion, no MILF leadership meeting. P2.9B (85%) from BARMM funds.
+- **July 23:** BARMM opens Lanao del Norte office — symbolic extension of governance presence outside formal territory.
+- **July 27:** SONA 2026: Bangsamoro peace process receives 40 seconds (3 paragraphs) in 86-minute address — no CAB implementation, decommissioning, or normalization mentions.
+- **July 30:** Campaign period opens for September 14 BARMM parliamentary elections. 631 candidates for 80 seats. 27 areas under red/orange concern. Two BFP candidates in Maguindanao del Norte already assured victory (unopposed).
+- **July 30:** ANFREL/NDI pre-campaign statement flags voter education as immediate priority.
+- **2026 (July):** Crisis Group Report #355: comprehensive diagnosis of peace deal failures; warns stalled CAB could fuel ISIS; educated cadres jihadist network threat.

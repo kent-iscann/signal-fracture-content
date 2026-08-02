@@ -23,3 +23,4 @@ China is not a direct spoiler of the Bangsamoro peace process. However, Beijing'
 
 ## Counter-spoiler dynamics
 The May 2026 MILF-Army joint anti-ISIS front in Lanao del Norte is a positive signal: when the peace process is credible, former insurgents become partners against extremists. The key variable is whether the September 2026 elections reinforce or undermine that credibility.
+</br></br>The July 2026 MILF Base Command declarations against DI-MG and NPA (persona non grata) in Lanao del Norte further strengthen the counter-spoiler architecture by extending community-level rejection of extremist groups. However, Commander Bravo's threat of a return to armed struggle (July 2026) introduces the risk that MILF elements themselves could become spoilers if CAB commitments remain unfulfilled — transforming a key counter-spoiler asset into a potential spoiler actor.

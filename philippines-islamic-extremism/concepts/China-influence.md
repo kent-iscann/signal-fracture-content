@@ -28,3 +28,4 @@ Overview of how Beijing leverages the South China Sea dispute to expand influenc
 - **2026:** Marcos-Duterte political rupture (House impeached VP Sara Duterte in May 2026) is eroding executive coordination on foreign policy, complicating Manila's ability to present a unified position on the SCS and ASEAN chairship agenda.
 - **2026:** Balikatan 2026 was the largest edition ever (17,000 troops from 7 nations, Japan deploying combat troops for the first time since 1945). China views this as directed against it, undermining confidence-building measures like the coast guard MoU update.
 - **June 2026:** Philippines targets end-2026 for SCS Code of Conduct. Monthly COC negotiations underway. 59th AMM scheduled July 21. Hormuz crisis adding urgency to maritime cooperation.
+- **July 2026:** 59th AMM outcomes — ASEAN remains divided on SCS approach. Philippines continues COC push but structural impasse persists.
