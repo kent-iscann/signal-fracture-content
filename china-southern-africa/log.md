@@ -95,3 +95,13 @@
 - Updated DRC entity: added Glencore stake sale section and exploration potential data.
 - Updated critical-minerals-strategy concept: refined control percentages (cobalt 60%, lithium 70%), added SADC railway revolution context, added integrated supply chain data.
 - Updated index: source count 29→33, date from 2026-07-08→2026-07-15.
+
+## [2026-08-02] watch-report | Watch Report 3 — processing plants commissioning, Western counter-investment scaling, Chinese financing architecture fragmenting
+- Generated Watch Report 3 (02-08-2026): probability raised to 80% (from 75%) — beneficiation model crossing from pledges to operational production across Zimbabwe, DRC, Zambia, and Namibia; Western counter-investment scaling (Quad $20B, EU €12B, Glencore asset sale $8-9B) but Chinese technological lock-in deepening through midstream chemical dominance (IEA sulphuric acid curbs), proprietary processing technology deployment, and DRC-Zambia transboundary battery SEZ
+- Signal: Chinese mineral processing plants crossing from construction to commissioning across Southern Africa
+- Fracture: China's financial architecture fragmenting — sovereign lending collapsed to two-decade low, private capital replacement not materialising
+- Key developments captured: Sandawana $300M deal confirmed, Zimbabwe 13-mineral export ban extension, Namibia Beijing state visit (8 documents), Angola $900M Barra do Dande port, Luanshya copper restart (August 2026), Quad $20B framework, CGD lending shift data, IEA sulphuric acid dependency analysis, DRC-Zambia battery SEZ
+- Updated per-topic watch-reports-summary.md: row 3 added
+- Updated global watch-reports-summary.md: row 3 added
+- Updated index.md: source count unchanged (48), date updated to 2026-08-02, new watch report entry added
+- PDF generated and uploaded to R2: watch-reports/chinese-infrastructure-southern-africa/2026-08-02.pdf
