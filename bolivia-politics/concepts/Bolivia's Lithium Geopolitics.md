@@ -10,3 +10,4 @@ Key dynamics:
 - China is the most firmly established foreign actor in the Lithium Triangle; legal frameworks analysis warns of resource curse risks
 - China's ambassador Wang Liang held an economic forum titled "Bolivia, into the world with China" in Tarija even as protesters threw dynamite at police and blocked supply routes into La Paz — highlighting the disconnect between Beijing's economic ambitions and Bolivia's political instability
 - Proposals emerging for Argentina-Bolivia-Chile lithium trade bloc to counter foreign dominance through coordinated legal frameworks
+- As of late July 2026, Bolivia's existing lithium deals with Russia ($970M, Uranium One) and China ($1B, CBC/Citic Guoan) remain in legislative limbo, with the Paz government signaling openness to renegotiating terms. Mining.com reported the deals are "in limbo" with lawmakers accused of obstruction.

@@ -4,3 +4,4 @@
 |---|------|------------|-------------|-------------|
 | 1 | 24-06-2026 | Paz will survive the current protest wave but emerge politically crippled, unable to pass structural reforms and dependent on military support to maintain basic governance functions through end of 2026. | 65% | Dec 2026 |
 | 2 | 02-07-2026 | Paz will survive the current protest wave but emerge politically crippled, unable to pass structural reforms and dependent on military support to maintain basic governance functions through end of 2026. | 65% | Dec 2026 |
+| 3 | 02-08-2026 | Paz will survive the current protest wave but emerge politically crippled, unable to pass structural reforms and dependent on military support to maintain basic governance functions through end of 2026. | 60% | Dec 2026 |

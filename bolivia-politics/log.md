@@ -20,8 +20,8 @@
 
 ## [2026-07-02] watch-report-update | Watch Report 02-07-2026
 - Generated Watch Report #2. Key new developments: dollar peg ended June 26 (30% devaluation to 9.73 BOB/USD), floating exchange rate activated June 29, IMF package advancing toward $5B, June inflation 5.2% (38-year high), Trump admin formally backs state of emergency, Moody's Caa3 with 2026 contraction projected.
-|- Updated: index.md, timeline, Rodrigo Paz entity page, Evo Morales entity page, South America's Rightward Shift concept page, Bolivia's Lithium Geopolitics concept page.
-|- Prediction unchanged at 65%. Files: Watch Report 02-07-2026.md + PDF.
+- Updated: index.md, timeline, Rodrigo Paz entity page, Evo Morales entity page, South America's Rightward Shift concept page, Bolivia's Lithium Geopolitics concept page.
+- Prediction unchanged at 65%. Files: Watch Report 02-07-2026.md + PDF.
 
 ## [2026-07-15] ingest | Bolivia Cleared the Roads, but it Hasn't Cleared the Crisis (HRW)
 - Deep institutional analysis of Bolivia's broken judiciary: 22,000 pending cases, ~12% public trust, 0.46% budget, "jurisprudence à la carte" by judges who self-postponed terms (Dec 2023-Nov 2025), 2,000+ abandoned case files, Supreme Court threatened strike July 6 for 5% budget, 37 deaths from 2019 protests still uninvestigated, "camel humps" protest pattern, Paz listed justice reform as priority.
@@ -40,3 +40,10 @@
 
 ## [2026-07-29] ingest | Fuel crisis threatens soybean production in Bolivia (UkrAgroConsult)
 - Acute diesel shortage threatens Bolivia's soybean harvest — Santa Cruz needs 3M liters/day to harvest 950,000 hectares. Anapo GM warns farmers have no certainty of diesel supply. Soybeans worth $1B+ in 2025 exports; ongoing economic and political crisis compounds agricultural sector pressure.
+
+## [2026-08-02] watch-report-update | Watch Report 02-08-2026
+- Generated Watch Report #3. Key new developments: IMF $1.9B staff-level agreement (well below $5B expectations), Morales arrest warrant #2 (armed insurrection/terrorism over blockades on July 29), diesel crisis threatening Santa Cruz soybean harvest, Supreme Court strike threat, Petrobras invitation to restructure YPFB (July 9), formal end of dollar peg (July 15), ALBA suspended Bolivia.
+- Probability lowered from 65% to 60% (-5pp) — IMF deal undershoots expectations, compounding structural pressures (diesel shortages, judicial crisis), Morales warrant creates destabilization risk alongside legal victory.
+- Prediction refined: "Paz will survive 2026 but emerge politically crippled..." (dropped "current protest wave" phrasing).
+- Updated: index.md, timeline, entity/concept pages as applicable.
+- Files: Watch Report 02-08-2026.md + PDF.

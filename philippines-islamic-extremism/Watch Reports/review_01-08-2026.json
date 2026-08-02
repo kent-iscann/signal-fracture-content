@@ -1,0 +1,55 @@
+{
+  "overall": "PASS",
+  "criteria": {
+    "prediction_distinctness": {
+      "status": "PASS",
+      "detail": "The prediction ('use the BTA extension to increase Manila's direct influence over BARMM governance, reducing MILF autonomy') projects a concrete OUTCOME — a specific mechanism (BTA extension) and a resulting shift in governance (increased influence, reduced autonomy). It does not merely restate the Signal ('Manila's sustained neglect… is converting tactical security gains into strategic political risk'). The Signal describes the current dynamic; the Prediction describes what action results from that dynamic. They are distinct."
+    },
+    "prediction_quality": {
+      "status": "WARN",
+      "detail": "The prediction is one sentence, time-bound (March 2027), and ends with the outcome. However, 'increase Manila's direct influence over BARMM governance' and 'reduce MILF autonomy' are relatively subjective metrics. A reader on March 2027 would struggle to definitively verify whether Manila's influence has 'increased' or MILF autonomy has been 'reduced' without agreed-upon indicators. The prediction would be stronger with a concrete, observable change (e.g., 'appoint a Manila-controlled oversight body for BARMM budget approvals' or 'dissolve the MILF-led interim governance structure')."
+    },
+    "signal_fracture_quality": {
+      "status": "WARN",
+      "detail": "Both the Signal (46 words) and Fracture (60 words) are very long sentences that violate the requirement for conciseness and directness. The Signal contains specific data points ('BARMM campaign period', 'counter-terrorism success', 'political fragmentation') when the criterion says 'no data points or clarifiers.' The Fracture contains explicit examples ('40-second SONA treatment', 'Commander Bravo's explicit threat') when the criterion says 'no examples or caveats.' The Signal should be a crisp, one-sentence current-state observation; the Fracture should be a crisp, one-sentence stress point. As written, they read more like mini-analysis paragraphs compressed into single sentences."
+    },
+    "analysis_supports_prediction": {
+      "status": "PASS",
+      "detail": "All four Analysis sections (Political, Economic, Military, Technological) provide evidence and reasoning that logically lead to the prediction. Political establishes Marcos's neglect and Bravo's threat; Economic documents fiscal constraints that incentivize aid-over-architecture; Military shows tactical successes offset by structural risks; Technological identifies COMELEC's technical levers over the electoral outcome and explicitly ties back to the BTA extension prediction. Cross-topic references (Hormuz energy shock, Bondi Beach, South China Sea, Sulu-Celebes) are given sufficient context. No major analytical gaps."
+    },
+    "source_quality": {
+      "status": "PASS",
+      "detail": "12 numbered sources with hyperlinks. Mix of primary (UNODC, ANFREL, Crisis Group), specialized (RSIS, MindaNews), and general (Rappler, Inquirer, SunStar). The core prediction is supported by multiple independent sources (Crisis Group #3, MindaNews #1, #2, Rappler #4, Inquirer #11). No over-reliance on a single source. Source quality hierarchy is respected."
+    },
+    "watch_indicators_triggers": {
+      "status": "PASS",
+      "detail": "Watch Indicators: 7 bullet points (within the 5–7 range), all specific and monitorable. Probability Triggers: 8-row table with Thing/Direction columns. All directional logic is correct — Up events (BTA extension announced, election violence, BFP majority win, BIAF armed action) would make the prediction more likely; Down events (formal dialogue resumes, international mediation, peaceful elections, IMT restoration) would make it less likely. Triggers are specific and actionable, not vague."
+    },
+    "confidence_level": {
+      "status": "PASS",
+      "detail": "Confidence is stated as Medium-High, which matches the evidence quality. The prediction is supported by multiple independent sources (Crisis Group, MindaNews, Rappler, ANFREL, UNODC). It's not Low (there's substantial evidence) and it's not High (the prediction is inherently political and contingent on election outcomes and presidential discretion). The Medium-High designation is well-calibrated."
+    },
+    "formatting": {
+      "status": "PASS",
+      "detail": "All required sections present: Metadata, Signal & Fracture, Prediction, What's New, Analysis (Political/Economic/Military/Technological), Watch Indicators, Probability Triggers, Key Sources, Disclaimer, Notes. `---` separators between every pair of adjacent sections (verified at lines 7, 13, 22, 35, 79, 90, 104, 120, 125). Notes use `*italic*` markers on a single line; no trailing asterisks. Formatting is clean and consistent throughout."
+    },
+    "whats_new": {
+      "status": "PASS",
+      "detail": "What's New section is present (indicating 2nd+ report) and contains 8 specific bullet points with dates, details, and named sources. Each describes a concrete development (campaign period opening, Marcos visit specifics, SONA timing, coalition mobilization, Bravo escalation, COMELEC designation, Crisis Group report, Lanao del Norte office). Probability change is explained with reasoning: 'No change… The accumulation of evidence… reinforces rather than weakens the prediction.' No vague summaries."
+    }
+  },
+  "issues": [
+    {
+      "criterion": "prediction_quality",
+      "severity": "WARN",
+      "description": "The prediction uses subjective, hard-to-verify language ('increase Manila's direct influence', 'reduce MILF autonomy'). On March 2027, a reader cannot definitively falsify whether 'influence increased' without pre-agreed indicators.",
+      "suggested_fix": "Replace with a concrete, observable change. Example: 'The Marcos administration will extend the BTA transition by appointing Manila-selected officials to key BARMM governance positions, sidelining the MILF-led interim structure by March 2027.' This specifies who (Manila-appointed officials), what (key governance positions), and the effect (sidelining MILF structure)."
+    },
+    {
+      "criterion": "signal_fracture_quality",
+      "severity": "WARN",
+      "description": "Signal (46 words) and Fracture (60 words) are too long and contain data points/examples that the criteria explicitly prohibit. The Signal includes 'BARMM campaign period,' 'counter-terrorism success,' and 'political fragmentation' as embedded clarifiers. The Fracture embeds '40-second SONA,' 'Commander Bravo's explicit threat,' and other examples into what should be a crisp stress point.",
+      "suggested_fix": "Shorten both to 20–30 words max. Signal example: 'The BARMM election campaign has opened amid deepening political fragmentation and Manila's continued neglect of the peace process architecture.' Fracture example: 'The administration is prioritizing transactional aid over institutional peace-building, while MILF commanders threaten a return to armed struggle.' Move the specific evidence (40-second SONA, Bravo quotes, etc.) into the Analysis sections where they belong."
+    }
+  ]
+}

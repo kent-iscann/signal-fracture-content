@@ -7,6 +7,7 @@
 | 1 | 20-05-2026 | New bilateral infrastructure financing agreement with China | 65% | Nov 2027 |
 | 2 | 01-06-2026 | New bilateral infrastructure financing agreement with China | 70% (↑5%) | Nov 2027 |
 | 3 | 02-07-2026 | New bilateral infrastructure financing agreement with China | 70% | Nov 2027 |
+| 4 | 02-08-2026 | New bilateral infrastructure financing agreement with China | 70% (unchanged) | Nov 2027 |
 
 ## [China-Southern Africa](china-southern-africa/watch-reports-summary.md)
 
@@ -46,6 +47,7 @@
 |---|------|------------|-------------|--------|
 | 1 | 09-06-2026 | No comprehensive peace treaty signed | 75% | Jun 2027 |
 | 2 | 02-07-2026 | No comprehensive peace treaty signed | 80% | Jun 2027 |
+| 3 | 01-08-2026 | No comprehensive peace treaty signed | 80% | Aug 2027 |
 
 ## [Bolivia's Political Situation](bolivia-politics/watch-reports-summary.md)
 
@@ -53,3 +55,4 @@
 |---|------|------------|-------------|--------|
 | 1 | 24-06-2026 | Paz survives but emerges politically crippled | 65% | Dec 2026 |
 | 2 | 02-07-2026 | Paz survives but emerges politically crippled | 65% | Dec 2026 |
+| 3 | 02-08-2026 | Paz survives 2026 but emerges politically crippled | 60% (↓5pp) | Dec 2026 |

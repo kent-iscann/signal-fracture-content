@@ -29,3 +29,6 @@
 ||- **July 6:** Supreme Court judicial authorities threaten to begin strike if government does not appropriate 5% of budget to justice system.
 |- **July 9:** Reuters reports Bolivia invites Petrobras to return to oil and gas production and help restructure state-owned YPFB — significant energy sector pivot amid crisis.
 |- **July 28:** Acute diesel shortage threatens Bolivia's soybean harvest; Santa Cruz needs 3M liters/day to harvest 950,000 hectares of soybeans; soybeans worth $1B+ in 2025 exports.
+|- **July 29:** IMF reaches staff-level agreement with Bolivia on a $1.9 billion, three-year Extended Fund Facility — the first multi-year IMF arrangement since 2006. Deal is significantly below the government's $3.3 billion request and earlier $5 billion expectations. Expected to catalyze $3.1 billion from World Bank, IDB, and other lenders.
+|- **July 29:** Bolivian prosecutor issues arrest warrant for Evo Morales on charges of armed insurrection and terrorism over the 53-day road blockades (May–June 2026). Second active warrant against Morales. Remains defiant in Chapare stronghold.
+|- **Late July:** ALBA suspends Bolivia as member for Paz's "pro-imperialist and colonialist" conduct. Paz had refused to invite Maduro, Ortega, and Díaz-Canel to his November 2025 inauguration.
