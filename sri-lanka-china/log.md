@@ -163,7 +163,21 @@
   - index.md: Updated last-updated date (2026-07-08 → 2026-07-15) and source count (46 → 48)
 - **Total sources**: 46 → 48
 
-## [2026-07-30] ingest | The Diplomat: Sri Lanka's Tariff Concession May Carry a Diplomatic Cost With China
+## [2026-08-02] report | New Watch Report 02-08-2026
+- Created new watch report covering developments since 02-07-2026
+- **Probability unchanged: 70%** — Central Expressway amendment progressing toward August 2026 signing (channel reopened) offset by halved/yuan-switched loan terms revealing Beijing's hardened lending posture
+- **Key changes:**
+  - China EXIM Bank VP Yang Dongning visited Colombo (July 2, 2026), agreed to sign amended Central Expressway Section I financing agreement by end of August 2026 — first substantive EXIM Bank project engagement under Dissanayake
+  - Original $989M loan reduced to $500M in RMB; Sri Lanka must self-fund $438M shortfall — transformative detail on post-restructuring lending scale and terms
+  - MSC in talks to acquire significant stake in Hambantota Port from CMPort/SLPA (July 7); transshipment calls already switching from Colombo
+  - World Bank reclassified Sri Lanka as upper-middle-income (July 1) — GNI per capita $4,670
+  - CPC 105th anniversary (July 2): all major SL parties attended, party-to-party diplomacy deepened
+  - Sri Lanka gazetted forced-labor import ban for lower US tariff, carrying diplomatic risk with China (The Diplomat, July 28)
+  - AidData/Reuters: China Eximbank requiring yuan-denominated borrowing — Sri Lanka a bellwether case
+  - CMPort announced $108M Hambantota expansion plan (March 2026)
+- **Prediction unchanged**: "Sri Lanka will sign a new bilateral infrastructure financing agreement with China within the next 18 months."
+- **Confidence level: Medium**
+- Watch report: Watch Report 02-08-2026.md
 - **Source #49**: "Sri Lanka's Tariff Concession May Carry a Diplomatic Cost With China" — The Diplomat (July 28, 2026) by Rathindra Kuruwita. Analyzes Sri Lanka's July 2026 forced-labor import ban enacted to secure a lower US tariff rate, and the diplomatic risk it poses to China-Sri Lanka relations. Key data: Sri Lanka's $4.9B apparel exports (25% to US); 97% mechanization in Chinese cotton farming; narrowing small-state policy space between Washington and Beijing.
 - **Wiki pages updated**:
   - sources.md: Added new source entry (#49) in new category "US-China-Sri Lanka Trilateral Dynamics & Trade". Updated source count header to 49 and last-updated date to 2026-07-30.
