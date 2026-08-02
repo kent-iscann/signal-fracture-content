@@ -37,6 +37,7 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - **CPC and KEBCO** together account for **~15% of EU crude imports** (June 2026) — Italy's Trieste port receives 300K b/d serving Austrian, Czech, German refiners.
 - Kazakhstan's Foreign Ministry condemned the attacks as a direct threat to its economic interests, saying an agreed mechanism for sharing information about civilian vessels had been disregarded.
 - OilPrice.com analysis frames this as a **three-part crisis**: war-exposed export system, insufficient alternatives, and recurring operational disruptions at major fields.
+- **July 30, 2026:** A fifth tanker, the Nissos Sifnos, was struck near the CPC terminal — confirming the attacks are a sustained campaign rather than a one-off event.
 - Kazakhstan's oil vulnerability is structural: it is the world's largest landlocked country, bordering Russia, and its export system was not designed for the rupture following Russia's 2022 invasion of Ukraine.
 
 ## Regional dynamics

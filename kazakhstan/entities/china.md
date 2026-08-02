@@ -48,3 +48,9 @@ China's economic influence in Kazakhstan is growing but remains secondary to Rus
 - Tokayev met with **Huawei, Xiaomi, and CATL** executives. Discussions covered cloud computing, AI infrastructure, data processing, EV manufacturing, and intelligent transport systems.
 - Tokayev stressed Kazakhstan aims to become Central Asia's leading agricultural hub by integrating AI, robotics, and digital technologies into the sector.
 - 13 international transport corridors pass through Kazakhstan; ~85% of China-Europe rail traffic transits Kazakhstan. $35B+ invested in transport/logistics over 15 years.
+
+## Sinopec & aluminum deals (H1 2026)
+- **Sinopec Geo-Jade Petroleum** committed **$3.9B** to explore a new gas field in Kazakhstan — the largest single BRI energy deal of H1 2026.
+- **$2.5B** in aluminum processing facilities announced for Kazakhstan.
+- China-Kazakhstan trade rose **25%** in H1 2026; manufacturing +81% YoY. More than 8,500 Chinese-backed companies now operate in Kazakhstan.
+- Oil and gas BRI engagement dropped significantly ($23.3B→$14B for gas, $6.9B→$1.9B for oil), signaling a shift toward manufacturing rather than resource extraction in China's engagement model.

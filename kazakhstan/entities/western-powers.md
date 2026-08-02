@@ -58,7 +58,12 @@ Western powers are cautiously increasing engagement with Kazakhstan, viewing it 
 - **May 3, 2026:** First Kazakhstan-US Investment Roundtable held alongside SelectUSA Investment Summit near Washington, D.C.
 - Part of broader US effort to boost economic engagement with Central Asia beyond critical minerals deals.
 
-## KazMunayGas Ustyurt discovery (April 2026)
+## EU 21st sanctions package & Kazakhstan (July 2026)
+- **July 23, 2026:** The EU adopted its 21st sanctions package — 48 individuals + 170 entities newly designated. Two Kazakh companies were added to sanctions and export-control lists.
+- **Kulevi Oil Refinery (Georgia)** faces a transaction ban in 6 months unless it diversifies from Russian crude — precedent-setting extension of third-country sanctions architecture to refineries, directly relevant to Kazakhstan's energy sector.
+- Oil price cap frozen until **July 14, 2027**.
+- Six entities in China, Oman, India, Singapore, UAE were also sanctioned for oil trading and shadow fleet support.
+- Enhanced third-country sanctions architecture now covers transit infrastructure, not just financial services.
 - KazMunayGas (KMG) announced discovery of an onshore oil and gas deposit north of the Ustyurt Plateau, which stretches across Kazakhstan and Uzbekistan between the Caspian and Aral Seas.
 - **BP** leading effort to develop energy deposits in the region.
 - Potentially significant for Europe's energy diversification strategy.
