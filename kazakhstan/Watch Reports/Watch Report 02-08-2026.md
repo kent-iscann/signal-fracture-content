@@ -92,7 +92,6 @@ The domestic AI ecosystem continues to mature at the education and workforce lev
 - Kazakhstan-China trade trajectory toward $55-60B in 2026 — the pace of Chinese economic integration
 - Strategic crypto mining compliance rates — whether major miners accept the 10% transfer requirement or relocate
 - National Fund drawdowns — whether Kazakhstan taps sovereign reserves to offset CPC revenue losses
-- Kazakhstan-Ukraine diplomatic trajectory — whether bilateral relations deteriorate further after the CPC attacks
 
 ---
 
@@ -140,4 +139,6 @@ This free Watch Report is provided by IScann Group for informational and strateg
 ---
 
 ## Notes
-This report was generated on 2026-08-02 based on open-source reporting available as of 2026-08-02. The probability reflects IScann Group's analytic judgment, not a statistical model, unless otherwise stated. The next review is scheduled for 2026-11-02.
+*This report was generated on 2026-08-02 based on open-source reporting available as of 2026-08-02.*
+*The probability reflects IScann Group's analytic judgment, not a statistical model, unless otherwise stated.*
+*The next review is scheduled for 2026-11-02.*
