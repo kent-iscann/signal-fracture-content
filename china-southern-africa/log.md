@@ -96,7 +96,12 @@
 - Updated critical-minerals-strategy concept: refined control percentages (cobalt 60%, lithium 70%), added SADC railway revolution context, added integrated supply chain data.
 - Updated index: source count 29→33, date from 2026-07-08→2026-07-15.
 
-## [2026-08-02] watch-report | Watch Report 3 — processing plants commissioning, Western counter-investment scaling, Chinese financing architecture fragmenting
+## [2026-08-05] ingest | Weekly source update — SA $122B energy pitch to China, BRI investment surge 254%, India-China competition, Chinalco Namibia cobalt-copper
+|- Added source 49: Rio Times (August 3-4, 2026) — SA Minister Ramokgopa leads delegation to Beijing pitching R2.2 trillion ($122B) energy investment under IRP 2025. New dimension: largest single Chinese energy investment framework presented by SA; US-SA tensions (aid cuts, tariffs) driving SA toward Chinese capital. Trade/supply chain ministers in delegation signals industrial policy integration.
+|- Added source 50: Ecofin Agency (July 29, 2026) — BRI investment in Africa surged 254% to $33.5B in H1 2026; Africa 67.24% of global BRI activity. UQ/Fudan report provides key aggregate data benchmark. Analytical finding: US/EU tariffs may accelerate investment to Africa.
+|- Added source 51: Business Insider Africa (July 2026) — India-China competition for African minerals emerges as new dimension. Indian billionaires (Adani, Vedanta in Zambia copper, ArcelorMittal, Airtel) expanding via private capital vs China's state-backed model. India $4B National Critical Mineral Mission in Africa.
+|- Added source 52: Mining & Energy Namibia (July 31, 2026) — Chinalco commits $1M towards Opuwo cobalt-copper project acquisition in Namibia, expanding Chinese mining footprint beyond Husab uranium into copper-cobalt sector.
+|- Updated timeline with 4 new events (August 2026: SA Beijing energy delegation, BRI 254% surge, India-China competition emergence, Chinalco Opuwo project).
 - Generated Watch Report 3 (02-08-2026): probability raised to 80% (from 75%) — beneficiation model crossing from pledges to operational production across Zimbabwe, DRC, Zambia, and Namibia; Western counter-investment scaling (Quad $20B, EU €12B, Glencore asset sale $8-9B) but Chinese technological lock-in deepening through midstream chemical dominance (IEA sulphuric acid curbs), proprietary processing technology deployment, and DRC-Zambia transboundary battery SEZ
 - Signal: Chinese mineral processing plants crossing from construction to commissioning across Southern Africa
 - Fracture: China's financial architecture fragmenting — sovereign lending collapsed to two-decade low, private capital replacement not materialising

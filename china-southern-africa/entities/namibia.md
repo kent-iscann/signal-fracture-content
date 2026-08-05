@@ -17,7 +17,13 @@ Namibia holds significant deposits of:
 - **Diamonds**
 - **Rare earth minerals**
 
-## Industrial Policy Shift: Beneficiation at Source
+### Opuwo Cobalt-Copper Project
+- Chinese state-owned Chinalco (Xiong'an) Mining moving to acquire 95% stake from Celsius Resources (July 2026)
+- N$16.5M ($1M) committed for exploration and metallurgical testing while regulatory approvals pending
+- Represents Chinese expansion into Namibia's copper-cobalt sector, adding a new mineral dimension beyond Husab uranium
+- Results to be shared with Celsius to support Exclusive Prospecting Licence renewal
+
+### Industrial Policy Shift: Beneficiation at Source
 
 In 2024-2026, Namibia prohibited the export of unprocessed lithium, cobalt, graphite, manganese, and rare earth minerals without written approval — joining a wave of ~13 African countries introducing export restrictions on raw minerals.
 
@@ -49,6 +55,7 @@ The visit signalled a significant deepening of China-Namibia relations, moving f
 ## Key Chinese Actors
 
 - **China General Nuclear (CGN)** — Husab uranium mine operator; desalination plant partner
+- **Chinalco (Xiong'an) Mining Corporation** — Moving to acquire 95% stake in Celsius Resources' Opuwo Cobalt-Copper Project (July 2026), committing N$16.5M ($1M) for exploration and metallurgical testing. Represents Chinese expansion into Namibia's copper-cobalt sector beyond uranium.
 - Interest from Guangdong-based companies in processing, logistics, and clean energy
 
 ## Key Data Points
@@ -64,3 +71,4 @@ Namibia extends the geographic scope of Chinese infrastructure-for-resources act
 - Source 26: [Namibia China Investment Targets Value Addition and Industrial Growth](https://furtherafrica.com/2026/07/07/namibia-china-investment-targets-value-addition-and-industrial-growth) (FurtherAfrica, July 7, 2026)
 - Source 28: [China's Emerging Sustainability Framework & Africa's Critical Minerals Future](https://africachinacentre.org/chinas-emerging-sustainability-framework-africas-critical-minerals-future) (Africa-China Centre, June 29, 2026)
 - Source 30: [China's Xi offers deals on infrastructure, mining as he hosts Namibian leader](https://www.trtafrika.com/article/d952f4a8f53c) (TRT Afrika, July 10, 2026)
+- Source 52: [Chinalco commits N$16.5 million to advance Opuwo cobalt-copper project](https://miningandenergy.com.na/chinalco-commits-n16-5-million-to-advance-opuwo-cobalt-copper-project/) (Mining & Energy Namibia, July 31, 2026)

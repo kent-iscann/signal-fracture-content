@@ -22,6 +22,16 @@ China's Southern African infrastructure plays are fundamentally driven by a stra
 - **Beneficiation pivot:** Responding to host-nation demands for domestic processing rather than withdrawing
 - **BRICS coordination:** China is leveraging BRICS as an institutional buffer against G7 de-risking. At the June 2026 BRICS National Security Advisors meeting, Wang Yi called for deeper strategic minerals cooperation. China's embedded position across BRICS supply nodes (DRC cobalt, Zambia copper, Zimbabwe lithium/manganese, Brazil niobium, Russia nickel) creates overlapping supply chains that make a clean Western decoupling impossible.
 - **TAZARA renewal:** China has a ~$1.4B plan to rehabilitate the TAZARA railway (completed 1975, Zambia-Dar es Salaam), renewing its infrastructure position in the Copperbelt's Indian Ocean export route.
+|- **BRI investment surge:** In H1 2026, Chinese BRI investment in Africa surged 254% to $33.5B, with Africa attracting 67.24% of global BRI activity. Energy 28.7%, metals/mining 17.2%, transport 14.4% ($46.99B including construction contracts). Report suggests US/EU tariffs on Chinese goods may be accelerating investment into Africa as tariff-avoidance manufacturing hubs.
+|
+|## Emerging competitor: India
+|A new dimension of competition is emerging as Indian billionaires expand into African minerals, ports, and telecom:
+|- **Vedanta Resources** (Anil Agarwal): Copper mining in Zambia via Konkola Copper Mines
+|- **Adani Group** (Gautam Adani): Mining, shipping, port, and energy projects facilitating India-Africa trade
+|- **ArcelorMittal** (Lakshmi Mittal): Mining and metal operations in Liberia, South Africa
+|- **Airtel Africa** (Sunil Bharti Mittal): One of Africa's largest mobile networks, 14-country presence
+|- **India's $4B National Critical Mineral Mission:** Launched to target African supply chains for lithium, copper, cobalt, graphite, rare earths
+|- Despite India's growth, China remains Africa's largest trading partner with $141B exports to Africa and $60B surplus (2025)
 
 ## Evolving governance: China's emerging sustainability framework
 China is developing new governance mechanisms for overseas mining, responding to international scrutiny:
