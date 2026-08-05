@@ -46,4 +46,16 @@
 - Probability lowered from 65% to 60% (-5pp) — IMF deal undershoots expectations, compounding structural pressures (diesel shortages, judicial crisis), Morales warrant creates destabilization risk alongside legal victory.
 - Prediction refined: "Paz will survive 2026 but emerge politically crippled..." (dropped "current protest wave" phrasing).
 - Updated: index.md, timeline, entity/concept pages as applicable.
-- Files: Watch Report 02-08-2026.md + PDF.
+|- Files: Watch Report 02-08-2026.md + PDF.
+
+## [2026-08-05] ingest | Bolivian security forces are cracking down. The US is helping. (Responsible Statecraft)
+- In-depth analysis of Paz crackdown: $20M US agreement to train/arm Bolivian security forces, DEA return with La Paz office, 583 arrests, IACHR denounces police violence with vigilante groups, Milei/Kast "humanitarian aid" investigated for repressive material, state of exception held indefinitely, human rights lawyers draw parallels to 2019 pre-massacre killings.
+
+## [2026-08-05] ingest | Arrest of Prominent Peasant Leaders (Left Voice / La Izquierda Diario)
+- July 17 arrests of David Mamani (Tupac Katari) and David Quispe Machaca (CSUTCB) on terrorism charges. La Paz prosecutor: 114 criminal cases, 335 under investigation, 26 in pretrial detention, Vicente Salazar in Chonchocoro maximum security. Updated: timeline, Rodrigo Paz entity, sources.md.
+
+## [2026-08-05] ingest | South America's Lithium Leverage Expires Soon (Model Diplomat)
+- Lithium window closing: Nov 10, 2026 activation of China's export controls on refining tech; EU-Mercosur agreement (provisionally applied May 2026) as counterweight; Bolivia's CBC/Uranium One DLE contracts unratified at pilot scale. Two-speed Lithium Triangle risk: Chile/Argentina lock in offtake while Bolivia remains spectator. Updated: Lithium Geopolitics concept page, timeline, sources.md.
+
+## [2026-08-05] ingest | Latin America & Caribbean Overview July 2026 — Bolivia (ACAPS/ReliefWeb)
+- Conflict-data assessment: voluntary mobilizations dropped from 200+ events in June to ~40 in July following COB agreement and security ops. Truce described as fragile — likely re-escalation from unaddressed fuel shortages. Coca producers of Trópico de Cochabamba paused mobilization June 22. Some groups calling for prosecution of movement leaders and roadblock ban. Updated: sources.md, timeline.
