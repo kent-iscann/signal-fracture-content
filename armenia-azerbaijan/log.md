@@ -118,7 +118,24 @@
 - Updated Aliyev entity: Sherman bill condemnation, Iran media ban, Slovak president visit, Jordan exercise, Serbia delegation
 |- Updated TRIPP concept: July 16 approval, Jamestown analysis, legal conflict with Armenian law
 
-## 2026-08-02 watch report | Third monthly watch report — Report #3
+## 2026-08-05 ingest | Weekly source update (armenia-azerbaijan)
+- **Priority Sources (10 new):**
+  - OC Media (Aug 3): Pashinyan's cabinet shakeup — Rubinyan replaces Simonyan as Speaker, Makunts as Chief of Staff, Manavazyan as faction head; analysis that Pashinyan driven by political insecurity
+  - OC Media (Aug 4): Armenian Parliament elects new speaker as Catholicos skips session for first time — Pashinyan 6 votes short of 2/3 majority for constitutional amendment
+  - OC Media (Aug 2026): Catholicos Karekin II to stand trial in historic first — criminal charges for refusing to reinstate Pashinyan-linked bishop
+  - OC Media (Jul 31): Aliyev attends Kyrgyzstan golf course opening — 16th Central Asia visit, agreements signed, Azerbaijan-Kyrgyz Development Fund doubled to $200M
+  - JAMnews (Aug 2026): Armenia approves new government — most ministers retained, talent pool gets 1,141 applications
+  - JAMnews (Jul/Aug 2026): "Moscow will only push Armenia out of Russian-led blocs" — SVR claims dismissed by Armenian analysts; 74% of Armenians in poll favor EU membership
+  - JAMnews (Aug 3): Diaspora youth camp in Zangilan — Azerbaijan's "information soldier" training for diaspora youth; 120+ from 64 countries
+  - JAMnews (Jul/Aug 2026): Turkey restores Akyaka–Gyumri railway (2-3 months), highway tender announced, freight traffic up 400%
+  - Meydan TV (Jul 21): Berlin police blocked protest during Aliyev's Germany visit — Aliyev-Merz signed Strategic Agenda Declaration
+  - ARKA (Aug 2): Yerevan expects Ankara to fulfill border opening agreement — Rubinyan calls for diplomatic relations "tomorrow"
+- **Tavily Searches (4 new):**
+  - Türkiye Today (Aug 2): Armenia awaits Türkiye's implementation of border opening — border briefly reopened Jun 12-22 for Lebanon aid; direct trade now possible
+  - SpecialEurasia (Jul 12): Armenia-Iran to Sign a Strategic Partnership — analysis of Iran's defensive shield against TRIPP encirclement; Syunik red line as casus belli
+  - GSSC (Aug 4): TRIPP nexus geostrategic analysis — 90% highway/70% railway ready on Azerbaijani side; corridor unlikely before 2031; weakest point: Armenian domestic politics
+  - Washington Times (Jul 8): Trump should help open the Armenia-Turkey border (op-ed - noted but not added as separate source given existing coverage)
+- Updated sources.md (78 → 91), index.md source count (78 → 91)
 - **Key development:** NATO Ankara Summit (Jul 7-8) produced no diplomatic breakthrough — Aliyev was absent from the summit, the one venue identified as critical for a Trump-mediated meeting
 - **Prediction unchanged:** "Armenia and Azerbaijan will fail to sign a comprehensive peace treaty over the next 12 months."
 - **Probability unchanged at 80%** — structural deadlock confirmed by Aliyev's NATO boycott; no diplomatic mechanism to bridge constitutional impasse
