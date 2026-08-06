@@ -262,3 +262,9 @@
 - PDF generated successfully
 - watch-reports-summary.md updated (row 4); global summary updated; index.md updated
 - Next review scheduled for 2026-09-01
+
+## 2026-08-06 | weekly-ingest | 4 new sources
+- US visa bond requirement made permanent for Georgia (up to $20K) — first in Europe/South Caucasus; 7.43% overstay rate vs 2.02% for Azerbaijan
+- Kobakhidze social media post defending GD Russia policy, questioning opposition's post-2022 anti-Russian stance vs silence after 2008 war
+- Trump personal letter to Kobakhidze on US 250th anniversary — strongest US signal to GD to date
+- Humanotions long-form analysis of asymmetric Sino-Georgian relationship; Dahua surveillance cameras linked to protest suppression; China partnership as domestic PR

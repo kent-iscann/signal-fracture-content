@@ -16,3 +16,6 @@ Georgian Dream's foreign policy since 2022 can best be understood as a "regime s
 
 ## July 2026: Strategic irrelevance threshold
 The Estonian ICDS analysis (July 23, 2026) by Teona Giuashvili (LSE) argues GD's "multi-alignment" is a façade for domestic power consolidation and has crossed a qualitative threshold: Georgia is now alone in the region narrowing its strategic agency while Armenia, Azerbaijan, and Central Asian states actively expand theirs. China's exit from Anaklia (July 6) exposed the fundamental asymmetry in GD's alternative-partner strategy — Georgia needs China far more than China needs Georgia. The regime survival doctrine has not been abandoned despite its demonstrated failures because it serves a domestic political function (legitimizing repression as "sovereignty") that now outweighs its foreign-policy utility.
+
+## Timeline
+- **2026-08 (early):** Trump personal letter to Kobakhidze — GD uses US engagement signal to demonstrate multi-vector viability domestically, while simultaneously deepening China/Central Asia ties. Shows GD's core strategy: maintain engagement with all powers without committing to any. Humanotions analysis argues China partnership is a PR campaign for domestic consumption — GD uses China ties to frame isolation as strategic independence.

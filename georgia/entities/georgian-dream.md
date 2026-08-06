@@ -105,3 +105,6 @@ SCEEUS Commentary no. 9 (June 23, 2026) analyzed the complete breakdown of once-
 - ~3,000 Georgians have joined the Ukrainian army since 2022 despite official GD policy.
 - 66.2% of Ukrainians disapprove of Georgia's abandonment of European integration.
 - The new Hungarian PM Peter Magyar (replacing Orbán) is likely to be less supportive of GD in EU forums.
+
+## Timeline
+- **2026-08-04:** Kobakhidze publishes detailed social media post defending GD's Russia policy — argues opposition became anti-Russian only after 2022, not after 2008 war, accusing them of serving a "global war party." Claims UNM government itself promoted Russian tourism and investment after 2008.
