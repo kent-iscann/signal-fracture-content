@@ -1,6 +1,6 @@
 # Sources
 
-> Total sources: 49 | Last updated: 2026-07-30
+> Total sources: 51 | Last updated: 2026-08-06
 
 ## Debt and Lending
 
@@ -274,3 +274,20 @@
 49. "Sri Lanka's Tariff Concession May Carry a Diplomatic Cost With China" -- The Diplomat (July 28, 2026)
     https://thediplomat.com/2026/07/sri-lankas-tariff-concession-may-carry-a-diplomatic-cost-with-china
     By Rathindra Kuruwita. Analyzes how Sri Lanka's July 2026 gazette banning forced-labor imports — enacted to secure a lower 10% US tariff rate (vs 12.5%) under Trump's Section 301 forced-labor tariff regime — risks damaging relations with China. Key data: Sri Lanka's apparel/textile exports earned $4.9B in 2025 ($1.96B to US, $1.6B to EU, $688M to UK). The forced-labor narrative is widely understood by analysts to target Chinese Xinjiang cotton, despite data showing 97% mechanization in Chinese cotton farming and over 90% machine-picking in Xinjiang specifically (up from 5% in 1990). The article argues Sri Lanka's performative compliance with US demands to push a contested narrative against its largest bilateral lender and infrastructure investor sends a "dangerous signal" to Beijing and illustrates the narrowing policy space for small states caught between Washington and Beijing.
+
+---
+
+## Post-Crisis Investor Confidence & Transparency
+
+50. "Sri Lanka Among Fastest Improvers In Investor Relations And Debt Transparency, says IIF" -- News 1st (July 28, 2026)
+    https://english.newsfirst.lk/2026/7/28/sri-lanka-among-fastest-improvers-in-investor-relations-and-debt-transparency-says-iif
+    Also reported by EconomyNext (July 27, 2026): https://economynext.com/sri-lanka-climbs-investor-relations-rankings-on-transparency-gains-iif-279407
+    The Institute of International Finance (IIF) 2026 Investor Relations and Debt Transparency Assessment, "The Transparency Dividend," ranked Sri Lanka 4th among the largest improvers globally (behind Vietnam, Belize, Mozambique). Sri Lanka's overall Investor Relations Country Score rose to 43.67/50 (from 37.33 in 2025), placing it in the top quartile of 57 emerging markets assessed. Debt Transparency score: 11.25/13 (5th-highest improver). ESG Data score: 3.25/4.0. The improvement reflects the launch of Sri Lanka's formal Investor Relations Program (IRP) in December 2024 under the Ministry of Finance. The IIF emphasized that transparent disclosure yields a "transparency dividend" by reducing the uncertainty premium in borrowing costs. Represents a significant marker of post-crisis confidence-building.
+
+---
+
+## New BRI Engagement Data
+
+51. "China's Investment and Construction Engagement in the Belt and Road Initiative (BRI) 2026 H1" -- Green Finance & Development Center, Fudan University (July 2026)
+    https://greenfdc.org/chinas-investment-and-construction-engagement-in-the-belt-and-road-initiative-bri-2026-h1
+    By Christoph Nedopil Wang. Annual report tracking Chinese BRI engagement globally. Key finding for Sri Lanka: the country was among 17 countries that saw a 100% drop in BRI engagement (investment and construction) in H1 2026 compared to H1 2025, alongside Pakistan, Peru, Bangladesh, and Russia. This means no new Chinese BRI-related investment announcements or construction contracts were recorded in Sri Lanka during H1 2026. Globally, BRI engagement reached a record USD 126.4 billion in H1 2026 (construction USD 76.5B + investment USD 49.8B), but the gains were concentrated in Africa, the Middle East, and Central Asia. Sri Lanka's absence from new BRI flows reflects the ongoing post-restructuring caution and the dissipation of previous project pipelines.

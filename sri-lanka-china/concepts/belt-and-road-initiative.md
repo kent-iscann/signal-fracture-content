@@ -1,7 +1,7 @@
 ---
 title: Belt and Road Initiative in Sri Lanka
 created: 2026-05-20
-updated: 2026-07-08
+updated: 2026-08-06
 type: concept
 tags: [BRI, infrastructure, diplomacy, geopolitics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -53,6 +53,10 @@ The post-crisis period has seen intensified India-China competition for influenc
 - **China-South Asia Expo 2026** (June 11-16, 2026): Sri Lanka fielded one of its largest-ever trade delegations (~100 exporters, 250+ reps) to Kunming. Outcomes included a 100-booth pavilion, a MoU between Sri Lanka's Premium Beverages and a Chinese distributor, and China's offer of free warehouse access at the Kunming Comprehensive Bonded Zone for Sri Lankan exporters.
 - **CPC 105th Anniversary Reception** (July 2, 2026): Chinese Ambassador Qi Zhenhong hosted representatives of all major Sri Lankan political parties for the CPC's 105th anniversary. The CPC pledged deeper cooperation on governance, poverty alleviation, and digital cities. Xi-Dissanayake meeting cited as new blueprint. Signals an expanded party-to-party dimension alongside government-to-government BRI engagement.
 - **China EXIM Bank Central Expressway Amendment** (July 2026): EXIM Bank Vice President Yang Dongning visited Sri Lanka to discuss the amended Financing Agreement for Section I of the Central Expressway (Kadawatha-Meerigama). Sri Lanka aims to sign by end of August 2026. This is the first active EXIM Bank project negotiation with the Dissanayake administration since the debt restructuring.
+
+## BRI Engagement Data: H1 2026
+
+The Green Finance & Development Center's BRI Investment Report for H1 2026 (July 2026) revealed that **Sri Lanka was among 17 countries that saw a 100% drop in BRI engagement** in H1 2026 compared to H1 2025, alongside Pakistan, Peru, Bangladesh, and Russia. This means no new Chinese BRI-related investment announcements or construction contracts were recorded in Sri Lanka during the first six months of 2026. This marks a stark contrast to the record global BRI engagement of USD 126.4 billion in H1 2026, with the gains concentrated in Africa (USD 33.5B), the Middle East (USD 36.5B), and Central Asia (USD 13.2B). Sri Lanka's absence from new BRI flows reflects the ongoing post-restructuring caution, the dissipation of previous project pipelines, and potentially a reorientation of Chinese BRI capital toward higher-growth markets.^[Green Finance & Development Center, BRI 2026 H1 Report]
 
 ## January 2025 China-Sri Lanka Joint Statement on BRI Cooperation
 Following President Dissanayake's January 2025 Beijing visit, China and Sri Lanka issued a joint statement reaffirming Belt and Road cooperation in specific areas: Hambantota, Colombo Port City, logistics, green development, and the digital economy. This signals China's intent to continue deepening economic engagement despite Sri Lanka's debt restructuring.^[Lowy Institute, May 14, 2026]

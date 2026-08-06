@@ -184,3 +184,13 @@
   - timeline/china-sri-lanka-timeline.md: Added new July 28, 2026 timeline entry covering the forced-labor import ban and its implications for China-Sri Lanka relations.
   - index.md: Updated last-updated date (2026-07-15 → 2026-07-30) and source count (48 → 49)
 - **Total sources**: 48 → 49
+
+## [2026-08-06] ingest | 2 new sources: IIF 2026 Investor Relations Report, GreenFDC BRI 2026 H1 Report
+- **Source #50**: "Sri Lanka Among Fastest Improvers In Investor Relations And Debt Transparency, says IIF" -- News 1st (July 28, 2026). The IIF's "The Transparency Dividend" report ranked Sri Lanka 4th among the largest improvers globally (from 37.33/50 in 2025 to 43.67/50 in 2026). Debt Transparency score: 11.25/13 (5th-highest improver). Reflects the launch of Sri Lanka's formal Investor Relations Program (IRP) in December 2024 under the Ministry of Finance. Significant marker of post-crisis confidence-building and investor perception shift.
+- **Source #51**: "China's Investment and Construction Engagement in the BRI 2026 H1" -- Green Finance & Development Center, Fudan University (July 2026). Key finding: Sri Lanka was among 17 countries with a 100% drop in BRI engagement in H1 2026 vs H1 2025, alongside Pakistan, Peru, Bangladesh, and Russia. No new Chinese BRI-related investment announcements or construction contracts in Sri Lanka in H1 2026, despite record global BRI engagement (USD 126.4B). Reflects post-restructuring caution and depleted project pipelines.
+- **Wiki pages updated**:
+  - sources.md: Added 2 new source entries (#50-51) in 2 new categories: "Post-Crisis Investor Confidence & Transparency" and "New BRI Engagement Data". Updated source count to 51 and last-updated date to 2026-08-06.
+  - timeline/china-sri-lanka-timeline.md: Added 2 new timeline entries (IIF July 27-28 2026, GreenFDC H1 2026). Updated frontmatter date.
+  - concepts/belt-and-road-initiative.md: Added "BRI Engagement Data: H1 2026" section with 100% drop data. Updated frontmatter date.
+  - index.md: Updated last-updated date (2026-08-02 → 2026-08-06) and source count (49 → 51).
+- **Total sources**: 49 → 51

@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-07-15
+updated: 2026-08-06
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -188,6 +188,12 @@ Sri Lanka gazetted a blanket ban on importing goods produced using forced labor 
 
 ### July 7, 2026 -- MSC in Talks to Acquire Stake in Hambantota Port; Transshipment Calls Switching from Colombo
 Mediterranean Shipping Co. (MSC), the world's largest container shipping line, entered discussions with China Merchants Port Holdings (CMPort, 85% owner) and the Sri Lanka Ports Authority (15% owner) to acquire a significant stake in Hambantota International Port, according to multiple local industry sources cited by the Journal of Commerce. MSC has already started switching transshipment calls from Colombo to Hambantota for regular and ad hoc sailings. An official announcement is expected soon. This development would bring a major global shipping operator into the Chinese-controlled port, potentially transforming its commercial viability and marking a new phase in the port's post-lease history.^[Journal of Commerce, July 7, 2026]
+
+### July 27-28, 2026 -- IIF 2026 Report: Sri Lanka 4th-Fastest Improver in Investor Relations and Debt Transparency
+The Institute of International Finance (IIF) published its 2026 Investor Relations and Debt Transparency Assessment, "The Transparency Dividend." Sri Lanka ranked 4th among countries with the largest improvement in investor relations practices (behind Vietnam, Belize, Mozambique). Sri Lanka's overall Investor Relations Country Score rose to 43.67/50 (from 37.33 in 2025), placing it in the top quartile of 57 emerging markets. Debt Transparency score reached 11.25/13 (5th-highest improver). ESG Data score: 3.25/4.0. The improvement reflects the launch of Sri Lanka's formal Investor Relations Program (IRP) in December 2024 under the Ministry of Finance. The IIF noted that Sri Lanka's progress in ESG data disclosure was among the most notable year-on-year increases, alongside Thailand, Ethiopia, El Salvador, Belize, and Nigeria.^[News 1st, July 28, 2026]^[EconomyNext, July 27, 2026]
+
+### H1 2026 -- GreenFDC Report: Sri Lanka Sees 100% Drop in Chinese BRI Engagement
+The Green Finance & Development Center (Fudan University) published its H1 2026 BRI Investment Report, revealing that Sri Lanka was among 17 countries with a 100% drop in BRI engagement compared to H1 2025, alongside Pakistan, Peru, Bangladesh, and Russia. No new Chinese BRI-related investment announcements or construction contracts were recorded in Sri Lanka in H1 2026. This contrasts with record global BRI engagement of USD 126.4 billion (construction USD 76.5B + investment USD 49.8B), with gains concentrated in Africa, the Middle East, and Central Asia. Sri Lanka's absence from new BRI flows reflects post-restructuring caution and the depletion of previous project pipelines.^[Green Finance & Development Center, BRI 2026 H1 Report, July 2026]
 
 ---
 
