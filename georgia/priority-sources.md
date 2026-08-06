@@ -31,6 +31,8 @@ These sources provide longer-form analysis, policy recommendations, and original
   Policy-oriented analysis on Caucasus geopolitics, NATO, energy security, and US interests.
 - **Caspian Policy Center** — https://www.caspianpolicy.org
   Washington-based think tank focused on the Caspian and South Caucasus. Covers energy, security, and economic integration.
+- **SpecialEurasia** - https://www.specialeurasia.com/
+  Boutique geopolitical intelligence firm focused on Eurasia.
 
 ---
 
