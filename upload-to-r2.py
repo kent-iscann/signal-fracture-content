@@ -174,6 +174,58 @@ def parse_prediction(md_path):
     return pred_text, prob_val, target_val
 
 
+def resolve_slug_from_config(pdf_path, cli_slug):
+    """Resolve the canonical R2 slug from _config.yaml using the PDF's folder path.
+    The _config.yaml stores slug + path mappings. Folder names sometimes differ
+    from config slugs (e.g. folder 'sri-lanka-china' -> config slug 'sri-lankan-financial-relationship-china').
+    This prevents duplicate topic entries in the manifest when cron jobs pass
+    the wrong slug variant.
+    Falls back to cli_slug if config is unreadable or no match found.
+    """
+    config_path = os.path.join(os.path.dirname(os.path.dirname(pdf_path)), '_config.yaml')
+    # Also try repo root
+    repo_root = os.path.dirname(os.path.dirname(os.path.dirname(pdf_path)))
+    if os.path.exists(config_path):
+        config_file = config_path
+    elif os.path.exists(os.path.join(repo_root, '_config.yaml')):
+        config_file = os.path.join(repo_root, '_config.yaml')
+    else:
+        return cli_slug
+
+    try:
+        import yaml
+    except ImportError:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "pyyaml", "-q", "--break-system-packages"])
+        import yaml
+
+    try:
+        with open(config_file) as f:
+            config = yaml.safe_load(f)
+    except Exception:
+        return cli_slug
+
+    # Extract the folder from the PDF path
+    pdf_abs = os.path.abspath(pdf_path)
+    # Look for /wiki/<topic_folder>/ pattern
+    wiki_match = re.search(r'/wiki/([^/]+)/', pdf_abs)
+    if not wiki_match:
+        return cli_slug
+    folder_name = wiki_match.group(1)
+
+    # Find matching topic in config
+    for topic in config.get('topics', []):
+        config_path_val = topic.get('path', '')
+        config_slug = topic.get('slug', '')
+        # Match by path ending (e.g., /root/wiki/sri-lanka-china)
+        if config_path_val.rstrip('/').endswith('/' + folder_name):
+            if config_slug != cli_slug:
+                print(f"  Resolved slug from config: '{cli_slug}' -> '{config_slug}' (folder: {folder_name})")
+            return config_slug
+
+    # Fallback: try matching by slug directly (config slug matches config topic name)
+    return cli_slug
+
+
 if __name__ == "__main__":
     use_md = False
     md_path = None
@@ -200,6 +252,9 @@ if __name__ == "__main__":
     pdf_path = args[0]
     topic_slug = args[1]
     topic_name = args[2]
+
+    # Resolve canonical slug from _config.yaml to prevent duplicate topic entries
+    topic_slug = resolve_slug_from_config(pdf_path, topic_slug)
 
     if use_md:
         prediction, probability, target_date = parse_prediction(md_path)
