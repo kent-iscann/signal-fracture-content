@@ -14,7 +14,32 @@
 
 ---
 
-## 2026-07-28 | Weekly source update — 5 new sources added
+## 2026-08-08 | Weekly source update — 6 new sources added
+
+### Sources added
+
+1. **el.kz: AI Year in Kazakhstan — What Changed in the First Half of 2026** (July 20, 2026)
+   - Alem.Cloud supercomputer (#86 TOP500, NVIDIA H200 GPUs, TPU, Habana AI). Data Center Valley near Ekibastuz with 1 GW planned capacity. Alem GPT AI agent launched July 7 for public service delivery. VAT exemption on AI computing equipment imports. Top 25 e-government ranking. Qazaqstan Venture Group plans $1B for AI VC.
+
+2. **Cooley LLP: EU 21st Russian Sanctions Package — Business Implications** (August 4, 2026)
+   - 218 new designations (48 individuals, 170 entities) — largest batch in 4 years. 94 Russian banks. New crypto restrictions on EU crypto businesses with Russian owners. Confirms the 20th package (April 2026) imposed restrictions on entities in Kazakhstan for dual-use/military goods to Russia — named escalation.
+
+3. **China Daily: Kazakhstan Experiences China Speed** (August 5, 2026)
+   - Cumulative Chinese investment >$30B, 8,000+ Chinese-backed enterprises. New satellite/remote-sensing/space communications cooperation. Astana light rail as BRI model. Kabaziyev (FPRI) argues BRI should be evaluated by lasting value, not project count.
+
+4. **IRIS France: Kazakhstan Asserts Itself in Relation to Russia — An Emancipation More Apparent Than Real?** (July 28, 2026)
+   - Lukas Aubin argues emancipation is "more apparent than real," citing 2022 CSTO dependency. Trajectory: 2022 rejection of annexations → 2023 Kazakh language gesture → 2026 Omsk freeze call. Material transformations diversifying but not yet decoupling.
+
+5. **RealClearWorld: Kazakhstan's Pragmatic Approach to the World Stage** (August 6, 2026)
+   - Only Central Asian country to hold back aid to Iran during Operation Epic Fury. Active in Trump's Board of Peace. Abraham Accords intent (Nov 2025). $600M trade hub with China. Questions durability of multi-vectorism.
+
+6. **Astana Times: Kazakhstan Moves Up 17 Spots in Post-Shock Investment Risk Assessment** (August 4, 2026)
+   - Rose to 53rd in Henley & Partners/AlphaGeo Global Investment Risk and Resilience Index (May 2026). Ahead of all Central Asian peers. Parag Khanna: gap between structural resilience and market risk creates opportunity.
+
+### Files updated
+- sources.md: 71 → 77 sources
+- log.md: updated
+- index.md: updated source count and date
 
 ### Sources added
 
