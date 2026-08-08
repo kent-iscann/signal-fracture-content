@@ -34,3 +34,4 @@ The MILF's transformation from insurgent group to political authority is the cen
 - Mohagher Iqbal — Former MP/education minister, removed May 2026 over corruption allegations
 - Abdulraof Macacua — Interim Minister, political patron of the breakaway BFP
 - Mel Senen Sarmiento — Presidential Adviser on Peace, Reconciliation and Unity (appointed 2026)
+- **August 2026:** CCAA data shows MILF internal divisions (UBJP vs BFP) fueling violence — 8 BIAF base commanders replaced after pledging to BFP. Nabalawag-Kadayangan SGA violence involving MILF commanders displaces ~1,500 households. Stalled decommissioning means weapons remain in MILF members' hands during election season — CCAA warns of risk.

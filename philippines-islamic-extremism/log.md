@@ -48,3 +48,11 @@
 - New report (6+ new sources, major developments). Probability unchanged at 75%. Prediction unchanged.
 - Major developments: Campaign period opens July 30 (27 areas red/orange concern, 631 candidates for 80 seats); Marcos BARMM visit July 22 (P3.4B distributed but no CAB engagement); SONA July 27 (peace process gets 40 seconds in 86 minutes); Multisectoral Peace Coalition formed and Sarmiento commits to IMT restoration; Commander Bravo warns MILF could return to armed struggle; Crisis Group #355 comprehensive diagnosis; ANFREL/NDI joint TAM deployed; BFP institutionalized as dominant minority party by COMELEC.
 - 6 new sources added (36-41). Total sources: 41.
+## [2026-08-08] ingest | Weekly source update (5 new sources)
+- 5 new sources added (42-46). Total sources: 46.
+- Source 42: CCAA reports 611 violent incidents BARMM Jan-July (235 deaths) — Inquirer
+- Source 43: Palace claims violence not election-related — Inquirer
+- Source 44: Mindanao Sentinel analysis — CCAA Boto Mo Bangsamoro! launch, twin bombings, Panenekelan Group
+- Source 45: COMELEC on BARMM polls — winners known 2 hrs after closing — MindaNews (Aug 4)
+- Source 46: COMELEC 95% ready for BARMM elections — MindaNews (Aug 5)
+- Timeline updated: 6 new events (July 28 - Aug 8)
