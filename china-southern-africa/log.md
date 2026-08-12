@@ -109,4 +109,12 @@
 - Updated per-topic watch-reports-summary.md: row 3 added
 - Updated global watch-reports-summary.md: row 3 added
 - Updated index.md: source count unchanged (48), date updated to 2026-08-02, new watch report entry added
-- PDF generated and uploaded to R2: watch-reports/chinese-infrastructure-southern-africa/2026-08-02.pdf
+|- PDF generated and uploaded to R2: watch-reports/chinese-infrastructure-southern-africa/2026-08-02.pdf
+|
+|## 2026-08-12 | ingest | 3 new sources
+|- Added source 53: CNBC Africa/Reuters (July 31, 2026) — Zimbabwe H1 2026 lithium exports up 230% to $782M. Key new data point showing beneficiation strategy driving export value growth. Lithium 12% of mineral export revenue, 2.14M tonnes production forecast.
+|- Added source 54: Business Insider Africa (August 2026) — ZIDA Q2 2026: $1.59B in new investment approvals. Mining $768.5M, manufacturing $496.7M. Total mineral export receipts $2.53B H1 2026. IMF confirms 8.3% GDP growth in 2025.
+|- Added source 55: Briefs.co (August 2026) — Chinese contractor wins $2.7B Tanzania railway project with spur line to Burundi nickel mine. Chinese infrastructure expansion into East African mineral logistics.
+|- Updated entity/zimbabwe.md with H1 2026 export data, ZIDA investment approvals, IMF growth data.
+|- Updated timeline with 4 new events (H1 lithium exports, ZIDA approvals, Tanzania railway project).
+|- Updated index.md: source count 52→55, date updated to 2026-08-12.

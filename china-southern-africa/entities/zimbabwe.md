@@ -21,7 +21,10 @@ In April 2026, Zimbabwe adopted a producer quota system for lithium concentrate 
 - Sichuan Yahua Industrial
 - China Railway (resource-backed infrastructure financing discussions, June 2026)
 
-## Key developments (July 2026)
+## Key developments (August 2026)
+- **H1 2026 lithium exports up 230%:** Zimbabwe exported lithium products worth $782M in H1 2026 (up from $237M H1 2025). Lithium accounted for ~12% of mineral export revenue, behind only gold and PGMs. Total 2026 lithium production forecast: 2.14M tonnes. Country exported 1.13M tonnes spodumene in 2025 (15% of China's lithium concentrate imports).
+- **ZIDA approves $1.59B in Q2 2026:** ZIDA issued 284 licences. Mining 86 licences ($768.5M), manufacturing 43 ($496.7M). Total mineral export receipts $2.53B in H1 2026; lithium sulphate generated $73.2M. Average manufacturing investment ($11.6M/licence) now exceeds mining ($8.9M).
+- **IMF confirms 8.3% growth in 2025:** Zimbabwe's economy grew 8.3% in 2025, projected ~5% in 2026, supported by agriculture, mining, and favourable gold prices.
 - **Sandawana $300M deal confirmed:** Mutapa Energy Resources secured $300M from Chinese entities (Huayou Cobalt, Tsingshan) to develop the Sandawana lithium deposit with both a mine and processing facilities. Confirms deal previously reported as "negotiating."
 - **Huayou lithium carbonate plant ~90% complete:** Prospect Lithium Zimbabwe nearing completion of its lithium carbonate plant. Huayou investments have generated >$1.1bn in foreign exchange for Zimbabwe.
 - **13-mineral ban extension:** From start of 2027, 13 additional critical minerals — including cobalt, platinum group metals (PGMs: palladium, rhodium, ruthenium, iridium, osmium), and rare earth elements — cannot be exported in raw form. Government frames this as "structured inclusion" rather than exclusion.
