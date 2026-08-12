@@ -46,7 +46,7 @@
 - Probability lowered from 65% to 60% (-5pp) — IMF deal undershoots expectations, compounding structural pressures (diesel shortages, judicial crisis), Morales warrant creates destabilization risk alongside legal victory.
 - Prediction refined: "Paz will survive 2026 but emerge politically crippled..." (dropped "current protest wave" phrasing).
 - Updated: index.md, timeline, entity/concept pages as applicable.
-|- Files: Watch Report 02-08-2026.md + PDF.
+- Files: Watch Report 02-08-2026.md + PDF.
 
 ## [2026-08-05] ingest | Bolivian security forces are cracking down. The US is helping. (Responsible Statecraft)
 - In-depth analysis of Paz crackdown: $20M US agreement to train/arm Bolivian security forces, DEA return with La Paz office, 583 arrests, IACHR denounces police violence with vigilante groups, Milei/Kast "humanitarian aid" investigated for repressive material, state of exception held indefinitely, human rights lawyers draw parallels to 2019 pre-massacre killings.
@@ -59,3 +59,23 @@
 
 ## [2026-08-05] ingest | Latin America & Caribbean Overview July 2026 — Bolivia (ACAPS/ReliefWeb)
 - Conflict-data assessment: voluntary mobilizations dropped from 200+ events in June to ~40 in July following COB agreement and security ops. Truce described as fragile — likely re-escalation from unaddressed fuel shortages. Coca producers of Trópico de Cochabamba paused mobilization June 22. Some groups calling for prosecution of movement leaders and roadblock ban. Updated: sources.md, timeline.
+
+## [2026-08-12] ingest | Bolivia's Paz tests fragile coalition with reform push, IMF deal (Reuters)
+- Major development: Paz's center-right coalition showing signs of unraveling; Congress fragmented among six center-right blocs; PDC tensions between Paz and VP Edmand Lara; key allies left cabinet. Energy reform: cap tax/royalty at ~50%, reduce YPFB role, private electricity participation. Opposition demands transparency on $1.9B IMF deal.
+- Updated: sources.md (#31), timeline, Rodrigo Paz entity, Bolivia's Post-MAS Fragmentation concept.
+
+## [2026-08-12] ingest | President Paz emerges stronger from Bolivia's blockade crisis (GIS Reports)
+- New facts: July 2026 private fuel import authorization partially breaking YPFB monopoly; Bolivia joined Shield of the Americas security alliance; blockade losses ~$2.3B. MAS collapsed to 2 lower house seats.
+- Updated: sources.md (#30), timeline, Rodrigo Paz entity.
+
+## [2026-08-12] ingest | Making Sense of Latin America's Shift to the Right (New Lines Magazine)
+- Santiago Ospina Celis analysis: rightward shift is political expression of anxiety, not ideological conversion. Challenges "Trump caused it" and "left failed" narratives. New timeline: Costa Rica Feb 2026, Peru/Colombia June 2026, Brazil Oct 2026 (Lula vs Bolsonaro).
+- Updated: sources.md (#29), timeline, South America's Rightward Shift concept.
+
+## [2026-08-12] ingest | Bolivia's President Paz imposes starvation regime (WSWS)
+- New social data: 52% food insecurity, 44.7% poverty (up 6.6pp in one year), 53.7% child anemia. Law 157 on Agrarian Conversion (April 8, 2026) enabling purchase of peasant lands. Agribusiness figures in Paz cabinet. 53-day strike, up to 70 roadblocks.
+- Updated: sources.md (#28), timeline.
+
+## [2026-08-12] ingest | Evo Morales defiant after new Bolivia arrest warrant (Al Jazeera)
+- Reports on July 29 second arrest warrant for Morales (armed insurrection, terrorism) for 53-day blockades. Complaint by Comité pro Santa Cruz, joined by Interior Ministry. Also targets Argollo and Salazar. Morales defiant response quote.
+- Updated: sources.md (#27), timeline, Evo Morales entity.
