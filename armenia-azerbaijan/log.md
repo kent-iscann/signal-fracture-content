@@ -152,3 +152,34 @@
 - **Report file:** Watch Reports/Watch Report 01-08-2026.md
 - **Files updated:** index.md, watch-reports-summary.md (per-topic and global), log.md
 - **PDF generated and uploaded to R2**
+
+## 2026-08-12 ingest | Weekly source update (armenia-azerbaijan)
+- **Priority Sources (19 new):**
+  - OC Media (Aug 10): Armenia, Azerbaijan, US release joint statement on Washington summit anniversary — 8 benchmarks, Nobel Peace Prize nomination, $201M Enterprise Fund
+  - OC Media (Aug 10-11): Explainer — Washington summit one year on: peace process achievements and remaining barriers
+  - OC Media (Aug 5): US funding for TRIPP+ Enterprise doubles to $402M
+  - OC Media (Aug 2026): Russia warns citizens against visiting Armenia if 'systematic arrests' continue — Matvienko to Rubinyan
+  - OC Media (Aug 2026): Russia bans 70,000 bottles of Armenian water/soft drinks — trade war escalation
+  - OC Media (Aug 2026): Pashinyan says Russian restrictions could 'become problem for EAEU'
+  - OC Media (Aug 2026): Netanyahu set to visit Azerbaijan — third planned visit
+  - OC Media (Aug 10): Iran's Pezeshkian says Azerbaijan provided aid during 2026 war
+  - OC Media (Aug 11): Beyond the false binary — Armenia's complicated democratic reality (Tigran Grigoryan analysis)
+  - Eurasianet (Aug 8): Assessing peace deal one year later — US-Iran war as wild card, constitutional amendment impasse
+  - JAMnews (Aug 2026): Armenia seeks gas alternatives — Iran or Azerbaijan as suppliers
+  - JAMnews (Aug 11): Mecca defence pact implications for South Caucasus
+  - JAMnews (Aug 2026): Head of TRIPP+ foundation holds talks in Armenia
+  - JAMnews (Aug 2026): Armenia shift toward EU but 'finish line distant'
+  - JAMnews (Aug 2026): 'Signs Armenia heading for divorce from EAEU'
+  - Caucasus Watch: U.S. doubles TRIPP+ Enterprise Fund to $402M
+  - Caucasus Watch: Azerbaijan links peace treaty to Armenian constitutional reform (Hajiyev)
+  - Caucasus Watch: Russia casts doubt on Armenia's commitment — Fadeev criticism, Overchuk trade decline
+  - Caucasus Watch: Russia outlines procedure for suspending Armenia's CSTO voting rights (Nov 11 summit)
+- **Tavily Searches (3 new):**
+  - Daily Sabah (Aug 11): Turkish analyst calls for full diplomatic relations between Turkey and Armenia
+  - Armenian Weekly (Aug 6): Azerbaijan confirms 40 JF-17C fighters ($4.2-4.6B); Pashinyan threatens $2B railway payment demand; second Araks bridge proposed
+  - Hague Research Institute (Jul 2026): Major analytical piece on TRIPP as connectivity framework beyond transport
+- Updated sources.md (91 → 119), index.md source count (91 → 119)
+- **Key development:** Washington summit one-year anniversary (Aug 8) produces upbeat joint statement but peace treaty remains unsigned. Pashinyan lacks 2/3 majority for constitutional reform. US-Iran war drains resources and complicates TRIPP. Russia escalates trade war (70K bottles, travel warnings). Azerbaijan air force modernizing with 40 Chinese-Pakistani JF-17s. First calls for Turkey-Armenia diplomatic relations.
+- **Prediction unchanged:** "Armenia and Azerbaijan will fail to sign a comprehensive peace treaty over the next 12 months."
+- **Probability unchanged at 80%** — structural deadlock on constitutional amendment confirmed; no new diplomatic mechanism emerging
+- **Files updated:** sources.md, index.md, log.md
