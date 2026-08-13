@@ -268,3 +268,10 @@
 - Kobakhidze social media post defending GD Russia policy, questioning opposition's post-2022 anti-Russian stance vs silence after 2008 war
 - Trump personal letter to Kobakhidze on US 250th anniversary — strongest US signal to GD to date
 - Humanotions long-form analysis of asymmetric Sino-Georgian relationship; Dahua surveillance cameras linked to protest suppression; China partnership as domestic PR
+
+## 2026-08-13 | weekly-ingest | 5 new sources
+- Kobakhidze refuses to call Russia an enemy (Aug 12); Galuzin declares Russia and Georgia "natural partners," says Western pressure on Georgia failed — reveals GD's strategic calculus of avoiding confrontation with Moscow
+- US Treasury OFAC sanctions Georgia-registered crypto firm SHPS Shelbit for facilitating $2M+ in IRGC-linked crypto transactions — reinforces Georgia's sanctions evasion hub narrative
+- Riddle Russia analysis of H1 2026 trade data: Georgian imports from Russia up 26% to $1.2B, deficit widened to $868M, wine/beverage exports falling — signals end of rapid expansion and rising vulnerability
+- Euro Prospects analysis: EU ceding influence in South Caucasus, frozen relations with Georgia, China filling vacuum through Belt and Road
+- Hague Research Institute analysis: TRIPP could gradually reduce Georgia's geostrategic leverage by transforming it from dominant corridor into one of several interconnected routes
