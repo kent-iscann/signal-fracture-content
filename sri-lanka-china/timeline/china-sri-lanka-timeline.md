@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-08-06
+updated: 2026-08-13
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -188,6 +188,9 @@ Sri Lanka gazetted a blanket ban on importing goods produced using forced labor 
 
 ### July 7, 2026 -- MSC in Talks to Acquire Stake in Hambantota Port; Transshipment Calls Switching from Colombo
 Mediterranean Shipping Co. (MSC), the world's largest container shipping line, entered discussions with China Merchants Port Holdings (CMPort, 85% owner) and the Sri Lanka Ports Authority (15% owner) to acquire a significant stake in Hambantota International Port, according to multiple local industry sources cited by the Journal of Commerce. MSC has already started switching transshipment calls from Colombo to Hambantota for regular and ad hoc sailings. An official announcement is expected soon. This development would bring a major global shipping operator into the Chinese-controlled port, potentially transforming its commercial viability and marking a new phase in the port's post-lease history.^[Journal of Commerce, July 7, 2026]
+
+### July 29, 2026 -- Ambassador Qi Zhenhong Concludes Six-Year Tenure; Renews FTA Push
+Chinese Ambassador Qi Zhenhong, who served in Colombo for nearly six years (2020-2026) through Sri Lanka's worst economic crisis in history, concluded his assignment. In a farewell commentary published by the Daily FT, Qi strongly rejected the "debt trap" narrative and reiterated that Chinese investments were intended to strengthen Sri Lanka's productive capacity. He renewed China's call for a comprehensive China-Sri Lanka Free Trade Agreement (FTA), negotiations for which have been stalled since 2017. He outlined a vision of a "China-Sri Lanka community with a shared future" with expanded cooperation into agriculture, climate change, marine research, youth development, education, healthcare, sports, and technology. Qi was the first bilateral creditor representative to reach an agreement framework on debt restructuring during the 2022 crisis. His departure marks a significant diplomatic transition at a critical juncture in China-Sri Lanka relations.^[Daily FT, July 29, 2026]
 
 ### July 27-28, 2026 -- IIF 2026 Report: Sri Lanka 4th-Fastest Improver in Investor Relations and Debt Transparency
 The Institute of International Finance (IIF) published its 2026 Investor Relations and Debt Transparency Assessment, "The Transparency Dividend." Sri Lanka ranked 4th among countries with the largest improvement in investor relations practices (behind Vietnam, Belize, Mozambique). Sri Lanka's overall Investor Relations Country Score rose to 43.67/50 (from 37.33 in 2025), placing it in the top quartile of 57 emerging markets. Debt Transparency score reached 11.25/13 (5th-highest improver). ESG Data score: 3.25/4.0. The improvement reflects the launch of Sri Lanka's formal Investor Relations Program (IRP) in December 2024 under the Ministry of Finance. The IIF noted that Sri Lanka's progress in ESG data disclosure was among the most notable year-on-year increases, alongside Thailand, Ethiopia, El Salvador, Belize, and Nigeria.^[News 1st, July 28, 2026]^[EconomyNext, July 27, 2026]

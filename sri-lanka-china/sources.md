@@ -1,6 +1,6 @@
 # Sources
 
-> Total sources: 51 | Last updated: 2026-08-06
+| Total sources: 52 | Last updated: 2026-08-13
 
 ## Debt and Lending
 
@@ -291,3 +291,11 @@
 51. "China's Investment and Construction Engagement in the Belt and Road Initiative (BRI) 2026 H1" -- Green Finance & Development Center, Fudan University (July 2026)
     https://greenfdc.org/chinas-investment-and-construction-engagement-in-the-belt-and-road-initiative-bri-2026-h1
     By Christoph Nedopil Wang. Annual report tracking Chinese BRI engagement globally. Key finding for Sri Lanka: the country was among 17 countries that saw a 100% drop in BRI engagement (investment and construction) in H1 2026 compared to H1 2025, alongside Pakistan, Peru, Bangladesh, and Russia. This means no new Chinese BRI-related investment announcements or construction contracts were recorded in Sri Lanka during H1 2026. Globally, BRI engagement reached a record USD 126.4 billion in H1 2026 (construction USD 76.5B + investment USD 49.8B), but the gains were concentrated in Africa, the Middle East, and Central Asia. Sri Lanka's absence from new BRI flows reflects the ongoing post-restructuring caution and the dissipation of previous project pipelines.
+
+---
+
+## Diplomatic Transition & Trade Diplomacy
+
+52. "Quiet diplomacy of Ambassador Qi Zhenhong: Through crisis and recovery" -- Daily FT (July 29, 2026)
+    https://www.ft.lk/columns/Quiet-diplomacy-of-Ambassador-Qi-Zhenhong-Through-crisis-and-recovery/4-795302
+    Reports that Chinese Ambassador Qi Zhenhong has concluded his nearly six-year tenure in Colombo (2020-2026), serving through Sri Lanka's worst economic crisis and the default and restructuring period. In his farewell, he renewed China's call for a comprehensive China-Sri Lanka Free Trade Agreement — negotiations have been stalled since 2017. He outlined a vision of a "China-Sri Lanka community with a shared future" with expanded cooperation in agriculture, climate change, marine research, youth development, education, healthcare, sports, and technology. The departure of the ambassador who managed the bilateral relationship through the default and restructuring marks a significant diplomatic transition at a critical juncture.

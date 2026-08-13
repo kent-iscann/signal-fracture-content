@@ -1,7 +1,7 @@
 ---
 title: Belt and Road Initiative in Sri Lanka
 created: 2026-05-20
-updated: 2026-08-06
+updated: 2026-08-13
 type: concept
 tags: [BRI, infrastructure, diplomacy, geopolitics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -53,6 +53,7 @@ The post-crisis period has seen intensified India-China competition for influenc
 - **China-South Asia Expo 2026** (June 11-16, 2026): Sri Lanka fielded one of its largest-ever trade delegations (~100 exporters, 250+ reps) to Kunming. Outcomes included a 100-booth pavilion, a MoU between Sri Lanka's Premium Beverages and a Chinese distributor, and China's offer of free warehouse access at the Kunming Comprehensive Bonded Zone for Sri Lankan exporters.
 - **CPC 105th Anniversary Reception** (July 2, 2026): Chinese Ambassador Qi Zhenhong hosted representatives of all major Sri Lankan political parties for the CPC's 105th anniversary. The CPC pledged deeper cooperation on governance, poverty alleviation, and digital cities. Xi-Dissanayake meeting cited as new blueprint. Signals an expanded party-to-party dimension alongside government-to-government BRI engagement.
 - **China EXIM Bank Central Expressway Amendment** (July 2026): EXIM Bank Vice President Yang Dongning visited Sri Lanka to discuss the amended Financing Agreement for Section I of the Central Expressway (Kadawatha-Meerigama). Sri Lanka aims to sign by end of August 2026. This is the first active EXIM Bank project negotiation with the Dissanayake administration since the debt restructuring.
+- **Ambassador Qi Zhenhong Concludes Tenure; FTA Push Renewed** (July 29, 2026): Chinese Ambassador Qi Zhenhong completed his nearly six-year tenure in Colombo, becoming the first Chinese ambassador to serve through Sri Lanka's entire economic crisis and post-default period. In his farewell, he renewed China's call for a comprehensive China-Sri Lanka Free Trade Agreement, stalled since 2017. He outlined expanded cooperation areas including agriculture, climate change, marine research, and technology. Qi was the first bilateral creditor representative to reach a debt restructuring framework during the 2022 crisis. His departure marks a significant diplomatic transition and creates a potential window for recalibration of the bilateral relationship.^[Daily FT, July 29, 2026]
 
 ## BRI Engagement Data: H1 2026
 

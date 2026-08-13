@@ -185,7 +185,7 @@
   - index.md: Updated last-updated date (2026-07-15 → 2026-07-30) and source count (48 → 49)
 - **Total sources**: 48 → 49
 
-## [2026-08-06] ingest | 2 new sources: IIF 2026 Investor Relations Report, GreenFDC BRI 2026 H1 Report
+---
 - **Source #50**: "Sri Lanka Among Fastest Improvers In Investor Relations And Debt Transparency, says IIF" -- News 1st (July 28, 2026). The IIF's "The Transparency Dividend" report ranked Sri Lanka 4th among the largest improvers globally (from 37.33/50 in 2025 to 43.67/50 in 2026). Debt Transparency score: 11.25/13 (5th-highest improver). Reflects the launch of Sri Lanka's formal Investor Relations Program (IRP) in December 2024 under the Ministry of Finance. Significant marker of post-crisis confidence-building and investor perception shift.
 - **Source #51**: "China's Investment and Construction Engagement in the BRI 2026 H1" -- Green Finance & Development Center, Fudan University (July 2026). Key finding: Sri Lanka was among 17 countries with a 100% drop in BRI engagement in H1 2026 vs H1 2025, alongside Pakistan, Peru, Bangladesh, and Russia. No new Chinese BRI-related investment announcements or construction contracts in Sri Lanka in H1 2026, despite record global BRI engagement (USD 126.4B). Reflects post-restructuring caution and depleted project pipelines.
 - **Wiki pages updated**:
@@ -194,3 +194,13 @@
   - concepts/belt-and-road-initiative.md: Added "BRI Engagement Data: H1 2026" section with 100% drop data. Updated frontmatter date.
   - index.md: Updated last-updated date (2026-08-02 → 2026-08-06) and source count (49 → 51).
 - **Total sources**: 49 → 51
+
+## [2026-08-13] ingest | Ambassador Qi Zhenhong tenure concludes; FTA push renewed
+- **Source #52**: "Quiet diplomacy of Ambassador Qi Zhenhong: Through crisis and recovery" -- Daily FT (July 29, 2026). Chinese Ambassador Qi Zhenhong completed his nearly six-year tenure (2020-2026), serving through Sri Lanka's worst economic crisis and the post-default restructuring period. He renewed China's call for a comprehensive China-Sri Lanka Free Trade Agreement, stalled since 2017. He outlined a vision of expanded cooperation in agriculture, climate change, marine research, and technology. Qi was the first bilateral creditor representative to reach a debt restructuring framework during the 2022 crisis.
+- **Significance**: The departure of the ambassador who managed the bilateral relationship through the sovereign default and restructuring marks a significant diplomatic transition. The FTA push signals China's intent to deepen the economic relationship beyond infrastructure lending and debt management, toward trade integration.
+- **Wiki pages updated**:
+  - sources.md: Added source #52 in new category "Diplomatic Transition & Trade Diplomacy". Updated source count to 52 and last-updated date to 2026-08-13.
+  - timeline/china-sri-lanka-timeline.md: Added July 29, 2026 timeline entry (Qi tenure concludes, FTA push). Updated frontmatter date.
+  - concepts/belt-and-road-initiative.md: Added new bullet point on Qi tenure conclusion and FTA renewal. Updated frontmatter date.
+  - index.md: Updated last-updated date (2026-08-06 -> 2026-08-13) and source count (51 -> 52).
+- **Total sources**: 51 -> 52
