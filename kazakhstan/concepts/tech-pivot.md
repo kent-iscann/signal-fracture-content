@@ -33,6 +33,9 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 - Some mining operations have pivoted to AI data center services.
 - **National Crypto Reserve (2026):** Government developing plans for a national crypto reserve with $500M-$1B target. Central bank reportedly allocating up to $350M for crypto-related investments. Estimated government Bitcoin holdings: ~3,544 BTC (approximately 8th largest globally among tracked sovereign holders).
 - **btcpool.kz:** Enegix Global built and operates the world's first government-accredited Bitcoin mining pool integrated with state tax-reporting systems, later replicating the model for Oman's national mining pool.
+- **Strategic Digital Mining rules (Govt Resolution No. 638, July 18, 2026, eff. Aug 1):** Requirements for "strategic miner" status: in-house data center ≥150 MW, equipment ≥150 TH/s per unit, 35 kV grid connection, no tax debts. Strategic miners must transfer part of mined assets to National Strategic Crypto Reserve. In return: long-term electricity quotas at preferential rates for 10 years.
+- **Crypto amnesty decree (August 2026):** Kazakhstan signed a decree offering a **3-year tax break on personal income from digital asset transactions** for crypto holders who declare holdings and move them to regulated domestic platforms. ~1M crypto wallets held by Kazakh citizens. Associated gas from oil fields can be used for mining electricity. Binance Kazakhstan GM calls it the "most important measure" for bringing crypto into regulated channels.
+- **Crypto Pay (July 2026):** Alatau City Bank and Binance Kazakhstan launched QR-code crypto payments via bank's acquiring network.
 
 ## Startup ecosystem
 - Astana Hub serves as the primary startup incubator, offering tax incentives and co-working spaces.
@@ -41,6 +44,7 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 - Limited private venture capital. Most funding comes from state-linked sources.
 - **StartupBlink 2026:** Kazakhstan ranked 71st globally (down 1 spot), with 26.5% ecosystem growth. Almaty (291st) and Astana (332nd) in top 1000 cities.
 - **Structural challenge:** The "split structure" between Almaty and Astana competing for leadership may be hampering overall growth. StartupBlink analysts suggest consolidating around a single dominant hub.
+- **Road to Battlefield competition (Aug 2026):** Second year of Silkroad Innovation Hub/TechCrunch competition drew **726 applicants from 39 countries** (up 50% from 2025's 485). Kazakhstan and Uzbekistan each had **6 startups in the regional final** — clear sign they are the region's largest startup ecosystems. 84% of applicants were building AI products. $100K investment prize pool + $100K in OpenAI API credits. Competition's youngest applicant was just 14 years old.
 
 ## AI Opportunity Partnership (June 2026)
 - Kazakhstan joined the **Joint Statement on the AI Opportunity Partnership**, signed in Washington, D.C. by Deputy PM and Minister of AI Zhaslan Madiyev.

@@ -78,6 +78,29 @@ Kazakhstan's defining foreign policy doctrine since independence. The concept is
 - Recommends Central Asian states pool sovereignty through the **Organization of Turkic States (OTS)** as a durable geopolitical bloc, drawing strength from geography and trade-route positioning rather than economic power alone.
 - Warns that Kazakhstan's rapid pace of deal-making risks exhausting the returns before a sustainable institutional framework is built.
 
+## Eurasianet analysis: multi-vector under pressure (August 2026)
+- Eurasianet analysis (August 2026) argues Kazakhstan faces a **growing challenge to maintain multi-vector foreign policy** as Washington's assessment of Putin becomes less optimistic and the US approach to Ukraine evolves.
+- Key data point: Kazakh oil production fell 9% Jan-Jul 2026 (~$3.5B loss) directly from war impacts on export infrastructure — making the cost of the war tangible and driving Tokayev's increasingly direct calls for de-escalation.
+- **Diplomatic success:** After Astana mounted a lobbying campaign, US administration officials pressured Ukrainian authorities into pledging to refrain from further strikes on Russian infrastructure handling Kazakh oil exports.
+- Tokayev's directness on the war is framed as "less like diplomatic rhetoric and more like a reflection of Kazakhstan's strategic interests."
+
+## Tokayev's G20 invitation (August 2026)
+- **August 12, 2026:** Kazakhstan confirmed Tokayev will attend the G20 Leaders' Summit in the US (December 2026), invited despite not being a G20 member.
+- Foreign Minister Kosherbayev met US Asst. Sec. Kapur in Astana to discuss summit preparations.
+- Bilateral trade exceeded $1B in H1 2026 (+10%); cumulative US investment >$60B.
+- Demonstrates US willingness to elevate Kazakhstan's international standing — a multi-vector dividend.
+- New water cooperation MoU between Kazgidrogeology, US-based IBL Elements, and Kazakhoil Aktobe for produced water treatment and critical mineral recovery.
+
+## Russia's Pivot to Asia analysis: structural interdependence (August 2026)
+- Detailed analysis of Omsk forum argues the dominant Western narrative of Kazakhstan "distancing itself from Russia" overlooks a more fundamental reality: states can diversify partners but not geography.
+- **New data:** Russian investment in Kazakhstan up 45% in Q1 2026; Kazakhstan investments in Russia exceed $9B. Nuclear cooperation (Rosatom) and space collaboration (Soyuz-5) continue.
+- Essential counterpoint for balanced assessment of multi-vectorism's operational reality vs. aspirational narrative.
+
+## Sanctioning Russia Act passes Senate (August 2026)
+- The Lindsey O. Graham Sanctioning Russia and Iran Act passed the US Senate August 7, 2026 (CSIS analysis) — most significant congressional intervention in Russia sanctions since CAATSA 2017. Would harden **~6,800 designations** against reversal.
+- Tariff authority provides credible instrument against Chinese/Indian purchases funding Moscow's war.
+- Directly relevant to Kazakhstan's secondary sanctions exposure as a key transit corridor for trade with Russia.
+
 ## Key question
 Whether multi-vector foreign policy can survive the intensifying great power competition, or whether Kazakhstan will be forced to choose sides — and whether the OTS or other regional frameworks can provide a collective buffer against that pressure.
 

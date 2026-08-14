@@ -1,5 +1,46 @@
 # Log: Kazakhstan Wiki Ingest
 
+## 2026-08-14 | Weekly source update — 8 new sources added
+
+### Sources added
+
+1. **Euronews: Kazakhstan offers crypto amnesty** (Aug 11, 2026)
+   - New decree: 3-year tax break on digital asset income, associated gas use for mining. ~1M crypto wallets held by Kazakh citizens. Binance Kazakhstan GM calls it "most important measure." Supplements Strategic Digital Mining rules (already in sources).
+
+2. **Eurasianet: Kazakhstan adapting to changing US stance on Russia** (Aug 2026)
+   - Kazakh diplomacy secured US pledge to stop Ukrainian strikes on CPC infrastructure. Oil production fell 9% (~$3.5B loss). Growing secondary sanctions challenges to multi-vector policy.
+
+3. **CSIS: What Happens if Congress Codifies Russia Sanctions** (Aug 2026)
+   - Sanctioning Russia Act passed Senate Aug 7, most significant since CAATSA 2017. Would harden ~6,800 designations. Directly relevant to Kazakhstan's sanctions exposure.
+
+4. **TechCrunch: Silkroad Innovation Hub's Road to Battlefield** (Aug 12, 2026)
+   - 726 applicants from 39 countries (up 50%), 84% AI, $100K prize pool. 6 Kazakh startups in regional final. Astana Hub CEO: steady AI growth from Kazakhstan.
+
+5. **Astana Times: Kazakhstan Economy Grows 4.1%** (Aug 12, 2026)
+   - Official data: oil production -8.9% to 53.2M tons, GDP +4.1%, manufacturing +9%, oil only 7.8% of GDP. IMF projects 4.6% growth for 2026.
+
+6. **Astana Times: Tokayev's G20 Invitation** (Aug 13, 2026)
+   - Tokayev invited to G20 Summit (Dec 2026, US). H1 2026 US trade >$1B (+10%). Cumulative US investment >$60B. New water cooperation MoU.
+
+7. **Astana Times: Two Giant Tungsten Deposits** (Aug 13, 2026)
+   - Northern Katpar + Upper Kairakty: Cove Capital $1.1B+, DFS through 2027. US EXIM/DFC up to $1.6B letters of interest. First full-cycle tungsten in Kazakhstan: domestic APT production.
+
+8. **Russia's Pivot to Asia: 2026 Russia-Kazakhstan Forum Analysis** (Aug 2026)
+   - Russian investment +45% Q1 2026, Kazakhstan's investments in Russia >$9B. Soyuz-5 launch, Rosatom nuclear cooperation. Counterpoint to decoupling narrative.
+
+### Files updated
+- sources.md: 77 → 85 sources
+- log.md: updated
+- index.md: updated source count and date
+- entities/western-powers.md: added G20 invitation, crypto amnesty, US lobbying on CPC, sanctions codification
+- entities/russia.md: added Russian investment surge, structural interdependence data
+- concepts/tech-pivot.md: added crypto amnesty, Road to Battlefield, economic diversification data
+- concepts/resource-curse.md: added manufacturing growth data, tungsten project details
+- concepts/multi-vector-foreign-policy.md: added G20 invitation, Eurasianet sanctions adaption, CSIS analysis
+- concepts/caspian-geopolitics.md: added CPC diplomatic lobbying success, Baku-Supsa consideration
+
+---
+
 ## 2026-08-02 | Watch Report #3 generated
 
 ### Watch Report 02-08-2026

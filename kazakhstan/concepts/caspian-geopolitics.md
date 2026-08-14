@@ -39,6 +39,8 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - OilPrice.com analysis frames this as a **three-part crisis**: war-exposed export system, insufficient alternatives, and recurring operational disruptions at major fields.
 - **July 30, 2026:** A fifth tanker, the Nissos Sifnos, was struck near the CPC terminal — confirming the attacks are a sustained campaign rather than a one-off event.
 - Kazakhstan's oil vulnerability is structural: it is the world's largest landlocked country, bordering Russia, and its export system was not designed for the rupture following Russia's 2022 invasion of Ukraine.
+- **Diplomatic lobbying success (August 2026):** After Astana mounted a lobbying campaign in Washington, US administration officials pressured Ukrainian authorities into pledging to refrain from further strikes against Russian infrastructure handling Kazakh oil exports (Eurasianet). This is a significant diplomatic achievement illustrating Kazakhstan's ability to leverage Western ties to protect its economic interests.
+- **Baku-Supsa route under consideration (August 2026):** Kazakhstan is exploring alternative oil export routes through Azerbaijan, including the Baku-Supsa pipeline and additional Caspian transit, as concerns over Black Sea security deepen — complementing existing BTC pipeline diversification strategy (Astana Times, Aug 2026).
 
 ## Regional dynamics
 - The Caspian region is increasingly contested, with Russia, China, Turkey, and the EU all seeking influence.

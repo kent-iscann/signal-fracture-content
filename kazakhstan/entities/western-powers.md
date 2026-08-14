@@ -37,12 +37,37 @@ Western powers are cautiously increasing engagement with Kazakhstan, viewing it 
 - Critical raw materials and green hydrogen value chain under Global Gateway framework — signals EU's intent to integrate Kazakhstan into Western clean-energy supply chains.
 - Simultaneously, UK active interdiction architecture and EU anti-circumvention tool (20th sanctions package) raise the stakes for Kazakhstan's balancing act.
 
-## US Russia sanctions bill breakthrough (July 2026)
+|## US Russia sanctions bill breakthrough (July 2026)
 - **July 10, 2026:** Bipartisan US Senate agreement with the Trump administration to advance the "Sanctioning Russia Act" — long-delayed legislation allowing the US to punish countries helping Russia evade sanctions.
 - Sen. Lindsey Graham, who negotiated the deal, stated: "It means it's going to become law."
 - Represents the most significant US secondary sanctions escalation since the 2022 invasion — directly relevant to Kazakhstan as a key transit corridor for trade with Russia.
 - Follows UK's 70-designation sanctions package (June 16, 2026) and EU's 20th package targeting third-country circumvention, creating a multi-jurisdictional enforcement architecture targeting Central Asian transit trade.
 - Gives President Trump a powerful new tool to pressure Putin as Washington seeks an end to Russia's now-fifth-year war in Ukraine.
+
+## Sanctioning Russia Act passes Senate (August 2026)
+- **August 7, 2026:** The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 passed the US Senate, the most significant congressional intervention in Russia sanctions since CAATSA 2017 (CSIS analysis). Moves to House of Representatives.
+- Would **harden ~6,800 designations** and standing investment restrictions against reversal — making them impossible for any future administration to lift without congressional approval.
+- Tariff authority would provide a credible enforcement instrument against Chinese and Indian purchases funding Moscow's war.
+- CSIS assessment: The act alone will not restore the pressure that has \"eroded since early 2025\" but delivers on three narrower critical points: congressional reassertion, designation hardening, and tariff leverage.
+
+## Tokayev's G20 invitation (August 2026)
+- **August 12, 2026:** US Assistant Secretary of State for South and Central Asian Affairs Paul Kapur met Foreign Minister Yermek Kosherbayev in Astana.
+- **Tokayev confirmed to attend the G20 Leaders' Summit in the US (December 2026)** — Kazakhstan is not a G20 member but was invited by the US.
+- Kapur reaffirmed US interest in expanding cooperation in **energy, critical minerals, advanced technologies, digitalization, transportation, and investment**.
+- Kosherbayev briefed Kapur on political reforms; the Aug. 23 Kurultai elections were framed as a milestone in implementing the new constitutional model.
+- **Bilateral trade:** exceeded $1B in H1 2026 (+10% YoY). Cumulative US investment surpassed **$60B**.
+- **Water cooperation MoU (Aug 10):** Kazgidrogeology, US-based IBL Elements, and Kazakhoil Aktobe signed trilateral agreement for produced water treatment, reuse, and critical mineral recovery from oil/gas operations.
+- Analysis (Assylan Smagulov): US sending a senior official specializing in South/Central Asia signals the region remains an important strategic partner.
+- **C5+1 Critical Minerals Dialogue** (June 2026, Astana): US Special Envoy Gor described Central Asia as \"increasingly important component of US foreign and economic policy.\"
+
+## Kazakh diplomatic lobbying on CPC (August 2026)
+- **Early August 2026:** After Astana mounted a lobbying campaign, US administration officials pressured Ukrainian authorities into **pledging to refrain from further strikes against Russian infrastructure that handle Kazakh oil exports** (Eurasianet, August 2026).
+- Represents a significant diplomatic success for Kazakh multi-vector balancing — leveraging Washington ties to protect the CPC pipeline route while simultaneously urging Putin to freeze the war.
+- Tokayev's increasingly direct calls for de-escalation framed by analysts as strategic necessity rather than diplomatic rhetoric.
+
+## Cryptocurrency engagement with US (August 2026)
+- Kazakhstan's crypto amnesty decree (signed August 2026) positions the country as a regulated digital asset hub — potentially complementary to US efforts to draw crypto activity into compliant channels.
+- Binance Kazakhstan (operating under AIFC regulation) continues to bridge Kazakh crypto activity to global exchange infrastructure.
 
 ## Pax Silica accession (June 2026)
 - Kazakhstan became the first Central Asian country to join the US-led **Pax Silica initiative** (June 2026), a framework covering AI, critical minerals, semiconductors, data centers, energy infrastructure, high-tech manufacturing, research, and talent development.
