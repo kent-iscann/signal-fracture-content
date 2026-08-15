@@ -42,10 +42,13 @@ Step 6: Commit and push changes:
   git commit -m "Weekly source update ({slug}): [brief summary of what was added]"
   git push
 
-Step 7: Report back with:
-  - Number of new sources found and added
-  - Brief summary of each new source and its significance
-  - Which wiki pages were updated
-  - If no new sources were found, report that clearly
+Step 7: Deliver your final response using this notification format (the system sends it automatically):
 
-IMPORTANT: Only add sources with real, substantive new information. Quality over quantity.
+# {Topic Name} — Weekly Source Update
+**Date:** {date} | **Sources:** {old_count} → {new_count} ({added_count} new)
+
+For each new source, include: | {N} | [{Title}]({url}) | {date} | {1-2 sentence key finding} |
+
+Then include a **Key Themes This Week** section (max 5 bullet points) and a **Files Updated** section.
+
+IMPORTANT: Only add sources with real, substantive new information. Quality over quantity. If no new sources were found, report that clearly instead of the table.
