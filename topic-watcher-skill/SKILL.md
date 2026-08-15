@@ -19,14 +19,16 @@ Manage a multi-topic research wiki system. Each topic lives in its own folder un
 | `references/watch-report-review-prompt.md` | Quality review checklist for watch reports (pre-publication) |
 | `references/cron-failure-recovery.md` | Procedure for diagnosing and manually recovering from cron job failures |
 | `references/cron-job-management.md` | Cron job model format, ordering dependencies, batch updates, and re-triggering failed jobs |
+| `references/cron-prompt-standardization.md` | Batch procedure for aligning all monthly watch report prompts to the same Signal & Fracture format |
 | `references/batch-r2-operations.md` | Batch R2 operations: check missing PDFs, batch upload, verify manifest |
+| `references/r2-upload.md` | R2 upload patterns and slug mapping |
 | `references/pdf-script-parsing.md` | PDF script parsing rules and regex details |
+| `templates/source-monitor-notification.md` | Notification format template for Telegram delivery of weekly source monitor results |
 | `templates/index.md` | Starter index.md for a new topic |
 | `templates/sources.md` | Starter sources.md |
 | `templates/timeline.md` | Starter timeline file |
 | `templates/watch-report.md` | Starter watch report with correct structure |
 | `templates/watch-reports-summary.md` | Starter summary table for watch report history |
-| `references/cron-prompt-standardization.md` | Batch procedure for aligning all monthly watch report prompts to the same Signal & Fracture format |
 | `templates/domain-notes.md` | Starter domain-notes.md with search queries, key data points, dedup pitfalls, and entity tracking |
 | `templates/priority-sources.md` | Starter priority-sources.md for a new topic |
 
@@ -291,6 +293,30 @@ This is distinct from the cron-based weekly source monitor — the user is handi
 **File location:** `/root/wiki/<slug>/priority-sources.md`
 
 **Integration with weekly source monitor:** The cron prompt's Step 0 instructs the agent to read `priority-sources.md`, then for each listed Regional Specialist and Official Source, use `tavily_extract` on the outlet's main page URL to find articles published in the last 7 days. Only after exhausting priority sources does the agent proceed to Tavily searches.
+
+### Create or Update Domain Notes
+
+**Trigger:** User wants to build or update a topic's domain-notes.md, or you discover during a weekly source monitor run that domain-notes.md needs updating (new data points, new dedup pitfalls, new high-signal source types).
+
+**This is distinct from the weekly source ingest** — domain-notes.md is the *permanent topic reference* holding search queries, key data points, dedup pitfalls, entity tracking guidance, and prediction history. It is consumed by the weekly source monitor (Step 0a) to provide the agent with topic-specific context before it begins searching.
+
+**Steps:**
+
+1. **Read the current domain-notes.md** and the topic's wiki structure (index.md, sources.md, timeline) to understand the current state.
+
+2. **Check what needs updating based on recent runs:**
+   - **Search queries:** Are there new high-yield queries discovered since domain-notes was created? Add them to the canonical list.
+   - **Key data points:** Have any tracked statistics changed significantly? Update the figures.
+   - **Dedup pitfalls:** Have you encountered new duplication patterns? Document them.
+   - **High-signal source types:** Have new reliable outlets or source categories emerged? Add them.
+   - **Entities/concepts:** Have new entities or concepts been added to the wiki? Add tracking sections.
+   - **Prediction history:** Has a new watch report been generated? Add the row.
+
+3. **Update the file** with the new information. Use the same structure as the existing `templates/domain-notes.md` template.
+
+**File location:** `/root/wiki/<slug>/domain-notes.md`
+
+**Integration with weekly source monitor:** The cron prompt's Step 0a instructs the agent to read `domain-notes.md` for topic-specific context before proceeding with priority sources or Tavily searches. Step 7 of the weekly monitor then reviews whether domain-notes.md itself needs updating based on what was found during the run, creating a self-maintaining loop.
 
 ### Revise a Published Watch Report
 
