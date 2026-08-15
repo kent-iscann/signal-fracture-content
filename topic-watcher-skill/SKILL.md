@@ -85,13 +85,6 @@ topics:
    └── watch-reports-summary.md  (from templates/watch-reports-summary.md)
    ```
 
-3. **Populate domain-notes.md:** After scaffolding, fill in `/root/wiki/<slug>/domain-notes.md` with topic-specific context:
-   - **Search queries:** Insert the 5-8 canonical search queries generated in Step 1
-   - **Key entities:** List the main actors, countries, organizations relevant to the topic
-   - **Key data points:** Add any known baseline statistics or figures
-   - **High-signal source types:** Note which outlet categories (IMF, Reuters, official gov sites, etc.) are most valuable for this topic
-   - **File update checklist:** Already in the template — keep as-is
-
 4. **Create priority-sources.md:** After scaffolding, research and populate `priority-sources.md` with the topic's curated source list. Categorize sources as:
    - **Regional Specialists** (high trust) — outlets dedicated to the region
    - **Think Tanks** (analytical depth) — research institutions producing analysis
@@ -111,7 +104,14 @@ topics:
 
    Then pull the latest PDF script: `cd /root/wiki && git pull --rebase`
 
-6. **Generate the PDF** using the shared script:
+6. **Populate domain-notes.md:** After completing the initial research, fill in `/root/wiki/<slug>/domain-notes.md` with findings:
+   - **Search queries:** Insert the 5-8 canonical search queries from Step 1 (these are already determined upfront)
+   - **Key entities:** List the main actors, countries, organizations discovered during research
+   - **Key data points:** Add baseline statistics and figures uncovered in seed research
+   - **High-signal source types:** Note which outlet categories proved most valuable during research
+   - **File update checklist:** Already in the template — keep as-is
+
+7. **Generate the PDF** using the shared script:
    - Filename: `Watch Reports/Watch Report <DD-MM-YYYY>.md`
    - Fill in **Metadata** (Topic, Geography)
    - Fill in **Signal & Fracture** (one sentence each: key observable development, stress point)
@@ -168,25 +168,25 @@ topics:
    - The upload script extracts date from the PDF filename, so ensure the filename follows the `Watch Report DD-MM-YYYY.pdf` convention.
    - **See `references/batch-r2-operations.md` for full details on batch operations, slug mapping, and common issues.**
 
-6c. **Rebuild the full manifest** after uploading — the upload script updates manifest per-upload, but when regenerating multiple reports (e.g., after a PDF script update), the inline batch script (see `references/r2-upload.md`) handles the full cycle. The manifest lives at `watch-reports/manifest.json` in the R2 bucket. It uses a nested `topics → reports` structure.
+7c. **Rebuild the full manifest** after uploading — the upload script updates manifest per-upload, but when regenerating multiple reports (e.g., after a PDF script update), the inline batch script (see `references/r2-upload.md`) handles the full cycle. The manifest lives at `watch-reports/manifest.json` in the R2 bucket. It uses a nested `topics → reports` structure.
 
-6d. **Create the per-topic watch report summary** at `/root/wiki/<slug>/watch-reports-summary.md` (use `templates/watch-reports-summary.md`):
+7d. **Create the per-topic watch report summary** at `/root/wiki/<slug>/watch-reports-summary.md` (use `templates/watch-reports-summary.md`):
    - Include the **full prediction sentence**, probability, and target date
 
-6e. **Update the global summary** at `/root/wiki/watch-reports-summary.md`:
+7e. **Update the global summary** at `/root/wiki/watch-reports-summary.md`:
    - Add a section for this topic with a link to the per-topic summary
    - **Format:** Use an abbreviated prediction (~5-8 words) in the global table — NOT the full sentence. The per-topic summary holds the full sentence.
    - Example row: `| 1 | 06-06-2026 | BARMM election survives but BTA extension required | 70% | Mar 2027 |`
 
-7. **Create cron jobs** using the prompt templates in `references/`:
+8. **Create cron jobs** using the prompt templates in `references/`:
    - Load `references/weekly-source-monitor-prompt.md`, substitute `{topic_name}`, `{slug}`, `{search_queries}` → create weekly cron job (every 10080 minutes)
    - Load `references/monthly-watch-report-prompt.md`, substitute `{topic_name}`, `{slug}` → create monthly cron job (2nd of each month at 12:00 UTC, i.e. `0 12 2 * *`)
    - **IMPORTANT — ordering dependency:** The monthly Watch Report Update depends on the Source Monitor having run first (the Watch Report consumes the latest Source Monitor output as its source data). Because Source Monitor schedules are staggered (weekly, different starting days), they may not all complete before the 1st. Scheduling the Watch Report on the **2nd** (instead of the 1st) gives all Source Monitors a full day to run. When creating or modifying cron pairs, always verify the ordering: identify the latest possible Source Monitor run before the 1st and ensure the Watch Report fires at least 24 hours after that.
    - **IMPORTANT:** The `cronjob` tool defaults to `repeat: "once"` if you don't explicitly set it. For recurring schedules, you MUST pass `repeat: 0` (forever). After creating, verify with `cronjob(action='list')` — if the job shows `repeat: "once"`, immediately update it with `cronjob(action='update', job_id=<id>, repeat=0)`. A weekly job created with `repeat: "once"` will run once and never fire again.
 
-8. **Update `_config.yaml`** with the new topic entry (slug, path, search_queries, both cron job IDs).
+9. **Update `_config.yaml`** with the new topic entry (slug, path, search_queries, both cron job IDs).
 
-9. **Commit and push everything:**
+10. **Commit and push everything:**
    ```bash
    cd /root/wiki
    git add {slug}/
