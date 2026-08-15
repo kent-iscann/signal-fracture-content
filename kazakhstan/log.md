@@ -1,7 +1,6 @@
 # Log: Kazakhstan Wiki Ingest
 
-## 2026-08-14 | Weekly source update — 8 new sources added
-
+## 2026-08-14 - Weekly Source Update — 8 New Sources Added
 ### Sources added
 
 1. **Euronews: Kazakhstan offers crypto amnesty** (Aug 11, 2026)
@@ -41,8 +40,7 @@
 
 ---
 
-## 2026-08-02 | Watch Report #3 generated
-
+## 2026-08-02 - Watch Report
 ### Watch Report 02-08-2026
 - **Prediction:** Kazakhstan's economic diversification will not advance enough over the next 18 months to provide the country with a viable third path. (unchanged from first report)
 - **Probability:** 75% (↑5% from July — CPC crisis escalation, China deal acceleration)
@@ -55,8 +53,7 @@
 
 ---
 
-## 2026-08-08 | Weekly source update — 6 new sources added
-
+## 2026-08-08 - Weekly Source Update — 6 New Sources Added
 ### Sources added
 
 1. **el.kz: AI Year in Kazakhstan — What Changed in the First Half of 2026** (July 20, 2026)
@@ -106,8 +103,7 @@
 
 ---
 
-## 2026-07-24 | Weekly source update — 5 new sources added
-
+## 2026-07-24 - Weekly Source Update — 5 New Sources Added
 ### Sources added
 
 1. **OilPrice.com: Ukraine's Drone War Is Choking Kazakhstan's Oil Exports** (July 23, 2026)
@@ -137,8 +133,7 @@
 
 ---
 
-## 2026-07-16 | Weekly source update — 6 new sources added
-
+## 2026-07-16 - Weekly Source Update — 6 New Sources Added
 ### Sources added
 
 1. **DKNews.kz: Economic diversification — Kazakhstan is preparing for a large-scale investment breakthrough** (February 2026)
@@ -171,15 +166,13 @@
 
 ---
 
-## 2026-07-10 | manual ingest | Eurasianet Iran port and petroleum controls
-- Deputy PM Serik Zhumangarin announced 15-hectare terminal at Bandar Abbas for direct access to Indian, East African, Persian Gulf, Southeast Asian markets
+## 2026-07-10 - Manual Ingest | Deputy PM Serik Zhumangarin announced 15-hectare terminal at Bandar Abbas for direct access to Indian, East African, Persian Gulf, Southeast Asian markets
 - Extended petroleum export ban to May 2027; checkpoints on 60 roads along Russia border amid Russian shortages from Ukrainian drone attacks
 - Intercepted 3 tons of smuggled fuel. Kyrgyzstan requested humanitarian exception
 
 ---
 
-## 2026-07-10 | Weekly source update — 4 new sources added
-
+## 2026-07-10 - Weekly Source Update — 4 New Sources Added
 ### Sources added
 
 1. **JCAS Journal (Verri): Sovereign Connectivity Statecraft** (June 2026)
@@ -228,8 +221,7 @@
 
 ---
 
-## 2026-06-25 | Weekly source update — 3 new sources added
-
+## 2026-06-25 - Weekly Source Update — 3 New Sources Added
 ### Sources added
 
 1. **Eurasianet: Kazakhstan and EU Sign Agreements to Develop Middle Corridor** (June 2026)
@@ -248,8 +240,7 @@
 
 ---
 
-## 2026-06-25 | Weekly source update — 6 new sources added
-
+## 2026-06-25 - Weekly Source Update — 6 New Sources Added
 ### Sources added
 
 1. **Frontiers: Geoeconomic Rivalry in Central Asia** (June 2026)
@@ -276,8 +267,7 @@
 
 ---
 
-## 2026-06-18 | Weekly source update — 7 new sources added
-
+## 2026-06-18 - Weekly Source Update — 7 New Sources Added
 ### Sources added
 
 1. **GITEX: Kazakhstan's AI Startup Ecosystem Expands** (June 2026)
@@ -314,8 +304,7 @@
 
 ---
 
-## 2026-06-11 | Weekly source update — 9 new sources added
-
+## 2026-06-11 - Weekly Source Update — 9 New Sources Added
 ### Sources added
 
 1. **CryptoBriefing: Kazakhstan slashes 2026 oil production forecast to 98 million tons** (June 2026)

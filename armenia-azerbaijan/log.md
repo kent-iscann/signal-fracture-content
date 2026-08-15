@@ -1,6 +1,6 @@
 # Wiki Ingest Log
 
-## 2026-07-08 ingest | Weekly source update (armenia-azerbaijan)
+## 2026-07-08 - Ingest | weekly source update (armenia azerbaijan)
 - **Priority Sources (8 new):**
   - Eurasianet (Jul 7): Pashinyan-Mishustin Yekaterinburg meeting — Russia extends olive branch with warnings about investor protection
   - JAMnews (Jul 2026): Armenia begins independent restoration of railway sections to Turkey/Azerbaijan borders, bypassing Russia's South Caucasus Railway concession
@@ -17,26 +17,24 @@
 - Pashinyan entity: added Yekaterinburg visit, railway independence move, EU trade access development
 - TRIPP concept: added construction timeline (Pashinyan: before year-end, no political/financial obstacles)
 
-## 2026-06-16 ingest | Weekly source update (armenia-azerbaijan)
+## 2026-06-16 - Ingest | weekly source update (armenia azerbaijan)
 - Added 4 new sources covering: Azerbaijani ambassador's conditions for border opening, Akhalkalaki-Kars railway opening, geopolitical analysis of railway normalization, and Pashinyan's Republic Day military reforms speech.
 - Updated timeline with 4 new entries (May 19-28)
 - Updated TRIPP concept page with latest status
 - Updated Pashinyan entity page with military reforms and expanded relationship details
 - Updated index.md source count: 8 → 12
 
-## [2026-06-23] ingest | The Guardian, Lemkin Institute, Washington Examiner, RFERL
+## 2026-06-23 - Ingest | the guardian, lemkin institute, washington examiner, rferl
 - The Guardian: "A bridge, not an obstacle" — Pashinyan's Real Armenia doctrine, JD Vance visit, passport stamp controversy, "no peace no war" risk
 - Lemkin Institute: Aliyev's direct threat to Armenian voters, TRIPP as rebranded territorial expansion, Pashinyan's concessions on Artsakh narratives
 - Washington Examiner: TRIPP corridor details, legal obstacles to peace, Azerbaijan-Israel operations angle
 - RFERL: Republic Day parade with Indian/French/Chinese/Iranian weapons, Eagle Partner 2026 with US/France/Greece
 - Added 4 new sources (17-20). Updated source count: 12 → 16
 
-## [2026-06-23] manual ingest | Eurasianet
-- Eurasianet: Yerevan appealing Russian bans on Armenian exports — Rosselkhoznadzor banned food/seed/flower/fertilizer imports; Armenia appealing to Eurasian Economic Commission; ban seen as punitive for Pashinyan's pivot
+## 2026-06-23 - Manual Ingest | Eurasianet: Yerevan appealing Russian bans on Armenian exports — Rosselkhoznadzor banned food/seed/flower/fertilizer imports; Armenia appealing to Eurasian Economic Commission; ban seen as punitive for Pashinyan's pivot
 - Added 1 new source (21). Updated source count: 16 → 17
 
-## 2026-07-03 manual ingest + watch report revision | ANCA + OC Media Baku Initiative Group
-- **Source 29 — ANCA:** Congressional press conference marking 1,000 days of Armenian POWs; Sherman, Chu, Friedman, Costa demand release; Sherman Amendment vote advancing; 8 pro-Armenian amendments in House; bipartisan Senate/House statements (Schiff, Kim, Fong, TLHRC)
+## 2026-07-03 - Watch Report | **Source 29 — ANCA:** Congressional press conference marking 1,000 days of Armenian POWs; Sherman, Chu, Friedman, Costa demand release; Sherman Amendment vote advancing; 8 pro-Armenian amendments in House; bipartisan Senate/House statements (Schiff, Kim, Fong, TLHRC)
 - **Source 30 — OC Media:** Baku Initiative Group hosts "Right of Return and Self-Determination" conference in US Congress — first event of its kind in the building; "Western Azerbaijani" personal stories of expulsion; ANCA held simultaneous separate event
 - Updated sources.md (28 → 30), timeline (2 new entries for June 24), Aliyev entity page (added Baku Initiative Group detail), index.md (source count 28 → 30)
 - Revised Watch Report 02-07-2026: added What's New bullet on Congressional accountability track (Sherman Amendment, 8 amendments); expanded Political analysis with Congressional track paragraph; added Probability Trigger for Congressional action; added both sources to Key Sources
@@ -53,7 +51,7 @@
 - Updated index.md, watch-reports-summary.md (both per-topic and global)
 - Files updated: Watch Report 02-07-2026.md, index.md, watch-reports-summary.md (x2), log.md
 
-## 2026-07-01 ingest | Weekly source update (corrected — removed biased source, added Eurasianet)
+## 2026-07-01 - Ingest | weekly source update (corrected — removed biased source, added eurasianet)
 - Carnegie Endowment (June 11): Post-election roadmap — NATO summit in Ankara as diplomatic window, border opening as confidence-building step, broader South Caucasus economic compact vision
 - DFC TRIPP Summary: Concrete implementation details — TDC as 74/26% US-Armenia JV, multimodal scope (rail/road/pipeline/electricity/fiber), World Bank economic projections ($100M/yr savings, 0.5-1% GDP, 3% export growth)
 - Orta Sayfa Haber (June 24): Deputy FM Kostanyan announces 2030 target for full border reopening; certain routes may operationalize earlier
@@ -65,7 +63,7 @@
 - Updated Pashinyan entity: post-election outlook, NATO summit, Aliyev's escalated demands
 - Updated Aliyev entity: "Western Azerbaijan" campaign, UN escalation, territorial demands
 
-## 2026-07-15 ingest | Weekly source update (armenia-azerbaijan)
+## 2026-07-15 - Ingest | weekly source update (armenia azerbaijan)
 - **Priority Sources (11 new):**
   - Caucasus Watch (Jul 9): Iranian Ambassador Shirgholami discusses TRIPP concerns, Iran's "legitimate" fears about US presence near borders, Nakhchivan Airport incident, Armenia as energy transit hub
   - Caucasus Watch (Jul 9): Zakharova criticizes Armenia over WWII narrative, Hovhannisyan appointment as "revisionist"
@@ -81,7 +79,7 @@
 - **Tavily Searches (0 new):** No new substantively unique sources not already covered by priority sources
 - Updated sources.md (40 → 51), index.md source count (40 → 51)
 
-## 2026-07-22 ingest | Weekly source update (armenia-azerbaijan)
+## 2026-07-22 - Ingest | weekly source update (armenia azerbaijan)
 - **Priority Sources (10 new):**
   - Eurasianet (Jul 16): TRIPP takes step toward implementation — Armenian govt approves bill, TRIPP Development Co. with 49-year lease, Sokolov named to head $200M Middle Corridor fund
   - Eurasianet (Jul 15): China & Japan calibrating trans-Caspian trade strategies — focus on Pashinyan's constitutional amendment efforts
@@ -100,7 +98,7 @@
   - Caucasus Watch (Jul 2026): VTB sells Teghut mine, EU advisory mission, 3+3 meeting, Aliyev global strategy, Fitch rating
 - Updated sources.md (51 → 69), index.md source count (51 → 69)
 
-## 2026-07-29 ingest | Weekly source update (armenia-azerbaijan)
+## 2026-07-29 - Ingest | weekly source update (armenia azerbaijan)
 - **Priority Sources (8 new):**
   - OC Media (Jul 27): Pashinyan-Putin first post-election call — Pashinyan raises Russian import bans, Putin reiterates EU referendum demand, Pashinyan says referendum only possible after Armenia applies to EU
   - Caucasus Watch (Jul 2026): "Armenia: Squeezed by Moscow, Hedging with Washington and Brussels" — major analytical piece on Armenia's economic squeeze, US DFC $2.5B package, EU €50M aid, €2B connectivity platform
@@ -118,7 +116,7 @@
 - Updated Aliyev entity: Sherman bill condemnation, Iran media ban, Slovak president visit, Jordan exercise, Serbia delegation
 |- Updated TRIPP concept: July 16 approval, Jamestown analysis, legal conflict with Armenian law
 
-## 2026-08-05 ingest | Weekly source update (armenia-azerbaijan)
+## 2026-08-05 - Ingest | weekly source update (armenia azerbaijan)
 - **Priority Sources (10 new):**
   - OC Media (Aug 3): Pashinyan's cabinet shakeup — Rubinyan replaces Simonyan as Speaker, Makunts as Chief of Staff, Manavazyan as faction head; analysis that Pashinyan driven by political insecurity
   - OC Media (Aug 4): Armenian Parliament elects new speaker as Catholicos skips session for first time — Pashinyan 6 votes short of 2/3 majority for constitutional amendment
@@ -153,7 +151,7 @@
 - **Files updated:** index.md, watch-reports-summary.md (per-topic and global), log.md
 - **PDF generated and uploaded to R2**
 
-## 2026-08-12 ingest | Weekly source update (armenia-azerbaijan)
+## 2026-08-12 - Ingest | weekly source update (armenia azerbaijan)
 - **Priority Sources (19 new):**
   - OC Media (Aug 10): Armenia, Azerbaijan, US release joint statement on Washington summit anniversary — 8 benchmarks, Nobel Peace Prize nomination, $201M Enterprise Fund
   - OC Media (Aug 10-11): Explainer — Washington summit one year on: peace process achievements and remaining barriers

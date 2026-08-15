@@ -1,25 +1,22 @@
 # Wiki Log
 
-> Chronological record of all wiki actions. Append-only.
-> Format: `## [YYYY-MM-DD] action | subject`
-
-## [2026-05-20] create | Wiki initialized
+## 2026-05-20 - Create | wiki initialized
 - Domain: China-Sri Lanka financial relations
 - Structure created with SCHEMA.md, index.md, log.md
 
-## [2026-05-20] ingest | CARI Briefing Paper on Chinese Lending to Sri Lanka
+## 2026-05-20 - Ingest | cari briefing paper on chinese lending to sri lanka
 - Saved to raw/papers/cari-chinese-lending-sri-lanka-2022.md
 - Key data: loan tables, interest rates, debt composition statistics
 
-## [2026-05-20] ingest | HKUST IEMS Thought Leadership Brief on Debt-Trap Myth
+## 2026-05-20 - Ingest | hkust iems thought leadership brief on debt trap myth
 - Saved to raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md
 - Key arguments: Sri Lankan agency, no asset seizure clauses, lease not debt-for-equity swap
 
-## [2026-05-20] ingest | Jamestown Foundation: BRI Blowback
+## 2026-05-20 - Ingest | jamestown foundation: bri blowback
 - Saved to raw/articles/jamestown-bri-blowback-sri-lanka-2022.md
 - Key content: crisis timeline, India-China rivalry, future of Sino-Sri Lankan relations
 
-## [2026-05-20] create | Wiki pages created
+## 2026-05-20 - Create | wiki pages created
 - timeline/china-sri-lanka-timeline.md -- Full chronological timeline
 - concepts/key-conclusions.md -- Synthesized conclusions
 - concepts/debt-trap-debate.md -- Debt-trap diplomacy debate
@@ -27,8 +24,7 @@
 - concepts/belt-and-road-initiative.md -- BRI in Sri Lanka
 - index.md updated with all pages
 
-## [2026-06-01] report | New Watch Report 01-06-2026
-- Created new watch report covering developments since 20-05-2026
+## 2026-06-01 - Watch Report | Created new watch report covering developments since 20-05-2026
 - **Probability increased: 65% → 70%**
 - **Key changes:**
   - SINOPEC Hambantota refinery confirmed for Q1 2026 finalization (leading indicator of post-crisis normalization)
@@ -41,8 +37,7 @@
 - **Confidence level: Medium**
 - Watch report: Watch Report 01-06-2026.md
 
-## [2026-06-03] ingest | CRS Report IF10213 + Lowy Institute Analysis (2 new sources)
-
+## 2026-06-03 - Ingest | crs report if10213 + lowy institute analysis (2 new sources)
 - **Source #29**: "Sri Lanka: Background and Issues for Congress" -- CRS Report IF10213 (Congress.gov). Authoritative US government source providing comprehensive post-crisis facts: NPP electoral landslide (3→159 seats), India-Sri Lanka defense cooperation agreement (2025), Cyclone Ditwah devastation and Indian response, India's total investment >$2B, 2024 GDP growth of 5%, IMF $700M disbursement (April 2026, 5th/6th reviews), and US Congressional policy role.
 
 - **Source #30**: "Australia should see Sri Lanka as more than a China-India contest" -- Lowy Institute (May 14, 2026). By Dr. Kulani Wijayabahu. Key findings: detailed specifics from January 2025 China-Sri Lanka joint statement on BRI (logistics, green development, digital economy), 2025 IORA-BIMSTEC memorandum, Colombo Security Conclave as India's Indian Ocean security architecture, Trincomalee energy hub extending beyond ports.
@@ -56,8 +51,7 @@
 
 - **Total sources**: 28 → 30
 
-## [2026-06-10] ingest | 3 new sources added (Springer, Guangming Online, IMF PR26/172)
-
+## 2026-06-10 - Ingest | 3 new sources added (springer, guangming online, imf pr26/172)
 - **Source #31**: "China-India cooperation and competition in Sri Lanka under the 'Belt and Road' Initiative" -- Asian Review of Political Economy (Springer, June 2026). New academic analysis of China-India-Sri Lanka trilateral dynamics. Proposes future cooperation framework including Indian merchant ships at Hambantota, joint Chinese-Indian investment in Hambantota Park and Colombo Port City. Emphasizes China-Sri Lanka cooperation is not targeted at any third party.
 
 - **Source #32**: "Sri Lankan diplomat highlights tourism's role in deepening China-Sri Lanka ties" -- Guangming Online (June 9, 2026). Key new data: >2M international visitors in 2025, 23 direct flights/week, visa-free ETA for Chinese citizens, 70th anniversary of diplomatic relations in 2027. Tourism framed as new bridge strengthening historical Silk Road connections.
@@ -73,8 +67,7 @@
 
 - **Total sources**: 30 → 33
 
-## [2026-06-17] ingest | 3 new sources added (IDSA, China Focus, Xinhua)
-
+## 2026-06-17 - Ingest | 3 new sources added (idsa, china focus, xinhua)
 - **Source #34**: "India and China's Economic Engagement in Sri Lanka Post-2022 Crisis" -- IDSA Issue Brief (June 2026). Comprehensive analysis with significant new quantitative data: China suffered $7B in losses from debt restructuring; Sri Lanka's outstanding debt to China fell from $8B (2022) to $4.9B (2025); China's share of external bilateral debt decreased from 57% (2022) to 45.3% (2024-2025); SINOPEC Hambantota refinery ($3.7B) faces delays over China's demand to sell 30% locally vs current 20%; India's UPI launched in Sri Lanka; bilateral trade surpassed $5.5B in 2024; India's FDI was $213M in FY2025 (2nd largest after Singapore); China's accumulated FDI is $15B over two decades; Adani took over West Container Terminal in 2025; India-UAE-Sri Lanka Trincomalee energy hub MoU signed in 2025.
 
 - **Source #35**: "Port City Colombo and Sri Lanka's Economic Transformation" -- China Focus (May 25, 2026). Detailed progress report: $1.3-1.4B invested in land reclamation and core infrastructure; 150+ companies licensed under Colombo Port City Economic Commission; South Asia's first downtown duty-free retail mall operational; Bay One Residences under construction; projected 80,000+ jobs and $13-15B GDP addition and $5B fiscal revenue annually at completion.
@@ -88,8 +81,7 @@
 
 - **Total sources**: 33 → 36
 
-## [2026-06-24] ingest | 3 new sources added (South Asian Voices, EconomyNext, China Daily)
-
+## 2026-06-24 - Ingest | 3 new sources added (south asian voices, economynext, china daily)
 - **South Asian Voices / Stimson Center (June 12, 2026)**: "Colombo Port City and the Diminishing Scope of Sri Lankan Policy Autonomy" by Dr. Kulani Wijayabahu. New analysis framing Port City as a case study in diminishing small-state agency across 5 successive administrations. Key new data: May 2026 Prime Melwa $57.6M marina deal; Dissanayake government revising Port City Economic Commission Act.
 - **EconomyNext (June 3, 2026)**: Q1 2026 external debt data from March 2026 Statistical Debt Bulletin. New figures: total government external debt $37,468M (down $195M from Q4 2025); debt composition: multilateral 38%, commercial 34%, bilateral 28%; non-Paris Club holds 59% of bilateral (led by China).
 - **China Daily (June 24, 2026)**: Dragon Boat Festival and China-Sri Lanka Friendship Cup Regatta at Colombo Port City (June 14). Cultural diplomacy event with 1,000+ participants, Chinese Ambassador Qi Zhenhong attending.
@@ -102,8 +94,7 @@
 
 **Total sources**: 36 → 39
 
-## [2026-07-01] ingest | 3 new sources: IMF June 2026 staff visit, Dissanayake-CHEC meeting, China-South Asia Expo 2026
-
+## 2026-07-01 - Ingest | 3 new sources: imf june 2026 staff visit, dissanayake chec meeting, china south asia expo 2026
 - **IMF Staff Visit PR26/229 (June 30, 2026)**: Most significant addition. IMF mission led by Evan Papageorgiou visited Colombo June 24-30, 2026 for a preparatory mission ahead of the Seventh EFF Review (fall 2026). New data: inflation rose from 1.6% (Feb) to 5.5% (May 2026) due to Middle East war energy price shocks; CBSL 100bp rate hike; government temporary relief package (fuel, electricity, fertilizer subsidies + cash transfers); authorities committed to 2.3% GDP primary balance target in 2027; debt restructuring "nearing completion"; exchange rate flexibility, SOE reform, PDMO capacity building identified as priorities.
 
 - **Dissanayake-CHEC Meeting (June 13, 2026)**: President Dissanayake met CHEC Chairman Bai Yinzhan at Presidential Secretariat. CHEC expressed confidence in Sri Lanka's investment climate; Dissanayake reaffirmed Port City Colombo as a key objective, highlighted IMF policy stability enabling FDI, and thanked CHEC for Cyclone Ditwah relief.
@@ -119,8 +110,7 @@
 
 **Total sources**: 39 → 42
 
-## [2026-07-02] report | New Watch Report 02-07-2026
-- Created new watch report covering developments since 01-06-2026
+## 2026-07-02 - Watch Report | Created new watch report covering developments since 01-06-2026
 - **Probability unchanged: 70%** — intensified engagement signals (Dissanayake-CHEC meeting, record trade delegation, Port City progress) offset by mounting structural constraints (China's $7B restructuring losses, inflation spike to 5.5%, SINOPEC refinery delays)
 - **Key changes:**
   - President Dissanayake personally met CHEC Chairman Bai Yinzhan (June 13) and reaffirmed Port City as key government priority — strongest NPP endorsement yet
@@ -136,8 +126,7 @@
 - Watch report: Watch Report 02-07-2026.md
 - PDF generated successfully
 
-## [2026-07-08] ingest | 3 new sources: World Bank reclassification, CPC party-to-party ties, EXIM Bank Central Expressway amendment
-
+## 2026-07-08 - Ingest | 3 new sources: world bank reclassification, cpc party to party ties, exim bank central expressway amendment
 - **Source #43-44**: World Bank reclassifies Sri Lanka as upper-middle-income economy (July 1, 2026). The Hindu and Xinhua cover the milestone: Sri Lanka's GNI per capita reached $4,670, 5% GDP growth in 2025. First entry to this category since 2019 before the crisis. Symbolic marker of IMF-backed recovery and important context for evolving China-Sri Lanka financial engagement.
 
 - **Source #45**: "China pledges closer party-to-party ties with Sri Lanka" -- Newswire (July 2, 2026). Ambassador Qi Zhenhong hosted all major Sri Lankan political parties at CPC 105th anniversary. Pledged cooperation on governance, poverty alleviation, digital cities. Signals new party-to-party diplomacy dimension alongside government-to-government relations.
@@ -153,7 +142,7 @@
 
 **Total sources**: 42 → 46
 
-## [2026-07-15] ingest | 2 new sources: AidData yuan-switch report, MSC Hambantota stake talks
+## 2026-07-15 - Ingest | 2 new sources: aiddata yuan switch report, msc hambantota stake talks
 - **Source #47**: "Kenya's China loan revamp sparks wider interest in yuan switch, AidData says" -- Reuters (June 23, 2026). China Eximbank now encouraging/requiring sovereigns including Sri Lanka to borrow in yuan rather than dollars — a structural shift in bilateral lending practices tied to RMB internationalization. Warns of currency risk for borrowers.
 - **Source #48**: "MSC in talks to buy into Sri Lanka's Hambantota amid port deal spree: sources" -- Journal of Commerce (July 7, 2026). MSC, world's largest container shipping line, in discussions with CMPort and SLPA to acquire stake in Hambantota Port. MSC already switching transshipment calls from Colombo to Hambantota.
 - **Wiki pages updated**:
@@ -163,8 +152,7 @@
   - index.md: Updated last-updated date (2026-07-08 → 2026-07-15) and source count (46 → 48)
 - **Total sources**: 46 → 48
 
-## [2026-08-02] report | New Watch Report 02-08-2026
-- Created new watch report covering developments since 02-07-2026
+## 2026-08-02 - Watch Report | Created new watch report covering developments since 02-07-2026
 - **Probability unchanged: 70%** — Central Expressway amendment progressing toward August 2026 signing (channel reopened) offset by halved/yuan-switched loan terms revealing Beijing's hardened lending posture
 - **Key changes:**
   - China EXIM Bank VP Yang Dongning visited Colombo (July 2, 2026), agreed to sign amended Central Expressway Section I financing agreement by end of August 2026 — first substantive EXIM Bank project engagement under Dissanayake
@@ -195,7 +183,7 @@
   - index.md: Updated last-updated date (2026-08-02 → 2026-08-06) and source count (49 → 51).
 - **Total sources**: 49 → 51
 
-## [2026-08-13] ingest | Ambassador Qi Zhenhong tenure concludes; FTA push renewed
+## 2026-08-13 - Ingest | ambassador qi zhenhong tenure concludes; fta push renewed
 - **Source #52**: "Quiet diplomacy of Ambassador Qi Zhenhong: Through crisis and recovery" -- Daily FT (July 29, 2026). Chinese Ambassador Qi Zhenhong completed his nearly six-year tenure (2020-2026), serving through Sri Lanka's worst economic crisis and the post-default restructuring period. He renewed China's call for a comprehensive China-Sri Lanka Free Trade Agreement, stalled since 2017. He outlined a vision of expanded cooperation in agriculture, climate change, marine research, and technology. Qi was the first bilateral creditor representative to reach a debt restructuring framework during the 2022 crisis.
 - **Significance**: The departure of the ambassador who managed the bilateral relationship through the sovereign default and restructuring marks a significant diplomatic transition. The FTA push signals China's intent to deepen the economic relationship beyond infrastructure lending and debt management, toward trade integration.
 - **Wiki pages updated**:
