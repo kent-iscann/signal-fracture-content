@@ -42,7 +42,14 @@ Step 6: Commit and push changes:
   git commit -m "Weekly source update ({slug}): [brief summary of what was added]"
   git push
 
-Step 7: Deliver your final response using this notification format (the system sends it automatically):
+Step 7: Review if domain-notes.md needs updating based on this run. Check for:
+  - New key data points or statistics that should be tracked
+  - New high-signal source types discovered this run
+  - New dedup pitfalls encountered
+  - New entities or concepts added
+  If any apply, update /root/wiki/{slug}/domain-notes.md, then commit and push again.
+
+Step 8: Deliver your final response using this notification format (the system sends it automatically):
 
 # {Topic Name} — Weekly Source Update
 **Date:** {date} | **Sources:** {old_count} → {new_count} ({added_count} new)
