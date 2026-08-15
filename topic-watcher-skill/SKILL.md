@@ -180,9 +180,9 @@ topics:
 
 8. **Create cron jobs** using the prompt templates in `references/`:
    - Load `references/weekly-source-monitor-prompt.md`, substitute `{topic_name}`, `{slug}`, `{search_queries}` → create weekly cron job (every 10080 minutes)
-   - Load `references/monthly-watch-report-prompt.md`, substitute `{topic_name}`, `{slug}` → create monthly cron job (2nd of each month at 12:00 UTC, i.e. `0 12 2 * *`)
-   - **IMPORTANT — ordering dependency:** The monthly Watch Report Update depends on the Source Monitor having run first (the Watch Report consumes the latest Source Monitor output as its source data). Because Source Monitor schedules are staggered (weekly, different starting days), they may not all complete before the 1st. Scheduling the Watch Report on the **2nd** (instead of the 1st) gives all Source Monitors a full day to run. When creating or modifying cron pairs, always verify the ordering: identify the latest possible Source Monitor run before the 1st and ensure the Watch Report fires at least 24 hours after that.
-   - **IMPORTANT:** The `cronjob` tool defaults to `repeat: "once"` if you don't explicitly set it. For recurring schedules, you MUST pass `repeat: 0` (forever). After creating, verify with `cronjob(action='list')` — if the job shows `repeat: "once"`, immediately update it with `cronjob(action='update', job_id=<id>, repeat=0)`. A weekly job created with `repeat: "once"` will run once and never fire again.
+   - Load `references/monthly-watch-report-prompt.md`, substitute `{topic_name}`, `{slug}` → create watch report cron job with schedule `every 6 weeks` (starting from the first report date, the cron will fire 6 weeks after creation)
+   - **IMPORTANT — ordering dependency:** The watch report cron job depends on the source monitor having run first. If they fall on the same day, the source monitor must run before the watch report. Schedule the source monitor at a time that ensures this (e.g., source monitor early in the day, watch report later). The `every 6 weeks` schedule naturally staggers from the weekly schedule, but verify ordering when creating.
+   - **IMPORTANT:** The `cronjob` tool defaults to `repeat: "once"` if you don't explicitly set it. For recurring schedules, you MUST pass `repeat: 0` (forever). After creating, verify with `cronjob(action='list')` — if the job shows `repeat: "once"`, immediately update it with `cronjob(action='update', job_id=<id>, repeat=0)`.
 
 9. **Update `_config.yaml`** with the new topic entry (slug, path, search_queries, both cron job IDs).
 
