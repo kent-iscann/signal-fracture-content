@@ -55,3 +55,8 @@
 - Source 45: COMELEC on BARMM polls — winners known 2 hrs after closing — MindaNews (Aug 4)
 - Source 46: COMELEC 95% ready for BARMM elections — MindaNews (Aug 5)
 - Timeline updated: 6 new events (July 28 - Aug 8)
+
+## 2026-08-15 - Ingest | weekly source update (1 new source)
+- 1 new source added (47). Total sources: 47.
+- Source 47: DI-HG mid-level leader Marhom Esmael killed in Pikit, North Cotabato (Aug 6) — SunStar Zamboanga (Aug 7)
+- Timeline updated: 1 new event (Aug 6 - DI-HG Marhom Esmael operation)
