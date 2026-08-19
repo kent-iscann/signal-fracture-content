@@ -80,7 +80,9 @@
 - **Arrests:** 583 at protest height; 114 criminal cases; 335 under investigation; 26 in pretrial detention
 - **MAS collapse:** Reduced to 2 lower house seats from decades of dominance
 - **Paz coalition:** 6 center-right blocs in congress; PDC tensions between Paz and VP Lara
-- **Energy reform:** Cap tax/royalty at ~50%, reduce YPFB role, private electricity participation
+- **Espinoza censure:** Congress voted to censure Economy Minister Espinoza (Aug 18); government challenges constitutionality (91/166 votes); threatens IMF $1.9B approval
+- **Cerimedo arrest:** Paz campaign adviser arrested for murder plot; reveals Decree 5503 — radical economic reforms outside legislative process
+- **Decree 5503:** Radical reform package including fuel subsidy elimination, prepared by Cerimedo and Paz govt; activist Beller shot for opposing it
 - **Petrobras:** Invited to return to Bolivia (July 9, 2026)
 - **ALBA:** Suspended Bolivia
 - **Moody's:** Caa3 rating; 2026 contraction projected
@@ -138,6 +140,8 @@
 6. **Lithium window closing:** Nov 10, 2026 China export control activation — Bolivia's contracts still unratified
 7. **Protest trajectory:** 200+ events in June → ~40 in July — is the truce durable or fragile?
 8. **Energy reform viability:** Can Paz break YPFB monopoly and attract private investment amid political crisis?
+9. **Espinoza censure fallout:** Can Paz retain his economic team after congressional censure of his lead minister? Does the 91-vote challenge hold?
+10. **Decree 5503/ shadow governance:** Cerimedo arrest reveals radical reforms prepared outside normal legislative channels — how deep does the parallel governance structure run?
 
 ## File Update Checklist (per source added)
 When ingesting a new source, update ALL of the following in a single session:

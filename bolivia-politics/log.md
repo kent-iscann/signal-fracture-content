@@ -77,3 +77,9 @@
 ## 2026-08-12 - Ingest | evo morales defiant after new bolivia arrest warrant (al jazeera)
 - Reports on July 29 second arrest warrant for Morales (armed insurrection, terrorism) for 53-day blockades. Complaint by Comité pro Santa Cruz, joined by Interior Ministry. Also targets Argollo and Salazar. Morales defiant response quote.
 - Updated: sources.md (#27), timeline, Evo Morales entity.
+
+## 2026-08-19 - Weekly Source Update | 2 new sources
+- **New sources:** 2 (total 31 → 33)
+- **Source 32:** Espinoza censure (Reuters) — Congress votes to censure Economy Minister José Gabriel Espinoza, threatening IMF program approval and exposing coalition fragility. Government challenges constitutionality of 91-vote censure.
+- **Source 33:** Cerimedo arrest, Decree 5503 (Al Jazeera/AFP) — Paz campaign adviser arrested on murder plot charges; reveals Decree 5503 radical economic reforms being prepared outside legislative channels; activist Beller survived shooting after opposing decree.
+- **Files updated:** sources.md, timeline, Rodrigo Paz entity, Post-MAS Fragmentation concept, index.md, log.md, domain-notes.md
