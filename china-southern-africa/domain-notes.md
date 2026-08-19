@@ -56,12 +56,19 @@
 | Angola | Lobito Corridor Atlantic gateway | China Railway Construction Corp |
 | Tanzania | Indian Ocean hub; emerging rare earths | Hongji Mining Co. Ltd |
 
-## Key Data Points (as of July 2026)
+## Key Data Points (as of August 2026)
 - Chinese mining investment in Africa: **largest of any bilateral partner** (more than next 8 combined, per ACCPA)
 - DRC Chinese development finance (2000-2023): **$22 billion via 112 loans + 169 grants** (AidData)
 - Africa holds **~30% of world's critical mineral reserves**
 - Chinese ports in Africa: 78 of 231 commercial ports across 32 countries (~1/3)
 - China-Africa trade: China accounts for ~22% of all African trade; trade deficit ~$102B
+- **Africa supplied 99.9% of China's cobalt imports, 91% of chromium, 86% of natural graphite in 2025** (CRS R49080)
+- **China's mineral import shares from Africa: 81% manganese, 79% uranium/thorium, 78% aluminum, 74% titanium** (CRS R49080)
+- **PRC FDI stocks in African mining: $10.1B (23% of total PRC FDI in Africa)** (CRS R49080)
+- **PRC firms: $57.4B in 122 metal sector projects from 2006-2025** (AEI/CRS R49080)
+- **BYD secured six African lithium mines ensuring feedstock through 2032** (Africa-China Centre)
+- **Chinese state banks: ~$2.48B of $2.68B credit for CMOC's Tenke Fungurume acquisition** (Africa-China Centre)
+- **US DFC: $553M loan for Lobito Angola; $1B for DRC rail; $50M equity in SA rare earths; $575M SA helium/gas** (CRS R49080)
 - EU-South Africa Clean Trade & Investment Partnership: **€12B** (launched June 2026) + €600M green energy loan + €1.48B financing facility
 - Zimbabwe lithium processing investment: **~$1 billion** by Chinese firms
 - Zimbabwe Q1 2026 mineral revenue: **$983.85M** (+27% volume, +79% value post-export-ban)

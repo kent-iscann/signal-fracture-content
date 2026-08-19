@@ -11,10 +11,10 @@ In June 2026, the Kamoa-Kakula copper smelter — Africa's largest copper smelti
 - Lithium (Manono project — emerging)
 
 ## Key Chinese actors
-|- CMOC Group (China Molybdenum)
-|- Zhejiang Huayou Cobalt
-|- Sinomine Resource Group
-|- Zijin Mining (39.6% stake in Kamoa-Kakula copper smelter)
+- CMOC Group (China Molybdenum)
+- Zhejiang Huayou Cobalt
+- Sinomine Resource Group
+- Zijin Mining (39.6% stake in Kamoa-Kakula copper smelter)
 
 ## Notable developments (2026)
 
@@ -23,3 +23,6 @@ In 2026, Glencore sold 40% stakes in select DRC copper-cobalt assets to a US- an
 
 ### DRC reserves and exploration potential
 SRK Consulting (June 2026) reports DRC's mineral reserves remain underestimated with significant exploration upside. Beyond traditional copper-cobalt, the Manono lithium project is emerging as a new frontier. DRC is transitioning from state-led to internationally financed mining development, creating opportunities for new entrants alongside established Chinese operators.
+
+### CRS Report data (August 2026)
+The Congressional Research Service R49080 report provides authoritative data: Africa supplied 99.9% of China's cobalt imports, 91% of chromium imports, and 86% of natural graphite imports in 2025. China also imported 79% of its uranium/thorium, 78% of aluminum, and 81% of manganese from Africa. Total PRC FDI in African mining reached $10.1B (23% of total PRC FDI in Africa). From 2006-2025, PRC firms invested $57.4B in 122 metal-sector projects worth ≥$95M (AEI China Global Investment Tracker data). The DRC accounted for 32% of these largest deals — the largest single-country share. A 2025 US-DRC Strategic Partnership Agreement seeks to counter this dominance. The US DFC has committed $553M for the Lobito Corridor Angola portion and $1B for DRC rail upgrades. The report notes CMOC's surge in DRC copper/cobalt production drove global cobalt prices downward and prompted DRC cobalt export controls in 2025.
