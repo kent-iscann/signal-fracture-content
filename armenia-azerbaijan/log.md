@@ -151,7 +151,13 @@
 - **Files updated:** index.md, watch-reports-summary.md (per-topic and global), log.md
 - **PDF generated and uploaded to R2**
 
-## 2026-08-12 - Ingest | weekly source update (armenia azerbaijan)
+## 2026-08-19 - Weekly Source Update
+- **New sources:** 4 (120–123)
+- **Source 120:** [Brussels Signal] Russia presses Armenia to choose between the EU and the EAEU — Russian DPM Galuzin gave Armenia a December deadline for a referendum on EU vs EAEU; Pashinyan rejected the timetable, saying a vote is impossible now and would only follow an EU membership application.
+- **Source 121:** [I•CONnect] A Constitution at the Crossroads — Anna Vardanyan's academic analysis reveals Armenia's constitutional draft has been finalized but not published; Pashinyan hasn't ruled out repeat referendums; constitution-making is being used as a tool of foreign policy.
+- **Source 122:** [Amwaj.media] Can the 'Trump Route' succeed without Iran's buy-in? — Armenia awarded ~$215M in infrastructure contracts to Iranian firms in Syunik (same province as TRIPP); Pashinyan attended Khamenei's funeral to signal limits of westward tilt; TRIPP success depends on Iran-US détente.
+- **Source 123:** [CES Intelligence] Azerbaijan 2026 Geopolitical Risk Assessment — Three-scenario analysis of Azerbaijan's "transit trap": (A) Route Stable 40-45%, (B) Route Contested 35-40%, (C) Route Contested & Conflagration 15-20%.
+- **Files updated:** sources.md, index.md, log.md
 - **Priority Sources (19 new):**
   - OC Media (Aug 10): Armenia, Azerbaijan, US release joint statement on Washington summit anniversary — 8 benchmarks, Nobel Peace Prize nomination, $201M Enterprise Fund
   - OC Media (Aug 10-11): Explainer — Washington summit one year on: peace process achievements and remaining barriers

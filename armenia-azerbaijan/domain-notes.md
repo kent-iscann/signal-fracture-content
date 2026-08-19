@@ -76,6 +76,13 @@ As of Republic Day 2026, Pashinyan announced:
 - **TRIPP active phase (Jun 29):** Pashinyan confirmed TRIPP in "active working phase" with no political/financial obstacles. Construction possible before year-end if no technical difficulties. Key US bilateral agreement near ratification.
 - **AEI critique of Section 907 waiver:** Michael Rubin argues Trump's waiver allowing US weapons sales to Azerbaijan contradicts peace process. Notes Azerbaijan occupies ~100 sq mi of undisputed Armenian land and maintains dual policy of trading with Iran and helping Russia evade sanctions.
 
+## Key Recent Developments (Aug 2026)
+
+- **Galuzin's December deadline (Aug 11):** Russian DPM Mikhail Galuzin stated Armenia must decide by December whether to hold a referendum on EU vs EAEU membership, warning that EAEU leaders would otherwise take "appropriate joint steps." Pashinyan rejected the timetable: on Aug 7 said a referendum is impossible now as there is "no subject," on Aug 13 said a vote would happen once Armenia formally applies for EU membership.
+- **Constitutional draft finalized (Aug 2026):** Armenia's Justice Ministry confirmed the constitutional draft has been finalized and is under review within the ruling party but has not been published — constraining informed public debate. Pashinyan has not ruled out a repeat referendum if the first one fails.
+- **Armenia awards $215M to Iranian firms for Syunik infrastructure (Aug 2026):** Armenia reportedly awarded ~$215M in contracts to Iranian construction firms for the North-South Highway in Syunik province — the same province where the TRIPP corridor will operate. Iranian VP attended Kajaran tunnel inauguration in June. Pashinyan attended Khamenei's funeral to signal limits of westward tilt.
+- **CES Intelligence scenario analysis (Aug 2026):** Comprehensive geopolitical risk assessment frames Azerbaijan's "transit trap." Three scenarios: (A) Route Stable 40-45% — TRIPP operational 2027, peace treaty signed H1 2027; (B) Route Contested 35-40% — periodic disruptions from Iranian grey-zone actions; (C) Route Contested & Conflagration 15-20% — Iran escalates to sustained military operations.
+
 ## Priority Sources
 
 A categorized list of priority sources (`/root/wiki/armenia-azerbaijan/priority-sources.md`) is maintained for the weekly source monitor. Each run should:
