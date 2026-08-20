@@ -101,3 +101,17 @@
 
 ### August 2, 2026
 - **Fourth watch report published** — Probability unchanged at 75%. China's Anaklia exit weakens one pillar of prediction but South Ossetia integration, Central Asia pivot, and domestic repression reinforce drift thesis.
+
+### August 17, 2026
+- **Gharibashvili accuses Ivanishvili of blackmail** — Jailed former PM Irakli Gharibashvili publishes letter from prison accusing Ivanishvili of pressuring him to confess to new corruption charges and permanently withdraw from politics. First former close ally of Ivanishvili to publicly speak out. Reveals deepening internal power struggle within GD. Government silent; Kobakhidze claims matter is for law enforcement.
+
+### August 17, 2026
+- **Georgia refuses EU sanctions on Iran** — Georgia does not join EU partner countries in backing updated sanctions against Iran. Other candidate countries (Albania, Moldova, Ukraine, Bosnia, Montenegro, North Macedonia) all join. GD MP says decisions based solely on national interest. CFSP alignment at 40%.
+
+### August 18, 2026
+- **White House names Georgia in tariff circumvention** — Trump admin report "The Great Transshipment Scam" names Georgia in third category of countries used by China to circumvent US tariffs. $1.98B Chinese imports vs $120M Georgian exports to US.
+- **Georgian fuel deliveries to Abkhazia** — GD delivers 680 tonnes of petrol amid shortages caused by Ukrainian attacks on Russian refineries. Kobakhidze frames as trust-building with Abkhaz population.
+- **Georgia absent from 2026 NATO Summit** — Forbes reports Georgia excluded from Ankara Summit for second consecutive year. Former Defense Minister Khidasheli says NATO-Georgia relations "effectively frozen." Former Ambassador Dolidze says Georgia's status "called into question." Military cooperation with NATO continues.
+
+### August 19, 2026
+- **Record Upper Lars border traffic** — Russia's FCS reports 20,000+ daily crossings at Georgia-Russia border, setting new record. Georgia disputes figure (16,286 in both directions). Came amid renewed speculation about Russian mobilization.

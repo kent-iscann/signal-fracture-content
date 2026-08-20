@@ -273,3 +273,12 @@
 - Riddle Russia analysis of H1 2026 trade data: Georgian imports from Russia up 26% to $1.2B, deficit widened to $868M, wine/beverage exports falling — signals end of rapid expansion and rising vulnerability
 - Euro Prospects analysis: EU ceding influence in South Caucasus, frozen relations with Georgia, China filling vacuum through Belt and Road
 - Hague Research Institute analysis: TRIPP could gradually reduce Georgia's geostrategic leverage by transforming it from dominant corridor into one of several interconnected routes
+|
+|## 2026-08-20 - Weekly Source Update | 6 new sources
+|- **Source 58:** JAMnews: White House says China using Georgia to circumvent US tariffs — Trump admin "Great Transshipment Scam" report names Georgia in China's shadow shipping network. $1.98B imports from China vs $120M exports to US.
+|- **Source 59:** JAMnews: Georgia does not join EU's updated Iran sanctions — Georgia alone among candidate countries in refusing, joining only Turkey and Serbia. CFSP alignment at 40%.
+|- **Source 60:** OC Media: Gharibashvili accuses Ivanishvili of blackmail — First former close GD ally to openly confront Ivanishvili. Deepening internal power struggle.
+|- **Source 61:** OC Media: Record 20,000+ daily crossings at Upper Lars — Russia-Georgia border traffic at all-time high amid Russian mobilization speculation.
+|- **Source 62:** Forbes: Georgia absent from 2026 NATO Summit — Second consecutive year excluded. Relations "effectively frozen" per former Defense Minister. Military cooperation continues.
+|- **Source 63:** OC Media: Georgian fuel deliveries to Abkhazia to continue — 680 tonnes of petrol delivered amid shortage from Ukraine strikes on Russian refineries.
+|- **Files updated:** sources.md (+6), index.md, timeline/georgia-timeline.md, log.md

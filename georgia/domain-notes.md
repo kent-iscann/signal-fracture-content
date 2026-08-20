@@ -60,13 +60,14 @@ Georgia is in a phase of **strategic drift** — not a clean pivot to Russia, bu
 
 **Turkey-Armenia-Georgia:** Turkey-Armenia direct trade resumed (33-year freeze ended). TRIPP (Trump International Route for Peace and Prosperity) signed between Armenia-US. Azerbaijan-Turkey-Georgia trilateral format operating (10th ministers meeting June 2026). Georgia's regional monopoly eroding.
 
-### Key Domestic Politics
-- 560+ days of continuous protests in Tbilisi (as of June 2026)
-- Constitutional Court moving to ban opposition parties
-- Hundreds of "conscience prisoners" detained
-- Media almost entirely under government control (per Prof. Stephen Jones)
-- GD internal instability growing (arrests within own ranks)
-- **New hate speech department:** Interior Ministry creates unit to monitor social media and prosecute critics — critics see as censorship mechanism
+|### Key Domestic Politics
+|- 560+ days of continuous protests in Tbilisi (as of June 2026)
+|- Constitutional Court moving to ban opposition parties
+|- Hundreds of "conscience prisoners" detained
+|- Media almost entirely under government control (per Prof. Stephen Jones)
+|- GD internal instability growing (arrests within own ranks)
+|- **New hate speech department:** Interior Ministry creates unit to monitor social media and prosecute critics — critics see as censorship mechanism
+|- **Garibashvili-Ivanishvili confrontation (Aug 17, 2026):** Jailed former PM Irakli Garibashvili publicly accuses Ivanishvili of blackmail — first former close ally to openly confront GD founder. Reveals deepening internal power struggle. Opposition says Garibashvili being politically neutralized.
 
 ## Common Dedup Pitfalls
 - **SovaNews, OC Media, JAMnews, Civil.ge** all cover same daily developments. Typically only one new article per event is worth adding — the one with the most original analysis or new data.
@@ -87,11 +88,15 @@ Georgia is in a phase of **strategic drift** — not a clean pivot to Russia, bu
 - **Georgi Gakharia** (former PM, "For Georgia" party) — Opposition figure with insider knowledge of GD's trajectory
 - **Keti Korkiya** (FDD) — Analyst tracking Georgia-Serbia authoritarian parallel and China ties
 
-## Active Strategic Debates (July 2026)
-1. **US Reset: durable or theatrical?** Trump admin pursuing engagement vs Congress demanding conditionality.
-2. **Gray zone thesis:** Georgia becoming sanctions-evasion hub + uncontrolled financial flows.
-3. **450-day protest sustainability:** Can civil society maintain pressure without opposition party infrastructure?
-4. **Anaklia port:** China exits (July 2026). GD's "landlord" model seeks multiple partners.
-5. **Russia's weakening leverage:** Does Ukraine war's trajectory make GD's Russia gambit obsolete?
-6. **Serbia-GD axis:** New authoritarian solidarity network.
-7. **Hungary's political shift:** Magyar replacing Orbán removes GD's key EU institutional patron.
+|## Active Strategic Debates (August 2026)
+|1. **US Reset: durable or theatrical?** Trump admin pursuing engagement vs Congress demanding conditionality.
+|2. **Gray zone thesis:** Georgia becoming sanctions-evasion hub + uncontrolled financial flows.
+|3. **560+ day protest sustainability:** Can civil society maintain pressure without opposition party infrastructure?
+|4. **Anaklia port:** China exits (July 2026). GD's "landlord" model seeks multiple partners.
+|5. **Russia's weakening leverage:** Does Ukraine war's trajectory make GD's Russia gambit obsolete?
+|6. **Serbia-GD axis:** New authoritarian solidarity network.
+|7. **Hungary's political shift:** Magyar replacing Orbán removes GD's key EU institutional patron.
+|8. **Georgia as tariff-circumvention conduit:** White House "Great Transshipment Scam" report names Georgia in China's shadow shipping network ($1.98B Chinese imports vs $120M exports to US).
+|9. **NATO exclusion:** Georgia excluded from NATO summit for second year running. Relations "effectively frozen" per former Defense Minister Khidasheli. Military cooperation continues by inertia.
+|10. **Internal GD implosion:** Garibashvili's public accusation of Ivanishvili signals deepening intra-party power struggle. Risk of defections and fragmentation.
+|11. **Georgia's Iran sanctions defiance:** Refusal to join EU Iran sanctions alongside Turkey and Serbia reinforces GD-Iran and Serbia-GD axes.
