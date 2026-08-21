@@ -1,5 +1,33 @@
 # Log: Kazakhstan Wiki Ingest
 
+## 2026-08-21 - Weekly Source Update — 6 New Sources Added
+### Sources added
+
+1. **CES Intelligence: Kazakhstan 2026 Geopolitical Risk Assessment — The Landbridge Trap** (Aug 15, 2026)
+   - Comprehensive risk assessment by Thierry Marquez introducing the "landbridge trap" framework. Chinese companies control ~1/4 of national oil production. CPC pipeline 1.83M bpd (May 2026). H1 2026 oil production 45.7M tonnes (-8.4%). July CPC tanker attacks halved Tengiz output to 406K bpd. Core judgment: multi-alignment strategy is a trap, not a hedge.
+
+2. **Astana Times: Kazakhstan's Industrial Growth Reveals Diverging Paths for Manufacturing and Mining** (Aug 19, 2026)
+   - Detailed BNS data: industrial output 39.97T tenge (+3%), manufacturing +9% (47.1% of industrial output, exceeding mining for first time), mining -4.4%. Pharmaceuticals +38.5%, machinery +22%. Investment $24.9B (+7.7%), 67.7% corporate funds. Trade $71.8B (+7.2%). Crude oil still 46.5% of exports. Budget funding down 32%.
+
+3. **el.kz: Kazakhstan climbs 17 positions in global investment risk ranking** (Aug 3, 2026)
+   - Investment +9.6% H1 2026 to $20B+. Safest Countries 53rd/150 (from 70th). IMD World Competitiveness 34th (from 37th). Global Peace Index 56th (from 61st). Sustainable Development Report 67th/169 (score 72.0). Altyn Visa programme. Credit ratings: BBB/Stable, BBB-/Positive, Baa1/Positive.
+
+4. **Qazinform: Kazakhstan revises Foreign Policy Concept** (Aug 14, 2026)
+   - Tokayev amended 2020-2030 FPC. Multi-vector reaffirmed. New emphasis: citizen/business protection abroad, countering disinformation. Kurultai defined as highest representative body. Aligned with new Constitution.
+
+5. **Times of Central Asia: Kazakhstan Targets End to Electricity Deficit by 2027** (Aug 2026)
+   - ~2.6 GW new capacity in 2026: 4 gas plants, 2 expansions, 10 renewables. Thermal 74.4% of generation; renewables 6.1%. Capacity to double by 2029. Deficit to close by Q1 2027.
+
+6. **EU Reporter: Kazakhstan's Next Chapter — Reform, Resilience, and Partnership with Europe** (Aug 18, 2026)
+   - Op-ed by Ambassador Vassilenko. First Kurultai elections Aug 23: 7 parties, 5% threshold. 90% govt services online, UN E-Gov 24th/193. EU trade $45B (2025), €210B+ cumulative investment, 4,000+ EU companies. $450B cumulative FDI.
+
+### Files updated
+- sources.md: 85 → 91 sources
+- log.md: updated
+- index.md: updated source count and date
+
+---
+
 ## 2026-08-14 - Weekly Source Update — 8 New Sources Added
 ### Sources added
 

@@ -68,6 +68,9 @@
 - VC funding: $209M (3x YoY), total startup valuation $2.16B
 - World Bank HCI+: 42nd/161 (up 13 positions)
 - Microsoft AI Diffusion: 70th/147 (15.9% adoption, leads Central Asia/EAEU)
+- IMD World Competitiveness: 34th (up from 37th in 2023)
+- Global Peace Index: 56th (up from 61st)
+- SDSN Sustainable Development Report: 67th/169 (score 72.0, up from 70th)
 - KazTransOil: BBB/Stable (Fitch, June 2026)
 - Russia-Kazakhstan trade record: $29B (2025)
 - China-Kazakhstan trade: >$48B (2025), rail freight 35.6M tons (+11%)
@@ -107,9 +110,10 @@ Kazakhstan is navigating between great-power pressures while pursuing economic d
 - **Dmitry Mun** (Vice Minister of AI and Digital Development) — Primary source for AI policy
 - **Federico Verri** (JCAS, 2026) — Introduced "sovereign connectivity statecraft" framework
 - **Julia Mohr** (CPC) — Azerbaijan-Kazakhstan connectivity analysis
+- **Thierry Marquez** (CES Intelligence) — "Landbridge trap" framework for Kazakhstan's structural vulnerability
 
-## Active Strategic Debates (July 2026)
-1. **Diversification viability:** Can tech pivot and transit revenues reduce oil dependence?
+## Active Strategic Debates (August 2026)
+1. **Diversification viability:** Can tech pivot and transit revenues reduce oil dependence? Manufacturing exceeded mining in value for first time (47.1% vs 46.1% of industrial output, H1 2026) — structural milestone or statistical artifact?
 2. **Sanctions balancing:** How long can Kazakhstan maintain multi-vector posture as Western enforcement intensifies?
 3. **BTC pipeline expansion:** Does increased BTC volume signal genuine diversification or just rerouting?
 4. **AI ambitions vs reality:** Institutional framework advancing rapidly, but ecosystem remains small and government-dependent
@@ -117,6 +121,8 @@ Kazakhstan is navigating between great-power pressures while pursuing economic d
 6. **Nuclear multi-vectoring:** CNNC (China) for 2 reactors + Rosatom (Russia) for first plant — can Kazakhstan play suppliers against each other?
 7. **Trans-Afghan corridor viability:** Is Afghanistan stable enough for reliable transit?
 8. **Digital Middle Corridor:** Does Caspian fiber-optic cable create new digital connectivity dimension?
+9. **The Landbridge Trap (NEW):** CES Intelligence framework argues Kazakhstan's multi-alignment strategy is structurally untenable — geography and infrastructure make it simultaneously indispensable and uncontrollable for every great power. Chinese firms now control ~1/4 of oil production.
+10. **FPC revision (Aug 14):** Foreign Policy Concept updated to emphasize citizen protection abroad and countering disinformation — signals growing concern about information warfare and reputational risk.
 
 ## File Update Checklist (per source added)
 When ingesting a new source, update ALL of the following in a single session:

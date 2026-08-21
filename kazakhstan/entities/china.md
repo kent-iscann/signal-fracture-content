@@ -20,7 +20,10 @@ China is Kazakhstan's second-largest trading partner and a key source of investm
 ## Current dynamic
 China's economic influence in Kazakhstan is growing but remains secondary to Russia's in terms of security and institutional ties. Kazakhstan views China as a counterweight to Russian dominance, but is cautious about over-dependence on Beijing. China is increasingly willing to fill supply chain gaps (especially in critical components) that Russia can no longer provide due to sanctions. The agricultural trade deepening — particularly the grain platform — signals a structural shift in the bilateral relationship beyond energy and minerals. The nuclear protocol adds a new strategic dimension to the relationship.
 
-## $100 billion trade goal — and the Middle Corridor buildout (June-July 2026)
+## China's upstream oil control (Aug 2026)
+- CES Intelligence analysis reveals Chinese companies (CNPC, Sinopec, subsidiaries) now control **approximately one-quarter of Kazakhstan's national oil production** across the upstream value chain — from Aktobe oilfields to the North Buzachi deposit.
+- This upstream presence gives Beijing the ability to influence both extraction patterns and export routing decisions, even as the majority of crude continues to flow through Russian-controlled CPC pipeline.
+- **The "Landbridge Trap" framework** (CES Intelligence, Aug 2026) identifies this Chinese upstream penetration as a structural vulnerability that makes Kazakhstan's multi-alignment strategy simultaneously indispensable and uncontrollable for every great power.
 - At the 9th China-Eurasia Expo in Urumqi (June 25, 2026), Deputy PM Serik Zhumangarin and Chinese Vice Premier Ding Xuexiang reaffirmed the goal of reaching **$100 billion in bilateral trade**.
 - **Key data:** Trade hit record $48.7B in 2025. Trade in Jan-May 2026: $22B (+27% YoY), expected to exceed $50B by year-end.
 - **New infrastructure:** China confirmed readiness for a **third cross-border railway crossing**; Kazakhstan expanding border capacity to 100M tons annually.
