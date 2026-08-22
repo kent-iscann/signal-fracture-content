@@ -73,9 +73,11 @@
 - Rappler's "BARMM transition strained" (July 2026) covers same peace rally as "CAB erosion" but is a standalone analysis with new quotes — keep both
 - The "AFP begins crackdown on ASG/BIFF" and "BARMM town councilor shot dead" are related but distinct — keep both
 - Sulu peace process article (Rappler, July 3) is a standalone piece about MNLF engagement — not covered elsewhere
-- **Rappler is the most reliable source** for in-depth BARMM coverage — prioritize over wire-service rehashes
-- **Inquirer.net** has good political reporting but less consistent on MILF/ASG security details
-- **Philippine Star / Manila Bulletin / PNA** useful for official statements but often rehash the same press release
+|- **Rappler is the most reliable source** for in-depth BARMM coverage — prioritize over wire-service rehashes
+|- **Inquirer.net** has good political reporting but less consistent on MILF/ASG security details
+|- **Philippine Star / Manila Bulletin / PNA** useful for official statements but often rehash the same press release
+|- **New (Aug 2026): Macacua ambush covered by Inquirer, SunStar, PNA, Facebook — all covering SAME event from different angles. Pick best single source for event report, add supplementary for unique angles (e.g. Inquirer for BIAF suspension detail, SunStar for Comelec reaction, PNA for unified condemnation quotes).**
+|- **New concept tracking:** Banlaoi's "diffusing violence" thesis — shift from ideological terrorism to PAGs/rido/election intimidation tied to unfinished normalization. Track via RSIS and academic sources.
 
 ## Prediction History
 - Report 1 (06-06-2026): 70% — "The Marcos administration will use the BTA extension to increase Manila's direct influence over BARMM governance, reducing MILF autonomy in the name of election stability."
