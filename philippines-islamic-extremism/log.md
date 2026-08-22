@@ -59,4 +59,15 @@
 ## 2026-08-15 - Ingest | weekly source update (1 new source)
 - 1 new source added (47). Total sources: 47.
 - Source 47: DI-HG mid-level leader Marhom Esmael killed in Pikit, North Cotabato (Aug 6) — SunStar Zamboanga (Aug 7)
-- Timeline updated: 1 new event (Aug 6 - DI-HG Marhom Esmael operation)
+|- Timeline updated: 1 new event (Aug 6 - DI-HG Marhom Esmael operation)
+
+## 2026-08-22 - Weekly Source Update
+- **New sources:** 7 (47→54)
+- **Source 48:** RSIS (Banlaoi) "The Philippines Twenty-Five Years after 9/11: Declining Terrorism, Diffusing Violence" (Aug/Sep 2026) — Philippines 23rd in GTI 2026; DIP at ~50 individuals; introduces "diffusing violence" thesis: shift from ideological terrorism to PAGs, rido, and election intimidation linked to unfinished normalization
+- **Source 49:** MindaNews "Iqbal: Bangsamoro peace process continues beyond Sept. 14 polls" (Aug 9) — PIPs meet Aug 4, issue Declaration of Continuity; Kuala Lumpur meeting set Sept 25; normalization can't finish by Oct 30; only 16 BTA session days left for Revenue Code
+- **Source 50:** MindaNews "Murad's son is a candidate for SGA district representative" (Aug 9) — Murad's son Mansor (UBJP) vs Butch Malang (BFP) for SGA 1st District; BFP encroachment into MILF strongholds
+- **Source 51:** Inquirer "BARMM chief survives ambush in Maguindanao" (Aug 16) — Macacua ambushed Aug 15 after BFP proclamation rally; MILF made public June 3 suspension of Macacua from BIAF; formalizes Macacua-MILF political breakup
+- **Source 52:** SunStar "Comelec OKs security personnel for BARMM field execs" (Aug 17) — Comelec approves additional security; Garcia declares Macacua ambush election-related; "damaged our record of zero election-related violence"
+- **Source 53:** PNA "BARMM chief: Slay attempt won't deter my pursuit of peace" (Aug 16) — Broad condemnation from MILF, 6ID, BARMM police, MNLF; Macacua reaffirms commitment
+- **Source 54:** SunStar "Barmm Interim Chief Minister's convoy ambushed" (Aug 16) — Details of Aug 15 ambush; Comelec directs PNP/AFP investigation
+- **Timeline updated:** 7 new events (Aug 9 - Aug 17)

@@ -57,8 +57,12 @@
 - **Sulu peace process (July 2026):** OPAPRU confirms Sulu remains priority area under 1996 FPA with MNLF despite BARMM exit
 - **Comelec disqualification (July 2026):** UBJP candidate Anwar Alamada disqualified for Maguindanao del Sur 5th District
 - **Sarmiento appointment (July 15, 2026):** Marcos appoints Peace Adviser Mel Sarmiento as chair of Government Peace Implementing Panel
-- **CAB erosion crisis (July 2026):** Thousands rally; MILF's Commander Bravo warns MILF prepared to return to armed struggle
-- **Elected MP term:** Newly elected MPs assume duties October 30, 2026, serve until June 2031 (synchronized with national polls)
+|- **CAB erosion crisis (July 2026):** Thousands rally; MILF's Commander Bravo warns MILF prepared to return to armed struggle
+|- **Elected MP term:** Newly elected MPs assume duties October 30, 2026, serve until June 2031 (synchronized with national polls)
+|- **GPH-MILF PIPs Declaration of Continuity (Aug 4, 2026):** First PIP meeting since Dec 2025; first with new GPH chair Sarmiento; agreement to meet in Kuala Lumpur Sept 25
+|- **BARMM ballot finalized (Aug 9, 2026):** 13 RPPPs listed; 494 nominees for 40 party seats, 107 for 32 district seats, 30 for 6 sectoral seats; Moro Ako Party cancelled Aug 4 but remains on ballot; first Philippine election with party logos and candidate photos on ballot
+|- **Macacua ambush (Aug 15, 2026):** BARMM Interim CM Macacua survives ambush at 4:45 PM in Datu Odin Sinsuat, Maguindanao del Norte, hours after BFP proclamation rally — 3 armored vehicles hit, unharmed. Comelec treats as election-related. MILF made public June 3 suspension of Macacua as BIAF chief. Formalizes Macacua-MILF political breakup.
+|- **Comelec security escalation (Aug 17, 2026):** Additional security for field officials after Macacua ambush; Garcia: "damaged our record of zero election-related violence"
 
 ## Dedup Pitfalls
 - Many Manila Times / GMA / PhilStar articles rehash the same CCAA briefer data — treat as one source
