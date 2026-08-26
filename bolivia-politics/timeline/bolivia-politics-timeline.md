@@ -48,4 +48,14 @@
 
 - **August 18:** Congress votes to censure Economy Minister José Gabriel Espinoza — a key architect of Paz's economic policy and lead IMF negotiator — for failing to appear before Congress. Government argues 91 of 166 votes falls short of 2/3 majority requirement, challenges before Constitutional Tribunal. Espinoza faces additional controversy over Audi purchase at below-market price. Censure threatens IMF $1.9B program approval.
 
-- **August 18:** Fernando Cerimedo — Argentine political adviser to Paz, Milei, and Bolsonaro — arrested at Santa Cruz airport on suspicion of plotting murder of activist Nadia Beller. Beller, four weeks pregnant, survived shooting in Santa Cruz. Reveals Decree 5503: radical economic reforms including fuel subsidy elimination being prepared by Cerimedo and Paz government. Beller claims she was targeted for opposing Decree 5503 and witnessing high-level corruption. VP Edmand Lara calls for impartial investigation.
+|- **August 18:** Fernando Cerimedo — Argentine political adviser to Paz, Milei, and Bolsonaro — arrested at Santa Cruz airport on suspicion of plotting murder of activist Nadia Beller. Beller, four weeks pregnant, survived shooting in Santa Cruz. Reveals Decree 5503: radical economic reforms including fuel subsidy elimination being prepared by Cerimedo and Paz government. Beller claims she was targeted for opposing Decree 5503 and witnessing high-level corruption. VP Edmand Lara calls for impartial investigation.
+|
+|- **August 17:** Supreme Decree 5676 sets reference price of 18 bolivianos per litre of diesel for large consumers (83.7% increase). Government seeks to encourage large consumers to import their own fuel while maintaining subsidized supply for small producers.
+|
+|- **August 20:** Foreign Policy publishes in-depth analysis "Bolivia Struggles to Turn Lithium Into Profits" — 20% of global deposits but <1% production; constitutional change needed for foreign extraction; Indigenous and environmental opposition to Chinese/Russian contracts; DLE tech advances covered.
+|
+|- **August 24:** Verfassungsblog publishes Bettina Schorr's "Protests Without a Project" — academic analysis arguing 2026 protests failed because Bolivia has entered a "post-constituent era" where protest no longer articulates a shared constitutional renovation project.
+|
+|- **August 25:** Christian Morales appointed economy and public finance minister, replacing censured Espinoza. Paz reveals $7-10 billion in active multilateral negotiations. Signals policy continuity amid coalition uncertainty.
+|
+|- **August 26:** Military deployed to Yapacaní, Santa Cruz ahead of announced blockades against Decree 5676. Deputy Interior Minister Paredes admits decree must be annulled. Americas Quarterly publishes Eduardo A. Gamarra's "Bolivia's Post-MAS Transition Is at Risk" — assessment that "earlier optimism requires substantial revision"; Bolivia entering combined crisis of governance, economic credibility, and public safety. VP Lara acting as political adversary. Organized crime more visible.

@@ -83,6 +83,9 @@
 - **Espinoza censure:** Congress voted to censure Economy Minister Espinoza (Aug 18); government challenges constitutionality (91/166 votes); threatens IMF $1.9B approval
 - **Cerimedo arrest:** Paz campaign adviser arrested for murder plot; reveals Decree 5503 — radical economic reforms outside legislative process
 - **Decree 5503:** Radical reform package including fuel subsidy elimination, prepared by Cerimedo and Paz govt; activist Beller shot for opposing it
+- **Supreme Decree 5676:** Aug 17, 2026 — sets 18 BOB/litre diesel for large consumers (83.7% increase); government admits failure within 9 days, deputy minister says "cabinet does want to repeal it"
+- **Christian Morales appointment:** Aug 25, 2026 — replaces censured Espinoza as economy minister; signals policy continuity; Paz reveals $7-10B in active multilateral negotiations
+- **State of emergency:** June 20 – Sept 20, 2026 (90 days); 10+ organizations still defying it as of Aug 26
 - **Petrobras:** Invited to return to Bolivia (July 9, 2026)
 - **ALBA:** Suspended Bolivia
 - **Moody's:** Caa3 rating; 2026 contraction projected
@@ -121,12 +124,17 @@
 - **ACAPS/ReliefWeb:** Best conflict-data assessment (event counts, de-escalation patterns)
 - **US official statements (State/Defense):** Key for tracking US commitment to Paz (Rubio, Hegseth)
 - **Bolivian official sources (gacetaoficial.gob.bo):** Decrees, state of emergency, legislative actions
+- **Verfassungsblog (Bettina Schorr):** Academic constitutional analysis — best source for "post-constituent era" framing and structural analysis of protest failure vs. 2000-2005 cycle
+- **MercoPress:** Spanish-language granular data on subnational protest dynamics, decree implementation, and government backtracking
+- **Americas Quarterly (Eduardo Gamarra):** Institutional governance analysis — tracks coalition durability, vice presidential tensions, and organized crime implications
 
 ## Key Analysts/Commentators to Track
 - **Evan Ellis (CSIS):** Leading US analyst on China-Latin America; published on Bolivia's lithium crisis
 - **María Teresa Zegada (academic):** Deep analysis of MAS collapse and post-MAS fragmentation
 - **Alejandro Peña Esclusa (GIS Reports):** Pro-government analytical perspective
 - **Santiago Ospina Celis (New Lines):** Continental rightward shift analysis
+- **Bettina Schorr (Verfassungsblog):** Academic analysis of Bolivia's "post-constituent era" and protest exhaustion
+- **Eduardo A. Gamarra (Americas Quarterly):** Institutional governance analysis, coalition durability, organized crime nexus
 - **Evo Morales:** Primary source for opposition narrative (via interviews, social media)
 - **Rodrigo Paz:** Primary source for government narrative (via CNN interviews, press conferences)
 - **Marco Rubio / Pete Hegseth:** US official positions on Bolivia

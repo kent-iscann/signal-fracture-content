@@ -78,8 +78,17 @@
 - Reports on July 29 second arrest warrant for Morales (armed insurrection, terrorism) for 53-day blockades. Complaint by Comité pro Santa Cruz, joined by Interior Ministry. Also targets Argollo and Salazar. Morales defiant response quote.
 - Updated: sources.md (#27), timeline, Evo Morales entity.
 
-## 2026-08-19 - Weekly Source Update | 2 new sources
-- **New sources:** 2 (total 31 → 33)
-- **Source 32:** Espinoza censure (Reuters) — Congress votes to censure Economy Minister José Gabriel Espinoza, threatening IMF program approval and exposing coalition fragility. Government challenges constitutionality of 91-vote censure.
-- **Source 33:** Cerimedo arrest, Decree 5503 (Al Jazeera/AFP) — Paz campaign adviser arrested on murder plot charges; reveals Decree 5503 radical economic reforms being prepared outside legislative channels; activist Beller survived shooting after opposing decree.
-- **Files updated:** sources.md, timeline, Rodrigo Paz entity, Post-MAS Fragmentation concept, index.md, log.md, domain-notes.md
+|## 2026-08-19 - Weekly Source Update | 2 new sources
+|- **New sources:** 2 (total 31 → 33)
+|- **Source 32:** Espinoza censure (Reuters) — Congress votes to censure Economy Minister José Gabriel Espinoza, threatening IMF program approval and exposing coalition fragility. Government challenges constitutionality of 91-vote censure.
+|- **Source 33:** Cerimedo arrest, Decree 5503 (Al Jazeera/AFP) — Paz campaign adviser arrested on murder plot charges; reveals Decree 5503 radical economic reforms being prepared outside legislative channels; activist Beller survived shooting after opposing decree.
+|- **Files updated:** sources.md, timeline, Rodrigo Paz entity, Post-MAS Fragmentation concept, index.md, log.md, domain-notes.md
+
+## 2026-08-26 - Weekly Source Update | 5 new sources
+- **New sources:** 5 (total 33 → 38)
+- **Source 34:** Yapacaní troop deployment / Decree 5676 (MercoPress) — Military deployed to Santa Cruz; Decree 5676 diesel price hike (83.7%) for large consumers; government admits decree must be annulled; 10 organizations defying state of emergency.
+- **Source 35:** Christian Morales appointment (Reuters/KFGO) — New economy minister signals policy continuity; Paz reveals $7-10B in multilateral negotiations.
+- **Source 36:** Protests Without a Project (Verfassungsblog) — Bettina Schorr academic analysis of 2026 protest wave failure; "post-constituent era" thesis; four key differences from 2000-2005 cycle.
+- **Source 37:** Bolivia's Lithium Challenge (Foreign Policy) — 20% of global deposits but <1% production; constitutional change needed; Indigenous/environmental opposition to Chinese/Russian contracts.
+- **Source 38:** Post-MAS Transition at Risk (Americas Quarterly) — Eduardo Gamarra assessment: earlier optimism requires "substantial revision"; Bolivia entering combined crisis of governance, economic credibility, public safety.
+- **Files updated:** sources.md, timeline, index.md, Rodrigo Paz entity, Evo Morales entity, MAS entity, Post-MAS Fragmentation concept, Lithium Geopolitics concept, log.md
