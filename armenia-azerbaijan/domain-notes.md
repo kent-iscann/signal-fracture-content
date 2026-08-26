@@ -83,6 +83,18 @@ As of Republic Day 2026, Pashinyan announced:
 - **Armenia awards $215M to Iranian firms for Syunik infrastructure (Aug 2026):** Armenia reportedly awarded ~$215M in contracts to Iranian construction firms for the North-South Highway in Syunik province — the same province where the TRIPP corridor will operate. Iranian VP attended Kajaran tunnel inauguration in June. Pashinyan attended Khamenei's funeral to signal limits of westward tilt.
 - **CES Intelligence scenario analysis (Aug 2026):** Comprehensive geopolitical risk assessment frames Azerbaijan's "transit trap." Three scenarios: (A) Route Stable 40-45% — TRIPP operational 2027, peace treaty signed H1 2027; (B) Route Contested 35-40% — periodic disruptions from Iranian grey-zone actions; (C) Route Contested & Conflagration 15-20% — Iran escalates to sustained military operations.
 
+## Key Recent Developments (Aug 20-26, 2026)
+
+- **Pashinyan declares "Fourth Republic" (Aug 20):** Formally declared at cabinet meeting; "Real Armenia" ideology now official state vision. Presented 2026-2031 govt programme to parliament Aug 24. Argues Third Republic built on conflict logic, Fourth Republic on peace. Programme sets 6% annual growth target, commits to peace treaty with Azerbaijan, diplomatic relations with Turkey, and border reopening with at least two modern crossings.
+- **Armenia downgrades Russia in official foreign policy (Aug 21):** 2026-2031 programme drops description of Russia as "strategic alliance" for the first time since Pashinyan came to power in 2018, instead calling it a "transforming and deepening" partnership. Programme strengthens language on US, EU, France, Iran, China, India, Georgia. Pashinyan states EU visa liberalization target by 2029.
+- **Armenia rules out foreign security role in TRIPP (Aug 17):** Civil Contract lawmaker Khandanyan confirms no foreign military or security personnel will operate on Armenian soil under the project. Border, customs, and security functions remain under exclusive Armenian jurisdiction.
+- **S&P Global assesses TRIPP (Aug 24):** First major credit rating agency assessment. Views TRIPP as potentially strengthening regional connectivity but notes implementation at early stage with financing and concession terms not yet finalized.
+- **Aliyev in Uzbekistan (Aug 23-24):** Signs Treaty on Eternal Friendship with Mirziyoyev. Sets $1B bilateral trade target. $500M investment fund (~$160M allocated). Middle Corridor cooperation including joint Caspian fleet. Azerbaijan now full "C6" member of Central Asia consultative format.
+- **Baku-Moscow tensions escalate (Aug 17-21):** Russia deports Azerbaijani diaspora leader; Azerbaijan places 3 Russians on international wanted list; summons Russian ambassador over "provocative" media rhetoric. Azerbaijani FM Bayramov visits Kyiv reaffirming Ukraine support. Despite tensions, trade and transport cooperation continues.
+- **Armenia-India defense MoU (Aug 16-18):** Indian Defence Secretary visits Armenia. MoU on joint defense R&D signed. New format for cooperation between armed forces general staffs established. Builds on Pinaka, Akash, Swathi arms purchases.
+- **Azerbaijan sues CNN (Aug 17):** Files lawsuit in US federal court over June 5 article alleging Israeli military operations from Azerbaijani territory during Iran conflict.
+- **Armenia-Azerbaijan trade data (Jan-Jul 2026):** Azerbaijan exported $17.4M in goods (mostly petroleum products) to Armenia. Pashinyan says Armenian exports could begin soon. Potential annual turnover estimated at up to $300M for 38 categories.
+
 ## Priority Sources
 
 A categorized list of priority sources (`/root/wiki/armenia-azerbaijan/priority-sources.md`) is maintained for the weekly source monitor. Each run should:
