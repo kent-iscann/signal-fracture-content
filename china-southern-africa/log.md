@@ -125,3 +125,9 @@
 - Updated entity/drc.md with CRS data section (import shares, FDI data, CMOC price dynamics, US-DRC deal).
 - Updated critical-minerals-strategy concept page with Chinese import share data.
 - Updated index.md: source count 55→57, date updated to 2026-08-19.
+
+## 2026-08-26 - Weekly Source Update | china-southern-africa
+- **Added source 58:** Who Owns Africa — \"Who owns Africa's critical minerals? The new battle for copper, cobalt and lithium\" (August 2026). Comprehensive ownership mapping across Zambia, DRC, Guinea, Zimbabwe, Namibia, South Africa. New dimension: Gulf capital entry as structural third force in African mining — Manara Minerals pursuing First Quantum stake ($1.5-2B), IRH 51% Mopani stake ($1.1B). KCC production data, DRC cobalt quota reassignment to state entity, USTDA Kazozu expansion feasibility study.
+- **Added source 59:** Energy Transition Africa — \"Copper, Cobalt, Lithium: The Six Minerals Africa's Energy Transition Needs\" (August 2026). New data points: DRC/Zambia 4.2M tonnes copper in 2025; DRC 76% of world mined cobalt; DRC Feb 2025 export ban replaced by Sept 2025 quota of 96,600t; cobalt $58,000/t early 2026 (3x prior); SA Manganese Metal Co $25M plant for battery-grade manganese sulphate; Morocco Gotion gigafactory (Kenitra) Q3 2026; SA 79.3% of global PGM reserves; processing could create 2.3M jobs and lift GDP 12%.
+- Updated timeline with 2 new events (Who Owns Africa ownership mapping, ETA six minerals analysis).
+- Updated index.md: source count 57→59, date updated to 2026-08-26.
