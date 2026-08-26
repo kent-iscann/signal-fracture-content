@@ -79,6 +79,18 @@
 - G7 target: reduce reliance on China for rare earths/magnets to **below 60% by 2030**
 - BRICS strategic minerals coordination: activated at **16th BRICS NSA meeting (June 2026)**
 - Zimbabwe-China Railway resource-backed infrastructure talks: announced at **WEF Dalian (June 2026)**, modeled on DRC's $7B Sicomines deal
+- **Refining concentration across 6 transition minerals reached a record 70% in the top country (China) in 2025** (IEA/ETA)
+- **DRC alone produces ~76% of world's mined cobalt** (USGS 2025); Africa holds 54-55% of global reserves
+- **DRC Feb 2025 cobalt export ban → replaced Sept 2025 by quota of 96,600t (under half previous)**; cobalt hit $58,000/t early 2026 (3x prior year)
+- **DRC/Zambia combined copper production: 4.2M tonnes in 2025** (IEA); identified as single largest source narrowing the world copper supply gap through 2035
+- **China processes ~90% of world's battery-grade graphite**; Africa holds ~25% of global natural graphite reserves
+- **IEA projects Tanzania, Mozambique, Madagascar could supply 1/3 of world's mined graphite by 2040** (up from ~11% in 2025)
+- **Africa lithium output rose 44% in 2025**, led by Zimbabwe and Namibia; reported reserves (~1.6%) widely considered underestimate
+- **Morocco Gotion gigafactory (Kenitra) opening Q3 2026** — first African lithium battery cell production
+- **South Africa holds 79.3% of global PGM reserves; produces ~80% of global platinum output**
+- **South Africa Manganese Metal Co building $25M plant for 5,000t battery-grade manganese sulphate**
+- **Domestic mineral processing in Africa estimated to create 2.3M jobs and lift continental GDP by ~12%**
+- **Gulf capital: non-oil GCC-Africa trade exceeded $100B**; IRH (Abu Dhabi) acquired 51% Mopani ($1.1B); Manara Minerals (Saudi PIF) pursuing First Quantum stake ($1.5-2B)
 
 ## Common Dedup Pitfalls
 - **Reuters/Business Insider republication:** The same EU roadshow story appears across Business Insider Africa, Reuters, and various aggregators. Check dates — if within the same week, it's the same reporting.
