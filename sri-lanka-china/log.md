@@ -192,3 +192,10 @@
   - concepts/belt-and-road-initiative.md: Added new bullet point on Qi tenure conclusion and FTA renewal. Updated frontmatter date.
   - index.md: Updated last-updated date (2026-08-06 -> 2026-08-13) and source count (51 -> 52).
 - **Total sources**: 51 -> 52
+
+## 2026-08-27 - Weekly Source Update | 3 new sources (treasury investor call, new chinese ambassador, cyclone bridge grant)
+- **Source #53**: "Investor Call – 10th of August 2026" -- Sri Lanka Ministry of Finance / Central Bank of Sri Lanka (August 10, 2026). Most comprehensive official status update: IMF SDR1.78bn disbursed; US$6.5bn in reserves; Q1 2026 GDP grew 5.1% y/y; primary surplus 5.4% of GDP in 2025; 11 bilateral OCC agreements totaling US$4.3bn; 99% of creditors agreed; 94% restructuring implemented; China Exim Bank ($4.225B) and CDB ($3.222B) concluded; ratings exited default (CCC+/Caa1/CCC+).
+- **Source #54**: "Chinese Ambassador presents credentials to President" -- The Morning (August 26, 2026). Ambassador Wei Huaxiang appointed as China's new Ambassador to Sri Lanka, arrived August 11, presented credentials August 25. Completes diplomatic transition following Qi Zhenhong's departure.
+- **Source #55**: "China Grants RMB 79 Million to Rebuild 14 Bridges Destroyed by Cyclone Ditwah" -- Lanka Newspapers (August 26, 2026). RMB 79M (~US$11M) Chinese grant for bridge reconstruction — structured as a grant, not a loan. Marks shift toward grant-based assistance in post-restructuring period.
+- **Files updated**: sources.md, index.md, timeline/china-sri-lanka-timeline.md, log.md
+- **Total sources**: 52 → 55

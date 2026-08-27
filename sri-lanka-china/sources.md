@@ -1,6 +1,6 @@
 # Sources
 
-| Total sources: 52 | Last updated: 2026-08-13
+| Total sources: 55 | Last updated: 2026-08-27
 
 ## Debt and Lending
 
@@ -167,6 +167,14 @@
     https://www.elibrary.imf.org/view/journals/002/2026/111/article-A000-en.pdf
     Official IMF press release. The combined 5th and 6th reviews provide SDR508 million (about US$695 million), bringing total purchases under the EFF to SDR1.778 billion (about US$2.4 billion). Performance under the program was generally strong. All end-December 2025 quantitative performance criteria were met. Most structural benchmarks were met or implemented with a delay. Staff recommended approval of a waiver on new external arrears and exchange restrictions. Discussions took place March 25 – April 9, 2026 in Colombo. Debt restructuring is nearing completion, but debt sustainability risks remain high.
 
+40. "IMF Staff Concludes Visit to Sri Lanka" -- IMF Press Release No. 26/229 (June 30, 2026)
+    https://www.imf.org/en/news/articles/2026/06/30/pr26229-sri-lanka-imf-staff-concludes-visit
+    IMF mission led by Evan Papageorgiou visited Colombo from June 24–30, 2026. Key new data: headline inflation rose from 1.6% (Feb 2026) to 5.5% (May 2026) due to Middle East war energy price increases; CBSL responded with a 100-basis-point rate hike and macroprudential measures. The government rolled out a temporary relief package (fuel, electricity, fertilizer subsidies + cash transfers). Authorities committed to 2.3% of GDP primary balance target in 2027. Debt restructuring is "nearing completion." Seventh EFF Review mission scheduled for fall 2026. Exchange rate flexibility, SOE reform, and PDMO capacity building identified as priorities. The mission met with President Dissanayake, PM Amarasuriya, CBSL Governor Weerasinghe, and other officials.
+
+53. "Investor Call – 10th of August 2026" -- Sri Lanka Ministry of Finance, Planning and Economic Development / Central Bank of Sri Lanka (August 10, 2026)
+    https://www.treasury.gov.lk/api/file/ab8b48ab-a247-4ea3-afc2-224d502af7a3
+    Comprehensive investor presentation providing the most current official status of Sri Lanka's economic recovery and debt restructuring. Key data: total IMF disbursement SDR1.78bn (~US$2.4bn); gross official reserves US$6.5bn at end-June 2026; Q1 2026 real GDP growth 5.1% y/y; 2026 GDP expected at ~3% (after 5% in 2025); primary surplus reached 5.4% of GDP in 2025 (well above 2.3% program target); Moody's noted strengthening consumer sentiment and improving real incomes. Debt restructuring: 11 bilateral agreements with OCC finalized totaling US$4.3bn; 99% of external creditors agreed on terms; 94% of public external debt restructuring implemented. China Exim Bank ($4.225B) and China Development Bank ($3.222B) — implementation concluded; Sinosure/HSBC ($153M) — drafting agreement; Sinosure/ICBC ($27M) — discussions ongoing. Credit ratings exited default (CCC+/Caa1/CCC+). Currency composition of external debt: 68% USD, 17% SDR, 6% Yen, 4% RMB, remainder in Euro/Other. Fixed-rate debt: 75%. IMF DSA targets: 95% debt-to-GDP by 2032. Represents the most comprehensive official status update on the post-restructuring landscape.
+
 ---
 
 ## Post-Crisis Economic Engagement & FDI
@@ -178,6 +186,10 @@
 35. "Port City Colombo and Sri Lanka's Economic Transformation" -- China Focus (May 25, 2026)
     http://www.cnfocus.com/port-city-colombo-and-sri-lanka-s-economic-transformation
     Detailed analysis of Port City Colombo's progress and economic significance. Key data: $1.3-1.4B invested in land reclamation and core infrastructure; 150+ companies licensed under Colombo Port City Economic Commission; South Asia's first downtown duty-free retail mall is operational; Bay One Residences under active construction; projected to create 80,000+ jobs across finance, technology, hospitality, and professional services; estimated to add $13-15B to GDP and $5B in fiscal revenue annually when fully completed. Argues the project is structured to attract productive FDI rather than debt-financed consumption.
+
+55. "China Grants RMB 79 Million to Rebuild 14 Bridges Destroyed by Cyclone Ditwah" -- Lanka Newspapers / EconomyNext (August 26, 2026)
+    https://www.lankanewspapers.com/2026/08/26/china-grants-rmb-79-million-to-rebuild-14-bridges-destroyed-by-cyclone-ditwah
+    China pledged a grant of RMB 79 million (~US$11M) to Sri Lanka to fund the reconstruction of 14 bridges severely damaged by Cyclone Ditwah. Critical distinction: the funding is structured as a grant, not a loan — Sri Lanka has no repayment obligation. The bridges are located in Western, Sabaragamuwa, North Western, and North Central provinces. The grant was approved by Cabinet and announced by Minister Nalinda. This marks a notable shift toward grant-based assistance from China in the post-restructuring period, contrasting with the loan-heavy engagement model that characterized pre-crisis BRI projects.
 
 ---
 
@@ -299,3 +311,7 @@
 52. "Quiet diplomacy of Ambassador Qi Zhenhong: Through crisis and recovery" -- Daily FT (July 29, 2026)
     https://www.ft.lk/columns/Quiet-diplomacy-of-Ambassador-Qi-Zhenhong-Through-crisis-and-recovery/4-795302
     Reports that Chinese Ambassador Qi Zhenhong has concluded his nearly six-year tenure in Colombo (2020-2026), serving through Sri Lanka's worst economic crisis and the default and restructuring period. In his farewell, he renewed China's call for a comprehensive China-Sri Lanka Free Trade Agreement — negotiations have been stalled since 2017. He outlined a vision of a "China-Sri Lanka community with a shared future" with expanded cooperation in agriculture, climate change, marine research, youth development, education, healthcare, sports, and technology. The departure of the ambassador who managed the bilateral relationship through the default and restructuring marks a significant diplomatic transition at a critical juncture.
+
+54. "Chinese Ambassador presents credentials to President" -- The Morning (August 26, 2026)
+    https://www.themorning.lk/articles/xZxluSEvr1SgpahUEXli
+    Mr. Wei Huaxiang, appointed by the Government of the People's Republic of China as the new Ambassador Extraordinary and Plenipotentiary to Sri Lanka, presented his credentials to President Anura Kumara Dissanayake on August 25, 2026 at the Presidential Secretariat. He arrived in Sri Lanka on August 11 to assume his post. Minister of Foreign Affairs Vijitha Herath and Secretary to the President Nandika Sanath Kumanayake were also present. This completes the diplomatic transition following Ambassador Qi Zhenhong's departure after nearly six years (2020-2026). The new ambassador's appointment comes at a critical juncture as Sri Lanka exits debt restructuring, China pushes for a Free Trade Agreement, and bilateral relations enter a new phase focused on trade and grant-based assistance rather than infrastructure lending.

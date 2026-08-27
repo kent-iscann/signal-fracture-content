@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-08-13
+updated: 2026-08-27
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -198,7 +198,21 @@ The Institute of International Finance (IIF) published its 2026 Investor Relatio
 ### H1 2026 -- GreenFDC Report: Sri Lanka Sees 100% Drop in Chinese BRI Engagement
 The Green Finance & Development Center (Fudan University) published its H1 2026 BRI Investment Report, revealing that Sri Lanka was among 17 countries with a 100% drop in BRI engagement compared to H1 2025, alongside Pakistan, Peru, Bangladesh, and Russia. No new Chinese BRI-related investment announcements or construction contracts were recorded in Sri Lanka in H1 2026. This contrasts with record global BRI engagement of USD 126.4 billion (construction USD 76.5B + investment USD 49.8B), with gains concentrated in Africa, the Middle East, and Central Asia. Sri Lanka's absence from new BRI flows reflects post-restructuring caution and the depletion of previous project pipelines.^[Green Finance & Development Center, BRI 2026 H1 Report, July 2026]
 
+### August 10, 2026 -- Treasury Investor Call: Debt Restructuring 94% Implemented; IMF Reserves US$6.5B
+Sri Lanka's Ministry of Finance and Central Bank held an investor presentation providing the most comprehensive official status update on the post-restructuring economy. Key data: total IMF disbursement SDR1.78bn (~US$2.4bn); gross official reserves US$6.5bn at end-June 2026; Q1 2026 real GDP grew 5.1% y/y; primary surplus 5.4% of GDP in 2025 (well above 2.3% program target). Debt restructuring: 11 bilateral OCC agreements totaling US$4.3bn (10 signed); under 99% of creditors agreed on terms; over 94% of public external debt restructuring implemented. China Exim Bank ($4.225B) and China Development Bank ($3.222B) concluded. Sinosure/HSBC ($153M) and Sinosure/ICBC ($27M) ongoing. Credit ratings exited default (CCC+/Caa1/CCC+). Moody's cited 5.1% Q1 growth and strengthening consumer sentiment. IMF DSA targets: 95% debt-to-GDP by 2032.^[Sri Lanka Ministry of Finance Investor Call, August 10, 2026]
+
+### August 11, 2026 -- New Chinese Ambassador Wei Huaxiang Arrives in Sri Lanka
+Mr. Wei Huaxiang, appointed by the Government of the People's Republic of China as the new Ambassador to Sri Lanka, arrived in Colombo to assume his post, succeeding Ambassador Qi Zhenhong who concluded his nearly six-year tenure.^[The Morning, August 26, 2026]
+
+### August 25, 2026 -- Ambassador Wei Huaxiang Presents Credentials to President Dissanayake
+Ambassador Wei Huaxiang presented his credentials to President Anura Kumara Dissanayake at the Presidential Secretariat, Colombo, officially commencing his ambassadorial tenure. Minister of Foreign Affairs Vijitha Herath and Secretary to the President Nandika Sanath Kumanayake were present. The appointment completes the diplomatic transition at a critical juncture as Sri Lanka exits debt restructuring, China pushes for a renewed FTA, and bilateral relations shift focus toward trade and grant-based assistance.^[Ministry of Foreign Affairs, Sri Lanka, August 25, 2026]^[The Morning, August 26, 2026]
+
+### August 26, 2026 -- China Grants RMB 79 Million for Cyclone Ditwah Bridge Reconstructions
+China pledged a grant of RMB 79 million (~US$11M) to Sri Lanka to reconstruct 14 bridges severely damaged by Cyclone Ditwah in the Western, Sabaragamuwa, North Western, and North Central provinces. The funding is a grant, not a loan -- Sri Lanka has no repayment obligation. Cabinet approved the project with Minister Nalinda announcing the grant. This marks a notable shift toward grant-based Chinese assistance in the post-restructuring period, contrasting with the loan-heavy model of pre-crisis BRI engagement.^[EconomyNext, August 26, 2026]^[Lanka Newspapers, August 26, 2026]
+
 ---
+
+## Key Statistics
 
 | Metric | Value | Source |
 |--------|-------|--------|
