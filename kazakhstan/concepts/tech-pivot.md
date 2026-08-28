@@ -76,3 +76,16 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 
 ## Assessment
 The tech pivot is real but nascent. Kazakhstan has made significant progress in creating the institutional framework (ministry, hub, forums, AI law) and attracting attention (GITEX, Dealroom ranking, AI diffusion ranking, $10B NVIDIA deal). The emergence of the first AI unicorn (Higgsfield AI) and the surge in AI venture funding to $73M are concrete milestones. The national crypto reserve plan signals a more sophisticated approach to digital assets beyond just mining. However, the ecosystem remains small, government-dependent, and faces structural challenges including brain drain, corruption, and competition from more established tech hubs. The authoritarian governance model and limited internet freedom also constrain the open innovation culture that drives successful tech ecosystems.
+
+## Digital Qazaqstan Strategy 2029 (August 2026)
+- PM Bektenov approved the **Digital Qazaqstan Strategy through 2029** action plan on Aug 26, 2026.
+- **AI skills target:** At least 80% of school, college, and university graduates expected to acquire basic AI skills by 2029 through the AI-Sana program.
+- **Higher education:** By 2028, at least 80% of universities and colleges expected to integrate AI technologies into educational processes.
+- **Energy sector:** At least 70% of fuel and energy assets to be connected to digital monitoring systems by 2029.
+- **Government services:** Target to reduce time for govt service delivery by at least 50% by 2029. Shift from application-based to proactive service delivery.
+- **IT exports:** IT services exports target to grow by at least 50% by 2029.
+- **Samruk Kazyna portfolio:** Digital and AI initiatives expected to contribute 5% annually to EBITDA growth.
+- **Baiterek Holding:** AI monitoring planned to cover 100% of investment projects by 2029.
+- **Data Center Valley:** Project to expand computing capacity, attract global technology and cloud providers.
+- **Cybersecurity:** Government digital systems to be connected to Personal Data Access Control service giving citizens visibility over data usage.
+- Strategy moves Kazakhstan beyond digitizing individual services toward a model where data, AI, and interconnected digital infrastructure become part of the country's economic and administrative architecture.

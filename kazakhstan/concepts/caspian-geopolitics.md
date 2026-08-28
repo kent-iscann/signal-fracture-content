@@ -83,3 +83,12 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - Bilateral trade **$4.8B in 2025** (+16.2% vs 2024). Principal exports from KZ: wheat, metal products, flour, petroleum products.
 - **7 joint projects worth $1.2B** launched during Tokayev's state visit to Uzbekistan (Nov 2025), covering industry, construction, petrochemicals, finance, logistics, and tourism.
 - Deepening cooperation on **Islamic finance, green finance, sustainable finance, and capital market development**.
+
+## Energy route redundancy: the new geopolitics (August 2026)
+- **Ken Moriyasu** (Hudson Institute) and **Abzal Narymbetov** (oil/gas expert) argue the strategic value of energy is now determined by **route redundancy, not just reserves** (Astana Times, Aug 2026).
+- Hierarchy of Central Asian export routes: **Middle Corridor > Afghanistan > CPC > Iran** — reflecting geopolitical risk assessment of each corridor.
+- **Ukrainian CPC strikes:** Moriyasu argues strikes aim to "internationalize the competition" — the objective is to make stakeholders (Kazakhstan, Japan, buyers) feel pressure to intervene. Moriyasu: "The real threat Tokayev feels is the Ukrainian strategy."
+- **Turkmenistan as critical junction:** Despite enormous gas reserves, sits between China, Iran, Caspian, and South Asia. Moriyasu: "Turkmenistan is the key" — but question is how many viable export routes it can develop.
+- **China's route diversification:** China does not want to be too dependent on Kazakhstan. The China-Kyrgyzstan-Uzbekistan railway is significant not just as a project but as part of creating additional options — onward to Turkmenistan/Iran, or eventually to Afghanistan/Pakistan.
+- **Central Asian route planning:** Uzbekistan increasingly prioritizing Afghanistan as connector to Pakistani ports. Uzbekistan leaders "talking about the importance of Afghanistan" (Moriyasu). Regional governments seeking redundancy through multiple corridors.
+- The analysis confirms Kazakhstan's strategic problem: export infrastructure connecting oil to world markets can become exposed to a war in which Kazakhstan has no direct military role. Eurasia's energy map is being redrawn not because resources have changed, but because the political meaning of routes around them has.

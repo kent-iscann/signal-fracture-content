@@ -73,6 +73,12 @@ Kazakhstan's defining foreign policy doctrine since independence. The concept is
 - Kazakhstan joined the US-led Joint Statement on the AI Opportunity Partnership, signed in Washington by Deputy PM Zhaslan Madiyev.
 - Links AI development to physical infrastructure: critical minerals, energy, data centers, semiconductors, and resilient supply chains — reinforcing the dual-use character of Kazakhstan's resource and tech bets.
 
+## Connector state framework & G20 balancing test (August 2026)
+- **Iskander Akylbayev** (Xander Group CEO): Kazakhstan should present itself in Miami as a **"connector state"** — linking East and West, natural resources and technology, and major powers without becoming dependent on any one of them. Ambition: "not to export minerals and later import the technologies made from them" — process resources domestically, expand computing infrastructure, develop engineering talent.
+- **Darren Spink** (Janus Forum/Danube Institute): **AI may be the sector where Washington is least willing to accept balance** — the US increasingly sees technology, data infrastructure, semiconductors, and supply chains through a strategic lens. Kazakhstan's dual membership in US-led Pax Silica and Chinese-led WAICO could eventually create a problem if cooperation moves "from economic diversification into competing technological ecosystems."
+- **JD Vance intervention:** Vice President Vance personally urged Zelensky to halt attacks affecting the CPC — protecting both Kazakhstan's principal oil-export route and significant US commercial interests. Shows Washington now has direct stakes in Kazakhstan's export infrastructure.
+- **US data points:** Kazakhstan generates **>60% of Central Asia's GDP** and **~75% of the region's trade with the US**; bilateral goods trade reached $5B in 2025. 29 agreements worth $17B signed during Tokayev's Nov 2025 Washington visit.
+
 ## Sustainability of multi-vectorism (June 2026)
 - Analyst Murad Nasibov argues Central Asian states are approaching the **limits** of multi-vectorism due to: (1) resource saturation — the marginal geopolitical returns of each new partnership are diminishing; and (2) intensifying great-power rivalry making it harder to prevent one partnership from being conditioned on another.
 - Recommends Central Asian states pool sovereignty through the **Organization of Turkic States (OTS)** as a durable geopolitical bloc, drawing strength from geography and trade-route positioning rather than economic power alone.

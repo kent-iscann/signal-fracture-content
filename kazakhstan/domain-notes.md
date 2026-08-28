@@ -75,6 +75,10 @@
 - Russia-Kazakhstan trade record: $29B (2025)
 - China-Kazakhstan trade: >$48B (2025), rail freight 35.6M tons (+11%)
 - Turkey-Kazakhstan energy: TPAO entry, ANKA UAV deal
+- Digital Qazaqstan Strategy 2029 targets: 80% AI-skilled graduates, 70% energy assets on digital monitoring, 50% IT export growth, 5% annual EBITDA from AI in Samruk Kazyna
+- KazISS (Mussabekova): BRI-SCO synergy operational framework — new source type (Kazakh official think tank in Chinese media)
+- Hudson Institute (Moriyasu): "Connector state" framework — Kazakhstan should move beyond raw resource export to processing, computing infrastructure, higher-value components
+- Route redundancy hierarchy: Middle Corridor > Afghanistan > CPC > Iran (Moriyasu assessment, Aug 2026)
 
 ## Core Dynamic
 Kazakhstan is navigating between great-power pressures while pursuing economic diversification. Tokayev has elevated Kazakhstan's posture from "balancer" to "regional organizer" — using convening power, logistics, and diplomacy to structure the space between great powers. A new academic framework ("sovereign connectivity statecraft") formalizes this as a five-pillar strategy: sovereignty, balance, connectivity, institutional resilience, and regional public goods.

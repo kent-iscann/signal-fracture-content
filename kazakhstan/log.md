@@ -1,5 +1,34 @@
 # Log: Kazakhstan Wiki Ingest
 
+## 2026-08-28 - Weekly Source Update — 5 New Sources Added
+### Sources added
+
+1. **Global Times: China-Kazakhstan BRI cooperation to create new growth drivers of SCO region** (Aug 25, 2026)
+   - Aliya Mussabekova (Head of International Security Dept, KazISS) argues BRI and SCO are highly complementary, generating synergy effects for connectivity and regional security. Railway freight KZ-China 35.6M tons (2025, +11.1%), 18.7M tons H1 2026 (+9%). Middle Corridor freight up 5x over 7 years. SCO Summit in Bishkek marks 25th anniversary. Frames Kazakhstan as strategic transport hub linking East and West.
+
+2. **Nikkei Asia: Kazakhstan, the world's most important hedger, bets on stability** (Aug 26, 2026)
+   - Ken Moriyasu (Hudson Institute senior fellow) analyzes Tokayev's consolidation of power through Aug 23 Kurultai election within broader multi-vector balancing strategy. Frames Kazakhstan as the world's most important geopolitical hedger — preserving balance between China, Russia, and US amid intensifying great-power competition.
+
+3. **Astana Times: Experts Say Tokayev's G20 Invitation Will Test Kazakhstan's Balancing Act** (Aug 24, 2026)
+   - Iskander Akylbayev and Darren Spink analyze multi-vector balancing. Akylbayev: Kazakhstan should present as "connector state." Spink: AI may be where Washington least accepts balance — tensions between Pax Silica and WAICO. JD Vance personally urged Ukraine to halt CPC strikes. Kazakhstan generates >60% of Central Asia GDP, ~75% of region's US trade.
+
+4. **Astana Times: Resources Are Not Enough — How Energy Routes Are Becoming Geopolitical Battleground in Eurasia** (Aug 2026)
+   - Ken Moriyasu and Abzal Narymbetov: strategic value of energy determined by route redundancy, not just reserves. Ukrainian CPC strikes aim to "internationalize competition." Route hierarchy: Middle Corridor > Afghanistan > CPC > Iran. China diversifying away from Kazakhstan dependency via CKU railway.
+
+5. **Astana Times: Can Kazakhstan's AI Strategy Deliver Both Growth and Smarter Governance?** (Aug 26, 2026)
+   - Digital Qazaqstan Strategy 2029 action plan approved. Key targets: 80% graduates AI-skilled by 2029, 70% energy assets on digital monitoring, 50% IT export growth, 5% annual EBITDA from AI in Samruk Kazyna. AI moving from pilots to mass adoption across education, healthcare, transport, and industry.
+
+### Files updated
+- sources.md: 91 → 96 sources (duplicates cleaned)
+- log.md: updated
+- index.md: updated source count and date
+- entities/kassym-jomart-tokayev.md: added G20 balancing act, Kurultai election consolidation
+- concepts/multi-vector-foreign-policy.md: added connector state framework, AI balancing challenge
+- concepts/tech-pivot.md: added Digital Qazaqstan Strategy 2029 targets
+- concepts/caspian-geopolitics.md: added energy route redundancy analysis, Moriyasu route hierarchy
+
+---
+
 ## 2026-08-21 - Weekly Source Update — 6 New Sources Added
 ### Sources added
 
