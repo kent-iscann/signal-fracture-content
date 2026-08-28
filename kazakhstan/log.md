@@ -402,3 +402,22 @@
 - entities/kassym-jomart-tokayev.md: added military, HCI, crypto reserve
 - entities/china.md: added CHPL export figures
 - index.md: updated source count
+
+---
+
+## 2026-10-21 - Manual Ingest — 7 Eurasianet Sources (Aug 2026)
+### Sources added
+
+1. **Eurasianet: Kazakhstan hesitant to meet Kremlin energy needs** (Aug 27)
+2. **Eurasianet: Russia eyes Kazakhstan/Uzbekistan as arms purveyors** (Aug 24)
+3. **Eurasianet: Report accuses KZ/UZ/AZ/GE of scamming US** (Aug 21)
+4. **Eurasianet: US AI pressure on Central Asia falling flat** (Aug 26)
+5. **Eurasianet: Kazakhstan new parliament opens trade possibilities** (Aug 25)
+6. **Eurasianet: China expanding military cooperation at Russia expense** (Aug 7-13)
+7. **Eurasianet: News Analysis — Kazakhstan in US-China AI pickle** (Aug 19)
+
+### Files updated
+- sources.md: sources 51-57 added (file renumbered to 82 total)
+- timeline/kazakhstan-timeline.md: added Aug 7-27 entries
+- index.md: updated source count
+- log.md: updated
