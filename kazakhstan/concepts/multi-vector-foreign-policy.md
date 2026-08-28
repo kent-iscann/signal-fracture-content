@@ -122,3 +122,17 @@ Whether multi-vector foreign policy can survive the intensifying great power com
 - Highlights Kazakhstan's **21 of 34 EU Critical Raw Materials** — positioning it as indispensable for Western green/tech transitions.
 - Discusses Hungarian-Kazakh bilateral relations as a case study in Europe-Central Asia engagement.
 - Assesses AIFC development as a key institutional success in attracting regional financial activity.
+
+## Russia outsources arms to Central Asia (Aug 2026)
+- Russia sought to outsource arms manufacture and maintenance to Kazakhstan and Uzbekistan — beyond Ukrainian drone range. Existing facilities include Semey Engineering and Almaty Aircraft Repair Plant in Kazakhstan. Kazakh MOD was equivocal; secondary sanctions risk cited as a key constraint.
+- This represents a stark reversal: Russia was historically the **supplier** of arms to Central Asia; it may now become an **importer**.
+
+## Tariff evasion white paper — structural multi-vector test (Aug 2026)
+- A Trump Administration white paper named Kazakhstan as a Tier III state aiding **China's tariff evasion**, alongside Uzbekistan, Azerbaijan, and Georgia.
+- This exposes a structural contradiction: **deepening US ties while Chinese trade links face growing US enforcement scrutiny.** The "America's Detective Border" AI monitoring system directly threatens Kazakhstan's role as a China transit corridor.
+- The diplomatic complication is acute: naming comes at a time when US-Kazakhstan relations have improved dramatically under Trump. Risk that tariff enforcement hampers pursuit of US initiatives in other spheres (critical minerals, Middle Corridor, AI partnership).
+
+## US-China AI ultimatum (Aug 2026)
+- The US State Department drafted a note telling Pax Silica signatories they must not participate in Chinese WAICO. Kazakhstan signed both (June and July).
+- Justin Burke (Eurasianet, Aug 19): The ultimatum risks being a **"lose-lose"** proposition for the US and Central Asia. Kazakhstan's multi-vectorism faces a crushing dilemma: choosing one AI bloc threatens the other relationship, and either choice carries significant economic consequences. Tokayev's praise of China's innovation ecosystem at WAICO's founding may have helped spur the US ultimatum.
+- KZ and Uzbek academies jointly developing a research AI platform — effectively pushing back against US exclusivity — demonstrating multi-vectorism in practice.

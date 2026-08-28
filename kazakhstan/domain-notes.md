@@ -86,7 +86,7 @@ Kazakhstan is navigating between great-power pressures while pursuing economic d
 ## Key Relationships
 **Russia:** EAEU/CSTO member, 7,644km border, CPC pipeline dependence. Russia wants Kazakhstan as sanctions-bypass corridor; Kazakhstan tries to turn embrace into leverage. Putin May 2026 visit: 15 bilateral documents, $29B trade record (2025), 177 joint projects worth $53B.
 
-**China:** BRI critical transit corridor. Trade exceeded $48B in 2025. 35.6M tons rail freight (+11%). 85%+ of China-Europe overland cargo transits Kazakhstan. $35B+ infrastructure investment over 7 years. Agricultural trade booming (+36.8% YoY). Nuclear energy cooperation with CNNC for 2 large-scale reactors.
+**China:** BRI critical transit corridor. Trade exceeded $48B in 2025. 35.6M tons rail freight (+11%). 85%+ of China-Europe overland cargo transits Kazakhstan. $35B+ infrastructure investment over 7 years. Agricultural trade booming (+36.8% YoY). Nuclear energy cooperation with CNNC for 2 large-scale reactors. **Military cooperation expanding (Aug 2026):** Uzbekistan reportedly received 4 J-10CE fighters (24 planned) — China directly challenging Russia's arms market grip. **Tariff evasion risk:** Trump admin white paper names Kazakhstan as Tier III conduit for China's US-bound exports ($40B-$303B estimated annual evasion).
 
 **West:** Growing secondary sanctions risk. EU 20th sanctions package (April 2026) anti-circumvention tool. UK A-7 network sanctions — warning to Kazakhstan. **EU breakthrough (June 21-23):** Tokayev visited Brussels, signed $12B+ in agreements — 50 Airbus jets (€7.1B), critical raw materials partnership, green hydrogen under Global Gateway.
 
@@ -127,6 +127,8 @@ Kazakhstan is navigating between great-power pressures while pursuing economic d
 8. **Digital Middle Corridor:** Does Caspian fiber-optic cable create new digital connectivity dimension?
 9. **The Landbridge Trap (NEW):** CES Intelligence framework argues Kazakhstan's multi-alignment strategy is structurally untenable — geography and infrastructure make it simultaneously indispensable and uncontrollable for every great power. Chinese firms now control ~1/4 of oil production.
 10. **FPC revision (Aug 14):** Foreign Policy Concept updated to emphasize citizen protection abroad and countering disinformation — signals growing concern about information warfare and reputational risk.
+11. **US-China AI ultimatum:** The Pax Silica vs WAICO dilemma is the most acute test of multi-vectorism yet — the US is demanding exclusivity in AI cooperation, and Kazakhstan signed both agreements. Justin Burke (Eurasianet): the "us or them" stance risks being a "lose-lose" for the US and Central Asia.
+12. **Tariff evasion white paper risk:** Trump admin naming Kazakhstan as a China tariff evasion conduit creates structural tension between deepening US ties and maintaining Chinese trade — tests whether multi-vectorism can survive competing enforcement regimes.
 
 ## File Update Checklist (per source added)
 When ingesting a new source, update ALL of the following in a single session:

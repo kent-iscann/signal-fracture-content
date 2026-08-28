@@ -57,3 +57,16 @@ China's economic influence in Kazakhstan is growing but remains secondary to Rus
 - **$2.5B** in aluminum processing facilities announced for Kazakhstan.
 - China-Kazakhstan trade rose **25%** in H1 2026; manufacturing +81% YoY. More than 8,500 Chinese-backed companies now operate in Kazakhstan.
 - Oil and gas BRI engagement dropped significantly ($23.3B→$14B for gas, $6.9B→$1.9B for oil), signaling a shift toward manufacturing rather than resource extraction in China's engagement model.
+
+## China's military cooperation push (Aug 2026)
+- **Uzbekistan J-10CE deal:** Uzbekistan reportedly received delivery of four PRC-made Chengdu J-10CE multi-role combat aircraft, with an agreement for a total of **24 fighters**. Uzbek and Chinese officials have yet to confirm. If accurate, signals a **significant expansion of China's military cooperation with Central Asia** at Russia's expense.
+- Russia's grip on Central Asia's arms market has been slipping as war demands sap its ability to supply foreign nations.
+- Some Central Asian states, including Kazakhstan and Uzbekistan, have also sought to develop **domestic arms manufacturing capability**, especially for drone production — reducing dependence on both Russia and China.
+
+## Tariff evasion white paper (Aug 2026)
+- **Aug 21:** A Trump Administration white paper named Kazakhstan, Uzbekistan, Azerbaijan, and Georgia among 40+ countries aiding **China's tariff evasion schemes** to maintain US-bound exports.
+- Kazakhstan and Uzbekistan designated **"Tier III" states** — "smaller economies with lower absolute transshipment volumes but specific weak-link advantages, including low-cost labor, free zones, port or border access, bonded warehousing, niche assembly capacity, or limited customs enforcement."
+- Estimated Chinese-led tariff evasion costs the US treasury **$40B–$303B annually**. The white paper argues tariff evasion extends beyond revenue loss: "They widen the effective trade deficit, displace domestic production, reduce GDP growth, and lower associated federal tax receipts."
+- US remedy: **"America's Detective Border"** — an AI-driven monitoring system that compares declared origins, routing histories, and component content against expected patterns.
+- **Diplomatic complication:** The naming comes at a time when US ties with all four states have dramatically improved under Trump — risks hampering pursuit of US initiatives in other geopolitical spheres.
+- Implications for Kazakhstan: exposes a structural contradiction in multi-vectorism — deepening US ties while maintaining Chinese trade links that increasingly face US enforcement scrutiny.

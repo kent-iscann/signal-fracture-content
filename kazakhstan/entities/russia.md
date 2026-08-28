@@ -38,3 +38,16 @@ Russia is trying to anchor Kazakhstan more firmly into its sanctions-era archite
 - **Nuclear cooperation:** Rosatom-led consortium proceeding with plans to build Kazakhstan's first nuclear power plant on Lake Balkhash, alongside CNNC's additional two large-scale reactors.
 - **Space cooperation:** First launch of the Soyuz-5 launch vehicle noted as a milestone in Russia-Kazakhstan space collaboration.
 - **Russia's Pivot to Asia analysis (August 2026):** Argues diversification narrative overlooks structural interdependence — "States can diversify partners but not geography." Essential counterpoint for balanced wiki coverage.
+
+## Kazakhstan pushes back on Russian energy demands (Aug 2026)
+- **Aug 27:** Kazakhstan's largest refineries **declined to export petroleum products to Russia**, even after the Energy Ministry approved shipments of up to 17,500 tons of gasoline. The refineries' refusal was reportedly linked to **secondary sanctions risk** for abetting the Russian war effort, plus record-high domestic fuel demand.
+- **One exception:** A relatively small facility in the West Kazakhstan region agreed to refine Russian crude and return finished products. A rail shipment of ~4,100 tons of Russian crude arrived in early August.
+- **Rystad Energy (Aug 27):** Estimated Russian refinery output will be **30% lower** during H2 2026 compared to seasonal averages. Russia "has little scope to absorb further supply disruptions."
+- Underscores Kazakhstan's tightening squeeze: political will to help Russia is low, secondary sanctions risk is high, but saying "no" to Putin carries retaliatory risk.
+
+## Russia seeks to outsource arms manufacturing to Central Asia (Aug 2026)
+- **Aug 24:** RFE/RL report reveals Kremlin is seeking to outsource arms manufacture, assembly, and maintenance to facilities in Kazakhstan and Uzbekistan — beyond the reach of Ukrainian drones.
+- **Existing facilities:** Semey Engineering Plant and Almaty Aircraft Repair Plant (Kazakhstan); Chirchik Aircraft Repair Plant (Uzbekistan).
+- **Kazakh MOD response:** Equivocal — "the matter is still under review." Uzbekistan offered no comment.
+- **Key constraints:** (1) Expanding defense cooperation risks **expansive secondary sanctions** from US/EU. (2) Russia's ability to pay is uncertain — the war has crimped state coffers. PRIO expert Baev called it a "less-than-smart plan."
+- Shifts the dynamic: For most of the post-Soviet era, Russia was the **arms supplier** to Central Asia. Now it may become an **arms importer** from the region — a stark reversal driven by Ukraine's drone campaign.

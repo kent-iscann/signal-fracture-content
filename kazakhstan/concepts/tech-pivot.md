@@ -89,3 +89,10 @@ The tech pivot is real but nascent. Kazakhstan has made significant progress in 
 - **Data Center Valley:** Project to expand computing capacity, attract global technology and cloud providers.
 - **Cybersecurity:** Government digital systems to be connected to Personal Data Access Control service giving citizens visibility over data usage.
 - Strategy moves Kazakhstan beyond digitizing individual services toward a model where data, AI, and interconnected digital infrastructure become part of the country's economic and administrative architecture.
+
+## US-China AI rivalry: Kazakhstan squeezed (Aug 2026)
+- **US ultimatum:** The US State Department drafted a note stating that nations wanting access to advanced American AI know-how under the **Pax Silica** initiative must refrain from participating in the rival Chinese **World AI Cooperation Organization (WAICO)**.
+- **Kazakhstan signed both:** (1) Pax Silica's AI Opportunity Statement in Washington (June 25) and (2) became a WAICO founding member (July 2026) where Tokayev praised China's innovation ecosystem and offered to host the next meeting.
+- **Pushback:** On Aug 18, experts from the Kazakh and Uzbek academies of sciences agreed to jointly develop a science-focused AI platform — effectively pushing back against US exclusivity demands.
+- **Justin Burke analysis (Eurasianet, Aug 19):** The "us or them" stance risks being a "lose-lose" proposition. Placing Central Asian states in an exclusive position threatens to disrupt relations with the US, setting back American gains in critical minerals, oil & gas, nuclear power, and transportation logistics.
+- The AI dilemma is testing multi-vectorism in a domain where Washington may be least willing to accept balance.
