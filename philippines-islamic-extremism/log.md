@@ -71,3 +71,10 @@
 - **Source 53:** PNA "BARMM chief: Slay attempt won't deter my pursuit of peace" (Aug 16) — Broad condemnation from MILF, 6ID, BARMM police, MNLF; Macacua reaffirms commitment
 - **Source 54:** SunStar "Barmm Interim Chief Minister's convoy ambushed" (Aug 16) — Details of Aug 15 ambush; Comelec directs PNP/AFP investigation
 - **Timeline updated:** 7 new events (Aug 9 - Aug 17)
+
+## 2026-08-29 - Weekly Source Update
+- **New sources:** 3 (54→57)
+- **Source 55:** PhilStar "Colombia-like stipend system eyed for decommissioned MILF members" (Aug 28) — Government reassessing socioeconomic assistance for decommissioned MILF combatants; considering monthly stipend modeled on Colombia's peace framework. Sarmiento notes most MILF members are 50-65, making vocational training impractical. Precedes Kuala Lumpur peace talks in September.
+- **Source 56:** PhilStar "Terrorist wanted for 26 criminal cases killed in Maguindanao del Sur clash" (Aug 25) — DI remnant Rambo Guiasalim killed in Aug 23 shootout in Shariff Aguak. Connected to 2015 Mamasapano SAF 44 incident. Signals continued low-level DI remnant activity.
+- **Source 57:** PNA "Comelec forms task forces vs vote-buying ahead of BARMM polls" (Aug 27) — Comelec creates anti-vote-buying task forces across BARMM provinces. Garcia warns of disqualification, proclamation withholding.
+- **Timeline updated:** 4 new events (Aug 23 - Aug 28)
