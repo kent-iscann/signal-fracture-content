@@ -168,4 +168,11 @@
 - **Source 136:** [Caucasus Watch] Armenia govt sets 2031 goals: peace institutionalization, TRIPP, EU visa liberalization, 6% growth, SCO membership
 - **Source 137:** [Caucasus Watch] Azerbaijan sues CNN in US federal court over June 5 article on Israeli operations from Azerbaijani territory
 - **Source 138:** [Caucasus Watch] UK-Azerbaijan strategic partnership: defense at "unprecedented level," green energy, data centers, AI cooperation
-- **Files updated:** sources.md, index.md, log.md
+|- **Files updated:** sources.md, index.md, log.md
+
+## 2026-08-29 - Weekly Source Update
+- **New sources:** 3
+- **Source 139:** [OC Media] Aliyev suggests Azerbaijan could supply Armenia with electricity — Aliyev stated Azerbaijan could supply electricity to Armenia citing Metsamor NPP dependency. Specialists surveyed Armenia, identified pylon sites. Power line to Nakhchivan ready, 6 months to complete.
+- **Source 140:** [OC Media] Officials from Armenia, Azerbaijan meet in Lachin to discuss electricity trade — Working-level energy meeting in Lachin between Armenian and Azerbaijani officials to discuss electricity trade and infrastructure interconnection. Concrete step following Aliyev's political statement.
+- **Source 141:** [CEPA] Trump's Route Begins to Re-Make the South Caucasus — Emil Avdaliani analysis of TRIPP first anniversary. US companies reached ~$8B deals with Azerbaijan. Railway link to Armenia expected 2027. Construction on Armenian soil late 2026-early 2027.
+- **Files updated:** sources.md, index.md, domain-notes.md, log.md
