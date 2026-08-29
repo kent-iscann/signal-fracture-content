@@ -85,10 +85,12 @@ As of Republic Day 2026, Pashinyan announced:
 
 ## Key Recent Developments (Aug 27-29, 2026)
 
-- **Aliyev offers electricity supply to Armenia (Aug 11):** Aliyev stated Azerbaijan could supply Armenia with electricity, citing Metsamor NPP dependency. Azerbaijani specialists conducted surveys in Armenia, identified power line pylon sites. Power line through Armenia to Nakhchivan ready, estimated 6 months to complete. Pashinyan confirmed AI infrastructure demands may require additional electricity sources.
+- **Aliyev offers electricity supply to Armenia (Aug 11, reported Aug 13):** Aliyev stated Azerbaijan could supply Armenia with electricity, citing Metsamor NPP dependency. Azerbaijani specialists conducted surveys in Armenia, identified power line pylon sites. Power line through Armenia to Nakhchivan ready, estimated 6 months to complete. Pashinyan confirmed AI infrastructure demands may require additional electricity sources.
 - **Lachin energy working meeting (Aug 26):** Armenian and Azerbaijani energy officials met in Lachin to discuss electricity trade and infrastructure interconnection — the first working-level meeting on energy cooperation. Armenian MFA confirmed discussions on import/export possibilities.
 - **CEPA analysis: TRIPP first anniversary (Aug 27):** Emil Avdaliani analysis reports US companies reached ~$8B in deals with Azerbaijan under TRIPP framework. Azerbaijani railway link to Armenia expected complete 2027. Construction on Armenian soil to begin late 2026-early 2027. 60,000 tons of goods transited Armenia-Azerbaijan border in past year.
 - **Arab News: Fidan raises joint defense framework (Aug 28):** Turkish FM Hakan Fidan raised possibility of joint defense framework involving South Caucasus countries as peace process advances.
+
+## Key Recent Developments (Aug 20-26, 2026)
 
 - **Pashinyan declares "Fourth Republic" (Aug 20):** Formally declared at cabinet meeting; "Real Armenia" ideology now official state vision. Presented 2026-2031 govt programme to parliament Aug 24. Argues Third Republic built on conflict logic, Fourth Republic on peace. Programme sets 6% annual growth target, commits to peace treaty with Azerbaijan, diplomatic relations with Turkey, and border reopening with at least two modern crossings.
 - **Armenia downgrades Russia in official foreign policy (Aug 21):** 2026-2031 programme drops description of Russia as "strategic alliance" for the first time since Pashinyan came to power in 2018, instead calling it a "transforming and deepening" partnership. Programme strengthens language on US, EU, France, Iran, China, India, Georgia. Pashinyan states EU visa liberalization target by 2029.
