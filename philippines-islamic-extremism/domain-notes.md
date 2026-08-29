@@ -30,6 +30,7 @@
 - "MILF base commands Dawlah Islamiyah declaration 2026" — found persona non grata declaration
 - "Philippines Islamic extremism Abu Sayyaf MILF 2025 2026" — good yield, found AFP crackdown on ASG/BIFF ahead of gun ban
 - "Bangsamoro Autonomous Region election September 2026" — good yield, found party switching (Inquirer)
+- "MILF decommissioning Colombia stipend Sarmiento 2026" — new Aug 2026: Colombia-style monthly stipend model for decommissioned MILF combatants
 
 ## Key Data Points
 - BARMM first parliamentary election: September 14, 2026
@@ -63,6 +64,7 @@
 |- **BARMM ballot finalized (Aug 9, 2026):** 13 RPPPs listed; 494 nominees for 40 party seats, 107 for 32 district seats, 30 for 6 sectoral seats; Moro Ako Party cancelled Aug 4 but remains on ballot; first Philippine election with party logos and candidate photos on ballot
 |- **Macacua ambush (Aug 15, 2026):** BARMM Interim CM Macacua survives ambush at 4:45 PM in Datu Odin Sinsuat, Maguindanao del Norte, hours after BFP proclamation rally — 3 armored vehicles hit, unharmed. Comelec treats as election-related. MILF made public June 3 suspension of Macacua as BIAF chief. Formalizes Macacua-MILF political breakup.
 |- **Comelec security escalation (Aug 17, 2026):** Additional security for field officials after Macacua ambush; Garcia: "damaged our record of zero election-related violence"
+|- **Colombia-style MILF stipend proposal (Aug 28, 2026):** GPH reassessing socioeconomic packages; considering monthly conditional stipend modeled on Colombia peace framework. Sarmiento: most MILF members 50-65, vocational training impractical. Precedes Kuala Lumpur talks.
 
 ## Dedup Pitfalls
 - Many Manila Times / GMA / PhilStar articles rehash the same CCAA briefer data — treat as one source
