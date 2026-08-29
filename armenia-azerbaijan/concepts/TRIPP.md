@@ -44,6 +44,33 @@ Carnegie Endowment (June 11, 2026) frames TRIPP as the foundation for a broader 
 ## Latest Developments (July 2026)
 On July 16, the Armenian government approved a draft law for the ratification of the TRIPP Framework Agreement and submitted it to the Constitutional Court for legal review. A freshly created TRIPP Development Co. will have a 49-year lease to build and operate the transit route. Before construction, two additional agreements (shareholders' agreement and TDC charter) must be signed. Armenia's Justice Ministry found that TRIPP provisions conflict with Armenian law (Law on the State Border, tax legislation) but recommended approval for political reasons (Mirror-Spectator, Jul 21).
 
+## TRIPP+ Enterprise Fund
+Alongside the TRIPP Development Company (infrastructure construction/operation), the US established a parallel investment vehicle:
+
+- **TRIPP+ Enterprise Fund** (registered in the US as the Trans-Caspian Enterprise Fund) launched with over $200M in capital, **doubled to $402M** via a July 16, 2026 amendment (implementation through 2036)
+- **Konstantin Sokolov** — a 52-year-old Russian-American businessman (emigrated from Russia at 21, founded IJS Investments in Chicago) — was appointed in mid-July 2026 to head the fund
+- The fund supports private-sector development across the South Caucasus and Central Asia, separate from the TRIPP Development Company's infrastructure mandate
+- **Funding scale signals long-term US commitment**: US State Department funds run through 2036; Lightstone (Witkoff adviser) described the $200M+ as a "starting point"
+- Sokolov is a major Trump donor (~$11M to MAGA) and Republican Party supporter
+
+### Sokolov's Pre-existing Armenian Holdings
+Before his appointment, Sokolov had already acquired significant Armenian assets:
+- **Viva Armenia** (largest telecom provider, acquired 2024, partially nationalized)
+- **Rostelecom Armenia** (Russian telecom giant's Armenian subsidiary)
+- **Teghut copper-molybdenum mine** (~450M metric tons ore, Armenia's 2nd largest reserves) — purchased from Russia's sanctioned VTB Bank via a third-party company to avoid a direct deal
+
+### Political Implications
+APRI's Benyamin Poghosyan identifies two reasons for Sokolov's appointment:
+1. **Political:** A subtle gesture by Washington to ease Moscow's fierce criticism of TRIPP
+2. **Pragmatic:** Deep understanding of post-Soviet business environment and Armenian government operations
+
+Social media speculation about Sokolov as a "compromise figure" between Moscow and Washington is rebutted by his public criticism of the Russian government and the Ukraine war. Aram Sargsyan (Republican Party of Armenia) views Sokolov's Russian background as a practical asset — language skills, business contacts, and understanding of Russian institutions.
+
+### Risks and Conflicts of Interest
+- Opposition lawmaker Mesrop Manukyan (Armenia Alliance) criticized Sokolov's rapid accumulation of stakes in finance, mining, and telecom
+- Manukyan's pro-Russian faction opposes TRIPP+ and views the "Trump Route" as a disguised "extraterritorial corridor" and the "greatest threat" to Armenia's security
+- Questions about conflicts of interest: Sokolov's appointment to head the fund that will invest in the same region where he already holds major commercial assets
+
 The Jamestown Foundation (Jul 2026) analyzed TRIPP as a major factor in reordering Eurasian trade routes, framing it as a framework where transport and energy transit corridors function under Armenian jurisdiction — directly contrasting with Russia's Zangezur Corridor concept which would have placed the route under Russian control. The analysis notes that TRIPP's realization will determine the configuration of South Caucasus trade, energy transit flows, and geopolitical influence.
 
 ## Risks

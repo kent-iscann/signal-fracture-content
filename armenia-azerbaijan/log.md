@@ -170,6 +170,15 @@
 - **Source 138:** [Caucasus Watch] UK-Azerbaijan strategic partnership: defense at "unprecedented level," green energy, data centers, AI cooperation
 |- **Files updated:** sources.md, index.md, log.md
 
+## 2026-08-29 - Ingest | DW: Russian-American heads Trump's Caucasus trade route
+- **Source 142:** [DW] Konstantin Sokolov profile — Russian-American businessman appointed to head TRIPP+ Enterprise Fund ($200M+). Background: emigrated from Russia at 21, founded IJS Investments Chicago. Acquired Viva Armenia (largest telecom), Rostelecom Armenia subsidiary, Teghut mine (2nd largest in Armenia) from sanctioned VTB Bank. Major Trump donor (~$11M MAGA). Met Pashinyan and Mirzoyan in August with Witkoff senior adviser Aryeh Lightstone. Analysis of dual role as pragmatic investor and potential "compromise figure" between Moscow and Washington.
+- Created Konstantin Sokolov entity page
+- Updated TRIPP concept page with TRIPP+ Enterprise Fund details
+- Updated Pashinyan entity page with Sokolov meeting
+- Updated domain-notes.md with Sokolov profile and implications
+- Updated index.md (source count 141→142, added Sokolov to entities)
+- **Files updated:** sources.md, index.md, log.md, domain-notes.md, concepts/TRIPP.md, entities/Nikol Pashinyan.md, entities/Konstantin Sokolov.md
+
 ## 2026-08-29 - Weekly Source Update
 - **New sources:** 3
 - **Source 139:** [OC Media] Aliyev suggests Azerbaijan could supply Armenia with electricity — Aliyev stated Azerbaijan could supply electricity to Armenia citing Metsamor NPP dependency. Specialists surveyed Armenia, identified pylon sites. Power line to Nakhchivan ready, 6 months to complete.
