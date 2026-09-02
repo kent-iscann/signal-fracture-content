@@ -131,3 +131,8 @@
 - **Added source 59:** Energy Transition Africa — \"Copper, Cobalt, Lithium: The Six Minerals Africa's Energy Transition Needs\" (August 2026). New data points: DRC/Zambia 4.2M tonnes copper in 2025; DRC 76% of world mined cobalt; DRC Feb 2025 export ban replaced by Sept 2025 quota of 96,600t; cobalt $58,000/t early 2026 (3x prior); SA Manganese Metal Co $25M plant for battery-grade manganese sulphate; Morocco Gotion gigafactory (Kenitra) Q3 2026; SA 79.3% of global PGM reserves; processing could create 2.3M jobs and lift GDP 12%.
 - Updated timeline with 2 new events (Who Owns Africa ownership mapping, ETA six minerals analysis).
 - Updated index.md: source count 57→59, date updated to 2026-08-26.
+
+## 2026-09-02 - Weekly Source Update | china-southern-africa
+- **New sources:** 1
+- **Source 60:** [Ecofin Agency: China vs. U.S.: Anatomy of a Strategic Rivalry Over Africa's Critical Minerals](https://www.ecofinagency.com/news/0109-58489-china-vs-u-s-anatomy-of-a-strategic-rivalry-over-africa-s-critical-minerals) (September 2026) — Comprehensive synthesis of US-China competition for Africa's critical minerals. Key new data: OECD counted 79 African mines owned by or involving Chinese interests in 2026 (30 DRC, 10 SA, 8 Zambia); 35 of 38 DRC/Zambia mines produce copper/cobalt; Chinese companies invested $4.5B (2022-2023) for stakes in Africa's lithium mines; US-backed Orion CMC ($1.8B) close to Kabanga nickel stake in Tanzania; Virtus Minerals acquired Chemaf; CNMC expanding in Zambia/DRC.
+- **Files updated:** sources.md, timeline/china-southern-africa-timeline.md, entities/drc.md, entities/zambia.md, entities/tanzania.md, concepts/critical-minerals-strategy.md, index.md, log.md

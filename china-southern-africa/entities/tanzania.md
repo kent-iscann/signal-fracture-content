@@ -17,3 +17,6 @@
 
 ## Strategic minerals policy shift (2026)
 Tanzania's strategic minerals agreement represents a structural change in resource governance. The government is embedding expectations around local processing, state participation, and regulatory oversight — going beyond royalty adjustments to redefine the extraction architecture. Infrastructure (energy, transport) is positioned as the operational foundation enabling local beneficiation mandates. This forms part of a broader continental renegotiation wave alongside DRC, Zimbabwe, and Namibia.
+
+### US-backed competition in Tanzania's nickel sector
+In August 2026, US-backed investment consortium Orion CMC ($1.8B pool, supported by DFC and ADQ) is reportedly close to acquiring a stake in the Kabanga nickel-cobalt-copper project in Tanzania, according to Bloomberg. This would mark one of the largest US-aligned critical mineral investments in Tanzania, directly competing with Chinese-backed mineral extraction in the country. Separately, US-backed Orion CMC was reported planning a $500M investment in a future nickel mine in Tanzania (Ecofin Agency, Sept 2026).

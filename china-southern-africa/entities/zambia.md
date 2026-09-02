@@ -8,7 +8,10 @@ Zambia sits at the heart of the Copperbelt, one of the world's richest copper an
 - Uranium
 
 ## Key Chinese actors
-- China Nonferrous Metal Mining (CNMC)
+- China Nonferrous Metal Mining (CNMC) — expanding copper/cobalt operations in Zambia (Aug 2026)
 - Various BRI infrastructure financiers
 - TAZARA (joint Tanzania-Zambia railway with Chinese backing)
 - Wonderful Group (Ndola Lime 2026 JV partner — 55% stake in Ndola Lime for $30M)
+
+## OECD mine data (2026)
+The OECD counted 8 Zambian mines owned by or involving Chinese interests in 2026 (Ecofin Agency, Sept 2026). China Nonferrous Mining Corp (CNMC) outlined plans in August 2026 to expand its copper and cobalt operations in Zambia and the DRC, signalling continued growth in Chinese control of the Copperbelt.

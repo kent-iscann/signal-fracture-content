@@ -15,6 +15,13 @@ In June 2026, the Kamoa-Kakula copper smelter — Africa's largest copper smelti
 - Zhejiang Huayou Cobalt
 - Sinomine Resource Group
 - Zijin Mining (39.6% stake in Kamoa-Kakula copper smelter)
+- China Nonferrous Mining Corp (CNMC) — expanding copper/cobalt operations
+- Virtus Minerals (US-based, acquired Chemaf copper/cobalt producer)
+
+## Notable developments (2026)
+
+### OECD Chinese mine count data
+In 2026, the OECD counted 79 African mines owned by or involving Chinese interests, including 30 in the DRC (the highest of any African country). Of the 38 mines in DRC and Zambia, 35 produce copper and/or cobalt. This data, compiled by Ecofin Agency (Sept 2026), provides the most comprehensive cross-country benchmark of Chinese mine control on the continent.
 
 ## Notable developments (2026)
 
