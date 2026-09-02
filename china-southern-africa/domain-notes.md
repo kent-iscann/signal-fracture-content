@@ -85,8 +85,10 @@
 - **DRC/Zambia combined copper production: 4.2M tonnes in 2025** (IEA); identified as single largest source narrowing the world copper supply gap through 2035
 - **China processes ~90% of world's battery-grade graphite**; Africa holds ~25% of global natural graphite reserves
 - **IEA projects Tanzania, Mozambique, Madagascar could supply 1/3 of world's mined graphite by 2040** (up from ~11% in 2025)
-- **Africa lithium output rose 44% in 2025**, led by Zimbabwe and Namibia; reported reserves (~1.6%) widely considered underestimate
-- **Morocco Gotion gigafactory (Kenitra) opening Q3 2026** — first African lithium battery cell production
+|- **Africa lithium output rose 44% in 2025**, led by Zimbabwe and Namibia; reported reserves (~1.6%) widely considered underestimate
+|- **OECD 2026: 79 African mines owned by/involving Chinese interests** (30 DRC, 10 SA, 8 Zambia); 35 of 38 DRC/Zambia mines produce copper/cobalt
+|- **Chinese companies invested $4.5B (2022-2023)** for stakes in Africa's lithium mines (Zimbabwe, Namibia, Mali)
+|- **Morocco Gotion gigafactory (Kenitra) opening Q3 2026** — first African lithium battery cell production
 - **South Africa holds 79.3% of global PGM reserves; produces ~80% of global platinum output**
 - **South Africa Manganese Metal Co building $25M plant for 5,000t battery-grade manganese sulphate**
 - **Domestic mineral processing in Africa estimated to create 2.3M jobs and lift continental GDP by ~12%**
