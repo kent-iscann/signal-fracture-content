@@ -92,3 +92,11 @@
 - **Source 37:** Bolivia's Lithium Challenge (Foreign Policy) — 20% of global deposits but <1% production; constitutional change needed; Indigenous/environmental opposition to Chinese/Russian contracts.
 - **Source 38:** Post-MAS Transition at Risk (Americas Quarterly) — Eduardo Gamarra assessment: earlier optimism requires "substantial revision"; Bolivia entering combined crisis of governance, economic credibility, public safety.
 - **Files updated:** sources.md, timeline, index.md, Rodrigo Paz entity, Evo Morales entity, MAS entity, Post-MAS Fragmentation concept, Lithium Geopolitics concept, log.md
+
+## 2026-08-28 - Weekly Source Update
+- **New sources:** 4 (total now 42)
+- **Source 39:** IMF Conditions Trap Bolivia Between Fuel Subsidy Cuts and Political Collapse (24EcoNews) — Government admits Decree 5676 is IMF condition; Santa Cruz agricultural sector issues ultimatum; road blockades surpass 2025 damage totals; GDP projected to contract -3.6%; gas exports below $500M H1; parallel FX widens.
+- **Source 40:** Bolivia Diesel Crisis: Trucks Idle as Dollar Nears Bs12 (Rio Times) — USD/BOB at Bs11.93; Supreme Decree 5683 doubles YPFB Treasury ceiling to Bs2B; central bank plans Bs13.7B monetary drain; YPFB owes $1.056B to traders; $75.1M damage at state biodiesel plant.
+- **Source 41:** Two new probes opened into Fernando Cerimedo (Buenos Aires Times/Perfil) — Paz distances from Cerimedo; money-laundering and drug-trafficking investigations opened; Opposition calls for OAS special committee.
+- **Source 42:** Bruising week for Bolivia's President Paz as scandal and setbacks test his presidency (ABC News/AP) — Only 6 of 15 ministers remain; National Unity party breaks with Paz; contaminated gasoline damages 10k+ vehicles; Cerimedo raid reveals cash and bot farm; analyst Veronica Rocha: "balance of power unfavorable to government."
+- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, entities/Rodrigo Paz.md, concepts/Bolivia's Post-MAS Fragmentation.md, index.md, log.md

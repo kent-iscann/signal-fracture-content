@@ -1,6 +1,6 @@
 # Bolivia's Political Situation Wiki Index
 
-> Content catalog. Last updated: 2026-08-26 | Total pages: 9 | Total sources: 38
+> Content catalog. Last updated: 2026-08-28 | Total pages: 9 | Total sources: 42
 
 ## Timelines
 - [[bolivia-politics-timeline]] -- Chronological overview of Bolivia's political crisis and South American political dynamics
