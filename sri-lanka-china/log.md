@@ -199,3 +199,10 @@
 - **Source #55**: "China Grants RMB 79 Million to Rebuild 14 Bridges Destroyed by Cyclone Ditwah" -- Lanka Newspapers (August 26, 2026). RMB 79M (~US$11M) Chinese grant for bridge reconstruction — structured as a grant, not a loan. Marks shift toward grant-based assistance in post-restructuring period.
 - **Files updated**: sources.md, index.md, timeline/china-sri-lanka-timeline.md, log.md
 - **Total sources**: 52 → 55
+
+## 2026-09-03 - Weekly Source Update | 3 new sources (Q2 debt bulletin, debt-to-GDP, SL-China Business Council 25th anniversary)
+- **Source #56**: "Sri Lanka's Public Debt Rises to Nearly Rs. 33 Trillion" -- Newswire (September 1, 2026). Q2 2026 Statistical Debt Bulletin data: total public debt Rs. 32.977T (US$97.95B); China bilateral debt US$5.01B (up from $4.974B); external debt composition 38% multilateral, 34% commercial, 28% bilateral.
+- **Source #57**: "Sri Lanka's debt down in US$, GDP terms despite up in rupee" -- EconomyNext (September 2, 2026). Deputy FinMin announced debt-to-GDP reduced to 88.8% (June 2026) from 95% (Dec 2025). Total govt debt US$95B from US$100.4B.
+- **Source #58**: "China Investment Surges as Debt Burden Shadows Sri Lanka's Recovery" -- Lanka News Web (August 30, 2026). Analytical piece on 25th anniversary Sri Lanka-China Business Council meeting. Frames the transition from debt-financed infrastructure to commercial investment. Covers FTA dilemma, Sinopec refinery ($3.7B), restructuring repayments extending to 2043.
+- **Files updated**: sources.md, index.md, timeline/china-sri-lanka-timeline.md, domain-notes.md, log.md
+- **Total sources**: 55 → 58

@@ -1,6 +1,6 @@
 # Sources
 
-| Total sources: 55 | Last updated: 2026-08-27
+| Total sources: 58 | Last updated: 2026-09-03
 
 ## Debt and Lending
 
@@ -315,3 +315,23 @@
 54. "Chinese Ambassador presents credentials to President" -- The Morning (August 26, 2026)
     https://www.themorning.lk/articles/xZxluSEvr1SgpahUEXli
     Mr. Wei Huaxiang, appointed by the Government of the People's Republic of China as the new Ambassador Extraordinary and Plenipotentiary to Sri Lanka, presented his credentials to President Anura Kumara Dissanayake on August 25, 2026 at the Presidential Secretariat. He arrived in Sri Lanka on August 11 to assume his post. Minister of Foreign Affairs Vijitha Herath and Secretary to the President Nandika Sanath Kumanayake were also present. This completes the diplomatic transition following Ambassador Qi Zhenhong's departure after nearly six years (2020-2026). The new ambassador's appointment comes at a critical juncture as Sri Lanka exits debt restructuring, China pushes for a Free Trade Agreement, and bilateral relations enter a new phase focused on trade and grant-based assistance rather than infrastructure lending.
+
+---
+
+## Public Debt Data & Macroeconomic Indicators
+
+56. "Sri Lanka's Public Debt Rises to Nearly Rs. 33 Trillion" -- Newswire (September 1, 2026)
+    https://www.newswire.lk/2026/09/01/sri-lankas-public-debt-rises-to-nearly-rs-33-trillion/
+    Reports the Q2 2026 Statistical Debt Bulletin (issued August 28, 2026) from the Public Debt Management Office. Key data: total public debt Rs. 32.977 trillion (June 30, 2026), up from Rs. 32.233 trillion (March 2026) — increase of ~Rs. 744 billion. In USD terms, debt fell from US$102.27 billion (March) to US$97.95 billion (June), reflecting rupee depreciation against the US dollar at quarter-end rate of Rs. 336.66/USD. Total government external debt: US$38.01 billion (up from US$37.47 billion in Q1). External debt composition: 38% multilateral, 34% commercial, 28% bilateral. Among bilateral creditors, China remained the largest with US$5.01 billion outstanding (up from $4.974B at Dec 2025), followed by Japan at US$2.27 billion and India at US$853.9 million. SOE guaranteed debt: Rs. 971 billion. Provides the most current official bilateral debt breakdown with China.
+
+57. "Sri Lanka's debt down in US$, GDP terms despite up in rupee: Deputy FinMin" -- EconomyNext (September 2, 2026)
+    https://economynext.com/sri-lankas-debt-down-in-us-gdp-terms-despite-up-in-rupee-deputy-finmin-282615/
+    Deputy Finance Minister Anil Jayantha announced that Sri Lanka's total debt reduced to 88.8% of GDP as of end June 2026, compared to 95% on December 31, 2025. Total government debt fell to US$95 billion by end June 2026 from US$100.4 billion at end of 2025. Provides the official debt-to-GDP and absolute debt reduction figures in dollar terms, complementing the Q2 2026 debt bulletin data.
+
+---
+
+## Post-Crisis Economic Engagement & FDI
+
+58. "China Investment Surges as Debt Burden Shadows Sri Lanka's Recovery" -- Lanka News Web (August 30, 2026)
+    https://lankanewsweb.net/archives/263504/china-investment-surges-as-debt-burden-shadows-sri-lankas-recovery
+    Analytical piece covering the 25th anniversary gathering of the Sri Lanka–China Business Council. Frames the fundamental transformation in bilateral relations from debt-financed mega infrastructure toward investment in energy, manufacturing, logistics, and commercially productive ventures. Key elements: Council President Haroun Cader stressed SME access to Chinese markets; restructuring figures of ~$4.2B (EXIM Bank) and ~$3.3B (CDB) with repayments extending to 2043; proposed $3.7B Sinopec refinery at Hambantota; Colombo Port City integrated development. Highlights the strategic dilemma of the proposed FTA — Sri Lanka needs Chinese market access but its smaller industrial base could be exposed to cheaper Chinese manufactured goods. Notes China's separate OCC negotiations and transparency concerns. Argues the critical test is whether Chinese capital helps Sri Lanka produce, export, and earn foreign exchange to reduce structural import dependence.

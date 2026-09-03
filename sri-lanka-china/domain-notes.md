@@ -56,10 +56,13 @@
 - **Reuters AidData reports (reuters.com):** AidData's research on Chinese lending practices is a high-value source class. Reports on yuan-denominated borrowing, debt restructuring patterns, and China Eximbank policy shifts are analytically significant and often contain data not available elsewhere.
 - **Journal of Commerce (joc.com):** Trade/port industry publication. Covers commercial developments at Hambantota and Colombo ports that general news outlets miss. JOC articles are often behind paywalls but the visible snippet + lead paragraph usually contain enough for a substantive source entry. Paywalled content is still worth adding as a source entry — cite what's visible.
 - **Sri Lanka Treasury investor presentations (treasury.gov.lk API):** Official Ministry of Finance investor call presentations contain the most current debt restructuring status, economic data (GDP, reserves, inflation, revenue), and forward guidance. These are comprehensive, authoritative, and frequently updated. The Treasury API endpoint serves slide decks that include OCC bilateral agreement status, currency composition, credit ratings, and IMF DSA metrics. Add these unconditionally when found.
+- **Public Debt Management Office (PDMO) Statistical Debt Bulletin (newswire.lk / treasury.gov.lk):** The quarterly Statistical Debt Bulletin published by the PDMO provides the most authoritative periodic data on Sri Lanka's total public debt, external debt composition by creditor (China, Japan, India breakdown), and debt-to-GDP ratios. Published with a 1-2 month lag after quarter-end. These are high-value recurring data sources. Newswire articles summarizing the bulletin are sufficient for source entries because they capture the key official data.
 
 ## Key Data Points Tracked (timeline statistics)
-- Total government external debt (Q1 2026: $37,468M)
-- Bilateral debt to China (Dec 2025: $4.974B; Q4 2022: $8B)
+- Total government external debt (June 2026: $38.01B; Q1 2026: $37,468M)
+- Bilateral debt to China (June 2026: $5.01B; Dec 2025: $4.974B; Q4 2022: $8B)
+- Debt-to-GDP ratio (June 2026: 88.8%; Dec 2025: 95%)
+- Total government debt (June 2026: US$95B; Dec 2025: US$100.4B)
 - China's share of bilateral debt (2022: 57%; 2024-2025: 45.3%)
 - Non-Paris Club share of bilateral (Q1 2026: 59%)
 - Port City Colombo investment ($1.3-1.4B; 150+ companies)

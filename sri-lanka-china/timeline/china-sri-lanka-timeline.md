@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-08-27
+updated: 2026-09-03
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -210,6 +210,12 @@ Ambassador Wei Huaxiang presented his credentials to President Anura Kumara Diss
 ### August 26, 2026 -- China Grants RMB 79 Million for Cyclone Ditwah Bridge Reconstructions
 China pledged a grant of RMB 79 million (~US$11M) to Sri Lanka to reconstruct 14 bridges severely damaged by Cyclone Ditwah in the Western, Sabaragamuwa, North Western, and North Central provinces. The funding is a grant, not a loan -- Sri Lanka has no repayment obligation. Cabinet approved the project with Minister Nalinda announcing the grant. This marks a notable shift toward grant-based Chinese assistance in the post-restructuring period, contrasting with the loan-heavy model of pre-crisis BRI engagement.^[EconomyNext, August 26, 2026]^[Lanka Newspapers, August 26, 2026]
 
+### August 28, 2026 -- PDMO Issues Q2 2026 Statistical Debt Bulletin
+The Public Debt Management Office issued the Statistical Debt Bulletin for Q2 2026 (as of June 30, 2026), revealing total public debt at Rs. 32.977 trillion (~US$97.95 billion). Key data: total government external debt US$38.01 billion; China remained the largest bilateral creditor at US$5.01 billion outstanding (up from $4.974B at Dec 2025); bilateral debt accounts for 28% of external debt, with non-Paris Club creditors (led by China) holding 59%. Total external debt composition: 38% multilateral, 34% commercial, 28% bilateral.^[Newswire, September 1, 2026]
+
+### August 30, 2026 -- Sri Lanka-China Business Council 25th Anniversary Meeting
+The Sri Lanka-China Business Council held its 25th anniversary gathering in Colombo. Council President Haroun Cader emphasized the need for Sri Lankan SME access to Chinese markets and investors. The meeting highlighted the transition from debt-financed mega infrastructure toward investment in energy, manufacturing, logistics, and commercially productive ventures. The proposed $3.7B Sinopec refinery at Hambantota and Colombo Port City development were discussed as flagship projects of the new phase. The FTA dilemma was noted: Sri Lanka needs Chinese market access but must safeguard its smaller industrial base.^[Lanka News Web, August 30, 2026]
+
 ---
 
 ## Key Statistics
@@ -254,7 +260,10 @@ China pledged a grant of RMB 79 million (~US$11M) to Sri Lanka to reconstruct 14
 ||| **Port City Colombo projected GDP addition** | **$13-15 billion/year at completion** | **China Focus, May 25 2026** |
 ||| **Port City Colombo projected fiscal revenue** | **$5 billion/year at completion** | **China Focus, May 25 2026** |
 |||| **Port City Colombo projected jobs** | **80,000+** | **China Focus, May 25 2026** |
-|||| **Total government external debt (Q1 2026)** | **USD 37,468 million** | **EconomyNext / PDMO, June 3 2026** |
+|||| **China bilateral debt outstanding (June 2026)** | **US$5.01 billion** | **Newswire / PDMO, Sep 1 2026 (Q2 bulletin)** |
+|||| **Total government external debt (June 2026)** | **US$38.01 billion** | **Newswire / PDMO, Sep 1 2026 (Q2 bulletin)** |
+|||| **Debt-to-GDP ratio (June 2026)** | **88.8% (from 95% in Dec 2025)** | **EconomyNext / Deputy FinMin, Sep 2 2026** |
+|||| **Total government debt (June 2026)** | **US$95 billion (from US$100.4B in Dec 2025)** | **EconomyNext / Deputy FinMin, Sep 2 2026** |
 |||| **Bilateral debt: non-Paris Club share (Q1 2026)** | **59% (led by China)** | **EconomyNext / PDMO, June 3 2026** |
 |||| **Bilateral debt: Paris Club share (Q1 2026)** | **41%** | **EconomyNext / PDMO, June 3 2026** |
 
