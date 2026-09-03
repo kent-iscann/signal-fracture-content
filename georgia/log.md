@@ -283,10 +283,14 @@
 |- **Source 63:** OC Media: Georgian fuel deliveries to Abkhazia to continue — 680 tonnes of petrol delivered amid shortage from Ukraine strikes on Russian refineries.
 ||- **Files updated:** sources.md (+6), index.md, timeline/georgia-timeline.md, log.md
 |
-|## 2026-08-26 - Weekly Source Update | 5 new sources
-|- **Source 64:** Georgia Today: Kobakhidze signals readiness to restore US strategic partnership in meeting with Diaz — First meeting with new US Chargé d'Affaires Amy Diaz; Kobakhidze offers "clean slate" reset; US$100+ sanctions remain un-lifted despite GD hopes for Trump reversal. No US ambassador in Tbilisi since June 2025.
-|- **Source 65:** Georgia Today: EU enlargement commissioner outlines reform vision, again makes no mention of Georgia — Marta Kos presented four-pillar reform vision in Zagreb; Georgia not among frontrunners (Montenegro, Albania, Ukraine, Moldova). Kos warned against "Trojan horses." Gegelia says Georgia "no longer part of the enlargement agenda at all."
-|- **Source 66:** OC Media: Georgian government scraps funding for Harvard's Georgian Studies Programme — GD cut $2.4M funding for the only dedicated Georgia program at a US university because director Stephen Jones was "not a GD propagandist." Symbolic of GD's anti-Western academic stance.
-|- **Source 67:** GSSC (Lithuania): Armenia-US-Azerbaijan TRIPP nexus — Comprehensive think tank analysis. US holds 74% of TRIPP Development Company for 49 years; TRIPP will reduce overreliance on Georgia's transit role. Georgia's geostrategic leverage eroding.
-|- **Source 68:** Eurasia Review: 'Chilly Strategic Partnership' — A New Page In US-Georgian Relations? — Op-ed arguing US has shifted from Georgia-centric to Armenia-Azerbaijan-centric South Caucasus policy. Most realistic path: limited "chilly strategic partnership" focused on shared interests.
-|- **Files updated:** sources.md (+5), index.md, log.md
+## 2026-09-03 - Weekly Source Update
+- **New sources:** 8 (69–76)
+- **Source 69:** OC Media: Commerce, energy, and the Trump Route — Analysis of GD's Central Asia pivot with expert interviews; TRIPP threatens Georgia's transit monopoly; Middle Corridor transit quintupled since 2018; Uzbekistan opening first Georgia embassy.
+- **Source 70:** OC Media: Second dredging vessel reaches Anaklia — Concrete progress after China's exit; Jan De Nul dredging active; breakwater construction underway under landlord model.
+- **Source 71:** JAMnews: 'Occupation is off' — Kobakhidze's Treaty of Georgievsk remarks instrumentalized by RIA Novosti to claim Georgia reassessing Russia ties; GD historical revision legitimizes current multi-vector policy.
+- **Source 72:** Caucasus Watch: Medvedev frames 2008 recognition as 'Geopolitical Justice' — 18th anniversary framing connecting 2008 to Ukraine war; repeats Moscow's narrative.
+- **Source 73:** JAMnews: Mdinaradze resignation 'prelude to Kobakhidze's downfall' — Analyst Gia Khukhashvili says resignation leaves Kobakhidze with no loyalists; Ivanishvili positioning him as scapegoat.
+- **Source 74:** JAMnews: Terabank sale — Armenian Arins Group acquiring Terabank; possible Russian link via A7/Ilan Shor (sanctioned); NBG approval pending; sanctions evasion vulnerability.
+- **Source 75:** JAMnews: Is Georgia expecting a new wave of Russian migrants? — Upper Lars data analyzed; Russian citizens 18% of property buyers (up from 13%); mobilization rumors persist.
+- **Source 76:** JAMnews: Pashinyan-Putin Bishkek meeting — Putin argues EU/EAEU incompatibility, offers to remove Gyumri base; Pashinyan rejects referendum; Armenia-West pivot accelerates, reshaping Georgia's regional context.
+- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md

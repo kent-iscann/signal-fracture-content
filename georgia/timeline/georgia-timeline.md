@@ -115,3 +115,22 @@
 
 ### August 19, 2026
 - **Record Upper Lars border traffic** — Russia's FCS reports 20,000+ daily crossings at Georgia-Russia border, setting new record. Georgia disputes figure (16,286 in both directions). Came amid renewed speculation about Russian mobilization.
+
+### August 20, 2026
+- **Georgia cuts Harvard Georgian Studies funding** — GD government cuts $2.4M funding for the only dedicated Georgia program at a US university (Harvard Davis Centre). Director Stephen Jones, a GD critic, allegedly considered "not a GD propagandist." Symbolic of GD's anti-Western academic stance.
+
+### August 24, 2026
+- **Kobakhidze revives Treaty of Georgievsk debate** — PM invokes 1783 treaty calling it a "civilisational choice" that ensured Georgia's survival. Russian state media RIA Novosti instrumentalizes remarks, headlining "Occupation is off." GD experts cited arguing revision justifies current multi-vector policy.
+- **Terabank sale announced** — Armenian Arins Group (Karen Safaryan) acquires Georgia's Terabank and Biltmore hotel. Unsubstantiated claims of Russian link via A7/Ilan Shor. NBG approval pending.
+
+### August 26, 2026
+- **Medvedev frames 2008 recognition as "Geopolitical Justice"** — On 18th anniversary, Medvedev calls Russia's recognition of Abkhazia and South Ossetia an act of "geopolitical justice," directly comparing Saakashvili to Zelenskyy.
+
+### August 27, 2026
+- **Mdinaradze resigns; analyst calls it "prelude to Kobakhidze's downfall"** — Regional Development Minister Mamuka Mdinaradze leaves politics. Analyst Gia Khukhashvili says it leaves Kobakhidze "like a child left home alone" — only loyalist removed, Ivanishvili positioning him as scapegoat.
+
+### September 1, 2026
+- **Pashinyan-Putin clash at Bishkek SCO summit** — Putin argues Armenia's EU accession law means leaving EAEU; offers to remove Gyumri military base. Pashinyan rejects referendum, says "question not yet ripe." Growing Armenia-West pivot reshapes Georgia's regional context.
+
+### September 2, 2026
+- **Second dredging vessel reaches Anaklia** — Belgian Jan De Nul's al-Idrisi arrives, joining Tristao Da Cunha; combined 70,000 m³/day capacity. Breakwater base section completed, dredging begun in entrance channels. State-led landlord model proceeding after China's exit.
