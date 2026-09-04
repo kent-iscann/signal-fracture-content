@@ -72,6 +72,7 @@
 - Global Peace Index: 56th (up from 61st)
 - SDSN Sustainable Development Report: 67th/169 (score 72.0, up from 70th)
 - KazTransOil: BBB/Stable (Fitch, June 2026)
+- Oil production loss from drone war: ~$3.5B in H1 2026 (9% production decline)
 - Russia-Kazakhstan trade record: $29B (2025)
 - China-Kazakhstan trade: >$48B (2025), rail freight 35.6M tons (+11%)
 - Turkey-Kazakhstan energy: TPAO entry, ANKA UAV deal
@@ -107,6 +108,7 @@ Kazakhstan is navigating between great-power pressures while pursuing economic d
 - **Tengiz oil production figures** appear in multiple outlets — skip if figure matches existing sources
 - **CPC (Caspian Policy Center) articles** have unique analytical framing — each can be a valid separate source if angles are distinct
 - **Oeconomus/think tank overviews** are comprehensive — treat as one source entry, do NOT extract individual data points as separate sources
+- **EU Reporter and EU Today** are both Brussels-based outlets covering EU-Kazakhstan angles — check for story overlap before adding both
 
 ## Key Analysts/Commentators to Track
 - **Michel Duclos** (Institut Montaigne) — Frames Kazakhstan as middle-power test case
@@ -114,6 +116,7 @@ Kazakhstan is navigating between great-power pressures while pursuing economic d
 - **Dmitry Mun** (Vice Minister of AI and Digital Development) — Primary source for AI policy
 - **Federico Verri** (JCAS, 2026) — Introduced "sovereign connectivity statecraft" framework
 - **Julia Mohr** (CPC) — Azerbaijan-Kazakhstan connectivity analysis
+- **Sapargali Shalgimbayev** (Cfive, Astana) — Kazakhstan analyst focused on US-Kazakhstan relations, sanctions balancing, CPC diplomacy
 - **Thierry Marquez** (CES Intelligence) — "Landbridge trap" framework for Kazakhstan's structural vulnerability
 
 ## Active Strategic Debates (August 2026)
