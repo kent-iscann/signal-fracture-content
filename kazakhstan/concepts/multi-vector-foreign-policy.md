@@ -136,3 +136,16 @@ Whether multi-vector foreign policy can survive the intensifying great power com
 - The US State Department drafted a note telling Pax Silica signatories they must not participate in Chinese WAICO. Kazakhstan signed both (June and July).
 - Justin Burke (Eurasianet, Aug 19): The ultimatum risks being a **"lose-lose"** proposition for the US and Central Asia. Kazakhstan's multi-vectorism faces a crushing dilemma: choosing one AI bloc threatens the other relationship, and either choice carries significant economic consequences. Tokayev's praise of China's innovation ecosystem at WAICO's founding may have helped spur the US ultimatum.
 - KZ and Uzbek academies jointly developing a research AI platform — effectively pushing back against US exclusivity — demonstrating multi-vectorism in practice.
+
+## FPC amendments (Aug 14, 2026) — Timesca analysis
+- Tokayev signed targeted amendments to the 2020-2030 Foreign Policy Concept. Key changes: removed remaining references to Nursultan Nazarbayev's formal role and the "Elbasy" title; adapted to the new unicameral Kurultai constitution; gave the Astana International Forum formal recognition in diplomatic doctrine.
+- The Aug 21 Timesca analysis by Vagit Ismailov places the amendments in strategic context: CPC tanker attacks, expanded Western sanctions scrutiny, the Belfer Center study describing Kazakhstan as an "aspiring middle power," and multi-vector diplomacy that is "far more demanding than it was in 2020."
+- Tokayev's foreign policy continuity shifted from personal (Nazarbayev) to institutional basis. The revised concept no longer names Nazarbayev or lists the Constitutional Law on the First President among its legal foundations.
+- Conclusion: The amendments adapt existing doctrine to changed political institutions rather than announcing a new foreign policy. Effectiveness depends on whether broader relationships, alternative trade routes, and wider diplomatic access translate into greater resilience and freedom of action.
+
+## Tokayev's SCO/Xinhua middle power messaging (Sept 1-2, 2026)
+- During the 26th SCO summit in Bishkek and an exclusive Xinhua interview, Tokayev presented Kazakhstan as a "middle power" capable of bridging geopolitical divisions. Argued SCO principles of equality and consensus should become a UN General Assembly resolution — proposed a "gold standard" for multilateral cooperation.
+- Core framing: "Kazakhstan believes its future influence will come not from choosing between competing blocs, but from connecting them." — encapsulates multi-vector diplomacy as a positive-sum rather than zero-sum strategy.
+- Proposed creating an International Water Organisation under UN auspices (addressing growing Central Asian water security concerns) — alongside an SCO Water Problems Analysis Centre.
+- Announced establishment of an Asia-Pacific digital solutions centre in Almaty under UN ESCAP auspices.
+- The Xinhua interview described Kazakhstan-China relations as at an "unprecedentedly high level" and extending beyond traditional energy into AI, robotics, digital transformation, and advanced manufacturing.

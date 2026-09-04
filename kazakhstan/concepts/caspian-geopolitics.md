@@ -92,3 +92,9 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - **China's route diversification:** China does not want to be too dependent on Kazakhstan. The China-Kyrgyzstan-Uzbekistan railway is significant not just as a project but as part of creating additional options — onward to Turkmenistan/Iran, or eventually to Afghanistan/Pakistan.
 - **Central Asian route planning:** Uzbekistan increasingly prioritizing Afghanistan as connector to Pakistani ports. Uzbekistan leaders "talking about the importance of Afghanistan" (Moriyasu). Regional governments seeking redundancy through multiple corridors.
 - The analysis confirms Kazakhstan's strategic problem: export infrastructure connecting oil to world markets can become exposed to a war in which Kazakhstan has no direct military role. Eurasia's energy map is being redrawn not because resources have changed, but because the political meaning of routes around them has.
+
+## Oil production losses from Ukraine war (H1 2026)
+- Kazakh oil production fell by **9%** during the first seven months of 2026, translating into roughly a **$3.5 billion loss** in state revenue (regional media reports via Eurasianet, Aug 13, 2026).
+- After Astana mounted a lobbying campaign in Washington, US administration officials pressured Ukrainian authorities into **pledging to refrain from further strikes against Russian infrastructure that handle Kazakh oil exports** (Bloomberg, Aug 8, 2026; confirmed by Eurasianet).
+- The diplomatic success demonstrates Kazakhstan's ability to leverage Washington ties to protect the CPC pipeline route — a practical application of multi-vector balancing.
+- Despite the pledge, the structural vulnerability remains: the CPC system is embedded in Russian infrastructure, and any escalation affecting Russian energy logistics creates spillover risks for Kazakh exports.

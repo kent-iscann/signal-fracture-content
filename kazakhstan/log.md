@@ -421,3 +421,15 @@
 - timeline/kazakhstan-timeline.md: added Aug 7-27 entries
 - index.md: updated source count
 - log.md: updated
+
+---
+
+## 2026-09-04 - Weekly Source Update
+- **New sources:** 3
+- **Source 83:** [EU Reporter: Tokayev links Kazakhstan-China partnership](https://www.eureporter.co/world/2026/09/02/tokayev-links-kazakhstan-china-partnership-to-wider-vision-for-a-more-connected-and-cooperative-eurasia) — Tokayev used SCO summit and Xinhua interview to frame Kazakhstan as "middle power" bridging geopolitical divisions. Proposed International Water Organisation under UN auspices. Argued SCO principles as UN General Assembly resolution model.
+- **Source 84:** [Times of Central Asia: Kazakhstan Updates Its Foreign Policy Concept](https://timesca.com/kazakhstan-updates-its-foreign-policy-concept-in-a-more-difficult-era) — In-depth analysis of Aug 14 FPC amendments. Removes Nazarbayev references, adapts to Kurultai constitution, formalizes Astana International Forum. Belfer Center study cites Kazakhstan as "aspiring middle power."
+- **Source 85:** [Eurasianet: Kazakhstan adapting to changing US stance on Russia](https://eurasianet.org/kazakhstan-adapting-to-changing-us-stance-on-russia) — US Senate passed Graham sanctions bill (Aug 7). Kazakh oil production fell 9% in H1 2026 (~$3.5B loss). Kazakhstan lobbying secured Ukrainian pledge to stop CPC strikes.
+### Files updated
+- sources.md: 82 → 85
+- index.md: updated source count and date
+- log.md: updated
