@@ -183,5 +183,15 @@
 - **New sources:** 3
 - **Source 139:** [OC Media] Aliyev suggests Azerbaijan could supply Armenia with electricity — Aliyev stated Azerbaijan could supply electricity to Armenia citing Metsamor NPP dependency. Specialists surveyed Armenia, identified pylon sites. Power line to Nakhchivan ready, 6 months to complete.
 - **Source 140:** [OC Media] Officials from Armenia, Azerbaijan meet in Lachin to discuss electricity trade — Working-level energy meeting in Lachin between Armenian and Azerbaijani officials to discuss electricity trade and infrastructure interconnection. Concrete step following Aliyev's political statement.
-- **Source 141:** [CEPA] Trump's Route Begins to Re-Make the South Caucasus — Emil Avdaliani analysis of TRIPP first anniversary. US companies reached ~$8B deals with Azerbaijan. Railway link to Armenia expected 2027. Construction on Armenian soil late 2026-early 2027.
-- **Files updated:** sources.md, index.md, domain-notes.md, log.md
+|- **Source 141:** [CEPA] Trump's Route Begins to Re-Make the South Caucasus — Emil Avdaliani analysis of TRIPP first anniversary. US companies reached ~$8B deals with Azerbaijan. Railway link to Armenia expected 2027. Construction on Armenian soil late 2026-early 2027.
+|- **Files updated:** sources.md, index.md, domain-notes.md, log.md
+
+## 2026-09-05 - Weekly Source Update
+|- **New sources:** 6 (143–148)
+|- **Source 143:** [OC Media] Pashinyan and Aliyev meet at SCO summit amidst news of Armenian exports to Azerbaijan — First leader-level meeting since June elections (Aug 31, Bishkek). Discussed peace process, delimitation, TRIPP. Mirzoyan: Armenian exports to Azerbaijan to begin "in the next few days."
+|- **Source 144:** [JAMnews] What Pashinyan and Putin agreed in Bishkek — First Pashinyan-Putin meeting since April. Putin pressed EU referendum; Pashinyan rejected. Agreed to explore selling South Caucasus Railway concession to third party acceptable to both.
+|- **Source 145:** [JAMnews] Pashinyan: "If Russia decides to withdraw its military base, we will not object" — Pashinyan says 102nd base not vital. Putin had said Russia would leave "tomorrow." Also discussed: no visa plans, nuclear plant proposals.
+|- **Source 146:** [Caucasus Watch] Zelenskyy Backs Armenia's European Course, Pashinyan Signals EU Membership Bid — Zelenskyy welcomed Armenia's EU orientation. Pashinyan said he'd be "glad if expelled from CSTO."
+|- **Source 147:** [EU Neighbours East] Yerevan hosts Armenia-Türkiye business conference — EU Ambassador Maragos opened forum with ~200 business leaders. EU normalization program April 2026-Sep 2027.
+|- **Source 148:** [MassisPost] The Peace Aliyev Offers Armenia — Analysis of Aliyev's dual peacemaker/victor discourse. Covers Bishkek meeting, Pashinyan's TRIPP talk with Senator Daines.
+|- **Files updated:** sources.md, index.md, log.md
