@@ -80,6 +80,8 @@
 |- **Philippine Star / Manila Bulletin / PNA** useful for official statements but often rehash the same press release
 |- **New (Aug 2026): Macacua ambush covered by Inquirer, SunStar, PNA, Facebook — all covering SAME event from different angles. Pick best single source for event report, add supplementary for unique angles (e.g. Inquirer for BIAF suspension detail, SunStar for Comelec reaction, PNA for unified condemnation quotes).**
 |- **New concept tracking:** Banlaoi's "diffusing violence" thesis — shift from ideological terrorism to PAGs/rido/election intimidation tied to unfinished normalization. Track via RSIS and academic sources.
+|- **ANFREL Pre-Election Assessment Report (Sep 1, 2026)** is a comprehensive standalone source distinct from the pre-campaign statement (Source 40) — the full PEAM report contains detailed analysis of legal framework, representation barriers, and controlled voting risks.
+|- **COMELEC areas of concern: earlier reported 92 towns/42 barangays. Later ANFREL reports 108 red areas. These are successive escalations, not the same data — keep both.**
 
 ## Prediction History
 - Report 1 (06-06-2026): 70% — "The Marcos administration will use the BTA extension to increase Manila's direct influence over BARMM governance, reducing MILF autonomy in the name of election stability."
