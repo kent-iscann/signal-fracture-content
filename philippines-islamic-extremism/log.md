@@ -72,9 +72,8 @@
 - **Source 54:** SunStar "Barmm Interim Chief Minister's convoy ambushed" (Aug 16) — Details of Aug 15 ambush; Comelec directs PNP/AFP investigation
 - **Timeline updated:** 7 new events (Aug 9 - Aug 17)
 
-## 2026-08-29 - Weekly Source Update
-- **New sources:** 3 (54→57)
-- **Source 55:** PhilStar "Colombia-like stipend system eyed for decommissioned MILF members" (Aug 28) — Government reassessing socioeconomic assistance for decommissioned MILF combatants; considering monthly stipend modeled on Colombia's peace framework. Sarmiento notes most MILF members are 50-65, making vocational training impractical. Precedes Kuala Lumpur peace talks in September.
-- **Source 56:** PhilStar "Terrorist wanted for 26 criminal cases killed in Maguindanao del Sur clash" (Aug 25) — DI remnant Rambo Guiasalim killed in Aug 23 shootout in Shariff Aguak. Connected to 2015 Mamasapano SAF 44 incident. Signals continued low-level DI remnant activity.
-- **Source 57:** PNA "Comelec forms task forces vs vote-buying ahead of BARMM polls" (Aug 27) — Comelec creates anti-vote-buying task forces across BARMM provinces. Garcia warns of disqualification, proclamation withholding.
-- **Timeline updated:** 4 new events (Aug 23 - Aug 28)
+## 2026-09-05 - Weekly Source Update
+- **New sources:** 2 (57→59)
+- **Source 58:** ANFREL-NDI Pre-Election Assessment Report for the First BARMM Parliamentary Elections (Sep 1, 2026) — Comprehensive assessment by ANFREL and NDI: 108 red areas of concern (21 in Lanao del Sur), robust COMELEC preparations but warns of MILF-UBJP/BFP polarization, controlled voting risks, and limited voter understanding of parliamentary system. Only 14 of 107 district candidates are women; zero candidates with disabilities. 5 immediate priorities identified.
+- **Source 59:** First BARMM Parliamentary Elections Debate / Bangsamoro parties clash (Rappler, Aug 27, 2026) — All 13 RPPPs face off at Notre Dame University in historic first debate. Topics include socioeconomic reforms, rido, Sulu exclusion, electoral integrity. Only 2 of 13 debaters are women. COMELEC also affirms Moro Ako Party cancellation.
+- **Timeline updated:** 6 new events (Aug 27 - Sep 1)

@@ -1,6 +1,6 @@
 # Islamic Extremism in the Philippines Wiki Index
 
-> Content catalog. Last updated: 2026-08-29 | Total pages: 13 | Total sources: 57
+> Content catalog. Last updated: 2026-09-05 | Total pages: 13 | Total sources: 59
 
 ## Timelines
 - [[philippines-islamic-extremism-timeline]] -- Chronological overview (1991–2026)
