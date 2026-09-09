@@ -93,6 +93,11 @@
 - **South Africa Manganese Metal Co building $25M plant for 5,000t battery-grade manganese sulphate**
 - **Domestic mineral processing in Africa estimated to create 2.3M jobs and lift continental GDP by ~12%**
 - **Gulf capital: non-oil GCC-Africa trade exceeded $100B**; IRH (Abu Dhabi) acquired 51% Mopani ($1.1B); Manara Minerals (Saudi PIF) pursuing First Quantum stake ($1.5-2B)
+- **SA-China trade through July 2026: $37.8B** — gold 35.6% of SA exports, PGMs 19%, chrome ore 20%, manganese 8.8%, iron ore 14% (China-Global South Project)
+- **DH Mining (Jinan Yuxiao Group) Nipepe graphite plant, Mozambique** — $200M, 200,000 t/yr capacity, 110km roads, bridge, 100km power lines; Jan 2026 inauguration
+- **Jinan Yuxiao Group holds >500,000 hectares** in Mozambique mining concessions for heavy mineral sands (titanium, ilmenite, rutile, zircon); China leading buyer of titanium feedstock
+- **CNMC plans >190,000t copper output by 2030** via $513M Luanshya redevelopment in Zambia; $300M convertible bond
+- **Three Chinese OEMs** confirmed building transformer/wire/pylon plants in South Africa post-Ramokgopa Beijing delegation (Sep 2026)
 
 ## Common Dedup Pitfalls
 - **Reuters/Business Insider republication:** The same EU roadshow story appears across Business Insider Africa, Reuters, and various aggregators. Check dates — if within the same week, it's the same reporting.
