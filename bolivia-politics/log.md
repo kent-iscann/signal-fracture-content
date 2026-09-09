@@ -100,3 +100,13 @@
 - **Source 41:** Two new probes opened into Fernando Cerimedo (Buenos Aires Times/Perfil) — Paz distances from Cerimedo; money-laundering and drug-trafficking investigations opened; Opposition calls for OAS special committee.
 - **Source 42:** Bruising week for Bolivia's President Paz as scandal and setbacks test his presidency (ABC News/AP) — Only 6 of 15 ministers remain; National Unity party breaks with Paz; contaminated gasoline damages 10k+ vehicles; Cerimedo raid reveals cash and bot farm; analyst Veronica Rocha: "balance of power unfavorable to government."
 - **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, entities/Rodrigo Paz.md, concepts/Bolivia's Post-MAS Fragmentation.md, index.md, log.md
+
+## 2026-09-09 - Weekly Source Update
+- **New sources:** 6 (total 42 → 48)
+- **Source 43:** Bolivia Places YPFB Under State Intervention (energynews.pro) — Supreme Decree 5697, 180-day state takeover of YPFB; government to strip fuel marketing role; half of state-imported fuel smuggled with employee complicity; diesel doubled to $1.50/liter.
+- **Source 44:** Bolivia 2026: The Lithium That Waited (CES Intelligence) — Comprehensive geopolitical risk assessment with major new data: boliviano at 12.26/USD, reserves fell to $73M, gas production halved, YLB output at 2,000/15,000 tonnes, China envoy lobbied in Beijing, Shield of the Americas formalized Mar 7.
+- **Source 45:** Twin blasts at Viacha military base (Al Jazeera/Reuters) — Explosion at fireworks storage kills at least 10, injures 62, leaves 7 missing. Paz declares national mourning.
+- **Source 46:** New Roadblocks Challenge Paz's State of Exception (Left Voice) — San Pablo (Beni) blockades; YPFB tankers stranded; police/military crackdown; quinoa farmers, Six Federations, truck drivers, miners threaten further disruptions.
+- **Source 47:** The Irresistible Rise and Fall of Evo Morales (The Ideas Letter) — Pablo Stefanoni historical analysis of MAS origins, "Andean capitalism," post-MAS fragmentation, left searching for new leaders.
+- **Source 48:** Trump, Paz, and Lithium – US Pivot on Bolivia (Oakland Institute) — Decree 5675 eliminated environment/planning ministry; US critical minerals MOU signed April 27; Paz offers Western mining incentives.
+- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, domain-notes.md, log.md

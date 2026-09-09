@@ -86,6 +86,7 @@
 - **Supreme Decree 5676:** Aug 17, 2026 — sets 18 BOB/litre diesel for large consumers (83.7% increase); government admits failure within 9 days, deputy minister says "cabinet does want to repeal it"
 - **Christian Morales appointment:** Aug 25, 2026 — replaces censured Espinoza as economy minister; signals policy continuity; Paz reveals $7-10B in active multilateral negotiations
 - **State of emergency:** June 20 – Sept 20, 2026 (90 days); 10+ organizations still defying it as of Aug 26
+- **YPFB intervention (Sep 1, 2026):** Supreme Decree 5697 orders 180-day state takeover of YPFB over fuel shortages. Government intends to strip YPFB of fuel marketing role. Half of all state-imported fuel smuggled with employee complicity.
 - **Petrobras:** Invited to return to Bolivia (July 9, 2026)
 - **ALBA:** Suspended Bolivia
 - **Moody's:** Caa3 rating; 2026 contraction projected
@@ -103,6 +104,14 @@
 - **Law 157 on Agrarian Conversion (April 8, 2026):** Enables purchase of peasant lands
 - **Shield of the Americas:** Paz joined regional military-security alliance
 - **Private fuel imports:** Authorized July 2026 — partially breaking YPFB monopoly
+- **Boliviano at 12.26/USD (Sep 2026):** 76% above old peg of 6.96; further weakening from 11.93 on Aug 28
+- **Liquid reserves nadir:** Fell as low as $73M before recovering towards $1.1B (CES Intelligence, Sep 2026)
+- **Gas production decline:** 60.8M m³/day (2014) → 28.6M (mid-2025); Argentina stopped buying; Brazil exports cease by 2030 per Wood Mackenzie
+- **YLB lithium output:** ~2,000 tonnes in 2024 against 15,000-tonne nameplate
+- **Shield of the Americas:** Founding member as of March 7, 2026 (NYT)
+- **US critical minerals MOU:** Signed with Bolivia April 27, 2026 (Oakland Institute)
+- **Decree 5675 (Aug 2026):** Eliminated Ministry of Development Planning and Environment
+- **YPFB intervention (Sep 1, 2026):** Supreme Decree 5697 — 180-day state takeover; intervention commission from 4 ministries; government intends to strip YPFB of fuel marketing role; half of state-imported fuel smuggled with YPFB employee complicity; Minister Blanco admits "regular measures failed"
 
 ## Prediction History
 | Date | Probability | Δ | Key Driver |
@@ -157,9 +166,10 @@
 7. **Protest trajectory:** 200+ events in June → ~40 in July — road blockades now surpass 2025 cumulative damage (FEPC); Santa Cruz ag sector threatens Asamblea de la Cruceñidad
 8. **Energy reform viability:** Can Paz break YPFB monopoly and attract private investment amid political crisis?
 9. **Cerimedo shadow governance:** Scandal expands to money-laundering and drug trafficking; bot farm seized; Paz denies formal link; Beller alleges elite police unit under Cerimedo's command — how deep does the parallel governance structure run?
-10. **Dollar freefall:** Boliviano slides from 9.73 at June float to 11.93 by Aug 28 — can the floating rate stabilize or is further devaluation inevitable?
+10. **Boliviano freefall:** Boliviano slides from 9.73 at June float to 12.26 by early Sep 2026 (76% above old 6.96 peg) — can the floating rate stabilize or is further devaluation inevitable?
 11. **GDP/inflation spiral:** Central bank projects -3.6% contraction and 17% inflation for 2026 — can the reform program reverse this trajectory?
 12. **Cabinet hemorrhage:** Only 6 of 15 original ministers remain; contaminated gasoline scandal, Espinoza Audi scandal, and Cerimedo crisis erode remaining credibility
+13. **YPFB state intervention viability:** Supreme Decree 5697 imposes 180-day state takeover. Can stripping YPFB of fuel marketing and transferring to private sector solve persistent shortages, or does it signal deepening crisis of state capacity?
 
 ## File Update Checklist (per source added)
 When ingesting a new source, update ALL of the following in a single session:
