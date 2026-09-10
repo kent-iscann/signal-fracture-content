@@ -292,5 +292,12 @@
 - **Source 73:** JAMnews: Mdinaradze resignation 'prelude to Kobakhidze's downfall' — Analyst Gia Khukhashvili says resignation leaves Kobakhidze with no loyalists; Ivanishvili positioning him as scapegoat.
 - **Source 74:** JAMnews: Terabank sale — Armenian Arins Group acquiring Terabank; possible Russian link via A7/Ilan Shor (sanctioned); NBG approval pending; sanctions evasion vulnerability.
 - **Source 75:** JAMnews: Is Georgia expecting a new wave of Russian migrants? — Upper Lars data analyzed; Russian citizens 18% of property buyers (up from 13%); mobilization rumors persist.
-- **Source 76:** JAMnews: Pashinyan-Putin Bishkek meeting — Putin argues EU/EAEU incompatibility, offers to remove Gyumri base; Pashinyan rejects referendum; Armenia-West pivot accelerates, reshaping Georgia's regional context.
-- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
+|- **Source 76:** JAMnews: Pashinyan-Putin Bishkek meeting — Putin argues EU/EAEU incompatibility, offers to remove Gyumri base; Pashinyan rejects referendum; Armenia-West pivot accelerates, reshaping Georgia's regional context.
+|- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
+
+## 2026-09-10 - Weekly Source Update
+- **New sources:** 3 (77–79)
+- **Source 77:** CACI Analyst: A New Formula for Georgia's Anaklia Deep-Sea Port — Emil Avdaliani analysis of landlord model transition after China's exit. Multi-investor approach reduces single-power dependence, facilitates US-Georgia normalization, deepens Central Asia ties. Notes landlord model may ease Russian NATO concerns while Middle Corridor role still weakens Russia's Eurasian trade leverage.
+- **Source 78:** Caucasus Watch: Russia Signals Wider Economic Cooperation — Russian Security Council Deputy Shevtsov names Georgia for interregional cooperation beyond trade toward joint production chains. Demonstrates Moscow's continued economic courtship despite no diplomatic relations.
+- **Source 79:** Caucasus Watch: Georgia, US Agencies Conduct CBRN Threat Response — US DTRA and Georgia's SSSG conducted "NEXUS Georgia 2026" in Batumi. Evidence of continuing working-level US-Georgia security cooperation despite frozen political relations.
+- **Files updated:** sources.md (+3), index.md, log.md
