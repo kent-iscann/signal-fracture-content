@@ -206,3 +206,8 @@
 - **Source #58**: "China Investment Surges as Debt Burden Shadows Sri Lanka's Recovery" -- Lanka News Web (August 30, 2026). Analytical piece on 25th anniversary Sri Lanka-China Business Council meeting. Frames the transition from debt-financed infrastructure to commercial investment. Covers FTA dilemma, Sinopec refinery ($3.7B), restructuring repayments extending to 2043.
 - **Files updated**: sources.md, index.md, timeline/china-sri-lanka-timeline.md, domain-notes.md, log.md
 - **Total sources**: 55 → 58
+
+## 2026-09-10 - Weekly Source Update | 1 new source (SSGA EM Debt Commentary Q2 2026)
+- **Source #59**: "Emerging Market Debt Market Commentary: Q2 2026" -- State Street Global Advisors (September 2026). Institutional investor perspective on Sri Lanka's sovereign bond market: Sri Lanka was among top 5 EM performers in Q2 2026 with 12.3% total return in USD, contributing 13 bps to EMBI GD index returns. Sentiment supported by IMF EFF progress. Sovereign ratings: Moody's Caa1 (Stable), S&P/Fitch CCC+. Provides market pricing signals complementing official IMF/Treasury data.
+- **Files updated**: sources.md, index.md, log.md
+- **Total sources**: 58 → 59

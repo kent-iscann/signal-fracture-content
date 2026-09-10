@@ -1,6 +1,6 @@
 # Sources
 
-| Total sources: 58 | Last updated: 2026-09-03
+| Total sources: 59 | Last updated: 2026-09-10
 
 ## Debt and Lending
 
@@ -335,3 +335,11 @@
 58. "China Investment Surges as Debt Burden Shadows Sri Lanka's Recovery" -- Lanka News Web (August 30, 2026)
     https://lankanewsweb.net/archives/263504/china-investment-surges-as-debt-burden-shadows-sri-lankas-recovery
     Analytical piece covering the 25th anniversary gathering of the Sri Lanka–China Business Council. Frames the fundamental transformation in bilateral relations from debt-financed mega infrastructure toward investment in energy, manufacturing, logistics, and commercially productive ventures. Key elements: Council President Haroun Cader stressed SME access to Chinese markets; restructuring figures of ~$4.2B (EXIM Bank) and ~$3.3B (CDB) with repayments extending to 2043; proposed $3.7B Sinopec refinery at Hambantota; Colombo Port City integrated development. Highlights the strategic dilemma of the proposed FTA — Sri Lanka needs Chinese market access but its smaller industrial base could be exposed to cheaper Chinese manufactured goods. Notes China's separate OCC negotiations and transparency concerns. Argues the critical test is whether Chinese capital helps Sri Lanka produce, export, and earn foreign exchange to reduce structural import dependence.
+
+---
+
+## Investor Confidence & Sovereign Bond Market
+
+59. "Emerging Market Debt Market Commentary: Q2 2026" -- State Street Global Advisors (SSGA), by Sudharsan Balaji (September 2026)
+    https://www.ssga.com/us/en/institutional/insights/emerging-market-debt-commentary-q2-2026
+    Institutional investor market commentary from one of the world's largest asset managers. Key data on Sri Lanka's sovereign bond market performance: Sri Lanka was among the top 5 emerging market performers in Q2 2026 with a 12.3% total return in USD, contributing 13 bps to the EMBI GD index returns. Sentiment was supported by continued IMF EFF progress — the combined 5th and 6th reviews approved May 27, 2026, unlocking ~$695M (cumulative ~$2.4B). Program performance assessed as "generally strong" with all end-December 2025 quantitative criteria met. Sovereign ratings: Moody's Caa1 (Stable), S&P/Fitch CCC+. Gains were part of a broader EM high-yield tightening cycle driven by US-Iran de-escalation, with Sri Lanka grouped among distressed issuers (alongside Venezuela, Ukraine, Kenya) that amplified the move. Provides a rare institutional investor perspective on Sri Lanka's post-default sovereign debt market recovery, complementing official IMF and Treasury data with market pricing signals.
