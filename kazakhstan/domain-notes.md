@@ -58,7 +58,9 @@
 
 ## Key Economic Data Points
 - Nominal GDP: **$360.5B projected for 2026** (up from $302.8B in 2025) — ~19% increase
-- 2026 oil production target: 98M tons (down from 100.5M due to Tengiz outages)
+- GDP at PPP: **~$993.7B in 2026** (IMF, approaching $1T milestone)
+- Tenge: **Best-performing currency in Europe/Asia 2026** (+10% vs USD, Financial Times)
+- 2026 oil production target: 98M tons (down from 100.5M due to Tengiz outages); later cut to 96M (CPC attacks)
 - BTC pipeline target: 1.5-2.2M tons (up from ~1.2M)
 - FDI target: $25.5B in 2026 (up from $20B in 2025)
 - AI venture funding: $73M (2025), up from $14M (2023)
@@ -68,7 +70,7 @@
 - VC funding: $209M (3x YoY), total startup valuation $2.16B
 - World Bank HCI+: 42nd/161 (up 13 positions)
 - Microsoft AI Diffusion: 70th/147 (15.9% adoption, leads Central Asia/EAEU)
-- IMD World Competitiveness: 34th (up from 37th in 2023)
+- IMD World Competitiveness: 34th (up from 37th in 2023) [2025 data]; 38th in 2026 (score 65.4, new methodology)
 - Global Peace Index: 56th (up from 61st)
 - SDSN Sustainable Development Report: 67th/169 (score 72.0, up from 70th)
 - KazTransOil: BBB/Stable (Fitch, June 2026)
@@ -77,6 +79,9 @@
 - China-Kazakhstan trade: >$48B (2025), rail freight 35.6M tons (+11%)
 - Turkey-Kazakhstan energy: TPAO entry, ANKA UAV deal
 - Digital Qazaqstan Strategy 2029 targets: 80% AI-skilled graduates, 70% energy assets on digital monitoring, 50% IT export growth, 5% annual EBITDA from AI in Samruk Kazyna
+- **Structural shift data (2026):** Kazakh Invest portfolio: 215 projects/$78.6B (88K+ jobs); 66 investment agreements/$38.6B since 2021. FDI $20.5B (2025, +14.4%), manufacturing investment +47.4%, mining -47%
+- **Oil refining expansion:** Capacity target doubled to 40M tonnes/yr by 2033 (from 18.4M in 2025). Fourth major refinery planned (up to 10M tonnes/yr)
+- **Global Talent Competitiveness Index:** Kazakhstan rose from 122nd to 83rd in professional/technical skills (Sept 2026)
 - KazISS (Mussabekova): BRI-SCO synergy operational framework — new source type (Kazakh official think tank in Chinese media)
 - Hudson Institute (Moriyasu): "Connector state" framework — Kazakhstan should move beyond raw resource export to processing, computing infrastructure, higher-value components
 - Route redundancy hierarchy: Middle Corridor > Afghanistan > CPC > Iran (Moriyasu assessment, Aug 2026)
@@ -89,7 +94,7 @@ Kazakhstan is navigating between great-power pressures while pursuing economic d
 
 **China:** BRI critical transit corridor. Trade exceeded $48B in 2025. 35.6M tons rail freight (+11%). 85%+ of China-Europe overland cargo transits Kazakhstan. $35B+ infrastructure investment over 7 years. Agricultural trade booming (+36.8% YoY). Nuclear energy cooperation with CNNC for 2 large-scale reactors. **Military cooperation expanding (Aug 2026):** Uzbekistan reportedly received 4 J-10CE fighters (24 planned) — China directly challenging Russia's arms market grip. **Tariff evasion risk:** Trump admin white paper names Kazakhstan as Tier III conduit for China's US-bound exports ($40B-$303B estimated annual evasion).
 
-**West:** Growing secondary sanctions risk. EU 20th sanctions package (April 2026) anti-circumvention tool. UK A-7 network sanctions — warning to Kazakhstan. **EU breakthrough (June 21-23):** Tokayev visited Brussels, signed $12B+ in agreements — 50 Airbus jets (€7.1B), critical raw materials partnership, green hydrogen under Global Gateway.
+**West:** Growing secondary sanctions risk. EU 20th sanctions package (April 2026) anti-circumvention tool. UK A-7 network sanctions — warning to Kazakhstan. **EU breakthrough (June 21-23):** Tokayev visited Brussels, signed $12B+ in agreements — 50 Airbus jets (€7.1B), critical raw materials partnership, green hydrogen under Global Gateway. **Trans-Caspian Enterprise Fund (2026):** US State Dept established fund to catalyze private investment in Caspian trade links — signals growing US commitment to Caspian connectivity. **Tenge best performer 2026:** Financial Times ranked tenge best-performing currency in Europe/Asia (+10% vs USD). IMF: GDP at PPP $993.7B (approaching $1T).
 
 **Turkey:** TPAO entered Kazakhstan energy market. ANKA UAV production deal. Turkey is Kazakhstan's leading trade partner in Turkic world.
 

@@ -433,3 +433,25 @@
 - sources.md: 82 → 85
 - index.md: updated source count and date
 - log.md: updated
+
+---
+
+## 2026-09-11 - Weekly Source Update
+- **New sources:** 6
+- **Source 86:** [Kazakhstan-China Trade Rises 24% to $32.4bn](https://www.kt.kz/eng/economy/kazakhstan-china_trade_rises_24_to_32_4bn_1377999460.html) — Bilateral trade reached $32.4B in Jan-Jul 2026 (+24.1%). Belt and Road Summit in Hong Kong. Middle Corridor freight +22%, East-West transit +55%. Minister Shakkaliyev: Kazakhstan moving beyond infrastructure toward deeper regional value chains.
+- **Source 87:** [EU Reporter: Economic reforms turned tenge into best-performing currency](https://www.eureporter.co/general/2026/09/07/how-kazakhstans-economic-reforms-have-turned-the-tenge-into-the-best-performing-currency-in-europe-and-asia) — Tenge best in Europe/Asia (+10% vs USD). IMD ranking 38th. IMF: GDP at PPP $993.7B (approaching $1T). Construction +13.4%, machinery +23.3%, pharma +35.2%.
+- **Source 88:** [The Diplomat: Securing Navigation for Trans-Caspian Trade](https://thediplomat.com/2026/09/securing-navigation-for-trans-caspian-trade) — BTC only 2.3% of Kazakh oil. US Trans-Caspian Enterprise Fund established. Caspian Sea as only exit route avoiding Russia/China/Iran/Afghanistan.
+- **Source 89:** [Astana Times: Structural Shift Toward Non-Resource Economy](https://astanatimes.com/2026/08/kazakhstan-has-begun-structural-shift-toward-non-resource-economy-expert-says) — FDI $20.5B (+14.4%), manufacturing investment +47.4%, mining -47%. Kazakh Invest: 215 projects/$78.6B. Data Center Valley could reach $30B.
+- **Source 90:** [Times of Central Asia: After CPC Disruptions, Kazakhstan Wants to Refine More Oil at Home](https://timesca.com/kazakhstan-oil-refining-expansion-cpc-disruptions) — Doubling refining capacity from 18.4M to 40M tonnes. Oil forecast cut to 96M tons. New 4th refinery planned. Baku-Supsa alternative route.
+- **Source 91:** [Qazinform: Kazakhstan climbs 39 spots in Global Talent Competitiveness Index](https://qazinform.com/news/kazakhstan-climbs-39-spots-in-global-talent-competitiveness-index-0d4f0b) — Rose from 122nd to 83rd in professional/technical skills. 200+ new professions expected.
+
+### Files updated
+- sources.md: 85 → 91 sources
+- index.md: updated source count and date
+- log.md: updated
+- entities/china.md: added trade data and Belt and Road Summit
+- entities/western-powers.md: added economic reforms/tenge performance
+- concepts/caspian-geopolitics.md: added Trans-Caspian navigation and refining expansion
+- concepts/resource-curse.md: added structural shift data and oil refining
+- concepts/tech-pivot.md: added talent competitiveness index
+- domain-notes.md: updated key data points

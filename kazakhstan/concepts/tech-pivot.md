@@ -13,7 +13,8 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 |- **Year of AI (2026):** Kazakhstan declared 2026 the "Year of Digitalization and Artificial Intelligence." Passed Central Asia's first comprehensive AI law. Launched National AI Platform and Alem.ai international AI center.
 |- **Data Center Valley:** In June 2026, Kazakhstan signed a $10 billion package with Firebird and NVIDIA to build a massive data center cluster in Ekibastuz, including a planned 100,000 NVIDIA GPU cluster.
 ## AI economic impact
-- AI adoption expected to contribute 0.5-2% to annual GDP growth in the medium term by improving productivity across more than half of all jobs.
+|- **Global Talent Competitiveness Index (Sept 2026):** Kazakhstan rose from 122nd to **83rd** in professional/technical skills. Minister Suleimenova announced: 200+ new professions expected to emerge, ~100 transforming, 125 declining. College funding to rise to **75B tenge by 2027** for TVET system adaptation. This supports the AI/digital skills pipeline for Digital Qazaqstan. 
+|- AI adoption expected to contribute 0.5-2% to annual GDP growth in the medium term by improving productivity across more than half of all jobs.
 - **AI training:** Approximately 1 million people received AI training by 2025; goal is to equip 5 million citizens with AI skills by 2030.
 - **Industrial digitalization:** Share of manufacturing enterprises using digital tools rose from **13% in 2022 to 21% in 2025**; 7,000 facilities deploying Industrial Internet of Things.
 - **Convention 108 observer status (June 2026):** Kazakhstan became first Central Asian country to obtain observer status at the Council of Europe's Convention 108, the leading international framework for personal data protection and privacy. Kazakhstan ranks **10th worldwide in UN Online Services Index** (leading CIS region).

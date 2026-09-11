@@ -8,7 +8,12 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - **Turkey's entry:** Turkey's TPAO entered Kazakhstan's energy market in 2026, signaling Ankara's search for a permanent institutional role in Central Asia's energy equation. The Middle Corridor is being framed not just as a trade route but as an energy corridor.
 - Kazakhstan is Turkey's leading trade partner in the Turkic world as of 2025.
 
-## Production challenges
+## Route diversification progress (Sept 2026)
+|- **BTC pipeline limitations:** Despite increased volumes, BTC carries only **2.3%** of Kazakhstan's oil production (The Diplomat, Sept 2026). 
+|- **Baku-Supsa alternative:** Energy Minister Akkenzhenov identified Baku-Supsa pipeline (Azerbaijan→Georgia Black Sea coast) as a "vital" alternative, capable of carrying ~5M tonnes/yr. No direct negotiations yet with Azerbaijan but preliminary groundwork exists.
+|- **Trans-Caspian Enterprise Fund:** US State Department established this fund in 2026 to catalyze private investment in Caspian trade links, signaling growing US commitment to Caspian connectivity.
+|- **Caspian Sea strategic value:** Identified as the only route out of Central Asia that avoids transit through Russia, China, Iran, or Afghanistan — essential for critical minerals access.
+|- **Refining expansion:** Kazakhstan accelerated oil refining expansion to **40M tonnes/yr by 2033** (doubling from 18.4M in 2025). New 4th major refinery planned (up to 10M tonnes/yr). Oil production forecast cut from 98M to 96M tons due to CPC attacks (3.5M tonnes lost). Russian crude processing proposal under consideration with sanctions-compliance risk from EU 21st package Kulevi precedent.
 - Kazakhstan revised its 2026 oil production target down to 98 million tons (from 100.5M) due to Tengiz field outages and CPC pipeline issues.
 - These constraints reinforce the urgency of diversification both in export routes and in the broader economy.
 

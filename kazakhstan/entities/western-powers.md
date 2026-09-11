@@ -5,7 +5,7 @@ The EU, US, and other Western countries are increasingly engaging with Kazakhsta
 ## Key dimensions
 - **EU engagement:** The first EU–Central Asia Summit was held in Samarkand in April 2025. The EU views Kazakhstan as a pragmatic interlocutor and a partner for energy diversification.
 - **US engagement:** The US has maintained diplomatic and economic ties with Kazakhstan, including cooperation on nuclear non-proliferation (Kazakhstan gave up its Soviet-era nuclear weapons) and counter-terrorism.
-- **Conditionality:** Western engagement comes with expectations on democratic governance, human rights, and sanctions compliance. Kazakhstan's authoritarian governance model limits the depth of Western partnerships.
+|- **Kazakhstan economic reforms (Sept 2026):** Financial Times ranked the tenge as the **best-performing currency in Europe and Asia in 2026** (+10% vs USD since Jan). Kazakhstan ranked **38th in IMD World Competitiveness 2026** (score 65.4). IMF estimated GDP at PPP reaching **$993.7B** — approaching $1T milestone. Construction +13.4%, machinery +23.3%, pharma +35.2% in H1 2026.
 - **Sanctions risk:** As Russia uses Kazakhstan to bypass Western sanctions, the risk of secondary sanctions against Kazakh entities increases. The UK's lowering of the Russian oil price cap in January 2026 heightened this risk.
 
 ## EU engagement deepening (June-July 2026)
