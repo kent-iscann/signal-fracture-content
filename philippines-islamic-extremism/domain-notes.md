@@ -65,6 +65,9 @@
 |- **Macacua ambush (Aug 15, 2026):** BARMM Interim CM Macacua survives ambush at 4:45 PM in Datu Odin Sinsuat, Maguindanao del Norte, hours after BFP proclamation rally — 3 armored vehicles hit, unharmed. Comelec treats as election-related. MILF made public June 3 suspension of Macacua as BIAF chief. Formalizes Macacua-MILF political breakup.
 |- **Comelec security escalation (Aug 17, 2026):** Additional security for field officials after Macacua ambush; Garcia: "damaged our record of zero election-related violence"
 |- **Colombia-style MILF stipend proposal (Aug 28, 2026):** GPH reassessing socioeconomic packages; considering monthly conditional stipend modeled on Colombia peace framework. Sarmiento: most MILF members 50-65, vocational training impractical. Precedes Kuala Lumpur talks.
+|- **DI-Maute financial link killed (Aug 29, 2026):** Mohaimen Hadji (alias Ibn Sali/Usama), DI-Maute media liaison and financial link to ISIS abroad, killed with wife in Marawi City. MSU Dec 2023 bombing suspect. Another suspect escaped.
+|- **Crisis Group Report #358 (Sep 3, 2026):** Comprehensive assessment of policing/justice in BARMM. Key data: military dominant, police capacity gaps, drug trade flourished post-Duterte, MILF decommissioning behind schedule, firearms proliferation fuels rido/political violence.
+|- **CCAA gun-ban monitoring (Sep 2026):** 58 gun-related incidents Jul 16-Aug 31 (32% increase over pre-ban). COMELEC targets 70-75% turnout. Voter uncertainty about parliamentary system widespread.
 
 ## Dedup Pitfalls
 - Many Manila Times / GMA / PhilStar articles rehash the same CCAA briefer data — treat as one source
@@ -82,6 +85,8 @@
 |- **New concept tracking:** Banlaoi's "diffusing violence" thesis — shift from ideological terrorism to PAGs/rido/election intimidation tied to unfinished normalization. Track via RSIS and academic sources.
 |- **ANFREL Pre-Election Assessment Report (Sep 1, 2026)** is a comprehensive standalone source distinct from the pre-campaign statement (Source 40) — the full PEAM report contains detailed analysis of legal framework, representation barriers, and controlled voting risks.
 |- **COMELEC areas of concern: earlier reported 92 towns/42 barangays. Later ANFREL reports 108 red areas. These are successive escalations, not the same data — keep both.**
+|- **New (Sep 2026): Crisis Group Report #358 (Policing the Bangsamoro)** is distinct from Report #355 (Moment of Truth, Jul 2026). #355 focuses on peace process/CAB diagnosis; #358 focuses on policing, justice, guns, and community violence. Both are major standalone sources.
+|- **New (Sep 2026): CCAA low-turnout warning (Rappler, Sep 2026)** has new gun-ban period data (58 incidents Jul 16-Aug 31, 32% increase) not covered in earlier CCAA reports (Source 42/44). Keep as separate source.
 
 ## Prediction History
 - Report 1 (06-06-2026): 70% — "The Marcos administration will use the BTA extension to increase Manila's direct influence over BARMM governance, reducing MILF autonomy in the name of election stability."

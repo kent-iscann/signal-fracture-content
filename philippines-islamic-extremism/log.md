@@ -73,7 +73,15 @@
 - **Timeline updated:** 7 new events (Aug 9 - Aug 17)
 
 ## 2026-09-05 - Weekly Source Update
-- **New sources:** 2 (57→59)
-- **Source 58:** ANFREL-NDI Pre-Election Assessment Report for the First BARMM Parliamentary Elections (Sep 1, 2026) — Comprehensive assessment by ANFREL and NDI: 108 red areas of concern (21 in Lanao del Sur), robust COMELEC preparations but warns of MILF-UBJP/BFP polarization, controlled voting risks, and limited voter understanding of parliamentary system. Only 14 of 107 district candidates are women; zero candidates with disabilities. 5 immediate priorities identified.
-- **Source 59:** First BARMM Parliamentary Elections Debate / Bangsamoro parties clash (Rappler, Aug 27, 2026) — All 13 RPPPs face off at Notre Dame University in historic first debate. Topics include socioeconomic reforms, rido, Sulu exclusion, electoral integrity. Only 2 of 13 debaters are women. COMELEC also affirms Moro Ako Party cancellation.
-- **Timeline updated:** 6 new events (Aug 27 - Sep 1)
+|- **New sources:** 2 (57→59)
+|- **Source 58:** ANFREL-NDI Pre-Election Assessment Report for the First BARMM Parliamentary Elections (Sep 1, 2026) — Comprehensive assessment by ANFREL and NDI: 108 red areas of concern (21 in Lanao del Sur), robust COMELEC preparations but warns of MILF-UBJP/BFP polarization, controlled voting risks, and limited voter understanding of parliamentary system. Only 14 of 107 district candidates are women; zero candidates with disabilities. 5 immediate priorities identified.
+|- **Source 59:** First BARMM Parliamentary Elections Debate / Bangsamoro parties clash (Rappler, Aug 27, 2026) — All 13 RPPPs face off at Notre Dame University in historic first debate. Topics include socioeconomic reforms, rido, Sulu exclusion, electoral integrity. Only 2 of 13 debaters are women. COMELEC also affirms Moro Ako Party cancellation.
+|- **Timeline updated:** 6 new events (Aug 27 - Sep 1)
+
+## 2026-09-12 - Weekly Source Update
+|- **New sources:** 3 (59→62)
+|- **Source 60:** Suspected terrorist, wife killed in Marawi City (MindaNews, Sep 1, 2026) — DI-Maute member Mohaimen Hadji (alias Ibn Sali/Usama), MSU Dec 2023 bombing suspect and group's media liaison/financial link to ISIS abroad, killed alongside wife in joint AFP-PNP operation in Marawi City on Aug 29. Confirms continued DI-Maute remnants despite AFP campaigns.
+|- **Source 61:** Policing the Bangsamoro: Peace in the Southern Philippines — Crisis Group Report #358 (Sep 3, 2026) — Major assessment of policing, justice, and security challenges in BARMM. Documents military dominance, police capacity gaps, judicial dysfunction, firearms proliferation, drug trade resurgence. Recommends police reform, community policing, ex-rebel recruitment into police, gun control, conflict resolution.
+|- **Source 62:** BARMM election faces low-turnout risk amid violence, voter uncertainty (Rappler, Sep 2026) — CCAA warns violence and low public confidence could depress turnout below 70-75% target. 58 gun-related incidents July 16–Aug 31 (32% increase over pre-ban). Documents voter uncertainty about parliamentary system, politicized voter education, skepticism toward BARMM government.
+|- **Timeline updated:** 5 new events (Aug 29 - Sep 10)
+|- **Domain notes updated:** new source types identified, dedup guidance refined
