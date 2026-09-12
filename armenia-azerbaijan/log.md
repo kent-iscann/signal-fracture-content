@@ -195,3 +195,14 @@
 |- **Source 147:** [EU Neighbours East] Yerevan hosts Armenia-Türkiye business conference — EU Ambassador Maragos opened forum with ~200 business leaders. EU normalization program April 2026-Sep 2027.
 |- **Source 148:** [MassisPost] The Peace Aliyev Offers Armenia — Analysis of Aliyev's dual peacemaker/victor discourse. Covers Bishkek meeting, Pashinyan's TRIPP talk with Senator Daines.
 |- **Files updated:** sources.md, index.md, log.md
+
+## 2026-09-12 - Weekly Source Update
+|- **New sources:** 7 (149–155)
+|- **Source 149:** [Caucasus Watch] EU Council backs two-year trade boost for Armenian exports — Council approved temporary trade-liberalization measures covering ~80% of Armenian exports (duty-free access for ~99% fresh fruit/veg, ~91% beverages/spirits). EP to adopt in September plenary.
+|- **Source 150:** [Caucasus Watch] Aliyev meets OSCE PA President Pons Sampietro — Pons Sampietro stated "one of the conflicts in the OSCE area had been resolved." Aliyev criticized Minsk Group's 30-year failure.
+|- **Source 151:** [ARKA] TRIPP construction may begin in early 2027 — Armenian Ambassador Mkrtchyan tells Semafor feasibility study by end 2026, US committed ~$201M, economic development estimated at $1.5B.
+|- **Source 152:** [JAMnews] Armenia building AI factory with Nvidia chips as peace dividend — Firebird center near Hrazdan: $500M first phase, 6,000 Nvidia Blackwell processors, 41,000 more GB300 authorized after Washington agreement. $4B+ total expected.
+|- **Source 153:** [RFE/RL] US Congressman Hamadeh predicts peace deal "before Trump's term ends" — House Armed Services member says TRIPP will bind countries politically/economically. Dismisses Russian troop deployment claims.
+|- **Source 154:** [Türkiye Today] Putin invites Pashinyan to Moscow for EU integration talks — Pashinyan accepted. Putin urged decision on EU vs EAEU, warned of incompatibility. Bilateral trade at $2.5B.
+|- **Source 155:** [Caliber.Az] Hajiyev says conflict is over, Azerbaijan moving towards lasting peace — "We are learning to live in conditions of peace." Peace means building trust, reconstruction, development.
+|- **Files updated:** sources.md, index.md, log.md
