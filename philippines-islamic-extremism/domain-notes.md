@@ -34,6 +34,7 @@
 
 ## Key Data Points
 - BARMM first parliamentary election: September 14, 2026
+- **September 3:** MILF Central Committee formally removes Abdulraof Macacua as BIAF (armed wing) Chief of Staff along with 40+ other BIAF commanders/officers at a general assembly at Camp Darapanan, Maguindanao del Norte — finalizing the June 3 indefinite suspension for insubordination. Friction: Marcos appointing Macacua Interim CM (Mar 2025) without Committee consultation; Macacua's removal of Iqbal from MBHTE; and Macacua running as an independent for Maguindanao del Norte 3rd District rather than under UBJP. Removal is from BIAF command positions ONLY (MILF membership retained). Macacua since installed as BFP chair. Leaves the top BARMM position "an open field" days before the Sept 14 polls. Confirms op-ed reporting (Al Jazeera, Sep 13) and closes a wiki gap — the June suspension was recorded, the Sept 3 finalization was not.
 - Violent extremism incidents: 40 (Jan–May 2026) vs 29 (late 2025)
 - Clan feuding: 43 incidents in first 4 months of 2026 (vs 48 for all of 2025)
 - Deaths from VE: 20 (Jan–May 2026) vs 9 (late 2025)

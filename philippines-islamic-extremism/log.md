@@ -85,3 +85,10 @@
 |- **Source 62:** BARMM election faces low-turnout risk amid violence, voter uncertainty (Rappler, Sep 2026) — CCAA warns violence and low public confidence could depress turnout below 70-75% target. 58 gun-related incidents July 16–Aug 31 (32% increase over pre-ban). Documents voter uncertainty about parliamentary system, politicized voter education, skepticism toward BARMM government.
 |- **Timeline updated:** 5 new events (Aug 29 - Sep 10)
 |- **Domain notes updated:** new source types identified, dedup guidance refined
+
+## 2026-09-13 - Manual Ingest | MILF strips Macacua of BIAF post (70-75% gap closure)
+- **New sources:** 2 (62→64)
+- **Source 63:** MILF strips Macacua of BIAF post (Luwaran, Sep 6) — MILF Central Committee formally removes Macacua as BIAF Chief of Staff along with 40+ other BIAF officers at a general assembly Sept 3 at Camp Darapanan. Finalizes the June 3 indefinite suspension for insubordination (BIAF General Order No. 1). Also removed: J1 Toks Ebrahim, J2 Von Al Haq Maslamama, Tomanda Antok. Friction: Marcos appointing Macacua Interim CM (Mar 2025) without Committee consultation; Macacua's removal of Iqbal as MBHTE minister despite directive to hold revamp; Macacua running as independent rather than under UBJP.
+- **Source 64:** MILF strips Macacua of BIAF position (Manila Times, Sep 4) — Corroborates Sept 3 shakeup; adds that the August suspension resolution also targeted nine influential base commanders aligned with Macacua ("brewing mutiny" crushed by Central Committee). Confirms removal is from BIAF command positions only, not MILF membership.
+- **Trigger:** Cross-referencing an Al Jazeera op-ed "Bangsamoro's parliamentary election is a turning point" (Sep 13) surfaced the Sept 3 MILF/BIAF shakeup, which was missing from the wiki. Initial review misread the op-ed as contradicting the record; verification confirmed the op-ed was correct and identified the gap.
+- **Files updated:** sources.md (62→64), timeline (Sep 3 event), entities/MILF.md (Sept 3 bullet), domain-notes.md (Sept 3 data point), index.md (source count, date)
