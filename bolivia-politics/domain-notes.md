@@ -145,6 +145,9 @@
 - **Spanish-language sources** (La Derecha Diario, MercoPress) may contain granular data not found in English coverage — worth extracting if snippets show unique data points
 - **Social media (Instagram, Facebook)** for Morales/Paz official statements — snippets can be substantive even if full extraction fails
 - **Bolivia's lithium vs political crisis:** Sources about lithium contracts (CBC, Uranium One) are distinct from the political crisis but belong in the wiki when they intersect with governance (e.g., Paz's energy reform, China/Russia relations)
+|- **Rio Times "automated newsroom system":** Many Rio Times articles are AI-generated summaries of other wire reports and carry a disclaimer — treat as secondary curation, not original reporting; useful for aggregation but cross-check key claims against primary sources
+|- **BSS (Bangladesh Sangbad Sangstha):** A Bangladeshi state news agency syndicating AFP — the AFP core is high quality but the republishing/formatting may truncate or lose nuance; extract AFP content directly if possible
+|- **lacommunis.org:** Independent leftist analytical publication — provides deep framing analysis but treat as opinion/analysis, not breaking news; useful for narrative context and overlooked data points
 
 ## High-Signal Source Types
 - **IMF press releases/staff statements:** Highest-quality economic data (inflation, fiscal targets, program conditions)
