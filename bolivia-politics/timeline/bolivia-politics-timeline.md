@@ -70,4 +70,14 @@
 ||
 ||- **September 4:** Twin explosions at military barracks in Viacha (~30km from La Paz) kill at least 10, injure 62, leave 7 missing. Blast originates from Defense Ministry fireworks/pyrotechnics stockpile. The cause remains under investigation. Police confirm dozens of nearby homes damaged by shattered glass. Firefighters warn of remaining heat source and risk of another explosion, urging residents to stay 150m away. President Paz declares national mourning.|
 ||
-||- **September 8:** US Secretary of State Marco Rubio travels to Colombia, Ecuador, and Peru following recent right-wing electoral victories, as Washington seeks to reassert hemispheric influence. Colombia (de la Espriella) requests Department of War joint military operations against narcoterrorism; Ecuador cooperates in joint operations with US troops. Rubio trip reflects broader rightward consolidation across South America.|
+||- **September 8:** US Secretary of State Marco Rubio travels to Colombia, Ecuador, and Peru following recent right-wing electoral victories, as Washington seeks to reassert hemispheric influence. Colombia (de la Espriella) requests Department of War joint military operations against narcoterrorism; Ecuador cooperates in joint operations with US troops. Rubio trip reflects broader rightward consolidation across South America.
+|
+|- **September 9:** Bolivia's Interior Ministry meets with OAS delegation (Steven Griner, Cristian Taboada) to design RedPolOEA — an unarmed, plainclothes civilian police advisory mission to prevent repeat of blockade crisis. US State Department official Michael Hankey announces US bankrolling initial technical phase.
+|
+|- **September 11:** Government reveals IMF conditions include ending ALL fuel subsidies by 2027 under $1.9B bailout. Economy Minister Christian Morales defends conditions as "necessary." Deal awaits congressional ratification.
+|
+|- **September 13:** Morales on weekly radio program: Paz government "agoniza" (agonizing), lacks popular backing. Describes IMF agreement as "imposition and blackmail"; warns subsidy removal could push >50% into poverty by year-end.
+|
+|- **September 14:** Cabinet approves decree to extend state of exception by 90 more days (to mid-December 2026), ahead of its Sep 18 expiration. Rio Times reports Paz weighing state of siege if blockades resume. Santa Cruz civic committee sets October 10 deadline (Democracy Day) for fuel/tax demands.
+|
+|- **September 15:** Education workers march in La Paz and other cities to protest state of emergency extension and IMF deal. Hundreds of teachers demonstrate; police presence visible. Reuters and Anadolu Agency cover protests. State of emergency extended to clear way for military deployment to restore order.

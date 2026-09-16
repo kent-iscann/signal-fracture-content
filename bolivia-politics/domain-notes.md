@@ -111,7 +111,19 @@
 - **Shield of the Americas:** Founding member as of March 7, 2026 (NYT)
 - **US critical minerals MOU:** Signed with Bolivia April 27, 2026 (Oakland Institute)
 - **Decree 5675 (Aug 2026):** Eliminated Ministry of Development Planning and Environment
-- **YPFB intervention (Sep 1, 2026):** Supreme Decree 5697 — 180-day state takeover; intervention commission from 4 ministries; government intends to strip YPFB of fuel marketing role; half of state-imported fuel smuggled with YPFB employee complicity; Minister Blanco admits "regular measures failed"
+|- **YPFB intervention (Sep 1, 2026):** Supreme Decree 5697 — 180-day state takeover; intervention commission from 4 ministries; government intends to strip YPFB of fuel marketing role; half of state-imported fuel smuggled with YPFB employee complicity; Minister Blanco admits "regular measures failed"
+|- **Death toll update (Sep 2026):** Defensoría del Pueblo raises to 22 dead (19 bystanders, 3 during police/military ops), 88 injured (up from 17 previous)
+|- **Economic damage (Sep 2026):** Chamber of Industries reports $3B losses across 13,000+ businesses, 150K+ affected workers; ~250K jobs lost; government reports 14,000M BOB in direct revenue losses
+|- **OAS RedPolOEA (Sep 2026):** Unarmed, plainclothes civilian police advisory mission being designed with US funding initial phase; Bolivia formally requested deployment Sep 3 at OAS Permanent Council
+|- **IMF conditions revealed (Sep 11, 2026):** End ALL fuel subsidies by 2027 under $1.9B program; deal awaiting congressional ratification
+|- **Santa Cruz October 10 deadline (Sep 2026):** Asamblea de la Cruceñidad gives government until Oct 10 (Democracy Day) to act on fuel imports, tax cuts, regional revenue/authority devolution
+|- **State of exception extended (Sep 14, 2026):** Cabinet approves 90-day extension to mid-December; Paz weighs state of siege if blockades resume
+|- **Diesel reference price lowered:** Regulators cut to 16.50 BOB/liter in early Sep (from 18.00 BOB via Decree 5676)
+|- **Paz approval rating:** 65% (Nov 2025) → 32% (July 2026); disapproval at 55% (Ipsos Ciesmori)
+|- **Paz bloc parliamentary arithmetic:** Largest bloc with 65/130 seats but no working majority; all three major blocs fractured internally
+|- **Morales Sep 13 radio:** Describes Paz government as "agoniza"; IMF deal as "imposition and blackmail"; warns subsidy removal could push >50% into poverty; attacks cabinet cohesion
+|- **Morales Oct protest roadmap:** Expanded assembly called for Sep 26 in Lauca Ñ to define protests from October onward
+|- **Sep 15 protests:** Education workers march in La Paz and other cities against state of emergency extension and IMF deal
 
 ## Prediction History
 | Date | Probability | Δ | Key Driver |
@@ -119,7 +131,8 @@
 | 24-06-2026 | 65% | — | Baseline: Paz survives but emerges politically crippled |
 | 02-07-2026 | 65% | — | Dollar peg ended, devaluation, IMF advancing, state of emergency |
 | 02-08-2026 | 60% | −5pp | IMF $1.9B undershoots, diesel crisis, Morales warrant #2, judicial crisis |
-| 28-08-2026 | 50% | −10pp | Coalition ruptures (only 6/15 ministers, Nat'l Unity breaks), Cerimedo scandal expands (money-laundering + drug trafficking), dollar falls to Bs11.93, GDP -3.6%, Decree 5676 revealed as IMF condition, Santa Cruz ag ultimatum |
+|| 28-08-2026 | 50% | −10pp | Coalition ruptures (only 6/15 ministers, Nat'l Unity breaks), Cerimedo scandal expands (money-laundering + drug trafficking), dollar falls to Bs11.93, GDP -3.6%, Decree 5676 revealed as IMF condition, Santa Cruz ag ultimatum |
+|| 16-09-2026 | 45% | −5pp | Paz approval collapses to 32%; education workers resume protests Sep 15; state of exception extended to mid-Dec but Santa Cruz Oct 10 deadline looms; rumors in corridors of power Paz may not survive October; Morales calls Sep 26 assembly for Oct protest roadmap; IMF conditions (end ALL fuel subsidies by 2027) await congressional ratification
 
 ## Common Dedup Pitfalls
 - **AP News, Al Jazeera, Reuters often cover the same events** — compare specific data points (death toll, arrest numbers, price figures) to determine if it's the same story or genuinely new reporting
@@ -156,20 +169,22 @@
 - **Rodrigo Paz:** Primary source for government narrative (via CNN interviews, press conferences)
 - **Marco Rubio / Pete Hegseth:** US official positions on Bolivia
 
-## Active Strategic Debates (Late August 2026)
-1. **IMF deal adequacy:** $1.9B is well below $5B expectations — is it enough to stabilize the economy? Government now admits Decree 5676 is an IMF condition, tying hands on diesel pricing.
-2. **Coalition durability:** Only 6 of 15 original ministers remain; National Unity party broke with Paz over decree reliance; Veronica Rocha says balance of power is now "unfavorable to the government."
-3. **Morales arrest impact:** Second warrant for armed insurrection/terrorism — could trigger escalation or marginalize Morales further
-4. **Diesel/soybean crisis:** Fuel shortages threatening Bolivia's key export crop — Supreme Decree 5683 doubles YPFB ceiling to Bs2B but only covers ~10 days of fuel
-5. **US commitment depth:** Rubio/Hegseth support is strong but is $20M enough? Is DEA return politically sustainable?
-6. **Lithium window closing:** Nov 10, 2026 China export control activation — Bolivia's contracts still unratified
-7. **Protest trajectory:** 200+ events in June → ~40 in July — road blockades now surpass 2025 cumulative damage (FEPC); Santa Cruz ag sector threatens Asamblea de la Cruceñidad
-8. **Energy reform viability:** Can Paz break YPFB monopoly and attract private investment amid political crisis?
-9. **Cerimedo shadow governance:** Scandal expands to money-laundering and drug trafficking; bot farm seized; Paz denies formal link; Beller alleges elite police unit under Cerimedo's command — how deep does the parallel governance structure run?
-10. **Boliviano freefall:** Boliviano slides from 9.73 at June float to 12.26 by early Sep 2026 (76% above old 6.96 peg) — can the floating rate stabilize or is further devaluation inevitable?
-11. **GDP/inflation spiral:** Central bank projects -3.6% contraction and 17% inflation for 2026 — can the reform program reverse this trajectory?
-12. **Cabinet hemorrhage:** Only 6 of 15 original ministers remain; contaminated gasoline scandal, Espinoza Audi scandal, and Cerimedo crisis erode remaining credibility
-13. **YPFB state intervention viability:** Supreme Decree 5697 imposes 180-day state takeover. Can stripping YPFB of fuel marketing and transferring to private sector solve persistent shortages, or does it signal deepening crisis of state capacity?
+## Active Strategic Debates (Mid-September 2026)
+1. **IMF deal adequacy:** $1.9B is well below $5B expectations — government now admits Decree 5676 is an IMF condition and revealed end of ALL fuel subsidies by 2027; deal still awaiting congressional ratification.
+2. **Coalition durability:** Only 6 of 15 original ministers remain; National Unity party broke with Paz over decree reliance; Veronica Rocha says balance of power is now "unfavorable to the government." Paz approval collapsed from 65% to 32% (Ipsos Ciesmori, July 2026).
+3. **Morales arrest impact:** Second warrant for armed insurrection/terrorism; Morales defies from Chapare, describes government as "agoniza" (Sep 13); calls expanded assembly for Sep 26 to define Oct protest roadmap.
+4. **Diesel/soybean crisis:** Fuel shortages threatening Bolivia's key export crop — Supreme Decree 5683 doubles YPFB ceiling to Bs2B but only covers ~10 days of fuel. Diesel reference price lowered to 16.50 BOB/L.
+5. **US commitment depth:** Rubio/Hegseth support strong; US bankrolling OAS RedPolOEA unarmed police mission initial technical phase. Is $20M security deal enough? Is DEA return sustainable?
+6. **Lithium window closing:** Nov 10, 2026 China export control activation — Bolivia's contracts still unratified.
+7. **Protest trajectory:** 200+ events in June → ~40 in July → education workers resume protests Sep 15; Santa Cruz October 10 deadline (Democracy Day); Morales planning Oct protest roadmap.
+8. **Energy reform viability:** Can Paz break YPFB monopoly and attract private investment amid political crisis? YPFB 180-day state intervention (Sep 1) sending conflicting signals.
+9. **Cerimedo shadow governance:** Scandal expands to money-laundering and drug trafficking; bot farm seized; Paz denies formal link; Beller alleges elite police unit under Cerimedo's command — investigations ongoing.
+10. **Boliviano freefall:** Boliviano at 12.26/USD (76% above old 6.96 peg); government reports negative economic growth.
+11. **GDP/inflation spiral:** Central bank projects -3.6% contraction and 17% inflation for 2026.
+12. **Cabinet hemorrhage:** Only 6 of 15 original ministers remain; scandals erode remaining credibility.
+13. **YPFB state intervention viability:** 180-day state takeover (Supreme Decree 5697). Can stripping YPFB of fuel marketing solve shortages, or signals deeper state capacity crisis?
+14. **OAS police mission / October deadlines:** Can RedPolOEA unarmed advisory mission prevent repeat of blockades? Two countdowns: state of exception extended to mid-Dec; Santa Cruz Oct 10 deadline for fuel/tax action.
+15. **Paz resignation risk:** Rumors in corridors of power Paz may last only until October; CSIS warned Paz could be forced to resign before end of 2026; approval at 32%.
 
 ## File Update Checklist (per source added)
 When ingesting a new source, update ALL of the following in a single session:

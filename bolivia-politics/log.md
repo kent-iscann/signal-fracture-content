@@ -109,4 +109,12 @@
 - **Source 46:** New Roadblocks Challenge Paz's State of Exception (Left Voice) — San Pablo (Beni) blockades; YPFB tankers stranded; police/military crackdown; quinoa farmers, Six Federations, truck drivers, miners threaten further disruptions.
 - **Source 47:** The Irresistible Rise and Fall of Evo Morales (The Ideas Letter) — Pablo Stefanoni historical analysis of MAS origins, "Andean capitalism," post-MAS fragmentation, left searching for new leaders.
 - **Source 48:** Trump, Paz, and Lithium – US Pivot on Bolivia (Oakland Institute) — Decree 5675 eliminated environment/planning ministry; US critical minerals MOU signed April 27; Paz offers Western mining incentives.
-- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, domain-notes.md, log.md
+|- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, domain-notes.md, log.md
+
+## 2026-09-16 - Weekly Source Update
+- **New sources:** 4 (total 48 → 52)
+- **Source 49:** Bolivia to end fuel subsidies by 2027 in return for IMF bailout (BSS/AFP) — Govt reveals IMF conditions include ending ALL fuel subsidies by 2027 under $1.9B program; deal awaiting congressional ratification; Cristian Morales defends as "necessary."
+- **Source 50:** Inside Bolivia's Plan for Gun-Free OAS Police as Two Deadlines Close In (Latin Times) — OAS RedPolOEA unarmed police mission designed; US bankrolling; updated death toll 22; Santa Cruz Oct 10 deadline; state of exception extended 90 days; diesel reference price lowered to 16.50 BOB/L.
+- **Source 51:** Evo Morales Says the Paz Government Is Agonizing (Rio Times) — Morales Sep 13 radio: government "agoniza"; IMF deal as "imposition and blackmail"; warns subsidy removal could push >50% into poverty; 65-seat Paz bloc fragmented.
+- **Source 52:** The Downfall of the "Accidental" President (lacommunis.org) — Paz approval 65%→32%; Morales Sep 26 assembly; rumor Paz may last only until October; "Red Ponchos" Aymara uprising.
+- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, log.md
