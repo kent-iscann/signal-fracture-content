@@ -145,3 +145,12 @@
 - **Source 64:** [Institude: Filling the Vacuum — China's Graphite Strategy in Northern Mozambique](https://www.institude.org/opinion/filling-the-vacuum-chinas-graphite-strategy-in-northern-mozambique) (March 2026) — DH Mining (Jinan Yuxiao subsidiary) $200M Nipepe graphite plant; two competing graphite ecosystems within 500km in Mozambique. China controls ~75% of natural graphite, 99% spherical graphite processing.
 - **Source 65:** [Ecofin Agency: China's CNMC Plans Copper Expansion in Zambia and DRC, but Key Costs Remain Unclear](https://www.ecofinagency.com/news-industry/2708-58365-chinas-cnmc-plans-copper-expansion-in-zambia-and-drc-but-key-costs-remain-unclear) (August 2026) — CNMC plans to add >190,000t copper by 2030; $513M Luanshya redevelopment; $300M convertible bond; Chinese SOE expansion beyond CMOC/Zijin.
 - **Files updated:** sources.md, timeline/china-southern-africa-timeline.md, index.md, log.md
+
+## 2026-09-16 - Weekly Source Update | china-southern-africa
+- **New sources:** 5
+- **Source 66:** Daily News (Tanzania) — Shenghe Resources begins construction of heavy mineral sands plant in Pangani, positioning Tanzania as regional processing hub for Africa. Raw materials from Mozambique, SA, Madagascar to be processed in Tanzania.
+- **Source 67:** MINING.COM — Sinomine secures additional 300,000t lithium export quota from Zimbabwe; total Chinese investment in Zimbabwe lithium/energy reaches $2.8B. Bikita upgraded to 400,000t/year spodumene; 100,000t/year lithium sulphate plant by mid-2027.
+- **Source 68:** Green Building Africa — South Africa and China propose China-Africa Innovation Alliance on Mining and Metallurgy for battery mineral processing R&D, AI-driven mineral separation, and NMC precursor development. Feasibility study for 10,000-litre NMC plant completed.
+- **Source 69:** Green Building Africa — Team Europe (EU, Germany, Denmark, Netherlands) launches two Global Gateway projects >R1 billion (EUR57.8M) for SA green hydrogen and minerals/battery value chains. Implemented by GIZ and KfW.
+- **Source 70:** CSIS — Congressional testimony by Dr. Gracelin Baskaran: Africa's exploration spending fell from 16% to ~10% globally; Glencore MoU to sell 40% of Mutanda/Kamoto to Orion CMC (backed by DFC/ADQ); AGOA lapsed 2025; 32 AGOA-eligible countries hold critical minerals.
+- **Files updated:** sources.md, entities/tanzania.md, entities/zimbabwe.md, entities/south-africa.md, timeline/china-southern-africa-timeline.md, concepts/critical-minerals-strategy.md, index.md, log.md

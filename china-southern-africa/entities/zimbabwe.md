@@ -21,7 +21,7 @@ In April 2026, Zimbabwe adopted a producer quota system for lithium concentrate 
 - Sichuan Yahua Industrial
 - China Railway (resource-backed infrastructure financing discussions, June 2026)
 
-## Key developments (August 2026)
+## Key developments (August-September 2026)
 - **H1 2026 lithium exports up 230%:** Zimbabwe exported lithium products worth $782M in H1 2026 (up from $237M H1 2025). Lithium accounted for ~12% of mineral export revenue, behind only gold and PGMs. Total 2026 lithium production forecast: 2.14M tonnes. Country exported 1.13M tonnes spodumene in 2025 (15% of China's lithium concentrate imports).
 - **ZIDA approves $1.59B in Q2 2026:** ZIDA issued 284 licences. Mining 86 licences ($768.5M), manufacturing 43 ($496.7M). Total mineral export receipts $2.53B in H1 2026; lithium sulphate generated $73.2M. Average manufacturing investment ($11.6M/licence) now exceeds mining ($8.9M).
 - **IMF confirms 8.3% growth in 2025:** Zimbabwe's economy grew 8.3% in 2025, projected ~5% in 2026, supported by agriculture, mining, and favourable gold prices.
@@ -32,3 +32,4 @@ In April 2026, Zimbabwe adopted a producer quota system for lithium concentrate 
 - **Smaller miner concerns:** Smaller miners fear exclusion from processing infrastructure, proposing a toll-smelting system with shared facilities at transparent rates.
 - **Bikita Minerals:** $400M investment for lithium precursor chemicals; phase one (60,000 tonnes/year) expected Q2 2027.
 - **Export data:** Q1 2026 mineral sales reached $983.85M — volumes up 27%, values up 79% following the raw lithium export ban.
+- **Total Chinese investment reaches $2.8B:** Sinomine Resource Group secures additional 300,000t lithium export quota (after initial 200,000t in April). Total announced Chinese investment in Zimbabwe's lithium and energy sector reaches $2.8 billion. Bikita spodumene capacity upgraded to 400,000t/year. Sinomine building 100,000t/year lithium sulphate plant at Bikita (completion mid-2027). Sichuan Yahua also building lithium sulphate plant at Kamativi. (Source 67, August 2026)
