@@ -301,3 +301,19 @@
 - **Source 78:** Caucasus Watch: Russia Signals Wider Economic Cooperation — Russian Security Council Deputy Shevtsov names Georgia for interregional cooperation beyond trade toward joint production chains. Demonstrates Moscow's continued economic courtship despite no diplomatic relations.
 - **Source 79:** Caucasus Watch: Georgia, US Agencies Conduct CBRN Threat Response — US DTRA and Georgia's SSSG conducted "NEXUS Georgia 2026" in Batumi. Evidence of continuing working-level US-Georgia security cooperation despite frozen political relations.
 - **Files updated:** sources.md (+3), index.md, log.md
+
+## 2026-09-17 - Weekly Source Update
+- **New sources:** 12 (80–91)
+- **Source 80:** WSJ: Trump Tower Tbilisi — $2B, 62-story skyscraper on Ivanishvili-linked land; Eric Trump video address; WSJ frames against US-Georgia deterioration.
+- **Source 81:** JAMnews: Trump Tower unveiled — Local reporting on presentation, Kobakhidze announces $2B investment, completion 2031.
+- **Source 82:** OC Media: GD now wants all major opposition parties banned — GD adds For Georgia to constitutional court lawsuit; only opposition in parliament targeted.
+- **Source 83:** JAMnews: EU to urge Syria to withdraw Abkhazia recognition — Von der Leyen confirms EU leverage on Syria; follows Nauru withdrawal.
+- **Source 84:** Caucasus Watch: Papuashvili calls EU policy "dead end" — Parliament Speaker rejects EU human rights criticism.
+- **Source 85:** JAMnews: Zakharova calls Russia and Georgia "allies" — Treaty of Georgievsk instrumentalized; Russia values fight framing.
+- **Source 86:** Eurasia Review: South Caucasus Navigates A New Order — Analysis of Georgia's eroding transit monopoly; no state choosing single patron.
+- **Source 87:** Responsible Statecraft (Quincy Institute): In-between states initiative — New US policy paradigm taking NATO enlargement off the table.
+- **Source 88:** Caucasus Watch: Tskhinvali not ready for transit route — Kambolov says South Ossetia not prepared for transit with Georgia.
+- **Source 89:** JAMnews: Wildberries expansion poses risks — EPRC warns Russian marketplace expansion threatens sanctions compliance.
+- **Source 90:** Caucasus Watch: Baramidze detained — Opposition leader held on treason/sabotage over Abkhaz war remarks.
+- **Source 91:** Caucasus Watch: Georgia joins Paris Space Summit declarations — Kobakhidze at Macron's invitation.
+- **Files updated:** sources.md (+12), index.md, timeline/georgia-timeline.md, log.md

@@ -134,3 +134,26 @@
 
 ### September 2, 2026
 - **Second dredging vessel reaches Anaklia** — Belgian Jan De Nul's al-Idrisi arrives, joining Tristao Da Cunha; combined 70,000 m³/day capacity. Breakwater base section completed, dredging begun in entrance channels. State-led landlord model proceeding after China's exit.
+
+### September 10, 2026
+- **Kobakhidze at Paris Space Summit** — PM attends International Space Summit at Macron's invitation; Georgia joins declarations on space safety, Copernicus, and space science data. Continuing European engagement at working level despite frozen political relations.
+
+### September 11, 2026
+- **Baramidze detained on treason charges** — UNM leader and former defense minister Giorgi Baramidze detained over remarks about prisoner exchanges during 1992-1993 Abkhaz war. Treason provision restored by GD in 2025. Faces up to 4 years.
+
+### September 11, 2026
+- **EPRC warns on Wildberries expansion** — Economic Policy Research Center report warns Russian online marketplace Wildberries expansion in Georgia poses sanctions evasion risks. At least 8 warehouses destroyed by Ukrainian strikes; Wildberries Bank under sanctions.
+
+### September 13, 2026
+- **Papuashvili calls EU policy "dead end"** — Parliament Speaker rejects EU criticism over human rights record, says Brussels must change approach and reduce "aggressive rhetoric."
+
+### September 14, 2026
+- **Quincy Institute launches in-between states initiative** — New policy paradigm for US approach to Georgia and other post-Soviet states. Proposes taking NATO enlargement off the table.
+- **Tskhinvali not ready for transit route** — De facto leader Kambolov says South Ossetia not prepared for transit traffic with Georgia, citing security concerns.
+
+### September 15, 2026
+- **Trump Tower Tbilisi unveiled** — 62-story, $2B Trump Tower project presented at Mtatsminda Park. Eric Trump addresses by video. PM Kobakhidze says completion 2031, whole complex 2033.
+- **GD now wants all opposition parties banned** — GD adds For Georgia (Gakharia) to constitutional court lawsuit seeking to ban all four major opposition parties — the only opposition group in parliament.
+- **Zakharova calls Russia and Georgia "allies"** — Russian Foreign Ministry spokeswoman devotes briefing to Georgia, invokes Treaty of Georgievsk, calls Russia and Georgia allies in "traditional values" fight against the West.
+- **EU to urge Syria on Abkhazia recognition** — Von der Leyen confirms EU will press Syria to withdraw recognition of Georgia's occupied territories.
+- **Eurasia Review: South Caucasus new order** — Analysis finds no South Caucasus state choosing single patron; Georgia navigating from position of declining Western leverage.
