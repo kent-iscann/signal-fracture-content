@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-09-03
+updated: 2026-09-17
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -215,6 +215,9 @@ The Public Debt Management Office issued the Statistical Debt Bulletin for Q2 20
 
 ### August 30, 2026 -- Sri Lanka-China Business Council 25th Anniversary Meeting
 The Sri Lanka-China Business Council held its 25th anniversary gathering in Colombo. Council President Haroun Cader emphasized the need for Sri Lankan SME access to Chinese markets and investors. The meeting highlighted the transition from debt-financed mega infrastructure toward investment in energy, manufacturing, logistics, and commercially productive ventures. The proposed $3.7B Sinopec refinery at Hambantota and Colombo Port City development were discussed as flagship projects of the new phase. The FTA dilemma was noted: Sri Lanka needs Chinese market access but must safeguard its smaller industrial base.^[Lanka News Web, August 30, 2026]
+
+### September 9-10, 2026 -- Sri Lanka Participates in 11th Belt and Road Summit in Hong Kong
+Trade Minister Wasantha Samarasinghe represented Sri Lanka at the 11th Belt and Road Summit in Hong Kong, co-organized by the Hong Kong Trade Development Council and the HKSAR Government. The summit, held under the theme "Advancing High-Quality Development · Embarking on a New Journey," drew ~100 policymakers and business leaders from BRI countries. Samarasinghe participated in a policy dialogue session "Building Resilient Trade and Investment Frameworks in a Diverse Global Landscape" chaired by Hong Kong SAR Commerce Secretary Algernon Yau, alongside ministers from Bangladesh, Thailand, Qatar, Kazakhstan, and Timor-Leste. He highlighted Sri Lanka's potential as a regional maritime and trade hub and called for opening new foreign markets and attracting value-added investments. The participation signals Sri Lanka's continued high-level engagement with the BRI framework under the Dissanayake administration, with trade and investment diversification as the core emphasis rather than infrastructure lending.^[Newswire, September 9, 2026]^[China Daily HK, September 9, 2026]
 
 ---
 

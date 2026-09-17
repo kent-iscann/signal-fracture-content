@@ -209,5 +209,11 @@
 
 ## 2026-09-10 - Weekly Source Update | 1 new source (SSGA EM Debt Commentary Q2 2026)
 - **Source #59**: "Emerging Market Debt Market Commentary: Q2 2026" -- State Street Global Advisors (September 2026). Institutional investor perspective on Sri Lanka's sovereign bond market: Sri Lanka was among top 5 EM performers in Q2 2026 with 12.3% total return in USD, contributing 13 bps to EMBI GD index returns. Sentiment supported by IMF EFF progress. Sovereign ratings: Moody's Caa1 (Stable), S&P/Fitch CCC+. Provides market pricing signals complementing official IMF/Treasury data.
-- **Files updated**: sources.md, index.md, log.md
-- **Total sources**: 58 → 59
+|- **Files updated**: sources.md, index.md, log.md
+|- **Total sources**: 58 → 59
+
+## 2026-09-17 - Weekly Source Update | 2 new sources (Belt and Road Summit, H1 2026 Debt Data)
+|- **Source #60**: "Sri Lanka joins Belt and Road Summit 2026 in Hong Kong" -- Newswire (September 9, 2026). Trade Minister Wasantha Samarasinghe represented Sri Lanka at the 11th Belt and Road Summit in Hong Kong, participating in a policy dialogue on resilient trade and investment frameworks alongside ministers from Bangladesh, Thailand, Qatar, Kazakhstan, and Timor-Leste. Signals continued high-level BRI engagement under Dissanayake with trade/investment diversification as core emphasis.
+|- **Source #61**: "Sri Lanka bilateral, multilateral debt up in H1 2026; commercial down: Treasury" -- EconomyNext (September 3, 2026). Official Treasury data: bilateral loans led by China rose 1.1% ($119M) to $10,797M by end-June 2026. Total govt external debt $38,008M. Non-Paris Club holds 59% of bilateral debt. Provides aggregate bilateral totals and Paris Club split.
+|- **Files updated**: sources.md, index.md, log.md, timeline/china-sri-lanka-timeline.md
+|- **Total sources**: 59 → 61

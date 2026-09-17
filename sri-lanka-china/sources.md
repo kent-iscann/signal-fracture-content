@@ -340,6 +340,23 @@
 
 ## Investor Confidence & Sovereign Bond Market
 
-59. "Emerging Market Debt Market Commentary: Q2 2026" -- State Street Global Advisors (SSGA), by Sudharsan Balaji (September 2026)
+|59. "Emerging Market Debt Market Commentary: Q2 2026" -- State Street Global Advisors (SSGA), by Sudharsan Balaji (September 2026)
     https://www.ssga.com/us/en/institutional/insights/emerging-market-debt-commentary-q2-2026
     Institutional investor market commentary from one of the world's largest asset managers. Key data on Sri Lanka's sovereign bond market performance: Sri Lanka was among the top 5 emerging market performers in Q2 2026 with a 12.3% total return in USD, contributing 13 bps to the EMBI GD index returns. Sentiment was supported by continued IMF EFF progress — the combined 5th and 6th reviews approved May 27, 2026, unlocking ~$695M (cumulative ~$2.4B). Program performance assessed as "generally strong" with all end-December 2025 quantitative criteria met. Sovereign ratings: Moody's Caa1 (Stable), S&P/Fitch CCC+. Gains were part of a broader EM high-yield tightening cycle driven by US-Iran de-escalation, with Sri Lanka grouped among distressed issuers (alongside Venezuela, Ukraine, Kenya) that amplified the move. Provides a rare institutional investor perspective on Sri Lanka's post-default sovereign debt market recovery, complementing official IMF and Treasury data with market pricing signals.
+
+---
+
+## Belt and Road Summit Engagement & Trade Diplomacy
+
+60. "Sri Lanka joins Belt and Road Summit 2026 in Hong Kong" -- Newswire (September 9, 2026)
+    https://www.newswire.lk/2026/09/09/sri-lanka-joins-belt-and-road-summit-2026-in-hong-kong
+    Also covered by China Daily HK: https://www.chinadailyhk.com/hk/article/639306
+    Sri Lanka was represented by Trade Minister Wasantha Samarasinghe at the 11th Belt and Road Summit (Sept 9-10, 2026) in Hong Kong, co-organized by HKTDC and HKSAR Government under the theme "Advancing High-Quality Development · Embarking on a New Journey." Samarasinghe participated in the policy dialogue session "Building Resilient Trade and Investment Frameworks in a Diverse Global Landscape" chaired by Hong Kong SAR Secretary for Commerce Algernon Yau, alongside ministers from Bangladesh, Thailand, Qatar, Kazakhstan, and Timor-Leste. He highlighted Sri Lanka's potential as a regional maritime and trade hub, the importance of opening new foreign markets for domestic products, and the need to attract value-added investments. The summit drew ~100 policymakers and business leaders from BRI countries. Signals Sri Lanka's continued high-level engagement with the BRI framework under the Dissanayake administration, with trade and investment diversification as the core emphasis rather than infrastructure lending.
+
+---
+
+## Public Debt Data & Macroeconomic Indicators
+
+61. "Sri Lanka bilateral, multilateral debt up in H1 2026; commercial down: Treasury" -- EconomyNext (September 3, 2026)
+    https://economynext.com/sri-lanka-bilateral-multilateral-debt-up-in-h1-2026-commercial-down-treasury-282742
+    Official Treasury debt data as of end-June 2026. Bilateral loans led by China rose 1.1% or US$119 million to US$10,797 million by end-June (from US$10,678M at end-2025). Multilateral loans increased 3.4% ($488M) to $14,802M. Commercial debt fell 2.1% ($262M) to $12,409M. Total government external debt stood at $38,008M (up $345M from $37,663M at end-Dec 2025). Multilateral debt accounts for 38% of total, commercial 34%, bilateral 28%. Within bilateral segment, Non-Paris Club (led by China) holds 59% vs Paris Club 41%. ADB and World Bank represent over 78% of multilateral debt; 81% of commercial debt is International Sovereign Bonds. Provides the aggregate bilateral debt total (including all bilateral creditors, not just China's share) and the Non-Paris Club/Paris Club split for the first time.
