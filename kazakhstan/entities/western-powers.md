@@ -83,7 +83,17 @@ Western powers are cautiously increasing engagement with Kazakhstan, viewing it 
 - **May 3, 2026:** First Kazakhstan-US Investment Roundtable held alongside SelectUSA Investment Summit near Washington, D.C.
 - Part of broader US effort to boost economic engagement with Central Asia beyond critical minerals deals.
 
-## EU 21st sanctions package & Kazakhstan (July 2026)
+## Tokayev's South Korea visit — $19B deals (Sept 2026)
+- **Sept 15-16, 2026:** Tokayev's state visit to Seoul produced **~80 commercial agreements worth $19B**. Relations elevated to "future-oriented comprehensive strategic partnership." Tokayev called for doubling bilateral trade (exceeded $3B in 2025).
+- **Critical minerals:** Proposed joint Kazakh-Korean critical minerals company to move from resource extraction to deep processing. Tau-Ken Samruk signed MoU with POSCO Holdings. Joint rare/rare earth metals center proposed in Almaty with Korea Institute of Industrial Technology.
+- **First Central Asia-Republic of Korea Summit** (Sept 16) — establishing a new institutional framework for regional engagement with East Asia's third-largest economy.
+- **Comprehensive Program for Trade, Economic and Investment Cooperation 2027-2030** proposed.
+- South Korea brings advanced manufacturing, critical minerals processing technology, and a non-great-power partnership that doesn't trigger the balancing costs of Chinese or Western deals — a structurally valuable addition to Kazakhstan's multi-vector portfolio.
+
+## Russian gas imports & secondary sanctions risk (Sept 2026)
+- **Sept 17, 2026:** Kazakhstan signed supplementary agreement with Gazprom to purchase **~11 bcm of Russian gas** in 2026 (up from ~4M bcm in 2025). Talks ongoing for additional **9 bcm in 2027** at likely discounted prices. Domestic production hit record 68.1 bcm in 2025 but demand surging.
+- **Timing with US sanctions:** The US Congress passed sanctions bill Sept 16 (likely signed by Trump) targeting Russian energy purchasers — the bill enables punitive tariffs on any nation buying Russian energy. Creates **secondary sanctions exposure** for Kazakh entities involved in the Gazprom deal.
+- Creates a new energy dependency vector on Russia at a time when Kazakhstan is trying to diversify away — demonstrating the structural constraints of geography.
 - **July 23, 2026:** The EU adopted its 21st sanctions package — 48 individuals + 170 entities newly designated. Two Kazakh companies were added to sanctions and export-control lists.
 - **Kulevi Oil Refinery (Georgia)** faces a transaction ban in 6 months unless it diversifies from Russian crude — precedent-setting extension of third-country sanctions architecture to refineries, directly relevant to Kazakhstan's energy sector.
 - Oil price cap frozen until **July 14, 2027**.

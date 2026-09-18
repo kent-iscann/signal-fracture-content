@@ -82,9 +82,15 @@
 - **Structural shift data (2026):** Kazakh Invest portfolio: 215 projects/$78.6B (88K+ jobs); 66 investment agreements/$38.6B since 2021. FDI $20.5B (2025, +14.4%), manufacturing investment +47.4%, mining -47%
 - **Oil refining expansion:** Capacity target doubled to 40M tonnes/yr by 2033 (from 18.4M in 2025). Fourth major refinery planned (up to 10M tonnes/yr)
 - **Global Talent Competitiveness Index:** Kazakhstan rose from 122nd to 83rd in professional/technical skills (Sept 2026)
-- KazISS (Mussabekova): BRI-SCO synergy operational framework — new source type (Kazakh official think tank in Chinese media)
-- Hudson Institute (Moriyasu): "Connector state" framework — Kazakhstan should move beyond raw resource export to processing, computing infrastructure, higher-value components
-- Route redundancy hierarchy: Middle Corridor > Afghanistan > CPC > Iran (Moriyasu assessment, Aug 2026)
+|- KazISS (Mussabekova): BRI-SCO synergy operational framework — new source type (Kazakh official think tank in Chinese media)
+|- Hudson Institute (Moriyasu): "Connector state" framework — Kazakhstan should move beyond raw resource export to processing, computing infrastructure, higher-value components
+|- Route redundancy hierarchy: Middle Corridor > Afghanistan > CPC > Iran (Moriyasu assessment, Aug 2026)
+|- **South Korea breakthrough (Sept 2026):** Tokayev's Seoul visit — ~$19B in agreements (80 deals), joint critical minerals company (Tau-Ken Samruk + POSCO), first Central Asia-ROK Summit, call to double $3B trade
+|- **Russian gas imports surge (Sept 2026):** Kazakhstan signed Gazprom supplementary agreement for ~11 bcm (2026), up from ~4M bcm in 2025; additional 9 bcm in 2027 under discussion. Coincides with US sanctions bill targeting Russian energy purchasers — creates secondary sanctions exposure
+|- **National Crypto Reserve:** $500M-$1B target; reached $700M by Sept 2026 (primeminister.kz). Tokenization pilot: first major test of digital assets as financing source ($60M for Alatau City projects)
+|- **National Cryptocurrency Analytics Center (Sept 2026):** National Bank launched SupTech-based center to monitor all crypto/fiat transactions; integrated with Anti-Fraud Center
+|- **Oil export strategy upgrade (Sept 2026):** Kazakhstan moving from "rational efficiency to strategic resilience" — managed interdependence through balanced route portfolio. BTC: 2.2M tons planned 2026. Baku-Supsa: 3-5M tonnes discussed. Kazakhstan-China pipeline: 13.1M tons
+|- **Oil strategy upgrade summer 2026 data:** KazTransOil BTC via Aktau: 155K tons in July (+11.5% YoY). Draft 2027-2029 budget: 96M tons oil production, $70/bbl, 480 tenge/USD
 
 ## Core Dynamic
 Kazakhstan is navigating between great-power pressures while pursuing economic diversification. Tokayev has elevated Kazakhstan's posture from "balancer" to "regional organizer" — using convening power, logistics, and diplomacy to structure the space between great powers. A new academic framework ("sovereign connectivity statecraft") formalizes this as a five-pillar strategy: sovereignty, balance, connectivity, institutional resilience, and regional public goods.

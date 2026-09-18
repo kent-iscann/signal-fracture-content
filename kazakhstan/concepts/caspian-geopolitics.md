@@ -49,6 +49,13 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - **Diplomatic lobbying success (August 2026):** After Astana mounted a lobbying campaign in Washington, US administration officials pressured Ukrainian authorities into pledging to refrain from further strikes against Russian infrastructure handling Kazakh oil exports (Eurasianet). This is a significant diplomatic achievement illustrating Kazakhstan's ability to leverage Western ties to protect its economic interests.
 - **Baku-Supsa route under consideration (August 2026):** Kazakhstan is exploring alternative oil export routes through Azerbaijan, including the Baku-Supsa pipeline and additional Caspian transit, as concerns over Black Sea security deepen — complementing existing BTC pipeline diversification strategy (Astana Times, Aug 2026).
 
+## Oil export strategy upgrade — the "managed interdependence" framework (Sept 2026)
+- **Astana Times analysis (Sept 2026):** Kazakhstan moving from "rational efficiency to strategic resilience" in oil exports — from accepting routes toward shaping them. CPC will remain dominant through 2030 but Astana seeking managed interdependence through a deliberately balanced portfolio.
+- **Quantitative milestones:** KazTransOil supplied **155,000 tons** to BTC via Aktau in July 2026 (+11.5% YoY). Energy Minister Akkenzhenov: **2.2M tons** planned through BTC in 2026. Baku-Supsa pipeline discussed with Azerbaijan for **3-5M tonnes** of Kazakh crude annually. Kazakhstan-China pipeline: oil transport rose to **13.1M tons** (KMG Kashagan B.V., Sept 2026).
+- **Kashagan wildcard:** Draft 2027-2029 budget assumes 96M tons oil production in 2027, $70/bbl, 480 tenge/USD exchange rate. Kashagan identified as the key unknown — if expansion outpaces new refineries/alternative routes, infrastructure becomes a constraint. Refining capacity target: 18M → 40M tons by 2040.
+- Core framing: Kazakhstan is not moving from dependence to independence, but from one dominant dependency to a deliberately balanced portfolio of interdependence.
+- **New Kazakhstan-China pipeline data:** Oil transport rose to 13.1M tons (KMG Kashagan B.V., Sept 2026). Kazakhstan and Azerbaijan working to optimize supply chains and increase transit volumes (Trend interview).
+
 ## Regional dynamics
 - The Caspian region is increasingly contested, with Russia, China, Turkey, and the EU all seeking influence.
 - Kazakhstan's multi-vector approach aims to balance these competing interests while maximizing energy revenues and transit leverage.

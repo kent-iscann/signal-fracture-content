@@ -75,6 +75,14 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 - **Trade:** ~20% of national GVA; manufacturing 13%; mining 11.9%.
 - **FDI inflows:** ~$28B in 2025.
 
+## Tokenization & crypto regulation (Sept 2026)
+- Kazakhstan plans to tokenize up to **$60M** in real estate/logistics projects by end of 2026 — first major test of digital assets as financing source. National Bank Gov Suleimenov: Iconic Tower ($50M) and Birlik logistics center ($10M) via KASE digital infrastructure. PM Bektenov: shift from quantitative mining growth to qualitative transformation. Mining tax revenue rose to 22.4B tenge ($50.1M) in 2025 from 9B tenge ($20.1M) in 2023. National Strategic Crypto Reserve reached **$700M** (primeminister.kz).
+- **National Cryptocurrency Analytics Center (Sept 2026):** National Bank announced center on SupTech platform to monitor fiat/crypto transactions, wallets, customer data. Integrated with Anti-Fraud Center. Banks, law enforcement, licensed providers get access. Builds on earlier AFSA stablecoin pilot (Sept 2025) allowing USDC-based regulatory fee payments.
+
+## US-China AI competition — new analysis (Sept 2026)
+- Andrew D'Anieri (The National Interest) argues US should **outcompete rather than ultimatum**: if forced to choose between US and China AI blocs, Kazakhstan would choose China due to BRI infrastructure depth and investment ties. Recommends US build compute power and supply chains instead of demanding exclusivity.
+- Reinforces the view that US Pax Silica exclusivity demands are counterproductive and risk pushing Kazakhstan toward China.
+
 ## Assessment
 The tech pivot is real but nascent. Kazakhstan has made significant progress in creating the institutional framework (ministry, hub, forums, AI law) and attracting attention (GITEX, Dealroom ranking, AI diffusion ranking, $10B NVIDIA deal). The emergence of the first AI unicorn (Higgsfield AI) and the surge in AI venture funding to $73M are concrete milestones. The national crypto reserve plan signals a more sophisticated approach to digital assets beyond just mining. However, the ecosystem remains small, government-dependent, and faces structural challenges including brain drain, corruption, and competition from more established tech hubs. The authoritarian governance model and limited internet freedom also constrain the open innovation culture that drives successful tech ecosystems.
 

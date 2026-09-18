@@ -455,3 +455,17 @@
 - concepts/resource-curse.md: added structural shift data and oil refining
 - concepts/tech-pivot.md: added talent competitiveness index
 - domain-notes.md: updated key data points
+
+## 2026-09-18 - Weekly Source Update
+- **New sources:** 8 (91 → 99)
+- **Source 92:** [Eurasianet: Kazakhstan to boost purchases of Russian gas](https://eurasianet.org/kazakhstan-to-boost-purchases-of-russian-gas) — Kazakhstan signed supplementary agreement with Gazprom for ~11 bcm Russian gas in 2026, coinciding with US Congress sanctions bill Sept 16 targeting Russian energy purchases. Creates secondary sanctions risk. Domestic production record 68.1 bcm in 2025 but demand surging.
+- **Source 93-94:** [Astana Times](https://astanatimes.com/2026/09/tokayev-calls-for-new-chapter-in-kazakhstan-south-korea-ties-signs-19-billion-in-deals) + [Qazinform](https://qazinform.com/news/kazakhstan-south-korea-ties-deepen-through-critical-minerals-and-technology-e884a8) — Tokayev's Seoul state visit: ~80 commercial agreements worth $19B. Relations elevated to "future-oriented comprehensive strategic partnership." Joint critical minerals company proposed (Tau-Ken Samruk + POSCO). First Central Asia-ROK Summit held Sept 16.
+- **Source 95:** [The National Interest: How to Compete with Chinese AI](https://nationalinterest.org/blog/silk-road-rivalries/how-to-compete-with-chinese-ai-in-central-asia) — Andrew D'Anieri argues if forced to choose AI bloc, Kazakhstan would pick China due to BRI depth. US should compete, not demand exclusivity.
+- **Source 96:** [IFIMES: Kazakhstan 2026 — A Responsible Middle Power](https://www.ifimes.org/en/researches/kazakhstan-2026-a-responsible-middle-power-and-strategic-connector-of-eurasia/5997) — Comprehensive geopolitical assessment: Kazakhstan building "strategic autonomy" by connecting sides. Covers SCO, CANWFZ, AI positioning, water governance.
+- **Source 97:** [crypto.news: National crypto analytics center](https://crypto.news/kazakhstan-plans-national-crypto-analytics-center-to-track-digital-asset-flows) — National Bank announced National Cryptocurrency Analytics Center on SupTech platform. Integrated with Anti-Fraud Center.
+- **Source 98:** [Astana Times: $60M Tokenization Pilot](https://astanatimes.com/2026/09/kazakhstan-plans-60-million-tokenization-pilot-for-alatau-city-projects) — First major digital asset financing test: Iconic Tower ($50M) and Birlik logistics center ($10M). National Strategic Crypto Reserve reached $700M.
+- **Source 99:** [Astana Times: Oil Export Strategy Upgrade](https://astanatimes.com/2026/09/kazakhstan-is-upgrading-its-oil-export-strategy-heres-how) — Analytical framework: moving from "rational efficiency to strategic resilience." BTC at 2.2M tons planned for 2026. Baku-Supsa discussed for 3-5M tonnes.
+### Files updated
+- sources.md: 91 → 99 sources (+8)
+- index.md: updated source count and date
+- log.md: updated
