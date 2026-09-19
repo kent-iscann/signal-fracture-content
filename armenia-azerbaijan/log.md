@@ -196,7 +196,14 @@
 |- **Source 148:** [MassisPost] The Peace Aliyev Offers Armenia — Analysis of Aliyev's dual peacemaker/victor discourse. Covers Bishkek meeting, Pashinyan's TRIPP talk with Senator Daines.
 |- **Files updated:** sources.md, index.md, log.md
 
-## 2026-09-12 - Weekly Source Update
+## 2026-09-19 - Weekly Source Update
+||- **New sources:** 5 (156–160)
+||- **Source 156:** [Eurasianet] Russia turns off gas taps to Armenia — Gazprom suspended supplies Sep 15-25, three days after Pashinyan confirmed Armenia seeking alternative gas sources. Russia = ~82% of Armenia's gas imports. Major economic pressure escalation.
+||- **Source 157:** [Mirror-Spectator/Eurasianet] TRIPP start date pushed back to 2027 — Azerbaijani FM Bayramov confirmed construction delay. Iran warned US personnel in corridor would be "legitimate target." Security/oversight unresolved.
+||- **Source 158:** [OC Media] Azerbaijani media claims 'Armenia not ready for peace' — After controversial Nagorno-Karabakh tour portraying Armenian heritage as "Caucasian Albanian," pro-government Azerbaijani media shifts tone, questions Armenia's peace readiness.
+||- **Source 159:** [MassisPost] Armenia-Russia Relations After Pashinyan-Putin Meeting — Analysis of Bishkek aftermath: Kazakhstan floated for railway concession; Putin's base withdrawal statement raises pressure; gas price negotiations expected December.
+||- **Source 160:** [MassisPost] Pashinyan confirms comprehensive review of Armenia-Russia relations — "Inventory" covers transport, energy, economics. Pashinyan: "If CSTO wants to remove us, let them." Says 102nd base not vital after 2022 events.
+||- **Files updated:** sources.md, index.md, log.md
 |- **New sources:** 7 (149–155)
 |- **Source 149:** [Caucasus Watch] EU Council backs two-year trade boost for Armenian exports — Council approved temporary trade-liberalization measures covering ~80% of Armenian exports (duty-free access for ~99% fresh fruit/veg, ~91% beverages/spirits). EP to adopt in September plenary.
 |- **Source 150:** [Caucasus Watch] Aliyev meets OSCE PA President Pons Sampietro — Pons Sampietro stated "one of the conflicts in the OSCE area had been resolved." Aliyev criticized Minsk Group's 30-year failure.

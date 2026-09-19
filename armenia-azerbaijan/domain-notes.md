@@ -92,7 +92,19 @@ As of Republic Day 2026, Pashinyan announced:
 |- **Armenia-Turkey business forum in Yerevan (Sep 3-4):** EU Ambassador Maragos opened two-day forum with ~200 business leaders from IT, tourism, construction, food, transport. EU-funded normalization program runs April 2026-September 2027. UMBA President Ghazaryan noted $150-300M in Turkish goods already entering Armenia despite closed border, but Armenian exports to Turkey remain severely restricted.
 |- **Pashinyan discusses TRIPP with US Senator Daines:** Following Bishkek, Pashinyan met Senator Steve Daines on TRIPP implementation and told SCO Plus summit that practical work would begin "in the coming months."
 
-## Key Recent Developments (Sep 5-12, 2026)
+## Key Recent Developments (Sep 19, 2026)
+
+||- **Russia cuts gas to Armenia (Sep 15-25):** Gazprom Armenia suspended gas supplies Sep 15-25 for "scheduled maintenance," three days after Pashinyan publicly confirmed Armenia is actively pursuing alternative gas sources. Russia provided ~82% of Armenia's gas in 2025. Gazprom's own statement noted Iranian gas and domestic reserves would fill the gap. Azerbaijan signaled willingness to supply gas. Marks a major escalation — Russia shifting from trade bans (agriculture) to energy leverage. New gas price negotiations expected December 2026.
+||- **TRIPP start date pushed back to 2027 (Sep 15):** Azerbaijani FM Bayramov acknowledged construction won't start until 2027, contradicting earlier Pashinyan statements of "before year-end" (June 2026) and Mkrtchyan's "early 2027" (Sep 5). Iran reportedly warned Pashinyan that US personnel in the corridor would be a "legitimate target." Security and operational oversight remain the core unresolved issue — Armenia insists on sovereignty, Azerbaijan demands extraterritorial right of passage.
+||- **Azerbaijani media shifts tone (Sep 18):** Following controversial Nagorno-Karabakh tour where Azerbaijan portrayed Armenian heritage as "Caucasian Albanian," pro-government Azerbaijani media (Azertac, APA, Caliber) directly questions Armenia's "readiness for peace" — a notable departure from pre-election media support for Pashinyan.
+||- **Pashinyan confirms comprehensive review of Russia relations (Sep 17):** "Inventory" process covers transport, energy, and economics. Pashinyan: "If CSTO wants to remove us, let them remove us." Reiterates 102nd military base not vital. Armenia has never formally raised base withdrawal but will discuss it in broader review.
+
+## Trackable Indicators (updated)
+
+| Indicator | What to watch | Source type |
+|-----------|---------------|-------------|
+| Russian gas cutoff duration/pattern | Whether Sep 15-25 cutoff is repeated or extended; Gazprom pricing decision December 2026 | Official/industry |
+| TRIPP construction timeline | Bayramov's 2027 target; any formal US/Armenia confirmation | Official/diplomatic |
 
 |- **EU Council backs two-year trade boost (Sep 5):** Council approved temporary trade-liberalization measures removing import duties on ~80% of Armenian exports (duty-free access for ~99% fresh fruit/veg, ~91% beverages/spirits) for two years. EP expected to adopt in September plenary. Expands on von der Leyen's July 2 announcement of autonomous trade measures.
 |- **TRIPP feasibility study timeline (Sep 5):** Armenian Ambassador Mkrtchyan tells Semafor TRIPP feasibility study expected by end 2026, construction could begin early 2027. US committed ~$201M with $1.5B estimated economic development. Armenia comfortable with US's 74% stake.
