@@ -92,3 +92,12 @@
 - **Source 64:** MILF strips Macacua of BIAF position (Manila Times, Sep 4) — Corroborates Sept 3 shakeup; adds that the August suspension resolution also targeted nine influential base commanders aligned with Macacua ("brewing mutiny" crushed by Central Committee). Confirms removal is from BIAF command positions only, not MILF membership.
 - **Trigger:** Cross-referencing an Al Jazeera op-ed "Bangsamoro's parliamentary election is a turning point" (Sep 13) surfaced the Sept 3 MILF/BIAF shakeup, which was missing from the wiki. Initial review misread the op-ed as contradicting the record; verification confirmed the op-ed was correct and identified the gap.
 - **Files updated:** sources.md (62→64), timeline (Sep 3 event), entities/MILF.md (Sept 3 bullet), domain-notes.md (Sept 3 data point), index.md (source count, date)
+
+## 2026-09-19 - Weekly Source Update
+- **New sources:** 5 (64→69)
+- **Source 65:** Al Jazeera (Sep 15, 2026) — "Election in Philippines' Bangsamoro region ends in hung parliament" — First BARMM parliamentary election results in hung parliament; BFP 31 seats, UBJP 30 seats; coalition "unavoidable"; Commander Bravo votes for first time, warns of return to fighting; 3 killed on election day
+- **Source 66:** Rappler (Sep 16, 2026) — "No single party gets majority of first-ever elected Bangsamoro Parliament" — Detailed seat count: BFP 31, UBJP 30, other parties 19; coalition math; MPs serve Oct 30, 2026 to June 30, 2031
+- **Source 67:** Rappler (Sep 2026) — "Race for BARMM's top post could turn into Marcos-Duterte proxy war" — BGC kingmaker; "gapangan" scramble; Marcos-Duterte 2028 presidential race could spill into BARMM coalition negotiations
+- **Source 68:** IRI Preliminary Findings (Sep 14-15, 2026) — Comprehensive election observation: 84.34% turnout; 10 women elected (12.5%); pre-shaded ballots in 36 precincts Maluso; 5 killed, 20+ wounded Cotabato City; 108 international observers; 800+ teachers withdrew
+- **Source 69:** MEMRI JTTM (2026) — "ISIS East Asia Loses Status As Province" — ISEAP downgraded from province status Oct 2024-Jan 2026; attacks 50 (2019) → 3 (2026); ceased central funding 2022; leadership decimated; Turkey province also lost status
+- **Files updated:** sources.md (64→69), timeline (6 new events Sep 14-16), entities/MILF.md (election result), domain-notes.md (new data points, dedup guidance), index.md (source count, date)
