@@ -56,7 +56,7 @@
 | Angola | Lobito Corridor Atlantic gateway | China Railway Construction Corp |
 | Tanzania | Indian Ocean hub; emerging rare earths | Hongji Mining Co. Ltd |
 
-## Key Data Points (as of August 2026)
+## Key Data Points (as of September 2026)
 - Chinese mining investment in Africa: **largest of any bilateral partner** (more than next 8 combined, per ACCPA)
 - DRC Chinese development finance (2000-2023): **$22 billion via 112 loans + 169 grants** (AidData)
 - Africa holds **~30% of world's critical mineral reserves**
@@ -103,6 +103,9 @@
 - **Sinomine $2.8B total announced investment** in Zimbabwe lithium and energy; Bikita upgraded to 400,000t/yr spodumene; 100,000t/yr lithium sulphate plant by mid-2027 (Aug 2026)
 - **Team Europe Global Gateway:** Two projects >R1B (EUR57.8M) for SA green hydrogen and minerals/battery value chains, EU/Germany/Denmark/Netherlands (Sep 2026)
 - **CSIS Congressional testimony (Baskaran, Sep 2026):** Africa's exploration spending fell from 16%→10%; Glencore 40% Mutanda/Kamoto sale to Orion CMC (backed by DFC/ADQ); AGOA lapsed 2025
+- **US DRC copper cathode imports hit record 53,290t in July 2026 (23.9% of US imports):** US Section 232 tariff (50%) on semi-finished copper reshapes trade; Congolese cathode gains US industrial acceptance (bne IntelliNews, Sep 2026)
+- **DRC mining infrastructure bottlenecks:** ~1 GW power deficit; Mota-Engil 30-yr Dilolo-Sakania concession up to $1.8B; AFC raising $3-5B for Lobito expansion; concentrate export ban (June 29, 2026); Manono lithium started May 2026 (Newsbase, Sep 2026)
+- **DRC-USA Task Force created September 2026** to accelerate mining/energy/transport/processing projects under strategic minerals partnership
 
 ## Common Dedup Pitfalls
 - **Reuters/Business Insider republication:** The same EU roadshow story appears across Business Insider Africa, Reuters, and various aggregators. Check dates — if within the same week, it's the same reporting.
