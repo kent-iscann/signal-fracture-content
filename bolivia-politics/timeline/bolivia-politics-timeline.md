@@ -80,4 +80,14 @@
 |
 |- **September 14:** Cabinet approves decree to extend state of exception by 90 more days (to mid-December 2026), ahead of its Sep 18 expiration. Rio Times reports Paz weighing state of siege if blockades resume. Santa Cruz civic committee sets October 10 deadline (Democracy Day) for fuel/tax demands.
 |
-|- **September 15:** Education workers march in La Paz and other cities to protest state of emergency extension and IMF deal. Hundreds of teachers demonstrate; police presence visible. Reuters and Anadolu Agency cover protests. State of emergency extended to clear way for military deployment to restore order.
+||- **September 15:** Education workers march in La Paz and other cities to protest state of emergency extension and IMF deal. Hundreds of teachers demonstrate; police presence visible. Reuters and Anadolu Agency cover protests. State of emergency extended to clear way for military deployment to restore order.
+||
+||- **September 15:** Presidential spokesman José Luis Gálvez warns Bolivia could declare state of siege — stronger than existing state of exception — if road blockades return. "We will use constitutional force, and we will use the military." Diesel subsidy cuts under Decree 5676 cited as trigger for new protest threats. Rio Times reports.
+||
+||- **September 16:** Bolivia's Legislative Assembly debates 90-day state of emergency extension. VP Edmand Lara presides over session. Government ministers Oviedo and Justiniano justify extension based on police/military reports of renewed mobilization risks.
+||
+||- **September 17:** Assembly approves 90-day state of emergency extension (100-58 vote), citing persistent risks of new blockades over fuel subsidy cuts. Original period was set to expire Sep 18. Opposition lawmaker Gabriel Corvera warns measure treats symptoms not underlying causes. Reuters reports.
+||
+||- **September 18:** Bolivian Congress approves $1.9B IMF loan agreement — Senate ratifies day after lower house approval. Conditions include end to ALL fuel subsidies by 2027. Unlocks ~$5B additional financing from World Bank, IDB, other lenders. Paz calls it "historic step" and "resounding signal of political maturity." Economy Minister Christian Morales pledges deal will bring confidence. Unions threaten renewed protests over austerity. Centrist/right-wing coalition rallies behind deal despite Paz lacking majority. AP reports.
+||
+||- **September 21:** Secretary of State Marco Rubio meets President Rodrigo Paz at UNGA High-level Week in New York. US emphasizes Bolivia as "critically important regional partner," welcomes economic stabilization including IMF support and fuel/mining/energy reforms. Discusses regional security cooperation against "narcoterrorists."

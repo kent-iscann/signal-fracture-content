@@ -120,6 +120,10 @@
 |- **State of exception extended (Sep 14, 2026):** Cabinet approves 90-day extension to mid-December; Paz weighs state of siege if blockades resume
 |- **Diesel reference price lowered:** Regulators cut to 16.50 BOB/liter in early Sep (from 18.00 BOB via Decree 5676)
 |- **Paz approval rating:** 65% (Nov 2025) → 32% (July 2026); disapproval at 55% (Ipsos Ciesmori)
+|- **IMF deal congressional approval (Sep 18, 2026):** Congress ratified $1.9B program — Senate approved day after lower house. Paz calls "historic step." Conditions: end ALL fuel subsidies by 2027, fiscal consolidation ~8.5% GDP 2026-2029, central bank provides no new net financing to non-financial public sector. Unlocks ~$5B additional from World Bank/IDB.
+|- **State of siege warning (Sep 15, 2026):** Presidential spokesman Gálvez warns state of siege possible if blockades return — stronger than existing state of exception. "We will use constitutional force, and we will use the military."
+|- **State of emergency extension (Sep 17, 2026):** Assembly approves 90-day extension (100-58 vote). Ministers Oviedo/Justiniano cite police/military reports of renewed mobilization risks. Opposition Corvera warns treats symptoms not causes.
+|- **Rubio-Paz UNGA meeting (Sep 21, 2026):** Rubio meets Paz at UNGA High-level Week in New York. US emphasizes Bolivia as "critically important regional partner," welcomes economic stabilization including IMF support and fuel/mining/energy reforms.
 |- **Paz bloc parliamentary arithmetic:** Largest bloc with 65/130 seats but no working majority; all three major blocs fractured internally
 |- **Morales Sep 13 radio:** Describes Paz government as "agoniza"; IMF deal as "imposition and blackmail"; warns subsidy removal could push >50% into poverty; attacks cabinet cohesion
 |- **Morales Oct protest roadmap:** Expanded assembly called for Sep 26 in Lauca Ñ to define protests from October onward
@@ -133,6 +137,7 @@
 | 02-08-2026 | 60% | −5pp | IMF $1.9B undershoots, diesel crisis, Morales warrant #2, judicial crisis |
 || 28-08-2026 | 50% | −10pp | Coalition ruptures (only 6/15 ministers, Nat'l Unity breaks), Cerimedo scandal expands (money-laundering + drug trafficking), dollar falls to Bs11.93, GDP -3.6%, Decree 5676 revealed as IMF condition, Santa Cruz ag ultimatum |
 || 16-09-2026 | 45% | −5pp | Paz approval collapses to 32%; education workers resume protests Sep 15; state of exception extended to mid-Dec but Santa Cruz Oct 10 deadline looms; rumors in corridors of power Paz may not survive October; Morales calls Sep 26 assembly for Oct protest roadmap; IMF conditions (end ALL fuel subsidies by 2027) await congressional ratification
+| 23-09-2026 | 45% | 0pp | Congress approved $1.9B IMF deal Sep 18 (Senate ratified) — major legislative win for Paz; state of emergency extended 90 days (100-58) Sep 17; state of siege warning issued Sep 15 if blockades return; Rubio meets Paz at UNGA Sep 21 affirming US support; IMF conditions (end ALL fuel subsidies by 2027) guarantee continued social conflict; Santa Cruz Oct 10 deadline approaches; Morales Sep 26 assembly for Oct protest roadmap
 
 ## Common Dedup Pitfalls
 - **AP News, Al Jazeera, Reuters often cover the same events** — compare specific data points (death toll, arrest numbers, price figures) to determine if it's the same story or genuinely new reporting
@@ -172,8 +177,8 @@
 - **Rodrigo Paz:** Primary source for government narrative (via CNN interviews, press conferences)
 - **Marco Rubio / Pete Hegseth:** US official positions on Bolivia
 
-## Active Strategic Debates (Mid-September 2026)
-1. **IMF deal adequacy:** $1.9B is well below $5B expectations — government now admits Decree 5676 is an IMF condition and revealed end of ALL fuel subsidies by 2027; deal still awaiting congressional ratification.
+## Active Strategic Debates (Late September 2026)
+1. **IMF deal adequacy:** $1.9B program approved by Congress Sep 18 (Senate ratified) — unlocks ~$5B in additional multilateral financing. Paz calls it "historic step." But conditions include end of ALL fuel subsidies by 2027 and fiscal consolidation of ~8.5% GDP, guaranteeing continued social conflict. Unions threaten renewed protests.
 2. **Coalition durability:** Only 6 of 15 original ministers remain; National Unity party broke with Paz over decree reliance; Veronica Rocha says balance of power is now "unfavorable to the government." Paz approval collapsed from 65% to 32% (Ipsos Ciesmori, July 2026).
 3. **Morales arrest impact:** Second warrant for armed insurrection/terrorism; Morales defies from Chapare, describes government as "agoniza" (Sep 13); calls expanded assembly for Sep 26 to define Oct protest roadmap.
 4. **Diesel/soybean crisis:** Fuel shortages threatening Bolivia's key export crop — Supreme Decree 5683 doubles YPFB ceiling to Bs2B but only covers ~10 days of fuel. Diesel reference price lowered to 16.50 BOB/L.

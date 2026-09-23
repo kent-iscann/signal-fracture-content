@@ -116,5 +116,13 @@
 - **Source 49:** Bolivia to end fuel subsidies by 2027 in return for IMF bailout (BSS/AFP) — Govt reveals IMF conditions include ending ALL fuel subsidies by 2027 under $1.9B program; deal awaiting congressional ratification; Cristian Morales defends as "necessary."
 - **Source 50:** Inside Bolivia's Plan for Gun-Free OAS Police as Two Deadlines Close In (Latin Times) — OAS RedPolOEA unarmed police mission designed; US bankrolling; updated death toll 22; Santa Cruz Oct 10 deadline; state of exception extended 90 days; diesel reference price lowered to 16.50 BOB/L.
 - **Source 51:** Evo Morales Says the Paz Government Is Agonizing (Rio Times) — Morales Sep 13 radio: government "agoniza"; IMF deal as "imposition and blackmail"; warns subsidy removal could push >50% into poverty; 65-seat Paz bloc fragmented.
-- **Source 52:** The Downfall of the "Accidental" President (lacommunis.org) — Paz approval 65%→32%; Morales Sep 26 assembly; rumor Paz may last only until October; "Red Ponchos" Aymara uprising.
-- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, log.md
+|- **Source 52:** The Downfall of the "Accidental" President (lacommunis.org) — Paz approval 65%→32%; Morales Sep 26 assembly; rumor Paz may last only until October; "Red Ponchos" Aymara uprising.
+|- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, log.md
+|
+|## 2026-09-23 - Weekly Source Update
+|- **New sources:** 4 (total 52 → 56)
+|- **Source 53:** Bolivia's Congress approves $1.9B IMF deal (ABC News/AP) — Major Paz victory: Congress approves $1.9B IMF loan, Senate ratifies. Conditions include end to ALL fuel subsidies by 2027. Unlocks ~$5B additional multilateral financing. State of emergency extended 90 days. Unions threaten renewed protests.
+|- **Source 54:** Bolivia extends state of emergency (Reuters) — Assembly extends 90 days (100-58) citing persistent blockade risks. Ministers Oviedo/Justiniano cite police/military Intel. Opposition Corvera warns treats symptoms not causes.
+|- **Source 55:** Bolivia Warns of State of Siege If Blockades Return (Rio Times) — Spokesman Gálvez warns state of siege possible. "We will use constitutional force, and we will use the military."
+|- **Source 56:** Rubio-Paz UNGA Meeting (US State Department) — Rubio meets Paz Sep 21 at UNGA. US reaffirms Bolivia as "critically important regional partner," welcomes IMF support and energy/mining reforms.
+|- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, log.md, entities/Rodrigo Paz.md, concepts/Bolivia's Post-MAS Fragmentation.md, domain-notes.md
