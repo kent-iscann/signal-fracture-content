@@ -317,3 +317,15 @@
 - **Source 90:** Caucasus Watch: Baramidze detained — Opposition leader held on treason/sabotage over Abkhaz war remarks.
 - **Source 91:** Caucasus Watch: Georgia joins Paris Space Summit declarations — Kobakhidze at Macron's invitation.
 - **Files updated:** sources.md (+12), index.md, timeline/georgia-timeline.md, log.md
+
+## 2026-09-24 - Weekly Source Update
+- **New sources:** 8 (92–99)
+- **Source 92:** OC Media: Kambolov wins South Ossetia snap election (Sep 19) — Former Russian bureaucrat wins 85% vote, Putin congratulates, EU calls step toward illegal annexation.
+- **Source 93:** The National Interest: Georgia's Ties with Iran Have a Limit — Kheladze/Epstein counter-narrative arguing GD's Iran engagement has structural ceilings; Georgia ultimately chooses Washington when forced.
+- **Source 94:** Jamestown: Kremlin Draws Georgia into its War as Tbilisi Rewrites History in Russia's Favor — Beka Chedia on GD rewriting history, "Georgievsk" battalion fighting for Russia in Ukraine.
+- **Source 95:** Jamestown: Hungary Shifts West Under Magyar — Hungary expels 10 Russian diplomats; confirms GD's key EU patron (Orbán) is gone, Hungary aligns with mainstream European positions.
+- **Source 96:** JAMnews: Iran envoy warns Georgia over airline sanctions compliance — Tensions as Georgia complies with US Iran airline sanctions; ambassador publishes provocative map.
+- **Source 97:** JAMnews: US court orders Georgia to pay $350M over Namakhvani HPP — US federal judge enforces ICC award; ~$400M total blow from abandoned hydropower project.
+- **Source 98:** Eurasianet/CACI: Educational reform sparks concern about politicization of academia — GD's "One City-One Faculty" reform criticized as assault on academic autonomy.
+- **Source 99:** EU Awareness Centre: Russia's Hybrid Campaign — Motives, Methods, and Actors — FSB/SVR/GRU involvement in Georgia's democratic backsliding; supplements source #33.
+- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
