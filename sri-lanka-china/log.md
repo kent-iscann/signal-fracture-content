@@ -217,3 +217,10 @@
 |- **Source #61**: "Sri Lanka bilateral, multilateral debt up in H1 2026; commercial down: Treasury" -- EconomyNext (September 3, 2026). Official Treasury data: bilateral loans led by China rose 1.1% ($119M) to $10,797M by end-June 2026. Total govt external debt $38,008M. Non-Paris Club holds 59% of bilateral debt. Provides aggregate bilateral totals and Paris Club split.
 |- **Files updated**: sources.md, index.md, log.md, timeline/china-sri-lanka-timeline.md
 |- **Total sources**: 59 → 61
+
+## 2026-09-24 - Weekly Source Update | 2 new sources (yuan-denominated loan cabinet approval, Borrowers' Platform)
+| **New sources:** 2
+|| **Source #62:** "Sri Lanka seeks Chinese loans in Yuan instead of USD for infra project" — The Economic Times (September 2026). President Dissanayake secured cabinet approval to borrow $500M equivalent in RMB from China EXIM Bank for the Central Expressway — Sri Lanka's first-ever yuan-denominated bilateral loan. The shift from USD to RMB was at EXIM Bank's request. Original $989M loan reduced to $500M; SL to provide $438M from state coffers and settle $200M in MCC claims. First concrete implementation of China's yuan-denominated lending shift reported by AidData (Source #47).
+|| **Source #63:** "Borrowers' Platform faces a test from creditors in the room" — Policy Circle / RIS India (September 23, 2026). Analyzes the new UNCTAD Borrowers' Platform using Sri Lanka as case study of complex creditor diversity during restructuring. Sri Lanka ineligible for G20 Common Framework due to middle-income status. First Governing Council Oct 14 in Bangkok.
+| **Files updated:** sources.md, index.md, timeline/china-sri-lanka-timeline.md, concepts/belt-and-road-initiative.md, log.md
+| **Total sources**: 61 → 63

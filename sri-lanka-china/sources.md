@@ -1,6 +1,6 @@
 # Sources
 
-| Total sources: 59 | Last updated: 2026-09-10
+| Total sources: 63 | Last updated: 2026-09-24 |
 
 ## Debt and Lending
 
@@ -360,3 +360,19 @@
 61. "Sri Lanka bilateral, multilateral debt up in H1 2026; commercial down: Treasury" -- EconomyNext (September 3, 2026)
     https://economynext.com/sri-lanka-bilateral-multilateral-debt-up-in-h1-2026-commercial-down-treasury-282742
     Official Treasury debt data as of end-June 2026. Bilateral loans led by China rose 1.1% or US$119 million to US$10,797 million by end-June (from US$10,678M at end-2025). Multilateral loans increased 3.4% ($488M) to $14,802M. Commercial debt fell 2.1% ($262M) to $12,409M. Total government external debt stood at $38,008M (up $345M from $37,663M at end-Dec 2025). Multilateral debt accounts for 38% of total, commercial 34%, bilateral 28%. Within bilateral segment, Non-Paris Club (led by China) holds 59% vs Paris Club 41%. ADB and World Bank represent over 78% of multilateral debt; 81% of commercial debt is International Sovereign Bonds. Provides the aggregate bilateral debt total (including all bilateral creditors, not just China's share) and the Non-Paris Club/Paris Club split for the first time.
+
+|---
+
+## Yuan-Denominated Lending & RMB Internationalization
+
+62. "Sri Lanka seeks Chinese loans in Yuan instead of USD for infra project" -- The Economic Times (September 2026)
+    https://m.economictimes.com/news/international/business/sri-lanka-seeks-chinese-loans-in-yuan-instead-of-usd-for-infra-project/articleshow/123554191.cms
+    President Dissanayake secured cabinet approval to borrow the equivalent of $500 million in renminbi (RMB) from China Exim Bank for the Central Expressway Section I (Kadawatha-Meerigama) — Sri Lanka's first-ever yuan-denominated bilateral loan. The change in currency from USD to RMB was at China Exim Bank's request. The original 2019 preferential buyer's credit was $989M but only $51.5M was disbursed before suspension during the crisis. After restructuring, EXIM Bank reduced its commitment to $500M in yuan; Sri Lanka will provide $438M from state coffers plus settle $200M in outstanding claims to MCC. Five domestic construction firms urged competitive tenders but Colombo persisted with the Chinese contractor. The move requires Sri Lanka, which has no RMB income, to convert US dollar reserves for repayment — drawing debt-trap concerns from experts. Represents the first concrete implementation of China's yuan-denominated lending shift for Sri Lanka, following the AidData/Reuters report (Source #47) on the structural change in EXIM Bank lending currency policy.
+
+---
+
+## Post-Crisis Developments, Geopolitics, and Multilateral Institutions
+
+63. "Borrowers' Platform faces a test from creditors in the room" -- Policy Circle / RIS India (September 23, 2026)
+    https://www.policycircle.org/opinion/borrowers-platform-faces-a-test
+    Amol Baxi (Visiting Fellow, RIS New Delhi) analyzes the newly formed Borrowers' Platform (launched April 15, 2026 under UNCTAD) and its governance challenges. Uses Sri Lanka as a case study: the country's restructuring involved a uniquely diverse creditor group including China, India, Paris Club creditors, and commercial lenders — the IMF described the process as "unusually complex." Sri Lanka was ineligible for the G20 Common Framework due to middle-income status, forcing separate negotiations with multiple creditor groups. The article highlights that some developing countries are simultaneously borrowers and lenders (China, India), creating potential tension in a borrower-only forum. First Governing Council meeting scheduled for October 14, 2026 in Bangkok. Provides institutional context for understanding the debt architecture within which Sri Lanka's restructuring occurred.

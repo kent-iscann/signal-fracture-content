@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-09-17
+updated: 2026-09-24
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -218,6 +218,9 @@ The Sri Lanka-China Business Council held its 25th anniversary gathering in Colo
 
 ### September 9-10, 2026 -- Sri Lanka Participates in 11th Belt and Road Summit in Hong Kong
 Trade Minister Wasantha Samarasinghe represented Sri Lanka at the 11th Belt and Road Summit in Hong Kong, co-organized by the Hong Kong Trade Development Council and the HKSAR Government. The summit, held under the theme "Advancing High-Quality Development · Embarking on a New Journey," drew ~100 policymakers and business leaders from BRI countries. Samarasinghe participated in a policy dialogue session "Building Resilient Trade and Investment Frameworks in a Diverse Global Landscape" chaired by Hong Kong SAR Commerce Secretary Algernon Yau, alongside ministers from Bangladesh, Thailand, Qatar, Kazakhstan, and Timor-Leste. He highlighted Sri Lanka's potential as a regional maritime and trade hub and called for opening new foreign markets and attracting value-added investments. The participation signals Sri Lanka's continued high-level engagement with the BRI framework under the Dissanayake administration, with trade and investment diversification as the core emphasis rather than infrastructure lending.^[Newswire, September 9, 2026]^[China Daily HK, September 9, 2026]
+
+### Late August / September 2026 -- Cabinet Approves $500M Yuan-Denominated EXIM Bank Loan for Central Expressway
+President Dissanayake secured cabinet approval to borrow the equivalent of US$500 million in renminbi (RMB) from China Exim Bank for Section I of the Central Expressway (Kadawatha-Meerigama) — Sri Lanka's first-ever yuan-denominated bilateral loan. The shift from USD to RMB was at China Exim Bank's request. The original 2019 preferential buyer's credit of US$989M had only US$51.5M disbursed before suspension during the crisis. Post-restructuring, EXIM Bank reduced its commitment to US$500M in yuan; Sri Lanka will provide US$438M from state coffers and settle US$200M in outstanding claims to MCC (Metallurgical Corporation of China Ltd). Sri Lanka has no RMB income and must convert US dollar reserves for repayment. Five domestic construction firms urged competitive tenders but Colombo persisted with the Chinese contractor MCC. This is the first concrete implementation of China's yuan-denominated lending policy shift for Sri Lanka, representing a structural change in bilateral lending terms.^[The Economic Times, September 2026]
 
 ---
 
