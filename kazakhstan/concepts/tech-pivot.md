@@ -76,8 +76,10 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 - **FDI inflows:** ~$28B in 2025.
 
 ## Tokenization & crypto regulation (Sept 2026)
-- Kazakhstan plans to tokenize up to **$60M** in real estate/logistics projects by end of 2026 — first major test of digital assets as financing source. National Bank Gov Suleimenov: Iconic Tower ($50M) and Birlik logistics center ($10M) via KASE digital infrastructure. PM Bektenov: shift from quantitative mining growth to qualitative transformation. Mining tax revenue rose to 22.4B tenge ($50.1M) in 2025 from 9B tenge ($20.1M) in 2023. National Strategic Crypto Reserve reached **$700M** (primeminister.kz).
-- **National Cryptocurrency Analytics Center (Sept 2026):** National Bank announced center on SupTech platform to monitor fiat/crypto transactions, wallets, customer data. Integrated with Anti-Fraud Center. Banks, law enforcement, licensed providers get access. Builds on earlier AFSA stablecoin pilot (Sept 2025) allowing USDC-based regulatory fee payments.
+|- Kazakhstan plans to tokenize up to **$60M** in real estate/logistics projects by end of 2026 — first major test of digital assets as financing source. National Bank Gov Suleimenov: Iconic Tower ($50M) and Birlik logistics center ($10M) via KASE digital infrastructure. PM Bektenov: shift from quantitative mining growth to qualitative transformation. Mining tax revenue rose to 22.4B tenge ($50.1M) in 2025 from 9B tenge ($20.1M) in 2023. National Strategic Crypto Reserve reached **$700M** (primeminister.kz).
+|- **Web3 ecosystem enters global top 10 (Sept 22, 2026):** Regulated crypto market reached **$10.58B in 2025** (up from $320M in 2023); users grew from 53K to 215K. Kazakhstan ranked global top 10 for Solana hackathon applications. 57 startups received 121M tenge ($262K) in grants. 8,000+ people trained through Solana ecosystem, 2,000+ certificates issued. ~1 in 5 certified graduates represents a government body. Kazakhstan remains only Central Asian country with official Solana representation.
+|- **Solana-based ETF launched on KASE** — first exchange-traded fund based on public Solana blockchain in Kazakhstan. Alatau City and Solana Foundation signed cooperation MoU in Hong Kong (June 11, 2026). International Solana Summit in Kazakhstan drew 900+ participants from 30+ countries; livestreams reached ~4M audience.
+|- **National Cryptocurrency Analytics Center (Sept 2026):** National Bank announced center on SupTech platform to monitor fiat/crypto transactions, wallets, customer data. Integrated with Anti-Fraud Center. Banks, law enforcement, licensed providers get access. Builds on earlier AFSA stablecoin pilot (Sept 2025) allowing USDC-based regulatory fee payments.
 
 ## US-China AI competition — new analysis (Sept 2026)
 - Andrew D'Anieri (The National Interest) argues US should **outcompete rather than ultimatum**: if forced to choose between US and China AI blocs, Kazakhstan would choose China due to BRI infrastructure depth and investment ties. Recommends US build compute power and supply chains instead of demanding exclusivity.
@@ -87,17 +89,24 @@ Kazakhstan's attempt to diversify its economy through technology — AI, cryptoc
 The tech pivot is real but nascent. Kazakhstan has made significant progress in creating the institutional framework (ministry, hub, forums, AI law) and attracting attention (GITEX, Dealroom ranking, AI diffusion ranking, $10B NVIDIA deal). The emergence of the first AI unicorn (Higgsfield AI) and the surge in AI venture funding to $73M are concrete milestones. The national crypto reserve plan signals a more sophisticated approach to digital assets beyond just mining. However, the ecosystem remains small, government-dependent, and faces structural challenges including brain drain, corruption, and competition from more established tech hubs. The authoritarian governance model and limited internet freedom also constrain the open innovation culture that drives successful tech ecosystems.
 
 ## Digital Qazaqstan Strategy 2029 (August 2026)
-- PM Bektenov approved the **Digital Qazaqstan Strategy through 2029** action plan on Aug 26, 2026.
-- **AI skills target:** At least 80% of school, college, and university graduates expected to acquire basic AI skills by 2029 through the AI-Sana program.
-- **Higher education:** By 2028, at least 80% of universities and colleges expected to integrate AI technologies into educational processes.
-- **Energy sector:** At least 70% of fuel and energy assets to be connected to digital monitoring systems by 2029.
-- **Government services:** Target to reduce time for govt service delivery by at least 50% by 2029. Shift from application-based to proactive service delivery.
-- **IT exports:** IT services exports target to grow by at least 50% by 2029.
-- **Samruk Kazyna portfolio:** Digital and AI initiatives expected to contribute 5% annually to EBITDA growth.
-- **Baiterek Holding:** AI monitoring planned to cover 100% of investment projects by 2029.
-- **Data Center Valley:** Project to expand computing capacity, attract global technology and cloud providers.
-- **Cybersecurity:** Government digital systems to be connected to Personal Data Access Control service giving citizens visibility over data usage.
-- Strategy moves Kazakhstan beyond digitizing individual services toward a model where data, AI, and interconnected digital infrastructure become part of the country's economic and administrative architecture.
+|- PM Bektenov approved the **Digital Qazaqstan Strategy through 2029** action plan on Aug 26, 2026.
+|- **AI skills target:** At least 80% of school, college, and university graduates expected to acquire basic AI skills by 2029 through the AI-Sana program.
+|- **Higher education:** By 2028, at least 80% of universities and colleges expected to integrate AI technologies into educational processes.
+|- **Energy sector:** At least 70% of fuel and energy assets to be connected to digital monitoring systems by 2029.
+|- **Government services:** Target to reduce time for govt service delivery by at least 50% by 2029. Shift from application-based to proactive service delivery.
+|- **IT exports:** IT services exports target to grow by at least 50% by 2029.
+|- **Samruk Kazyna portfolio:** Digital and AI initiatives expected to contribute 5% annually to EBITDA growth.
+|- **Baiterek Holding:** AI monitoring planned to cover 100% of investment projects by 2029.
+|- **Data Center Valley:** Project to expand computing capacity, attract global technology and cloud providers.
+|- **Cybersecurity:** Government digital systems to be connected to Personal Data Access Control service giving citizens visibility over data usage.
+|- Strategy moves Kazakhstan beyond digitizing individual services toward a model where data, AI, and interconnected digital infrastructure become part of the country's economic and administrative architecture.
+
+## Digital finance & fiscal tech (Sept 2026)
+|- **Google tax** collected 178.8B tenge ($390.2M) in VAT from 133 foreign digital companies since 2022. Annual collections rose 5x: $22.7M (2022) → $125.7M (2025). Largest 2025 payers: Temu ($29M), Apple ($24.4M), Valve/Steam ($22.5M), Google ($15.9M), iHerb ($10.7M). E-commerce reached 3.8T tenge (~$8B) in 2025; 86% via marketplaces. 98% of transactions cashless by volume, 87% by value.
+|- **Digital tenge** operations targeting **2T tenge ($4.4B)** over 12 months. Integrated into government procurement, budget planning, state fund management. In industrial use since 2023.
+|- **Interbank mobile payment system** (launched July 19, 2026): 20M+ transactions worth 400B tenge ($888M) in first ~2 months. Includes transfers by phone number and unified QR code.
+|- **Financial sector digitalization:** 90%+ of payments cashless. 75% of Kazakh banks already use AI. NBK assessed digital readiness of 94 financial organizations; 1,200 specific measures identified with individual development plans. Financial services export identified as strategic priority.
+|- **Astana and Almaty** ranked 265th and 281st respectively in Oxford Economics Global Cities Index 2026 (1,000 cities assessed). Both cities top 100 in Human Capital (Almaty 66th, Astana 98th). Astana identified as "Regional Leader."
 
 ## US-China AI rivalry: Kazakhstan squeezed (Aug 2026)
 - **US ultimatum:** The US State Department drafted a note stating that nations wanting access to advanced American AI know-how under the **Pax Silica** initiative must refrain from participating in the rival Chinese **World AI Cooperation Organization (WAICO)**.

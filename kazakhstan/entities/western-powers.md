@@ -84,11 +84,18 @@ Western powers are cautiously increasing engagement with Kazakhstan, viewing it 
 - Part of broader US effort to boost economic engagement with Central Asia beyond critical minerals deals.
 
 ## Tokayev's South Korea visit — $19B deals (Sept 2026)
-- **Sept 15-16, 2026:** Tokayev's state visit to Seoul produced **~80 commercial agreements worth $19B**. Relations elevated to "future-oriented comprehensive strategic partnership." Tokayev called for doubling bilateral trade (exceeded $3B in 2025).
-- **Critical minerals:** Proposed joint Kazakh-Korean critical minerals company to move from resource extraction to deep processing. Tau-Ken Samruk signed MoU with POSCO Holdings. Joint rare/rare earth metals center proposed in Almaty with Korea Institute of Industrial Technology.
-- **First Central Asia-Republic of Korea Summit** (Sept 16) — establishing a new institutional framework for regional engagement with East Asia's third-largest economy.
-- **Comprehensive Program for Trade, Economic and Investment Cooperation 2027-2030** proposed.
-- South Korea brings advanced manufacturing, critical minerals processing technology, and a non-great-power partnership that doesn't trigger the balancing costs of Chinese or Western deals — a structurally valuable addition to Kazakhstan's multi-vector portfolio.
+|- **Sept 15-16, 2026:** Tokayev's state visit to Seoul produced **~80 commercial agreements worth $19B**. Relations elevated to "future-oriented comprehensive strategic partnership." Tokayev called for doubling bilateral trade (exceeded $3B in 2025).
+|- **Critical minerals:** Proposed joint Kazakh-Korean critical minerals company to move from resource extraction to deep processing. Tau-Ken Samruk signed MoU with POSCO Holdings. Joint rare/rare earth metals center proposed in Almaty with Korea Institute of Industrial Technology.
+|- **First Central Asia-Republic of Korea Summit** (Sept 16) — establishing a new institutional framework for regional engagement with East Asia's third-largest economy.
+|- **Comprehensive Program for Trade, Economic and Investment Cooperation 2027-2030** proposed.
+|- South Korea brings advanced manufacturing, critical minerals processing technology, and a non-great-power partnership that doesn't trigger the balancing costs of Chinese or Western deals — a structurally valuable addition to Kazakhstan's multi-vector portfolio.
+
+## UK trade deepening (Sept 2026)
+|- **Kazakhstan-UK trade** reached **$1.63B in 2025** (+83.7% YoY from 2024); **$1.25B in Jan-Jul 2026** (+68.5% YoY). UK SPCA (Strategic Partnership and Cooperation Agreement) entered force July 2026, creating wider institutional framework for critical minerals, trade, logistics, education, and technology cooperation.
+|- Minister Shakkaliyev and UK Trade Envoy Lord John Alderdice (Sept 22) discussed critical minerals processing, CBAM preparation, and moving beyond raw material exports (silver, crude oil, copper). Alderdice: British companies and universities can help develop processing capacity. Kazakh producers to receive support on UK quality, certification, packaging, and standards requirements.
+|- Practical projects emerging: $107M rhenium recycling agreement; first multimodal fertilizer shipment to UK via Middle Corridor.
+|- **B5+Italy business platform** launched in Astana (Sept 21, 2026) as follow-up to 2025 Central Asia-Italy summit. Co-authored by tracked analyst Sapargali Shalgimbayev (CFive) and Domenico Palmieri (ISIA). Italy-Central Asia trade grew **46.5%** (2019-2025). Priority areas: energy, critical minerals, manufacturing, Middle Corridor. Frames shift from episodic summit diplomacy toward continuous partnership with permanent institutional mechanism.
+|- B5+Italy is part of broader expansion of C5+1 engagement models — South Korea hosted first Central Asia-ROK summit (Sept 16), adding to growing network of external powers using the regional format.
 
 ## Russian gas imports & secondary sanctions risk (Sept 2026)
 - **Sept 17, 2026:** Kazakhstan signed supplementary agreement with Gazprom to purchase **~11 bcm of Russian gas** in 2026 (up from ~4M bcm in 2025). Talks ongoing for additional **9 bcm in 2027** at likely discounted prices. Domestic production hit record 68.1 bcm in 2025 but demand surging.

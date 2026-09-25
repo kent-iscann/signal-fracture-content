@@ -469,3 +469,19 @@
 - sources.md: 91 → 99 sources (+8)
 - index.md: updated source count and date
 - log.md: updated
+
+## 2026-09-25 - Weekly Source Update
+- **New sources:** 7 (99 → 106)
+- **Source 100:** [Astana Times: Web3 Ecosystem Global Top 10, Crypto Market $10B](https://astanatimes.com/2026/09/kazakhstans-web3-ecosystem-enters-global-top-10-as-regulated-crypto-market-tops-10-billion) — Regulated crypto market reached $10.58B in 2025 (up from $320M in 2023), users 53K→215K. Kazakhstan ranked global top 10 for Solana hackathon apps. 57 startups funded. First Solana ETF on KASE.
+- **Source 101:** [Astana Times: UK Trade Deepening via Higher-Value Exports](https://astanatimes.com/2026/09/kazakhstan-uk-seek-to-deepen-trade-through-higher-value-exports-and-mineral-processing) — KZ-UK trade $1.63B in 2025 (+83.7% YoY), $1.25B in Jan-Jul 2026 (+68.5%). UK SPCA entered force July. Talks on critical minerals processing, CBAM preparations.
+- **Source 102:** [Astana Times: Almaty & Astana Enter Global Top 300 Cities](https://astanatimes.com/2026/09/astana-and-almaty-enter-global-top-300-cities-stand-out-for-human-capital) — Oxford Economics Global Cities Index 2026: Almaty 265th, Astana 281st among 1,000 cities. Both cities top 100 in Human Capital (Almaty 66th, Astana 98th).
+- **Source 103:** [Astana Times: $390M Google Tax Collected Since 2022](https://astanatimes.com/2026/09/foreign-digital-firms-pay-kazakhstan-nearly-390-million-in-tax-since-2022) — 178.8B tenge ($390.2M) from 133 foreign digital firms. Collections 5x higher from 2022→2025. Temu biggest payer ($29M in 2025). E-commerce hit 3.8T tenge (~$8B) in 2025.
+- **Source 104:** [Astana Times: Digital Finance Next Phase, NBK Governor](https://astanatimes.com/2026/09/kazakhstan-looks-to-new-players-and-products-to-drive-next-phase-of-digital-finance-nbk-governor-says) — 90%+ cashless payments; digital tenge targeting 2T tenge ($4.4B) in operations over 12 months. 75% of banks use AI. Financial services export as strategic priority.
+- **Source 105:** [Astana Times: Middle Corridor Growth & Digitalization at Batumi Forum](https://astanatimes.com/2026/09/kazakhstan-highlights-middle-corridor-growth-and-digitalization-at-batumi-forum) — TITR freight +22% Jan-Aug; East-West transit +55%. World Bank report identifies 16 investment priorities worth ~$25B. Tez Customs: 8 hrs→30 min. Delivery times 38→13-17 days.
+- **Source 106:** [Astana Times: B5+Italy Turns Italy's Strategy Into Working Platform](https://astanatimes.com/2026/09/b5italy-turns-italys-central-asia-strategy-into-working-platform) — Co-authored by tracked analyst Shalgimbayev. B5+Italy business platform launched. Italy-Central Asia trade +46.5% (2019-2025). Priority: energy, critical minerals, manufacturing, Middle Corridor.
+### Files updated
+- sources.md: 99 → 106 sources (+7)
+- index.md: updated source count and date
+- log.md: updated
+- tech-pivot.md: updated with Web3/crypto data and digital finance metrics
+- western-powers.md: updated with UK trade and B5+Italy platform
