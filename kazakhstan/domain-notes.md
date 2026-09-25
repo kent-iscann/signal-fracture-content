@@ -90,7 +90,13 @@
 |- **National Crypto Reserve:** $500M-$1B target; reached $700M by Sept 2026 (primeminister.kz). Tokenization pilot: first major test of digital assets as financing source ($60M for Alatau City projects)
 |- **National Cryptocurrency Analytics Center (Sept 2026):** National Bank launched SupTech-based center to monitor all crypto/fiat transactions; integrated with Anti-Fraud Center
 |- **Oil export strategy upgrade (Sept 2026):** Kazakhstan moving from "rational efficiency to strategic resilience" — managed interdependence through balanced route portfolio. BTC: 2.2M tons planned 2026. Baku-Supsa: 3-5M tonnes discussed. Kazakhstan-China pipeline: 13.1M tons
-|- **Oil strategy upgrade summer 2026 data:** KazTransOil BTC via Aktau: 155K tons in July (+11.5% YoY). Draft 2027-2029 budget: 96M tons oil production, $70/bbl, 480 tenge/USD
+||- **Oil strategy upgrade summer 2026 data:** KazTransOil BTC via Aktau: 155K tons in July (+11.5% YoY). Draft 2027-2029 budget: 96M tons oil production, $70/bbl, 480 tenge/USD
+||- **Regulated crypto market (Sept 2026):** $10.58B in 2025 (up from $320M in 2023). Users 53K→215K. Kazakhstan in global top 10 for Solana hackathon apps. Solana ETF on KASE. 57 startups funded.
+||- **Google tax (Sept 2026):** $390.2M collected from 133 foreign digital firms since 2022. Annual collections 5x higher. Temu largest payer ($29M in 2025).
+||- **UK trade (Sept 2026):** $1.63B in 2025 (+83.7% YoY). SPCA entered force July 2026. B5+Italy platform launched Sept 21.
+||- **Digital finance (Sept 2026):** 90%+ cashless payments. Digital tenge targeting 2T tenge ($4.4B) in operations. 75% of banks use AI. Interbank mobile payment: 20M+ transactions since July 19.
+||- **Global Cities Index 2026:** Almaty 265th, Astana 281st among 1,000 cities (Oxford Economics). Both top 100 in Human Capital.
+||- **Middle Corridor update (Sept 2026):** TITR freight +22% Jan-Aug; East-West transit +55%. Tez Customs 8hr→30min. World Bank identifies 16 priorities worth ~$25B.
 
 ## Core Dynamic
 Kazakhstan is navigating between great-power pressures while pursuing economic diversification. Tokayev has elevated Kazakhstan's posture from "balancer" to "regional organizer" — using convening power, logistics, and diplomacy to structure the space between great powers. A new academic framework ("sovereign connectivity statecraft") formalizes this as a five-pillar strategy: sovereignty, balance, connectivity, institutional resilience, and regional public goods.
