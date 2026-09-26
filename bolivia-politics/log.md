@@ -78,11 +78,11 @@
 - Reports on July 29 second arrest warrant for Morales (armed insurrection, terrorism) for 53-day blockades. Complaint by Comité pro Santa Cruz, joined by Interior Ministry. Also targets Argollo and Salazar. Morales defiant response quote.
 - Updated: sources.md (#27), timeline, Evo Morales entity.
 
-|## 2026-08-19 - Weekly Source Update | 2 new sources
-|- **New sources:** 2 (total 31 → 33)
-|- **Source 32:** Espinoza censure (Reuters) — Congress votes to censure Economy Minister José Gabriel Espinoza, threatening IMF program approval and exposing coalition fragility. Government challenges constitutionality of 91-vote censure.
-|- **Source 33:** Cerimedo arrest, Decree 5503 (Al Jazeera/AFP) — Paz campaign adviser arrested on murder plot charges; reveals Decree 5503 radical economic reforms being prepared outside legislative channels; activist Beller survived shooting after opposing decree.
-|- **Files updated:** sources.md, timeline, Rodrigo Paz entity, Post-MAS Fragmentation concept, index.md, log.md, domain-notes.md
+## 2026-08-19 - Weekly Source Update | 2 new sources
+- **New sources:** 2 (total 31 → 33)
+- **Source 32:** Espinoza censure (Reuters) — Congress votes to censure Economy Minister José Gabriel Espinoza, threatening IMF program approval and exposing coalition fragility. Government challenges constitutionality of 91-vote censure.
+- **Source 33:** Cerimedo arrest, Decree 5503 (Al Jazeera/AFP) — Paz campaign adviser arrested on murder plot charges; reveals Decree 5503 radical economic reforms being prepared outside legislative channels; activist Beller survived shooting after opposing decree.
+- **Files updated:** sources.md, timeline, Rodrigo Paz entity, Post-MAS Fragmentation concept, index.md, log.md, domain-notes.md
 
 ## 2026-08-26 - Weekly Source Update | 5 new sources
 - **New sources:** 5 (total 33 → 38)
@@ -109,20 +109,27 @@
 - **Source 46:** New Roadblocks Challenge Paz's State of Exception (Left Voice) — San Pablo (Beni) blockades; YPFB tankers stranded; police/military crackdown; quinoa farmers, Six Federations, truck drivers, miners threaten further disruptions.
 - **Source 47:** The Irresistible Rise and Fall of Evo Morales (The Ideas Letter) — Pablo Stefanoni historical analysis of MAS origins, "Andean capitalism," post-MAS fragmentation, left searching for new leaders.
 - **Source 48:** Trump, Paz, and Lithium – US Pivot on Bolivia (Oakland Institute) — Decree 5675 eliminated environment/planning ministry; US critical minerals MOU signed April 27; Paz offers Western mining incentives.
-|- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, domain-notes.md, log.md
+- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, domain-notes.md, log.md
 
 ## 2026-09-16 - Weekly Source Update
 - **New sources:** 4 (total 48 → 52)
 - **Source 49:** Bolivia to end fuel subsidies by 2027 in return for IMF bailout (BSS/AFP) — Govt reveals IMF conditions include ending ALL fuel subsidies by 2027 under $1.9B program; deal awaiting congressional ratification; Cristian Morales defends as "necessary."
 - **Source 50:** Inside Bolivia's Plan for Gun-Free OAS Police as Two Deadlines Close In (Latin Times) — OAS RedPolOEA unarmed police mission designed; US bankrolling; updated death toll 22; Santa Cruz Oct 10 deadline; state of exception extended 90 days; diesel reference price lowered to 16.50 BOB/L.
 - **Source 51:** Evo Morales Says the Paz Government Is Agonizing (Rio Times) — Morales Sep 13 radio: government "agoniza"; IMF deal as "imposition and blackmail"; warns subsidy removal could push >50% into poverty; 65-seat Paz bloc fragmented.
-|- **Source 52:** The Downfall of the "Accidental" President (lacommunis.org) — Paz approval 65%→32%; Morales Sep 26 assembly; rumor Paz may last only until October; "Red Ponchos" Aymara uprising.
-|- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, log.md
-|
-|## 2026-09-23 - Weekly Source Update
-|- **New sources:** 4 (total 52 → 56)
-|- **Source 53:** Bolivia's Congress approves $1.9B IMF deal (ABC News/AP) — Major Paz victory: Congress approves $1.9B IMF loan, Senate ratifies. Conditions include end to ALL fuel subsidies by 2027. Unlocks ~$5B additional multilateral financing. State of emergency extended 90 days. Unions threaten renewed protests.
-|- **Source 54:** Bolivia extends state of emergency (Reuters) — Assembly extends 90 days (100-58) citing persistent blockade risks. Ministers Oviedo/Justiniano cite police/military Intel. Opposition Corvera warns treats symptoms not causes.
-|- **Source 55:** Bolivia Warns of State of Siege If Blockades Return (Rio Times) — Spokesman Gálvez warns state of siege possible. "We will use constitutional force, and we will use the military."
-|- **Source 56:** Rubio-Paz UNGA Meeting (US State Department) — Rubio meets Paz Sep 21 at UNGA. US reaffirms Bolivia as "critically important regional partner," welcomes IMF support and energy/mining reforms.
-|- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, log.md, entities/Rodrigo Paz.md, concepts/Bolivia's Post-MAS Fragmentation.md, domain-notes.md
+- **Source 52:** The Downfall of the "Accidental" President (lacommunis.org) — Paz approval 65%→32%; Morales Sep 26 assembly; rumor Paz may last only until October; "Red Ponchos" Aymara uprising.
+- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, log.md
+
+## 2026-09-23 - Weekly Source Update
+- **New sources:** 4 (total 52 → 56)
+- **Source 53:** Bolivia's Congress approves $1.9B IMF deal (ABC News/AP) — Major Paz victory: Congress approves $1.9B IMF loan, Senate ratifies. Conditions include end to ALL fuel subsidies by 2027. Unlocks ~$5B additional multilateral financing. State of emergency extended 90 days. Unions threaten renewed protests.
+- **Source 54:** Bolivia extends state of emergency (Reuters) — Assembly extends 90 days (100-58) citing persistent blockade risks. Ministers Oviedo/Justiniano cite police/military Intel. Opposition Corvera warns treats symptoms not causes.
+- **Source 55:** Bolivia Warns of State of Siege If Blockades Return (Rio Times) — Spokesman Gálvez warns state of siege possible. "We will use constitutional force, and we will use the military."
+- **Source 56:** Rubio-Paz UNGA Meeting (US State Department) — Rubio meets Paz Sep 21 at UNGA. US reaffirms Bolivia as "critically important regional partner," welcomes IMF support and energy/mining reforms.
+- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, log.md, entities/Rodrigo Paz.md, concepts/Bolivia's Post-MAS Fragmentation.md, domain-notes.md
+
+## 2026-09-26 - Watch Report | Generated Watch Report #4
+- Key developments: Congress ratified $1.9B IMF program (Sep 18); state of emergency extended 90 days (Sep 17); Rubio-Paz UNGA meeting (Sep 21) — strongest US reaffirmation; Santa Cruz Oct 10 deadline; Morales Sep 26 assembly for Oct protest roadmap; Morales Beni habeas corpus (Sep 25); Cerimedo scandal widens to money-laundering/drug trafficking with $130M crypto wallet link; diesel subsidies ended for large consumers; YPFB 180-day state intervention ongoing.
+- Probability held at 45% (±2pp) — IMF deal netted even with guaranteed subsidy-conflict.
+- Prediction refined: "By December 2026, Paz will have passed no structural reform through Congress and will govern exclusively through military-backed emergency decree, unable to legislate or restore popular consent."
+- Updated: index.md, watch-reports-summary.md, timeline, entity/concept pages as applicable.
+- Files: Watch Report 26-09-2026.md + PDF.

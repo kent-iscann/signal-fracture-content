@@ -91,3 +91,7 @@
 ||- **September 18:** Bolivian Congress approves $1.9B IMF loan agreement — Senate ratifies day after lower house approval. Conditions include end to ALL fuel subsidies by 2027. Unlocks ~$5B additional financing from World Bank, IDB, other lenders. Paz calls it "historic step" and "resounding signal of political maturity." Economy Minister Christian Morales pledges deal will bring confidence. Unions threaten renewed protests over austerity. Centrist/right-wing coalition rallies behind deal despite Paz lacking majority. AP reports.
 ||
 ||- **September 21:** Secretary of State Marco Rubio meets President Rodrigo Paz at UNGA High-level Week in New York. US emphasizes Bolivia as "critically important regional partner," welcomes economic stabilization including IMF support and fuel/mining/energy reforms. Discusses regional security cooperation against "narcoterrorists."
+||
+||- **September 25:** Morales files habeas-corpus-style legal challenge in Beni against the Tarija arrest warrant, confirming he remains a fugitive contesting two active warrants (aggravated human trafficking and sedition/terrorism) plus a third in Santa Cruz.
+||
+||- **September 26:** Morales convenes "Evo Pueblo" National Assembly in Lauca Ñ to define protest roadmap from October onward. Cocalero defenders declare "maximum alert" with estimated 8,000–10,000-strong armed cordon. The day's developments mark the fourth Watch Report for Bolivia's Political Situation (45% probability, held even).

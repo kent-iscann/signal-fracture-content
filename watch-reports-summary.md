@@ -59,3 +59,4 @@
 | 1 | 24-06-2026 | Paz survives but emerges politically crippled | 65% | Dec 2026 |
 | 2 | 02-07-2026 | Paz survives but emerges politically crippled | 65% | Dec 2026 |
 | 3 | 02-08-2026 | Paz survives 2026 but emerges politically crippled | 60% (↓5pp) | Dec 2026 |
+| 4 | 26-09-2026 | No structural reform through Congress; governs via military-backed decree | 45% (±2pp) | Dec 2026 |

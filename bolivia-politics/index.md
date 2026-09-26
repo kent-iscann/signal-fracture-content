@@ -1,6 +1,6 @@
 # Bolivia's Political Situation Wiki Index
 
-> Content catalog. Last updated: 2026-09-23 | Total pages: 9 | Total sources: 56
+> Content catalog. Last updated: 2026-09-26 | Total pages: 9 | Total sources: 56
 
 ## Timelines
 - [[bolivia-politics-timeline]] -- Chronological overview of Bolivia's political crisis and South American political dynamics
@@ -20,4 +20,4 @@
 - [[Watch Report 24-06-2026]] — Initial report: Paz survives but emerges politically crippled (65%)
 - [[Watch Report 02-07-2026]] — Update: dollar peg ended, currency devalued 30%, IMF $5B package advancing (65%)
 - [[Watch Report 02-08-2026]] — Update: IMF $1.9B staff-level agreement (below expectations), Morales arrest warrant #2, diesel crisis threatens soybean harvest (60%, −5pp)
-- [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
+|- [[Watch Report 26-09-2026]] — Update: Congress ratifies $1.9B IMF program, state of emergency extended, Rubio-Paz UNGA meeting, Santa Cruz Oct 10 deadline, Morales Sep 26 assembly, Cerimedo scandal widens (45%, ±2pp)
