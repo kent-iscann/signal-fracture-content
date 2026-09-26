@@ -162,17 +162,20 @@
 |- **US court orders Georgia to pay $350M over Namakhvani HPP** — US federal judge Amit Mehta enforces ICC arbitration award. Georgia must pay Turkish ENKA Renewables ~$400M total for the abandoned "dam of death" hydropower project. Interest compounds monthly.
 
 ### September 18, 2026
-|- **Kambolov wins South Ossetia snap election with 85%** — Former Russian career bureaucrat Marat Kambolov wins presidential election in occupied region. Installed in May 2026 after Gagloev resignation. Putin congratulates; EU's Kaja Kallas condemns as step toward "future illegal annexation." 66 observers from 15 countries monitor the vote.
-|- **Georgia government closes state agency managing grants** — New development reflecting GD's consolidation of control over civil society funding.
+||- **Kambolov wins South Ossetia snap election with 85%** — Former Russian career bureaucrat Marat Kambolov wins presidential election in occupied region. Installed in May 2026 after Gagloev resignation. Putin congratulates; EU's Kaja Kallas condemns as step toward "future illegal annexation." 66 observers from 15 countries monitor the vote.
+||- **Georgia government closes state agency managing grants** — New development reflecting GD's consolidation of control over civil society funding.
 
 ### September 19, 2026
-|- **Kobakhidze at Paris Space Summit** — PM attends International Space Summit at Macron's invitation; Georgia joins three declarations on space safety, Copernicus, and space science data. Demonstrates working-level European engagement despite frozen political relations.
+||- **Kobakhidze at Paris Space Summit** — PM attends International Space Summit at Macron's invitation; Georgia joins three declarations on space safety, Copernicus, and space science data. Demonstrates working-level European engagement despite frozen political relations.
 
 ### September 22, 2026
-|- **Jamestown: GD rewriting history in Russia's favor** — Analysis documents a Georgian battalion ("Georgievsk") fighting for Russia in Ukraine, invoking the 1783 Treaty of Georgievsk. Kobakhidze praised the treaty as having "saved Georgia," reversing traditional Georgian historical narrative.
+||- **Jamestown: GD rewriting history in Russia's favor** — Analysis documents a Georgian battalion ("Georgievsk") fighting for Russia in Ukraine, invoking the 1783 Treaty of Georgievsk. Kobakhidze praised the treaty as having "saved Georgia," reversing traditional Georgian historical narrative.
 
 ### September 23, 2026
-|- **Hungary expels 10 Russian diplomats under Magyar** — New Hungarian government shifts decisively west. Unblocks EU Ukraine support, drops Russia sanctions vetoes. Confirms GD's principal EU patron (Orbán's Fidesz) is gone.
+||- **Hungary expels 10 Russian diplomats under Magyar** — New Hungarian government shifts decisively west. Unblocks EU Ukraine support, drops Russia sanctions vetoes. Confirms GD's principal EU patron (Orbán's Fidesz) is gone.
 
 ### September 24, 2026
-|- **Iran envoy warns Georgia over airline sanctions compliance** — Iranian Ambassador Moujani responds to Georgia's compliance with US sanctions on Iranian airlines. Publishes map showing only half of Georgia; says Georgia "is not the only destination" for Iranians. EPRC reports 510% increase in Iranian companies since 2012.
+||- **Iran envoy warns Georgia over airline sanctions compliance** — Iranian Ambassador Moujani responds to Georgia's compliance with US sanctions on Iranian airlines. Publishes map showing only half of Georgia; says Georgia "is not the only destination" for Iranians. EPRC reports 510% increase in Iranian companies since 2012.
+
+### September 26, 2026
+|- **Fifth watch report published** — Probability revised from 75% to 78% based on three September accelerants: Hungary's westward shift removing GD's EU patron, the all-opposition ban lawsuit crossing the one-party threshold, South Ossetia absorption formalized via Kambolov's 85% election. New prediction targets "organized isolation" — single-party state, no external patron, Russian-aligned governance across both occupied territories.

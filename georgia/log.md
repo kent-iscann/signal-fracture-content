@@ -294,6 +294,14 @@
 - **Source 75:** JAMnews: Is Georgia expecting a new wave of Russian migrants? — Upper Lars data analyzed; Russian citizens 18% of property buyers (up from 13%); mobilization rumors persist.
 |- **Source 76:** JAMnews: Pashinyan-Putin Bishkek meeting — Putin argues EU/EAEU incompatibility, offers to remove Gyumri base; Pashinyan rejects referendum; Armenia-West pivot accelerates, reshaping Georgia's regional context.
 |- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
+|
+|## 2026-09-26 - Watch Report | Fifth watch report: "organized isolation"
+|- Generated Watch Report 26-09-2026 — fifth Georgia watch report
+|- Prediction: "By December 2027, Georgia will have functionally completed its transition from a competitive electoral system to a single-party state..."
+|- Probability: 78% (up from 75%) — reflects three September accelerants: Hungary's shift removing GD's EU patron; all-opposition ban lawsuit crossing one-party threshold; Kambolov's 85% South Ossetia election formalizing absorption
+|- Key findings: Kobakhidze UNGA transit-economics pivot ($7B/2032); Anaklia proceeding under Belgian Jan De Nul but third scope revision signals descoping; GD internal fracture deepens (Gharibashvili accusation, Mdinaradze resignation); US reset channel persists at working level (Trump letter, Diaz "clean slate") but counterbalanced by permanent visa-bond and tariff-circumvention designation
+|- PDF generated and uploaded to R2
+|- Files updated: index.md, watch-reports-summary.md, timeline/georgia-timeline.md, log.md
 
 ## 2026-09-10 - Weekly Source Update
 - **New sources:** 3 (77–79)

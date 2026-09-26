@@ -25,6 +25,7 @@
 | 1 | 04-06-2026 | Strategic drift continues until forced to choose | 75% | Dec 2027 |
 | 2 | 02-07-2026 | Strategic drift accelerates without definitive break | 75% | Dec 2027 |
 | 3 | 02-08-2026 | Strategic drift accelerates without definitive break | 75% | Dec 2027 |
+| 4 | 26-09-2026 | Organized isolation: single-party state, no external patron, Russian-aligned occupied territories | 78% | Dec 2027 |
 
 ## [Kazakhstan](kazakhstan/watch-reports-summary.md)
 
@@ -33,6 +34,7 @@
 | 1 | 04-06-2026 | Diversification fails to provide viable third path | 70% | Dec 2027 |
 | 2 | 02-07-2026 | Diversification fails to provide viable third path | 70% | Dec 2027 |
 | 3 | 02-08-2026 | Diversification fails to provide viable third path | 75% | Dec 2027 |
+| 4 | 26-09-2026 | Diversification fails to provide viable third path | 78% | Dec 2027 |
 
 ## [Islamic Extremism in the Philippines](philippines-islamic-extremism/watch-reports-summary.md)
 
