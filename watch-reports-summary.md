@@ -14,9 +14,10 @@
 
 | # | Date | Prediction | Probability | Target |
 |---|------|------------|-------------|--------|
-| 1 | 03-06-2026 | Resource nationalism forces Chinese firms toward domestic processing | 70% | Jun 2027 |
-| 2 | 02-07-2026 | Chinese firms will build domestic processing plants | 75% (↑5pp) | Jun 2027 |
-| 3 | 02-08-2026 | Chinese firms will build domestic processing plants | 80% (↑5pp) | Jun 2027 |
+|| 1 | 03-06-2026 | Resource nationalism forces Chinese firms toward domestic processing | 70% | Jun 2027 |
+|| 2 | 02-07-2026 | Chinese firms will build domestic processing plants | 75% (↑5pp) | Jun 2027 |
+|| 3 | 02-08-2026 | Chinese firms will build domestic processing plants | 80% (↑5pp) | Jun 2027 |
+|| 4 | 09-26-2026 | Chinese firms will build domestic processing plants | 85% (↑5pp) | Jun 2027 |
 
 ## [Georgia](georgia/watch-reports-summary.md)
 
