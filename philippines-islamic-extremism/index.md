@@ -18,4 +18,4 @@
 
 ## Watch Reports
 - [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
-- [[Watch Report 01-08-2026]] — Latest report: campaign period opens, SONA sidelines peace process, Crisis Group diagnosis
+- [[Watch Report 26-09-2026]] — Latest report: hung parliament elected, coalition scramble, MILF fracture finalized, new prediction (70%)
