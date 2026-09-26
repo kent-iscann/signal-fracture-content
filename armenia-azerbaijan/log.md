@@ -212,4 +212,30 @@
 |- **Source 153:** [RFE/RL] US Congressman Hamadeh predicts peace deal "before Trump's term ends" — House Armed Services member says TRIPP will bind countries politically/economically. Dismisses Russian troop deployment claims.
 |- **Source 154:** [Türkiye Today] Putin invites Pashinyan to Moscow for EU integration talks — Pashinyan accepted. Putin urged decision on EU vs EAEU, warned of incompatibility. Bilateral trade at $2.5B.
 |- **Source 155:** [Caliber.Az] Hajiyev says conflict is over, Azerbaijan moving towards lasting peace — "We are learning to live in conditions of peace." Peace means building trust, reconstruction, development.
-|- **Files updated:** sources.md, index.md, log.md
+
+## 2026-09-26 - Watch Report | **Report #4 — Watch Report 26-09-2026**
+- **Key analytic conclusion:** Probability unchanged at 80%. Peace being operationalized bottom-up (trade, transit, TRIPP financing, business forums, energy cooperation) while the formal treaty remains frozen behind Azerbaijan's constitutional-reform precondition. Russia escalated to energy leverage with Sep 15-25 gas cutoff.
+- **Major developments covered:**
+  - Russia cuts gas to Armenia Sep 15-25 (Source 156)
+  - TRIPP start date pushed to 2027 (Source 157)
+  - Pashinyan-Aliyev Bishkek meeting Aug 31 — first since June elections
+  - Pashinyan-Putin Bishkek — Putin demands EU referendum, Pashinyan rejects
+  - Pashinyan says 102nd base "not vital"
+  - Galuzin's December EU/EAEU deadline
+  - EU Council two-year trade boost for Armenian exports
+  - TRIPP+ Fund doubled to $402M; New York investor forum with 40+ companies
+  - Aliyev offers electricity supply; Lachin working-level energy meeting
+  - Pashinyan declares "Fourth Republic" and drops Russia as "strategic alliance"
+  - Azerbaijan pro-government media shifts tone against peace readiness
+  - Baku-Moscow tensions: diaspora deportation, wanted list, ambassador summoned
+  - Armenia-India defense MoU; Armenia-Iran energy cooperation deepening
+  - Firebird/Nvidia AI center near Hrazdan as US peace dividend
+  - UNGA81: Pashinyan says peace text "agreed and initialed"; Bayramov describes "de facto peace"
+- **Prediction:** Armenia and Azerbaijan will fail to sign a comprehensive peace treaty over the next 12 months.
+- **Probability:** 80% (unchanged)
+- **Target:** August 2027
+- **Report file:** Watch Reports/Watch Report 26-09-2026.md
+- **PDF:** Watch Reports/Watch Report 26-09-2026.pdf
+- **R2 URL:** https://pub-70e08d62c8314675b40c42f0fe4be6fb.r2.dev/watch-reports/armenia-azerbaijan/2026-09-26.pdf
+- **Files updated:** index.md, watch-reports-summary.md (per-topic and global), log.md
+- **PDF generated and uploaded to R2**
