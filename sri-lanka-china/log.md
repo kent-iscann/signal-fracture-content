@@ -224,3 +224,19 @@
 || **Source #63:** "Borrowers' Platform faces a test from creditors in the room" — Policy Circle / RIS India (September 23, 2026). Analyzes the new UNCTAD Borrowers' Platform using Sri Lanka as case study of complex creditor diversity during restructuring. Sri Lanka ineligible for G20 Common Framework due to middle-income status. First Governing Council Oct 14 in Bangkok.
 | **Files updated:** sources.md, index.md, timeline/china-sri-lanka-timeline.md, concepts/belt-and-road-initiative.md, log.md
 | **Total sources**: 61 → 63
+|
+|## 2026-09-26 - Watch Report | Created new watch report covering developments since 02-08-2026
+|- **Prediction updated: 70% → 65%** — Previous prediction (new infrastructure financing agreement within 18 months) substantially validated by Central Expressway cabinet approval and construction resumption. New prediction: at least one additional yuan-denominated infrastructure financing agreement within 12 months.
+|- **Key changes:**
+|  - Central Expressway: Cabinet approves $500M yuan-denominated loan (Sri Lanka's first-ever RMB bilateral loan); construction officially resumes Sep 17 at 42% completion; target 2028
+|  - IMF 7th Review mission (Sep 10-23) ends without staff-level agreement; IMF warns anti-corruption amendments could weaken transparency; inflation returns to 8%
+|  - Sri Lanka to exit current IMF EFF program in March 2027 — Minister Bimal confirms; two reviews remain
+|  - New Ambassador Wei Huaxiang presents credentials (Aug 25); PRC 77th anniversary reception (Sep 24); emphasizes Rubber-Rice Pact, 2027 milestones, Mazu AI weather system deployment
+|  - Sri Lanka participates in 11th BRI Summit Hong Kong (Sep 9-10); Trade Minister Samarasinghe pitches Sri Lanka to BRI investors
+|  - China grants RMB 79M for Cyclone Ditwah bridge reconstruction (Aug 26) — grant-based assistance, first notable shift from loan-heavy model
+|  - Bilateral debt to China rises to $5.01B (June 2026); debt-to-GDP falls to 88.8%
+|  - SSGA reports Sri Lanka among top 5 EM performers in Q2 2026 (12.3% total return)
+|- **Prediction unchanged wording**: Previous prediction validated. New prediction: Sri Lanka will secure at least one additional yuan-denominated infrastructure financing agreement from China within the next 12 months.
+|- **Confidence level: Medium**
+|- Watch report: Watch Report 26-09-2026.md
+|- PDF generated and uploaded to R2

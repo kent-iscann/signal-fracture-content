@@ -8,6 +8,7 @@
 | 2 | 01-06-2026 | New bilateral infrastructure financing agreement with China | 70% (↑5%) | Nov 2027 |
 | 3 | 02-07-2026 | New bilateral infrastructure financing agreement with China | 70% | Nov 2027 |
 | 4 | 02-08-2026 | New bilateral infrastructure financing agreement with China | 70% (unchanged) | Nov 2027 |
+| 5 | 26-09-2026 | Additional yuan-denominated infrastructure agreement | 65% (↓5pp) | Sep 2027 |
 
 ## [China-Southern Africa](china-southern-africa/watch-reports-summary.md)
 
@@ -48,6 +49,7 @@
 | 1 | 09-06-2026 | No comprehensive peace treaty signed | 75% | Jun 2027 |
 | 2 | 02-07-2026 | No comprehensive peace treaty signed | 80% | Jun 2027 |
 | 3 | 01-08-2026 | No comprehensive peace treaty signed | 80% | Aug 2027 |
+| 4 | 26-09-2026 | No comprehensive peace treaty signed | 80% | Aug 2027 |
 
 ## [Bolivia's Political Situation](bolivia-politics/watch-reports-summary.md)
 

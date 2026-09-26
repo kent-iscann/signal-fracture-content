@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-09-24 | Total pages: 16 | Total sources: 63
+> Last updated: 2026-09-26 | Total pages: 16 | Total sources: 63
 
 ## Timelines
 
@@ -24,3 +24,4 @@
 - [[Watch Report 01-06-2026]] -- Post-crisis normalization, SINOPEC refinery, India-China competition intensifies (probability: 70%)
 - [[Watch Report 02-07-2026]] -- Dissanayake-CHEC engagement, China's $7B restructuring losses, inflation pressure, deepening trade ties (probability: 70%)
 - [[Watch Report 02-08-2026]] -- Latest watch report: Central Expressway amendment near-signing, EXIM Bank re-engagement, MSC Hambantota stake talks, yuan-switch lending terms (probability: 70%)
+- [[Watch Report 26-09-2026]] -- New watch report: yuan-denominated loan cabinet approval, Central Expressway construction resumes, IMF 7th Review stalled, new ambassador arrives, prediction updated (probability: 65%)
