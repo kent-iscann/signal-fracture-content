@@ -236,6 +236,18 @@
 - **Target:** August 2027
 - **Report file:** Watch Reports/Watch Report 26-09-2026.md
 - **PDF:** Watch Reports/Watch Report 26-09-2026.pdf
-- **R2 URL:** https://pub-70e08d62c8314675b40c42f0fe4be6fb.r2.dev/watch-reports/armenia-azerbaijan/2026-09-26.pdf
-- **Files updated:** index.md, watch-reports-summary.md (per-topic and global), log.md
-- **PDF generated and uploaded to R2**
+|- **R2 URL:** https://pub-70e08d62c8314675b40c42f0fe4be6fb.r2.dev/watch-reports/armenia-azerbaijan/2026-09-26.pdf
+|- **Files updated:** index.md, watch-reports-summary.md (per-topic and global), log.md
+|- **PDF generated and uploaded to R2**
+
+## 2026-09-26 - Weekly Source Update
+- **New sources:** 8 (161–168)
+- **Source 161:** [OC Media] Mirzoyan-Bayramov UNGA meeting Sep 24 — agree to "promote positive agenda"; Armenia exports aluminium foil to Azerbaijan in historic first; Pashinyan UN address highlights demining, missing persons, 19 detainees
+- **Source 162:** [OC Media] Simonyan suggests Russia's Gyumri base may have been perceived as threat by some in Armenia; Yerevan hasn't raised withdrawal
+- **Source 163:** [Eurasianet] Kremlin switching gears — Putin sends Independence Day greeting after months of silence; shift from bullying to charm offensive after intimidation failed
+- **Source 164:** [RFE/RL] US hosts TRIPP investment event in NY with 40+ companies; Witkoff, Daines attend; feasibility studies through late 2026/early 2027; construction at least 18 months
+- **Source 165:** [JAMnews] Crisis analysis — Bridge of Peace civil society dialogue stalled; competing heritage narratives; US midterms, Russia, Iran all influencing positions
+- **Source 166:** [JAMnews] UNGA week roundup: Trump names AA settlement among resolved conflicts; Pashinyan-Erdoğan meeting in NY; EU opens 80% market; Pashinyan discusses new nuclear plant; Baku Security Forum; Strength of Unity 2026 military exercise
+- **Source 167:** [Modern Diplomacy] Critical analysis: Turkey-Azerbaijan €2.4B Kars-Dilucu railway bypasses Armenia; TRIPP only ~$400M; Armenia at risk of missing Middle Corridor
+- **Source 168:** [Armenian Weekly] WAC institutionalizes "Western Azerbaijan" research programs on Syunik, Vayots Dzor, Lake Sevan; Dadivank artifacts entered into Interpol database
+- **Files updated:** sources.md (160→168), index.md (160→168), log.md
