@@ -485,3 +485,16 @@
 - log.md: updated
 - tech-pivot.md: updated with Web3/crypto data and digital finance metrics
 - western-powers.md: updated with UK trade and B5+Italy platform
+
+---
+
+## 2026-09-26 - Watch Report
+### Watch Report 26-09-2026
+- **Prediction:** Kazakhstan's economic diversification will not advance enough over the next 15 months to provide the country with a viable third path. (unchanged from first report)
+- **Probability:** 78% (↑3% from August — deepening China anchor, advancing Graham sanctions bill, South Korea $19B not yet deployed)
+- **Target:** December 2027
+- **Confidence:** Medium
+- **Key new developments:** New China investment model ($8.2B, Sept 25), South Korea $19.19B deal (Sept 15), Kurultai election (Aug 23, Adilet supermajority), manufacturing overtakes mining (47.1% vs 46.1%), Khalyk Kenesi first session, Graham Sanctioning Russia Act cleared Senate (86-12), Ukrainian pledge to stop CPC strikes, SCO summit ('connecting, not choosing'), Middle Corridor +58% TEUs, Data Center Valley excavation 90% complete
+- **Signal updated:** "Kazakhstan's economic diversification is accelerating across manufacturing, technology, and new export corridors, even as its Russian oil-export lifeline remains under kinetic threat."
+- **Fracture updated:** "Each counterweight Kazakhstan cultivates binds it deeper into one great-power supply chain, leaving no neutral ground on which a genuinely autonomous economy can stand."
+- **Files updated:** Watch Reports/Watch Report 26-09-2026.md (new), index.md, watch-reports-summary.md (per-topic and global), log.md

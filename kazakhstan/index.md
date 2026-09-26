@@ -1,6 +1,6 @@
 # Kazakhstan — Global Competitiveness Wiki Index
 
-> Content catalog. Last updated: 2026-09-25 | Total pages: 10 | Total sources: 106 | Watch Reports: 3
+> Content catalog. Last updated: 2026-09-26 | Total pages: 10 | Total sources: 106 | Watch Reports: 4
 
 ## Timelines
 - [[kazakhstan-timeline]] — Chronological overview of Kazakhstan's economic evolution from independence to present
@@ -20,6 +20,7 @@
 
 ## Watch Reports
 - [[watch-reports-summary]] — Summary of all watch reports with probabilities and timelines
+- [[Watch Report 26-09-2026]] — Fourth watch report: Manufacturing overtakes mining, South Korea $19B, Kurultai elections, Graham sanctions bill (probability: 78%)
 - [[Watch Report 02-08-2026]] — Third watch report: CPC tanker crisis, Tokayev breaks with Putin, China $15B+ deals, EU 21st package (probability: 75%)
 - [[Watch Report 02-07-2026]] — Second watch report: $10B NVIDIA deal, EU sanctions escalation, Karachaganak disruption (probability: 70%)
 - [[Watch Report 04-06-2026]] — First watch report: Kazakhstan's diversification faces structural headwinds (probability: 70%)
