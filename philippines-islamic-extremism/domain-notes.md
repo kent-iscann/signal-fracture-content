@@ -92,6 +92,8 @@
 ||- **New (Sep 2026): Al Jazeera hung parliament coverage** provides the most comprehensive on-the-ground voter perspective — human stories, Commander Bravo voting for first time, Coronel-Ferrer commentary. Distinct from Rappler's data-focused seat count coverage.
 ||- **New (Sep 2026): Rappler's "proxy war" analysis** is the first to connect BARMM coalition negotiations to Marcos-Duterte 2028 presidential race — unique analytical angle not covered elsewhere.
 ||- **New (Sep 2026): MEMRI ISEAP downgrade** is a major terrorism development distinct from all existing sources — ISEAP lost province status, attacks near-zero, central funding ceased. Adds new layer to diffusing violence thesis (Banlaoi).
+|- **New (Sep 2026): Official seat count discrepancy** — Rappler (Source 66) reported UBJP 30 seats; BARMM official proclamation (Source 70) reports UBJP 24 seats (15 RPPP + 9 district). Likely caused by sectoral/recount adjustments. Treat official COMELEC proclamation as authoritative for seat allocation; note Rappler's initial count as near-complete unofficial count.
+|- **New source type: New Mandala** (Raihan Yusoph, Sep 8, 2026) — Academic-analytical treatment of BARMM electoral system. Distinct from news reporting — provides institutional mapping of BARMM vs. national authority, content analysis of party debate. High value for understanding institutional design.
 
 ## Prediction History
 - Report 1 (06-06-2026): 70% — "The Marcos administration will use the BTA extension to increase Manila's direct influence over BARMM governance, reducing MILF autonomy in the name of election stability."
