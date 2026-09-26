@@ -110,10 +110,10 @@ As of Republic Day 2026, Pashinyan announced:
 
 | Indicator | What to watch | Source type |
 |-----------|---------------|-------------|
-| Russian gas cutoff duration/pattern | Whether Sep 15-25 cutoff is repeated or extended; Gazprom pricing decision December 2026 | Official/industry |
-| TRIPP construction timeline | Bayramov's 2027 target; any formal US/Armenia confirmation | Official/diplomatic |
-| Bridge of Peace civil society resumption | Whether postponed Yerevan meeting rescheduled | Civil society |
-| Pashinyan-Erdoğan follow-up | Any concrete border opening steps after UNGA meeting | Official/diplomatic |
+| **TRIPP timeline** | Feasibility studies late 2026/early 2027, construction at least 18 months after; Bayramov 2027 target confirmed | Official/diplomatic |
+| **Bridge of Peace civil society** | Yerevan expert meeting postponed by Azerbaijan "until tensions subside" | Civil society |
+| **Pashinyan-Erdoğan follow-up** | In-person UNGA meeting Sep 24; discussed TRIPP and regional transport — watch for concrete steps | Official/diplomatic |
+| **Western Azerbaijan institutionalization** | WAC working group on "Albanian Christian heritage" across Syunik, Vayots Dzor, Sevan; Interpol listings | Advocacy/academic |
 
 ||- **Russia cuts gas to Armenia (Sep 15-25):** Gazprom Armenia suspended gas supplies Sep 15-25 for "scheduled maintenance," three days after Pashinyan publicly confirmed Armenia is actively pursuing alternative gas sources. Russia provided ~82% of Armenia's gas in 2025. Gazprom's own statement noted Iranian gas and domestic reserves would fill the gap. Azerbaijan signaled willingness to supply gas. Marks a major escalation — Russia shifting from trade bans (agriculture) to energy leverage. New gas price negotiations expected December 2026.
 ||- **TRIPP start date pushed back to 2027 (Sep 15):** Azerbaijani FM Bayramov acknowledged construction won't start until 2027, contradicting earlier Pashinyan statements of "before year-end" (June 2026) and Mkrtchyan's "early 2027" (Sep 5). Iran reportedly warned Pashinyan that US personnel in the corridor would be a "legitimate target." Security and operational oversight remain the core unresolved issue — Armenia insists on sovereignty, Azerbaijan demands extraterritorial right of passage.
