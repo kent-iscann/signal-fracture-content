@@ -127,9 +127,17 @@
 - **Source 56:** Rubio-Paz UNGA Meeting (US State Department) — Rubio meets Paz Sep 21 at UNGA. US reaffirms Bolivia as "critically important regional partner," welcomes IMF support and energy/mining reforms.
 - **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, index.md, log.md, entities/Rodrigo Paz.md, concepts/Bolivia's Post-MAS Fragmentation.md, domain-notes.md
 
-## 2026-09-26 - Watch Report | Generated Watch Report #4
-- Key developments: Congress ratified $1.9B IMF program (Sep 18); state of emergency extended 90 days (Sep 17); Rubio-Paz UNGA meeting (Sep 21) — strongest US reaffirmation; Santa Cruz Oct 10 deadline; Morales Sep 26 assembly for Oct protest roadmap; Morales Beni habeas corpus (Sep 25); Cerimedo scandal widens to money-laundering/drug trafficking with $130M crypto wallet link; diesel subsidies ended for large consumers; YPFB 180-day state intervention ongoing.
-- Probability held at 45% (±2pp) — IMF deal netted even with guaranteed subsidy-conflict.
-- Prediction refined: "By December 2026, Paz will have passed no structural reform through Congress and will govern exclusively through military-backed emergency decree, unable to legislate or restore popular consent."
-- Updated: index.md, watch-reports-summary.md, timeline, entity/concept pages as applicable.
-- Files: Watch Report 26-09-2026.md + PDF.
+|## 2026-09-26 - Watch Report | Generated Watch Report #4
+|- Key developments: Congress ratified $1.9B IMF program (Sep 18); state of emergency extended 90 days (Sep 17); Rubio-Paz UNGA meeting (Sep 21) — strongest US reaffirmation; Santa Cruz Oct 10 deadline; Morales Sep 26 assembly for Oct protest roadmap; Morales Beni habeas corpus (Sep 25); Cerimedo scandal widens to money-laundering/drug trafficking with $130M crypto wallet link; diesel subsidies ended for large consumers; YPFB 180-day state intervention ongoing.
+|- Probability held at 45% (±2pp) — IMF deal netted even with guaranteed subsidy-conflict.
+|- Prediction refined: "By December 2026, Paz will have passed no structural reform through Congress and will govern exclusively through military-backed emergency decree, unable to legislate or restore popular consent."
+|- Updated: index.md, watch-reports-summary.md, timeline, entity/concept pages as applicable.
+|- Files: Watch Report 26-09-2026.md + PDF.
+
+## 2026-09-30 - Weekly Source Update
+- **New sources:** 4 (total 56 → 60)
+- **Source 57:** Resistance to Bolivia IMF deal grows as groups meet over fuel crisis (Reuters) — Sep 3 detailed reporting: 9 civic/social orgs meet in Cochabamba opposing IMF-linked fuel cuts; Agustín Zambrana demands government "show us the letter of intent"; investors grow cautious — Gramercy warns of "broader challenge of governability," Nuveen sees challenges ahead.
+- **Source 58:** 'You can't just bet everything on exports': as its gas runs out, is Bolivia doomed to repeat history? (The Guardian) — Sep 24 deep structural analysis of Bolivia's gas depletion and rentier state failure; $10bn offshore elite holdings (eighth of GDP); informal labor at 84% (Latin America's highest); alternative bioeconomies face political barriers from mining/agroindustry lobbies.
+- **Source 59:** Bolivia's Wanted Ex-President Evo Morales Threatens Protests Over Diesel (Rio Times) — Sep 26: Morales at Lauca Ñ amplified assembly gives Paz until Oct 3 to repeal diesel/state-company decrees; threatens national protests from Oct 13; "If it isn't the easy way, it will be the hard way."
+- **Source 60:** Bolivia's President Faces Demands to Disclose the Cost of His US Trip (Rio Times) — Sep 29: Lawmakers demand transparency on Paz's US trip costs; VP Lara estimates $200-250K; Paz claims 32 meetings, $10Bn commitments; Leftist deputy Pacheco: "If he is going to devote himself to travelling, let him resign."
+- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, entities/Rodrigo Paz.md, entities/Evo Morales.md, index.md, log.md

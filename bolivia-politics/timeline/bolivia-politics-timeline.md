@@ -94,4 +94,8 @@
 ||
 ||- **September 25:** Morales files habeas-corpus-style legal challenge in Beni against the Tarija arrest warrant, confirming he remains a fugitive contesting two active warrants (aggravated human trafficking and sedition/terrorism) plus a third in Santa Cruz.
 ||
-||- **September 26:** Morales convenes "Evo Pueblo" National Assembly in Lauca Ñ to define protest roadmap from October onward. Cocalero defenders declare "maximum alert" with estimated 8,000–10,000-strong armed cordon. The day's developments mark the fourth Watch Report for Bolivia's Political Situation (45% probability, held even).
+||- **September 26:** Morales convenes "Evo Pueblo" National Assembly in Lauca Ñ to define protest roadmap from October onward. Gives Paz until Oct 3 to repeal decrees on diesel and state companies, threatening national protests from Oct 13. "If it isn't the easy way, it will be the hard way." Defense Minister Justiniano: arrest warrants remain in force. Cocalero defenders declare "maximum alert" with estimated 8,000–10,000-strong armed cordon. The day's developments mark the fourth Watch Report for Bolivia's Political Situation (45% probability, held even).
+
+- **September 29:** Lawmakers from Libre, Unidad, and other blocs demand Paz disclose costs/achievements of his US trip (departed Sep 19, UNGA Sep 24, returned Sep 27). VP Lara estimates $200K-250K; Paz claims 32 meetings, ~$10Bn in commitments. Leftist deputy Pacheco: "If he is going to devote himself to travelling, let him resign." Decree 5515 lets Paz govern digitally while abroad, narrowing Lara's role.
+
+- **September 29:** Lawmakers from three parties urge pre-emptive arrests of protest organizers before Morales' Oct 13 protest call. Defence Ministry replies nobody is above the law.

@@ -105,9 +105,11 @@
 - **Shield of the Americas:** Paz joined regional military-security alliance
 - **Private fuel imports:** Authorized July 2026 — partially breaking YPFB monopoly
 - **Boliviano at 12.26/USD (Sep 2026):** 76% above old peg of 6.96; further weakening from 11.93 on Aug 28
-- **Liquid reserves nadir:** Fell as low as $73M before recovering towards $1.1B (CES Intelligence, Sep 2026)
-- **Gas production decline:** 60.8M m³/day (2014) → 28.6M (mid-2025); Argentina stopped buying; Brazil exports cease by 2030 per Wood Mackenzie
-- **YLB lithium output:** ~2,000 tonnes in 2024 against 15,000-tonne nameplate
+|- **Liquid reserves nadir:** Fell as low as $73M before recovering towards $1.1B (CES Intelligence, Sep 2026)
+|- **Offshore elite holdings:** ~$10bn (eighth of GDP) held offshore by Bolivian elites (Andrés Arauz/CEPR, cited by The Guardian, Sep 2026)
+|- **Informal labor:** 84% of workforce — Latin America's highest (ILO, 2024)
+|- **Gas production decline:** 60.8M m³/day (2014) → 28.6M (mid-2025); Argentina stopped buying; Brazil exports cease by 2030 per Wood Mackenzie
+|- **YLB lithium output:** ~2,000 tonnes in 2024 against 15,000-tonne nameplate
 - **Shield of the Americas:** Founding member as of March 7, 2026 (NYT)
 - **US critical minerals MOU:** Signed with Bolivia April 27, 2026 (Oakland Institute)
 - **Decree 5675 (Aug 2026):** Eliminated Ministry of Development Planning and Environment
