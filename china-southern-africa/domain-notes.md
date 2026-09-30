@@ -106,6 +106,9 @@
 - **US DRC copper cathode imports hit record 53,290t in July 2026 (23.9% of US imports):** US Section 232 tariff (50%) on semi-finished copper reshapes trade; Congolese cathode gains US industrial acceptance (bne IntelliNews, Sep 2026)
 - **DRC mining infrastructure bottlenecks:** ~1 GW power deficit; Mota-Engil 30-yr Dilolo-Sakania concession up to $1.8B; AFC raising $3-5B for Lobito expansion; concentrate export ban (June 29, 2026); Manono lithium started May 2026 (Newsbase, Sep 2026)
 - **DRC-USA Task Force created September 2026** to accelerate mining/energy/transport/processing projects under strategic minerals partnership
+- **Business and Human Rights Centre (July 2026):** Allegations of abuse at Chinese mining operations in Africa doubled from 45 (2024) to 100 (2025). DRC 52, Zimbabwe 20, Guinea 18, Zambia 15. Sino-Metals Leach Kafue River disaster (50M litres toxic effluent) (ADF Magazine, Sep 2026)
+- **Tanzania-China geophysical survey agreement (Sep 11, 2026):** China grant-funds high-resolution airborne survey of Central Block (Dodoma, Tabora, Singida, Shinyanga) — expanding from downstream processing into upstream exploration support (TanzaniaInvest, Sep 2026)
+- **Zimbabwe lithium beneficiation delegation (Sep 17, 2026):** Deputy Mines Minister Moyo leads engineers and specialists to Chinese parent companies for technology transfer — shift from policy-level mandates to hands-on institutional engagement (ZiMining, Sep 2026)
 
 ## Common Dedup Pitfalls
 - **Reuters/Business Insider republication:** The same EU roadshow story appears across Business Insider Africa, Reuters, and various aggregators. Check dates — if within the same week, it's the same reporting.

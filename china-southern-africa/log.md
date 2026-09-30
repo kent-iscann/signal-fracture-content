@@ -170,3 +170,10 @@
 - **Source 77:** Zimbabwe-China rail/energy/digital deals — Chiwenga mission; Sinomine manufacturing interest; lithium concentrate ban Jan 2027.
 - **Source 78:** Reuters/KoBold — Western challenge but Chinese first-mover infrastructure advantage.
 - **Key analytical finding:** The beneficiation shift is now self-reinforcing for China — host-nation export bans (DRC concentrate ban, Zimbabwe 13-mineral + lithium ban) generate smelting demand that Chinese capital, chemical inputs, and technology alone satisfy, even as the West's own Lobito corridor funnels Chinese-controlled output. Probability raised to 85%.
+
+## 2026-09-30 - Weekly Source Update | china-southern-africa
+- **New sources:** 3 (79-81)
+- **Source 79:** TanzaniaInvest — Tanzania-China mining cooperation expanded: Minister Mavunde meets Deputy Minister Xu Dachun in Tianjin (Sep 11). China agrees to grant-fund high-resolution airborne geophysical survey of four Tanzanian regions and provide geological training/technology transfer. Represents Chinese expansion from downstream processing into upstream exploration support.
+- **Source 80:** ZiMining — Zimbabwe Deputy Mines Minister Fred Moyo leads delegation to China (Sep 17) to visit parent companies of Chinese lithium investors (Huayou, Sinomine, Chengxin, Yahua) for technology transfer and beneficiation capacity building. Includes engineers, marketers, and commercial specialists — shift from policy-level mandates to hands-on institutional engagement.
+- **Source 81:** ADF Magazine — Business and Human Rights Centre July 2026 report: allegations of abuse at Chinese mining operations in Africa doubled from 45 (2024) to 100 (2025). DRC (52) highest, followed by Zimbabwe (20), Guinea (18), Zambia (15). Covers Sino-Metals Leach Kafue River disaster (50M litres toxic effluent, Feb 2025). Adds human rights/environmental accountability dimension to wiki.
+- **Files updated:** sources.md, timeline/china-southern-africa-timeline.md, entities/tanzania.md, entities/zimbabwe.md, entities/drc.md, index.md, log.md
