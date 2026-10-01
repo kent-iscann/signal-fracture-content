@@ -179,3 +179,10 @@
 
 ### September 26, 2026
 |- **Fifth watch report published** — Probability revised from 75% to 78% based on three September accelerants: Hungary's westward shift removing GD's EU patron, the all-opposition ban lawsuit crossing the one-party threshold, South Ossetia absorption formalized via Kambolov's 85% election. New prediction targets "organized isolation" — single-party state, no external patron, Russian-aligned governance across both occupied territories.
+
+### September 28, 2026
+|- **Kobakhidze speaks with Trump, Rubio at UNGA** — First reported direct interaction since Trump's return to office. Kobakhidze describes exchanges as positive, reiterates desire to restore US-Georgia strategic partnership. No official account or photo of Trump exchange made public.
+|- **Kurmukh Church dispute with Azerbaijan** — Georgian Patriarchate objects to construction works at disputed church in Azerbaijan's Qakh region. Azerbaijan FM responds sharply, accusing Tbilisi of territorial claims. Kobakhidze downplays, says government-level relations unaffected.
+
+### September 30, 2026
+|- **Iran ambassador summoned over Queen Ketevan remarks** — Amb. Moujani calls for "reassessment" of 17th-century queen's martyrdom by Safavid Iran. Georgian MFA summons him; Deputy FM warns statements harm public sentiment. GD MPs and Church criticize. Adds new friction to Iran-Georgia relations already strained by US sanctions compliance.

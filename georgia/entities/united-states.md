@@ -3,6 +3,7 @@
 The US-Georgia relationship has undergone a dramatic transformation. Once considered Georgia's most important strategic partner (Georgia was a top per-capita contributor to US-led missions in Iraq and Afghanistan), the relationship deteriorated sharply after 2024.
 
 ## Timeline
+- **2026-09-28:** Kobakhidze-Trump/Rubio UNGA meeting — Kobakhidze holds conversations with Trump and Secretary Rubio at UNGA 81st reception in New York. Described as positive by Kobakhidze; he reiterated interest in restoring suspended strategic partnership. No official account or photo of Trump exchange made public. First reported direct interaction since Trump's return to office.
 - **2026-08-03:** US makes visa bond programme permanent for Georgia — bonds up to $20K for B-1/B-2 visas. Georgia is only European/South Caucasus country on list of 50. Overstay rate 7.43%. Continues despite diplomatic reset talks.
 - **2026-08 (early):** Trump sends personal letter to Kobakhidze on US 250th anniversary, expressing desire to "strengthen cooperation." GD MPs hail as strongest US signal to date. Kobakhidze simultaneously reaffirms Central Asia and China ties — multi-vector approach even amidst US reset.
  of deterioration

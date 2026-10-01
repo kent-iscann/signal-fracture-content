@@ -295,6 +295,13 @@
 |- **Source 76:** JAMnews: Pashinyan-Putin Bishkek meeting — Putin argues EU/EAEU incompatibility, offers to remove Gyumri base; Pashinyan rejects referendum; Armenia-West pivot accelerates, reshaping Georgia's regional context.
 |- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
 |
+|## 2026-10-01 - Weekly Source Update
+|- **New sources:** 3 (100–102)
+|- **Source 100:** OC Media: Tbilisi summons Iran's ambassador over Queen Ketevan remarks (Sep 30) — Iran Amb. Moujani questioned 17th-century queen's martyrdom; MFA summoned him, GD MPs and Church called remarks unacceptable. Significant Iran-Georgia diplomatic tension.
+|- **Source 101:** Caucasus Watch: Kobakhidze Raises US Strategic Partnership With Trump, Rubio (Sep 28) — Kobakhidze held conversations with Trump and Rubio at UNGA reception, reiterated interest in restoring strategic partnership. First reported direct interaction.
+|- **Source 102:** Caucasus Watch: Kurmukh Church Dispute Brings Baku, Tbilisi Into Disagreement (Sep 28) — Georgian Patriarchate's heritage claims triggered sharp Azerbaijani FM response accusing Tbilisi of territorial claims. Kobakhidze downplayed. Rare Georgia-Azerbaijan public friction.
+|- **Files updated:** sources.md (+3), index.md, timeline/georgia-timeline.md, entities/iran.md, entities/united-states.md, log.md
+|
 |## 2026-09-26 - Watch Report | Fifth watch report: "organized isolation"
 |- Generated Watch Report 26-09-2026 — fifth Georgia watch report
 |- Prediction: "By December 2027, Georgia will have functionally completed its transition from a competitive electoral system to a single-party state..."
