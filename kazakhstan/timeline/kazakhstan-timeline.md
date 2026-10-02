@@ -91,4 +91,15 @@
 |- **Aug 24:** Kremlin seeking to outsource arms manufacture to Kazakhstan/Uzbekistan beyond Ukrainian drone range. Existing facilities: Semey Engineering, Almaty Aircraft Repair Plant, Chirchik Plant (UZ). Kazakh MOD equivocal; secondary sanctions risk cited. Russia's ability to pay questioned.
 |- **Aug 25:** Commentary by Rustem Kozhybayev: new Kurultai creates institutional predictability for investors. Washington shifting to view Central Asia as independent economic area, not just great-power competition space.
 |- **Aug 26:** US State Department drafted note saying nations wanting Pax Silica AI access must not join Chinese WAICO. Kazakh and Uzbek academies jointly developing research AI platform, pushing back against US exclusivity demands.
-|- **Aug 27:** Kazakhstan trying to keep Russia at arm's length on energy. Largest refineries declined to export petroleum products despite Energy Ministry approving 17,500 tons gasoline shipments. Concern over secondary sanctions, high domestic demand. One small West KZ facility will refine Russian crude. Rystad: Russian refinery output 30% lower H2 2026.
+||- **Aug 27:** Kazakhstan trying to keep Russia at arm's length on energy. Largest refineries declined to export petroleum products despite Energy Ministry approving 17,500 tons gasoline shipments. Concern over secondary sanctions, high domestic demand. One small West KZ facility will refine Russian crude. Rystad: Russian refinery output 30% lower H2 2026.
+||
+||## 2026 (September-October)
+||- **Sept 9:** Central Asian Light reports oil route diversification: Atasu-Alashankou +24%, BTC +12%, Aktau port +6%.
+||- **Sept 9:** Tokayev gives Xinhua interview setting out vision for China partnership — trade $27.2B in H1 2026.
+||- **Sept 11:** Middle Corridor growth detailed at Batumi Forum: TITR +22%, East-West transit +55%.
+||- **Sept 14-16:** Tokayev state visit to Seoul — ~80 agreements worth $19B. Joint critical minerals company proposed with POSCO. First Central Asia-ROK Summit.
+||- **Sept 18:** Trump signs Graham Sanctioning Russia and Iran Act — enables 100% tariffs on nations facilitating Russian energy evasion. Takes effect Oct 18.
+||- **Sept 25:** Kazakhstan-China Investment Forum in Almaty — 50 commercial documents worth $8.2B signed.
+||- **Sept 28-30:** Tokayev state visit to Germany (Berlin/Munich) — ~30 agreements worth ~$2B, 37 projects worth €1.8B. Handelsblatt op-ed. KZ-Germany trade $4.5B.
+||- **Sept 30-Oct 2:** KIOGE 2026 in Almaty (500+ companies, 62 countries). UAE Energy Minister urges multiple export routes. KMG managing 65 mature fields.
+||- **Oct 1:** Times of Central Asia reports Central Asian startup ecosystem milestones: Higgsfield $400M Series B, Y Combinator startups, Nace.AI $26.5M.

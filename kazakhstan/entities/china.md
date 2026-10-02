@@ -64,9 +64,15 @@ China's economic influence in Kazakhstan is growing but remains secondary to Rus
 - Some Central Asian states, including Kazakhstan and Uzbekistan, have also sought to develop **domestic arms manufacturing capability**, especially for drone production — reducing dependence on both Russia and China.
 
 ## Tariff evasion white paper (Aug 2026)
-- **Aug 21:** A Trump Administration white paper named Kazakhstan, Uzbekistan, Azerbaijan, and Georgia among 40+ countries aiding **China's tariff evasion schemes** to maintain US-bound exports.
-- Kazakhstan and Uzbekistan designated **"Tier III" states** — "smaller economies with lower absolute transshipment volumes but specific weak-link advantages, including low-cost labor, free zones, port or border access, bonded warehousing, niche assembly capacity, or limited customs enforcement."
-- Estimated Chinese-led tariff evasion costs the US treasury **$40B–$303B annually**. The white paper argues tariff evasion extends beyond revenue loss: "They widen the effective trade deficit, displace domestic production, reduce GDP growth, and lower associated federal tax receipts."
-- US remedy: **"America's Detective Border"** — an AI-driven monitoring system that compares declared origins, routing histories, and component content against expected patterns.
-- **Diplomatic complication:** The naming comes at a time when US ties with all four states have dramatically improved under Trump — risks hampering pursuit of US initiatives in other geopolitical spheres.
-- Implications for Kazakhstan: exposes a structural contradiction in multi-vectorism — deepening US ties while maintaining Chinese trade links that increasingly face US enforcement scrutiny.
+|- **Aug 21:** A Trump Administration white paper named Kazakhstan, Uzbekistan, Azerbaijan, and Georgia among 40+ countries aiding **China's tariff evasion schemes** to maintain US-bound exports.
+|- Kazakhstan and Uzbekistan designated **"Tier III" states** — "smaller economies with lower absolute transshipment volumes but specific weak-link advantages, including low-cost labor, free zones, port or border access, bonded warehousing, niche assembly capacity, or limited customs enforcement."
+|- Estimated Chinese-led tariff evasion costs the US treasury **$40B–$303B annually**. The white paper argues tariff evasion extends beyond revenue loss: "They widen the effective trade deficit, displace domestic production, reduce GDP growth, and lower associated federal tax receipts."
+|- US remedy: **"America's Detective Border"** — an AI-driven monitoring system that compares declared origins, routing histories, and component content against expected patterns.
+|- **Diplomatic complication:** The naming comes at a time when US ties with all four states have dramatically improved under Trump — risks hampering pursuit of US initiatives in other geopolitical spheres.
+|- Implications for Kazakhstan: exposes a structural contradiction in multi-vectorism — deepening US ties while maintaining Chinese trade links that increasingly face US enforcement scrutiny.
+
+## $8.2B China Investment Forum (Sept 25, 2026)
+|- **Sept 25:** Kazakhstan-China Investment Forum in Almaty — **50 commercial documents worth $8.2B** signed covering energy, aluminum, automotive, fertilizers, investment cooperation. Tokayev attended alongside Chinese business delegation.
+|- Tokayev's Xinhua interview (Sept 9) set the stage: bilateral trade **$27.2B in H1 2026** (up ~25%), 9,000+ Chinese companies operating in Kazakhstan, 260 industrial cooperation projects worth **$62B+**.
+|- **Green energy progress:** 29 Chinese-invested projects (1.5 GW) completed, 11 more (1.7 GW) under implementation. Chinese brands BYD, Howo, Changan, Great Wall Motor produced locally.
+|- **Cross-border QR payments** to launch with China by end-2026 — NBK Deputy Gov Zhalenov confirmed at Astana fintech summit. Part of 11-country payment corridor plan. Existing Kaspi.kz-Alipay partnership being deepened for yuan retail payments.

@@ -498,3 +498,32 @@
 - **Signal updated:** "Kazakhstan's economic diversification is accelerating across manufacturing, technology, and new export corridors, even as its Russian oil-export lifeline remains under kinetic threat."
 - **Fracture updated:** "Each counterweight Kazakhstan cultivates binds it deeper into one great-power supply chain, leaving no neutral ground on which a genuinely autonomous economy can stand."
 - **Files updated:** Watch Reports/Watch Report 26-09-2026.md (new), index.md, watch-reports-summary.md (per-topic and global), log.md
+
+## 2026-10-02 - Weekly Source Update — 5 New Sources Added
+### Sources added
+
+1. **Astana Times: Tokayev, Merz Take Kazakhstan-Germany Partnership Forward** (Sept 30, 2026)
+   - Tokayev's state visit to Germany (Sept 28-30): ~30 commercial agreements worth ~$2B signed. Bilateral trade $4.5B (+13.4%), German investment $8B cumulative. Joint investment portfolio: 40 industrial projects worth ~$54B. Tokayev used Handelsblatt op-ed to pitch joint value chains.
+
+2. **Trend.az: Kazakhstan's Multivector Foreign Policy in Figures and Projects** (Sept 28, 2026)
+   - Data-driven overview: $8.2B in 50 commercial documents at China Investment Forum (Sept 25). $17B from Tokayev's Nov 2025 Washington visit. Aggregates multi-vector deal pipeline: EU $12B+, South Korea $19B, China $15B+, Russia nuclear deal. Frames Tokayev's project-driven multi-vectorism.
+
+3. **Times of Central Asia: Central Asian Startups Go Global** (Oct 1, 2026)
+   - Higgsfield AI $400M Series B at $5.4B (DST Global-led). Three Y Combinator 2025 startups. Nace.AI $26.5M total. US-focused Kazakh-rooted startups >$214M. Golden Gate Ventures opening Tashkent office.
+
+4. **Central Asian Light: Kazakhstan Expands Oil Exports to China and via Caspian Sea** (Sept 9, 2026)
+   - Oil route diversification data: Atasu-Alashankou +24%, BTC +12%, Aktau port +6%. KazTransOil total 31.9M tons (+4%). Concrete evidence of route diversification amid CPC risks.
+
+5. **Astana Times: KIOGE 2026 — Kazakhstan's Energy Hinges on Diversification** (Sept 30, 2026)
+   - KIOGE 2026 opened in Almaty (500+ companies, 62 countries). UAE Minister urges route resilience. KMG targeting Paleozoic reserves (65 mature fields, ~70% depleted). Logistics reshaping oil pricing dynamics.
+
+### Files updated
+- sources.md: 106 → 111 sources
+- log.md: updated
+- index.md: updated source count and date
+- entities/western-powers.md: added Germany visit and Tokayev's Berlin diplomacy
+- entities/china.md: added $8.2B China Investment Forum (Sept 25)
+- concepts/multi-vector-foreign-policy.md: added Germany-China-South Korea deal pipeline data
+- concepts/tech-pivot.md: added Higgsfield $400M, Y Combinator, Nace.AI data
+- concepts/caspian-geopolitics.md: added oil route diversification data
+- timeline/kazakhstan-timeline.md: extended Sept-Oct 2026 entries

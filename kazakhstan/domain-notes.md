@@ -82,6 +82,11 @@
 - **Structural shift data (2026):** Kazakh Invest portfolio: 215 projects/$78.6B (88K+ jobs); 66 investment agreements/$38.6B since 2021. FDI $20.5B (2025, +14.4%), manufacturing investment +47.4%, mining -47%
 - **Oil refining expansion:** Capacity target doubled to 40M tonnes/yr by 2033 (from 18.4M in 2025). Fourth major refinery planned (up to 10M tonnes/yr)
 - **Global Talent Competitiveness Index:** Kazakhstan rose from 122nd to 83rd in professional/technical skills (Sept 2026)
+|- **Germany trade/investment (Sept 2026):** KZ-Germany trade $4.5B (2025, +13.4%), German investment $8B cumulative. Joint portfolio: 40 industrial projects/$54B. Tokayev's Berlin visit produced ~30 agreements/~$2B.
+|- **China Investment Forum (Sept 25, 2026):** 50 commercial documents worth $8.2B signed covering energy, aluminum, automotive, fertilizers. Mutqi-vector deal pipeline (Trend.az data): China $15B+ (July) + $8.2B, South Korea $19B (Sept), US $17B (Nov 2025), EU $12B+ (June), Germany ~$2B (Sept) — aggregate >$60B.
+|- **Higgsfield AI milestone (Oct 2026):** $400M Series B at $5.4B valuation (DST Global-led). Three Y Combinator startups (Nozomio $6.2M, Leaping AI $4.7M, Hillclimb). Kazakh-rooted US startups >$214M total.
+|- **Oil route diversification data (Jan-Aug 2026):** Atasu-Alashankou 863K tons (+24%), BTC 1M tons (+12%), Aktau port 2.4M tons (+6%), KazTransOil total 31.9M tons (+4%).
+|- **KIOGE 2026:** 500+ companies from 62 countries (Sept 30-Oct 2, Almaty). KMG managing 65 mature fields (~70% depleted).
 |- KazISS (Mussabekova): BRI-SCO synergy operational framework — new source type (Kazakh official think tank in Chinese media)
 |- Hudson Institute (Moriyasu): "Connector state" framework — Kazakhstan should move beyond raw resource export to processing, computing infrastructure, higher-value components
 |- Route redundancy hierarchy: Middle Corridor > Afghanistan > CPC > Iran (Moriyasu assessment, Aug 2026)
@@ -126,6 +131,7 @@ Kazakhstan is navigating between great-power pressures while pursuing economic d
 - **CPC (Caspian Policy Center) articles** have unique analytical framing — each can be a valid separate source if angles are distinct
 - **Oeconomus/think tank overviews** are comprehensive — treat as one source entry, do NOT extract individual data points as separate sources
 - **EU Reporter and EU Today** are both Brussels-based outlets covering EU-Kazakhstan angles — check for story overlap before adding both
+|- **Tokayev's Germany visit (Sept 2026)** covered by both EUalive and Astana Times — EUalive has deeper strategic framing + Handelsblatt op-ed; Astana Times has official figures + Merz invitation. Both valid but scope overlaps. Prefer primary-source (Astana Times) for commercial data and EUalive for analytical framing
 
 ## Key Analysts/Commentators to Track
 - **Michel Duclos** (Institut Montaigne) — Frames Kazakhstan as middle-power test case

@@ -98,14 +98,24 @@ Western powers are cautiously increasing engagement with Kazakhstan, viewing it 
 |- B5+Italy is part of broader expansion of C5+1 engagement models — South Korea hosted first Central Asia-ROK summit (Sept 16), adding to growing network of external powers using the regional format.
 
 ## Russian gas imports & secondary sanctions risk (Sept 2026)
-- **Sept 17, 2026:** Kazakhstan signed supplementary agreement with Gazprom to purchase **~11 bcm of Russian gas** in 2026 (up from ~4M bcm in 2025). Talks ongoing for additional **9 bcm in 2027** at likely discounted prices. Domestic production hit record 68.1 bcm in 2025 but demand surging.
-- **Timing with US sanctions:** The US Congress passed sanctions bill Sept 16 (likely signed by Trump) targeting Russian energy purchasers — the bill enables punitive tariffs on any nation buying Russian energy. Creates **secondary sanctions exposure** for Kazakh entities involved in the Gazprom deal.
-- Creates a new energy dependency vector on Russia at a time when Kazakhstan is trying to diversify away — demonstrating the structural constraints of geography.
-- **July 23, 2026:** The EU adopted its 21st sanctions package — 48 individuals + 170 entities newly designated. Two Kazakh companies were added to sanctions and export-control lists.
-- **Kulevi Oil Refinery (Georgia)** faces a transaction ban in 6 months unless it diversifies from Russian crude — precedent-setting extension of third-country sanctions architecture to refineries, directly relevant to Kazakhstan's energy sector.
-- Oil price cap frozen until **July 14, 2027**.
-- Six entities in China, Oman, India, Singapore, UAE were also sanctioned for oil trading and shadow fleet support.
-- Enhanced third-country sanctions architecture now covers transit infrastructure, not just financial services.
-- KazMunayGas (KMG) announced discovery of an onshore oil and gas deposit north of the Ustyurt Plateau, which stretches across Kazakhstan and Uzbekistan between the Caspian and Aral Seas.
-- **BP** leading effort to develop energy deposits in the region.
-- Potentially significant for Europe's energy diversification strategy.
+|- **Sept 17, 2026:** Kazakhstan signed supplementary agreement with Gazprom to purchase **~11 bcm of Russian gas** in 2026 (up from ~4M bcm in 2025). Talks ongoing for additional **9 bcm in 2027** at likely discounted prices. Domestic production hit record 68.1 bcm in 2025 but demand surging.
+|- **Timing with US sanctions:** The US Congress passed sanctions bill Sept 16 (likely signed by Trump) targeting Russian energy purchasers — the bill enables punitive tariffs on any nation buying Russian energy. Creates **secondary sanctions exposure** for Kazakh entities involved in the Gazprom deal.
+|- Creates a new energy dependency vector on Russia at a time when Kazakhstan is trying to diversify away — demonstrating the structural constraints of geography.
+|- **July 23, 2026:** The EU adopted its 21st sanctions package — 48 individuals + 170 entities newly designated. Two Kazakh companies were added to sanctions and export-control lists.
+|- **Kulevi Oil Refinery (Georgia)** faces a transaction ban in 6 months unless it diversifies from Russian crude — precedent-setting extension of third-country sanctions architecture to refineries, directly relevant to Kazakhstan's energy sector.
+|- Oil price cap frozen until **July 14, 2027**.
+|- Six entities in China, Oman, India, Singapore, UAE were also sanctioned for oil trading and shadow fleet support.
+|- Enhanced third-country sanctions architecture now covers transit infrastructure, not just financial services.
+|- KazMunayGas (KMG) announced discovery of an onshore oil and gas deposit north of the Ustyurt Plateau, which stretches across Kazakhstan and Uzbekistan between the Caspian and Aral Seas.
+|- **BP** leading effort to develop energy deposits in the region.
+|- Potentially significant for Europe's energy diversification strategy.
+
+## Tokayev's Germany visit (Sept 28-30, 2026)
+|- **Sept 28-30:** Tokayev made a three-day state visit to Germany (Berlin and Munich) at Steinmeier's invitation. ~30 commercial agreements worth ~$2B signed.
+|- **Bilateral trade:** $4.5B in 2025 (+13.4% YoY). German cumulative investment reached **$8B** over 21 years. Joint investment portfolio: **40 industrial projects worth ~$54B**.
+|- **Handelsblatt op-ed:** Tokayev pitched joint value chains — Kazakhstan produces 21 of 34 EU-critical raw materials (lithium, silicon, cobalt, tungsten). Offered not supply contracts but exploration-through-recycling integration.
+|- **37 projects worth €1.8B** presented at the German-Kazakh business forum with ~300 officials. Bavaria trade €3.4B (2025), leads German states.
+|- **Tokayev-Merz meeting:** Covered industry, critical minerals, technology, transport. Kazakhstan pushing for localisation, technology transfer, and training — not commodity-for-capital deals.
+|- **Merz invited** to Kazakhstan for state visit in 2027 (35th anniversary of diplomatic relations).
+|- **Munich leg:** Visited Bavaria for tech/manufacturing cooperation. Kazakhstan-Bavarian Technology Forum.
+|- **Strategic significance:** Represents the Germany/Europe pillar of multi-vector balancing — adding European technology, standards, dual education models alongside Russia/China ties. EU capital vs BRI infrastructure competition over investment direction.

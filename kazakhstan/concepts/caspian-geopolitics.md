@@ -107,7 +107,16 @@ Kazakhstan's position in the Caspian region is central to its energy strategy an
 - The analysis confirms Kazakhstan's strategic problem: export infrastructure connecting oil to world markets can become exposed to a war in which Kazakhstan has no direct military role. Eurasia's energy map is being redrawn not because resources have changed, but because the political meaning of routes around them has.
 
 ## Oil production losses from Ukraine war (H1 2026)
-- Kazakh oil production fell by **9%** during the first seven months of 2026, translating into roughly a **$3.5 billion loss** in state revenue (regional media reports via Eurasianet, Aug 13, 2026).
-- After Astana mounted a lobbying campaign in Washington, US administration officials pressured Ukrainian authorities into **pledging to refrain from further strikes against Russian infrastructure that handle Kazakh oil exports** (Bloomberg, Aug 8, 2026; confirmed by Eurasianet).
-- The diplomatic success demonstrates Kazakhstan's ability to leverage Washington ties to protect the CPC pipeline route — a practical application of multi-vector balancing.
-- Despite the pledge, the structural vulnerability remains: the CPC system is embedded in Russian infrastructure, and any escalation affecting Russian energy logistics creates spillover risks for Kazakh exports.
+|- Kazakh oil production fell by **9%** during the first seven months of 2026, translating into roughly a **$3.5 billion loss** in state revenue (regional media reports via Eurasianet, Aug 13, 2026).
+|- After Astana mounted a lobbying campaign in Washington, US administration officials pressured Ukrainian authorities into **pledging to refrain from further strikes against Russian infrastructure that handle Kazakh oil exports** (Bloomberg, Aug 8, 2026; confirmed by Eurasianet).
+|- The diplomatic success demonstrates Kazakhstan's ability to leverage Washington ties to protect the CPC pipeline route — a practical application of multi-vector balancing.
+|- Despite the pledge, the structural vulnerability remains: the CPC system is embedded in Russian infrastructure, and any escalation affecting Russian energy logistics creates spillover risks for Kazakh exports.
+
+## Oil route diversification data (Jan-Aug 2026)
+|- **Atasu-Alashankou pipeline (China route):** 863K tons exported Jan-Aug 2026 (+24% YoY). Total 7.6M tons pumped China direction (+3%).
+|- **BTC pipeline (Caspian/Georgia route):** Transshipment reached **1M tons** (+12%), reflecting growing use of the Baku-Tbilisi-Ceyhan alternative.
+|- **Aktau port (Caspian tanker loading):** 2.4M tons loaded (+6%), demonstrating incremental capacity expansion.
+|- **KazTransOil total:** 31.9M tons of oil and petroleum products over 8 months (+4%).
+|- **Domestic refineries:** 12.1M tons sent to Kazakh refineries.
+|- Source: Central Asian Light/Kursiv.kz (Sept 9, 2026) citing KazTransOil data.
+|- Signals accelerating route diversification as Kazakhstan seeks to reduce CPC dependence amidst ongoing disruptions.
