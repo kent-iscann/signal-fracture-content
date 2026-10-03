@@ -249,5 +249,16 @@
 - **Source 165:** [JAMnews] Crisis analysis — Bridge of Peace civil society dialogue stalled; competing heritage narratives; US midterms, Russia, Iran all influencing positions
 - **Source 166:** [JAMnews] UNGA week roundup: Trump names AA settlement among resolved conflicts; Pashinyan-Erdoğan meeting in NY; EU opens 80% market; Pashinyan discusses new nuclear plant; Baku Security Forum; Strength of Unity 2026 military exercise
 - **Source 167:** [Modern Diplomacy] Critical analysis: Turkey-Azerbaijan €2.4B Kars-Dilucu railway bypasses Armenia; TRIPP only ~$400M; Armenia at risk of missing Middle Corridor
-- **Source 168:** [Armenian Weekly] WAC institutionalizes "Western Azerbaijan" research programs on Syunik, Vayots Dzor, Lake Sevan; Dadivank artifacts entered into Interpol database
-- **Files updated:** sources.md (160→168), index.md (160→168), log.md
+|- **Source 168:** [Armenian Weekly] WAC institutionalizes "Western Azerbaijan" research programs on Syunik, Vayots Dzor, Lake Sevan; Dadivank artifacts entered into Interpol database
+|- **Files updated:** sources.md (160→168), index.md (160→168), log.md
+
+## 2026-10-03 - Weekly Source Update
+|- **New sources:** 7 (169–175)
+|- **Source 169:** [Report.az] Hajiyev at CAMCA Forum (Oct 2) — constitutional amendment only remaining step for peace treaty; de facto peace exists; calls on Armenian government to prepare society for peace
+|- **Source 170:** [Caucasus Watch] Bayramov on border delimitation — northern start at Georgia tripoint, proceeding southward; TRIPP construction shifted to 2027; TRIPP negotiations primarily between Armenia and US
+|- **Source 171:** [CEPA] Nino Lezhava — US bets big on Eurasia; TRIPP as "paradigm shift"; $201M fund across 8 countries; AECOM feasibility study by year-end; Rubio to lead 100+ US companies to Uzbekistan mid-October
+|- **Source 172:** [EVN Report] Sossi Tatikyan — comprehensive analysis of Pashinyan and Bayramov's contrasting UNGA visions; unresolved humanitarian issues; fragility of one-year-old Washington framework
+|- **Source 173:** [Caucasus Watch] Detailed overview of all three South Caucasus leaders' UNGA speeches; Pashinyan notes 2.5 years without border fire casualties; Bayramov cites 90% Middle Corridor cargo increase since 2022
+|- **Source 174:** [Mirror-Spectator] Suren Sargsyan — Azerbaijan benefits from delaying peace treaty to extract maximum concessions; TRIPP doesn't guarantee signing; Russian railway concession and Iran-US war remain obstacles
+|- **Source 175:** [OC Media/Mirror-Spectator] Armenia denies conceding land near Berdavan in Tavush during demarcation — Defense Ministry calls claims "another fabrication"
+|- **Files updated:** sources.md (168→175), index.md (168→175), log.md

@@ -104,7 +104,14 @@ As of Republic Day 2026, Pashinyan announced:
 - **Pashinyan discusses new nuclear plant:** Discussing construction with US, Russia, China, France, South Korea.
 - **Baku Security Forum (Sep 23):** Fourth forum under theme "New Challenges in Global Security Architecture." Azerbaijan-Turkey-Uzbekistan "Strength of Unity 2026" military exercise launched.
 - **WAC institutionalizes research programs (Sep 22):** Western Azerbaijan Community established working group to study "Albanian Christian heritage" in Syunik, Vayots Dzor, Lake Sevan basin. Dadivank artifacts entered into Interpol stolen-art database.
-- **Modern Diplomacy warns Armenia at risk of missing Middle Corridor (Sep 26):** Turkey-Azerbaijan committed €2.4B to Kars-Dilucu railway bypassing Armenia entirely. TRIPP only ~$400M with no private operator. Three-scenario analysis: base case 55% — corridor outgrows peace process.
+|- **Modern Diplomacy warns Armenia at risk of missing Middle Corridor (Sep 26):** Turkey-Azerbaijan committed €2.4B to Kars-Dilucu railway bypassing Armenia entirely. TRIPP only ~$400M with no private operator. Three-scenario analysis: base case 55% — corridor outgrows peace process.
+
+## Key Recent Developments (late Sep - Oct 2, 2026)
+
+- **Hajiyev at CAMCA Forum (Oct 2):** Azerbaijani presidential aide Hikmet Hajiyev stated constitutional amendment is the only remaining step for peace treaty — "We are expecting only one final step — amending the Constitution of Armenia regarding territorial claims against Azerbaijan." Emphasized de facto peace already exists. Called on Armenian government to prepare society for peace.
+- **Border delimitation northern start (Sep 9):** Azerbaijani FM Bayramov confirmed delimitation will begin from northernmost section at the tripoint where Azerbaijan, Armenia, and Georgia borders intersect, then proceed southward. State commissions headed by Mustafayev (AZ) and Grigoryan (AM).
+- **Border delimitation information war (Sep 29):** Armenia's Defense Ministry denied social media rumors that 4-5 combat positions near Berdavan in Tavush had been conceded during demarcation — calling them "yet another fabrication." Follows similar denial regarding Jermuk positions earlier in 2026.
+- **C5+1 meeting mid-October:** Secretary of State Marco Rubio to lead 100+ US companies to Uzbekistan for C5+1 meeting focused on connectivity, trade, energy, and investment — signaling intensified Washington focus on Trans-Caspian connectivity beyond TRIPP alone.
 
 ## Trackable Indicators (updated)
 
@@ -124,8 +131,10 @@ As of Republic Day 2026, Pashinyan announced:
 
 | Indicator | What to watch | Source type |
 |-----------|---------------|-------------|
-| Russian gas cutoff duration/pattern | Whether Sep 15-25 cutoff is repeated or extended; Gazprom pricing decision December 2026 | Official/industry |
-| TRIPP construction timeline | Bayramov's 2027 target; any formal US/Armenia confirmation | Official/diplomatic |
+|| Russian gas cutoff duration/pattern | Whether Sep 15-25 cutoff is repeated or extended; Gazprom pricing decision December 2026 | Official/industry |
+|| TRIPP construction timeline | Bayramov's 2027 target; any formal US/Armenia confirmation | Official/diplomatic |
+|| C5+1 outcome (mid-Oct 2026) | Rubio-led delegation to Uzbekistan; new connectivity/commercial announcements | Official/diplomatic |
+|| Border delimitation field work start | Whether northern tripoint section begins in Q4 2026; specific settlements addressed | Official/OSINT |
 
 |- **EU Council backs two-year trade boost (Sep 5):** Council approved temporary trade-liberalization measures removing import duties on ~80% of Armenian exports (duty-free access for ~99% fresh fruit/veg, ~91% beverages/spirits) for two years. EP expected to adopt in September plenary. Expands on von der Leyen's July 2 announcement of autonomous trade measures.
 |- **TRIPP feasibility study timeline (Sep 5):** Armenian Ambassador Mkrtchyan tells Semafor TRIPP feasibility study expected by end 2026, construction could begin early 2027. US committed ~$201M with $1.5B estimated economic development. Armenia comfortable with US's 74% stake.
