@@ -106,3 +106,10 @@
 - Major developments: BARMM first parliamentary election (Sep 14) produces hung parliament — BFP 31, UBJP 24, BGC 8 — no 41-seat majority. Macacua stripped of BIAF command alongside 40+ commanders (Sep 3). Coalition negotiations underway ahead of Oct 30 inaugural session. Macacua ambush (Aug 15) formalizes MILF-Macacua rupture. GPH-MILF KL talks (Sep 25) produce transition roadmap, AHJAG/CPC extensions, SALW framework. ASG declared "inactive," ISEAP province status downgraded. Crisis Group #358 documents 27,000+ unregistered firearms. Prediction updated: BFP-led coalition with Macacua as CM reduces MILF autonomy by March 2027.
 - New prediction: "The 41-seat coalition requirement will force a BFP-led governing majority with Macacua as elected Chief Minister, producing a politically fractured parliament whose gridlock and Manila patronage ties reduce the MILF's institutional autonomy over the peace and normalization agenda by March 2027."
 - 0 new sources added (sources remain at 71).
+
+## 2026-10-03 - Weekly Source Update
+- **New sources:** 2 (71→73)
+- **Source 72:** MILF infighting sends civilians fleeing in Maguindanao del Sur (Inquirer, Sep 30, 2026) — Post-election MILF rido in Shariff Aguak displaces 65 families (~325 individuals). Child reportedly killed by stray bullet. Government-MILF ceasefire panels deployed. Illustrates continued rido dynamics despite Sept 14 election milestone and underscores unfinished normalization.
+- **Source 73:** BFP 'secured' majority to elect BARMM chief minister – spox (Rappler, Oct 1, 2026) — BFP claims 32-seat majority coalition to elect Macacua as first elected BARMM chief minister Oct 30. BGC meets separately with UBJP (Sep 28) and BFP (Sep 29). Sulu Vice Governor Tan attends UBJP meeting, signaling Sulu engagement post-exclusion. Urgent post-election agenda: 2027 budget, cabinet formation.
+- **Files updated:** sources.md (71→73), index.md, timeline (5 new events Sep 25–Oct 1), log.md
+- **Domain notes updated:** no new dedup pitfalls identified; Post-election coalition dynamics now tracked
