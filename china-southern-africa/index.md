@@ -1,6 +1,6 @@
 # Chinese Infrastructure Plays in Southern Africa — Wiki Index
 
-> Content catalog. Last updated: 2026-09-30 | Total pages: 12 | Total sources: 81
+> Content catalog. Last updated: 2026-10-07 | Total pages: 12 | Total sources: 86
 
 ## Timelines
 - [[china-southern-africa-timeline]] — Chronological overview of Chinese infrastructure and mineral access plays in Southern Africa
