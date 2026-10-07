@@ -130,6 +130,13 @@
 |- **Morales Sep 13 radio:** Describes Paz government as "agoniza"; IMF deal as "imposition and blackmail"; warns subsidy removal could push >50% into poverty; attacks cabinet cohesion
 |- **Morales Oct protest roadmap:** Expanded assembly called for Sep 26 in Lauca Ñ to define protests from October onward
 |- **Sep 15 protests:** Education workers march in La Paz and other cities against state of emergency extension and IMF deal
+||- **Supreme Decree 5716 (Sep 19, 2026):** Ends remaining diesel subsidy; price rises 83% from Bs 9.80 to Bs 17.95/litre tied to import cost; $79M cash-transfer program for 2.9M Bolivians plus $73M in preferential loans at 6%; gasoline remains subsidized at Bs 6.96, phaseout by Jan 2027
+||- **Fuel queues persist (Oct 5, 2026):** 1,800+ vehicle plates blocked (24 confiscated); petrol smuggling shifts from diesel to petrol as regulated/market gap widens; YPFB increases deliveries but queues remain in La Paz, Tarija, Santa Cruz
+||- **Bolivia imports:** ~90% of diesel, ~55% of gasoline; spends ~$55M/week on subsidies (Reuters, Oct 2026)
+||- **Mariaca arrest (Oct 1, 2026):** Attorney General Roger Mariaca detained at Viru Viru Airport after US visa revoked for drug trafficking/corruption; Gov't Minister Oviedo: "dismantled criminal organization embedded in justice system"; four senior officials also detained; US visa-revocation policy targets Latin American officials
+||- **IMF Board approval (Oct 2, 2026):** $1.9B 36-month EFF approved; $214M disbursed immediately; first multi-year IMF arrangement since 2006; Moody's upgrades to Caa2; country risk falls to 485 bps; fiscal surplus in H1 2026
+||- **Hydrocarbon production crisis (Oct 2026):** Down 13.4% YoY; Cochabamba economy -4.15% contraction; worst economic crisis in 67 years per consulted economists (24EcoNews/El Deber)
+||- **Official BOB/USD (Oct 5, 2026):** 12.05; boliviano weakening continues
 
 ## Prediction History
 | Date | Probability | Δ | Key Driver |

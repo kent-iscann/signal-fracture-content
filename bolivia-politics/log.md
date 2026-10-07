@@ -141,3 +141,13 @@
 - **Source 59:** Bolivia's Wanted Ex-President Evo Morales Threatens Protests Over Diesel (Rio Times) — Sep 26: Morales at Lauca Ñ amplified assembly gives Paz until Oct 3 to repeal diesel/state-company decrees; threatens national protests from Oct 13; "If it isn't the easy way, it will be the hard way."
 - **Source 60:** Bolivia's President Faces Demands to Disclose the Cost of His US Trip (Rio Times) — Sep 29: Lawmakers demand transparency on Paz's US trip costs; VP Lara estimates $200-250K; Paz claims 32 meetings, $10Bn commitments; Leftist deputy Pacheco: "If he is going to devote himself to travelling, let him resign."
 - **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, entities/Rodrigo Paz.md, entities/Evo Morales.md, index.md, log.md
+|
+|## 2026-10-07 - Weekly Source Update
+|- **New sources:** 5 (total 60 → 65)
+|- **Source 61:** IMF Executive Board Approves $1.9B EFF (IMF) — IMF Board approves 36-month program Oct 2; $214M disbursed immediately; Moody's upgrade to Caa2; fiscal surplus H1; country risk 485 bps.
+|- **Source 62:** Bolivia Diesel Protests: Oruro Indigenous Nation Declares Emergency (Rio Times) — Supreme Decree 5716 ends diesel subsidy Sep 19; 83% price rise to Bs 17.95/litre; Jach'a Karangas indigenous nation declares permanent emergency; Santa Cruz drivers suspend strike.
+|- **Source 63:** Bolivia Fuel Queues Persist Despite Extra YPFB Supply (Rio Times) — Queues persist Oct 5; 1,800+ plates blocked; petrol smuggling shifts from diesel to petrol as gap widens; IMF $214M upfront arrives.
+|- **Source 64:** Bolivia's Fiscal Metrics Improve While Economy Contracts at Worst Rate in 67 Years (24EcoNews) — Paradoxical moment: Moody's Caa2, fiscal surplus vs -13.4% hydrocarbon production, -4.15% Cochabamba; worst crisis in 67 years.
+|- **Source 65:** Bolivia Attorney General Mariaca Detained at Airport (Rio Times/UPI) — US visa revoked over drug trafficking; Mariaca arrested at airport; government frames as dismantling "criminal organization embedded in justice system."
+|- **Key developments:** IMF Board finally approves $1.9B; Decree 5716 ends diesel subsidy; Mariaca arrest deepens legal crisis; Morales Oct 3 deadline expires without mass mobilization; Brazil first-round election sees Flávio Bolsonaro finish first; fuel queues persist with 1,800+ plates blocked; Paz government contains protest escalation through state of emergency and targeted negotiations.
+|- **Files updated:** sources.md, timeline/bolivia-politics-timeline.md, entities/Rodrigo Paz.md, entities/Evo Morales.md, concepts/Bolivia's Post-MAS Fragmentation.md, concepts/South America's Rightward Shift.md, index.md, log.md
