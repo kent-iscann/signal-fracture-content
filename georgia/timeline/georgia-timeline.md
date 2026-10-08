@@ -186,3 +186,19 @@
 
 ### September 30, 2026
 |- **Iran ambassador summoned over Queen Ketevan remarks** — Amb. Moujani calls for "reassessment" of 17th-century queen's martyrdom by Safavid Iran. Georgian MFA summons him; Deputy FM warns statements harm public sentiment. GD MPs and Church criticize. Adds new friction to Iran-Georgia relations already strained by US sanctions compliance.
+
+### October 1, 2026
+|- **German foundations close in Georgia** — Konrad Adenauer, Friedrich Naumann, Heinrich Böll, Friedrich Ebert foundations close Tbilisi offices after GD's Grants Law rejected funding applications (July 28). German Ambassador confirms forced closures. ALDE demands EU action. Practical consequence of GD's civil society crackdown.
+
+### October 1, 2026
+|- **"Putin's Path" transit project unveiled** — Pro-Kremlin research institutions present rail/road transit linking Russia-Georgia-Armenia via Abkhazia at Sep 28 Moscow conference. Lobbied by Armenian experts framing it as "unblocking" the region. Georgian analysts note legal impossibility under Law on Occupied Territories. Demonstrates Russian long-term connectivity ambitions despite practical obstacles.
+
+### October 2, 2026
+|- **13th Azerbaijan-Turkey-Georgia Defense Ministers meeting in Shusha** — Defense ministers Hasanov, Güler, Chikovani sign joint protocol. Güler: "security of the Caucasus cannot be considered separately from Türkiye, Azerbaijan, and Georgia." Exercises Eternity and Caucasus Eagle discussed. Institutionalized trilateral defense format continues despite Georgia's political drift.
+
+### October 5, 2026
+|- **JAMnews publishes comprehensive analysis of opposition ban lawsuit** — GD's Sep 24 Constitutional Court lawsuit targets 5 parties representing 784,820 voters (37.79% of participants). Court decision due by June 24, 2027. Traces planning back to Ivanishvili's 2024 election campaign promise.
+
+### October 7, 2026
+|- **Kobakhidze promotes China economic ties** — PM announces exports to China +177% Jan-Aug; China #1 FDI ($236M) overtaking UK; 14 weekly flights; free trade talks with South Korea, Serbia, GCC. GD continues deepening China ties while diversifying trade partners.
+|- **Jamestown: Church dispute analysis** — Beka Chedia analyzes Kurmukh Church dispute, warns Baku's assertiveness since Nagorno-Karabakh victory could advance historical territorial claims given undelimited Georgia-Azerbaijan border.

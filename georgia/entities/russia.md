@@ -25,6 +25,12 @@ A leaked December 2025 Moscow State University report produced for a new Russian
 ## Reclassification of Georgia (2025)
 In 2025, Russia reclassified Georgia from "unfriendly" (12 points out of 100 in 2023) to a "relatively friendly/unfriendly communication regime" (19.4/100), reflecting the warming of relations under Georgian Dream. This shift was also visible in the first official encounter between a Georgian leader and Vladimir Putin in 15 years — PM Kobakhidze attended an Ashgabat forum in 2025 also attended by Putin.
 
+## "Putin's Path" transit project (Oct 2026)
+A project for direct rail and road transit linking Russia, Georgia, and Armenia via Abkhazia was unveiled at a Sep 28 Moscow conference by pro-Kremlin research institutions (NIIRK, Center for Russian Studies at Yerevan State University). Drafted by Vladislav Gasumyanov. Armenian experts lobby the project, framing it as an instrument to "unblock" the region and integrate it into Armenia's "Crossroads of Peace" concept. Georgian security analysts note opening through-traffic is legally impossible under the Law on Occupied Territories without full Georgian customs and border control on the Psou River. Remains a declarative propaganda maneuver (Vector Kavkaza) but reveals Russian long-term connectivity ambitions.
+
+## Bottleneck strategy framework (Sep 2026)
+GEOpolitics analysis by Temuri Yakobashvili ("Choke, Don't Block") introduces the concept of Russia's "bottleneck strategy" in the South Caucasus. Russia's objective is not to block regional connectivity but to prevent it from becoming independent of Russian influence. Key instruments: control over gas transit pipelines (Gazprom Armenia supplies Armenia via Georgia), strategic infrastructure nodes, and the ability to slow/redirect/price access to corridors. Framework helps explain Russian policy in the Middle Corridor context: Russia benefits when alternatives remain sufficiently expensive, uncertain, or politically vulnerable that its own infrastructure retains leverage.
+
 ## South Ossetia governance absorption (July 2026)
 In a qualitatively new phase of de facto annexation, Russia accelerated the administrative integration of South Ossetia:
 - **June 23, 2026:** De facto president Alan Gagloev resigned and was appointed as an adviser to Vladimir Putin.

@@ -295,7 +295,17 @@
 |- **Source 76:** JAMnews: Pashinyan-Putin Bishkek meeting — Putin argues EU/EAEU incompatibility, offers to remove Gyumri base; Pashinyan rejects referendum; Armenia-West pivot accelerates, reshaping Georgia's regional context.
 |- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
 |
-|## 2026-10-01 - Weekly Source Update
+|## 2026-10-08 - Weekly Source Update
+|- **New sources:** 6 (103–108)
+|- **Source 103:** Civil.ge: Kobakhidze Lauds China Economic Ties (Oct 7) — Exports to China +177% Jan-Aug; China #1 FDI ($236M) overtaking UK; 14 weekly flights; free trade talks with South Korea/Serbia/GCC. New granular data on GD's deepening China ties.
+|- **Source 104:** JAMnews: All four German political foundations halt work in Georgia (Oct 1–2) — Konrad Adenauer, Friedrich Naumann, Heinrich Böll, Friedrich Ebert close after Grants Law rejected applications (July 28). German Ambassador confirms forced closures. ALDE demands EU sanctions. First practical effect of GD's legislation on European civil society engagement.
+|- **Source 105:** Türkiye Today: 13th Azerbaijan-Turkey-Georgia Trilateral Defense Meeting (Oct 2, Shusha) — Defense ministers Hasanov, Güler, Chikovani sign joint protocol. Güler: "Caucasus security cannot be separated from Türkiye, Azerbaijan, Georgia." Institutionalized defense format continues despite political drift.
+|- **Source 106:** SovaNews: "Putin's Path" Rail Project Unveiled (Oct 1) — Pro-Kremlin research presents rail/road transit linking Russia-Georgia-Armenia via Abkhazia. Lobbied by Armenian experts. Legally unfeasible without Georgian consent per Law on Occupied Territories. Demonstrates Russia's long-term connectivity ambitions.
+|- **Source 107:** Jamestown: Church Dispute Strains Azerbaijan-Georgia (Oct 7) — Beka Chedia analysis of Kurmukh Church dispute. Baku's assertiveness raises concern about historical territorial claims given undelimited border. GD avoids confronting Baku.
+|- **Source 108:** GEOpolitics: Choke, Don't Block (Sep 22) — Temuri Yakobashvili's strategic analysis of Russia's "bottleneck strategy." Introduces "chokepoint sovereignty" framework. High analytical value for understanding Russian leverage through infrastructure dependency.
+|- **Files updated:** sources.md (+6), index.md, timeline/georgia-timeline.md, entities/united-states.md, entities/russia.md, entities/european-union.md, entities/georgian-dream.md, concepts/middle-corridor.md, log.md
+
+## 2026-10-01 - Weekly Source Update
 |- **New sources:** 3 (100–102)
 |- **Source 100:** OC Media: Tbilisi summons Iran's ambassador over Queen Ketevan remarks (Sep 30) — Iran Amb. Moujani questioned 17th-century queen's martyrdom; MFA summoned him, GD MPs and Church called remarks unacceptable. Significant Iran-Georgia diplomatic tension.
 |- **Source 101:** Caucasus Watch: Kobakhidze Raises US Strategic Partnership With Trump, Rubio (Sep 28) — Kobakhidze held conversations with Trump and Rubio at UNGA reception, reiterated interest in restoring strategic partnership. First reported direct interaction.
