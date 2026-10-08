@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-09-24
+updated: 2026-10-08
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -222,6 +222,27 @@ Trade Minister Wasantha Samarasinghe represented Sri Lanka at the 11th Belt and 
 ### Late August / September 2026 -- Cabinet Approves $500M Yuan-Denominated EXIM Bank Loan for Central Expressway
 President Dissanayake secured cabinet approval to borrow the equivalent of US$500 million in renminbi (RMB) from China Exim Bank for Section I of the Central Expressway (Kadawatha-Meerigama) — Sri Lanka's first-ever yuan-denominated bilateral loan. The shift from USD to RMB was at China Exim Bank's request. The original 2019 preferential buyer's credit of US$989M had only US$51.5M disbursed before suspension during the crisis. Post-restructuring, EXIM Bank reduced its commitment to US$500M in yuan; Sri Lanka will provide US$438M from state coffers and settle US$200M in outstanding claims to MCC (Metallurgical Corporation of China Ltd). Sri Lanka has no RMB income and must convert US dollar reserves for repayment. Five domestic construction firms urged competitive tenders but Colombo persisted with the Chinese contractor MCC. This is the first concrete implementation of China's yuan-denominated lending policy shift for Sri Lanka, representing a structural change in bilateral lending terms.^[The Economic Times, September 2026]
 
+### September 7, 2026 -- Hambantota Volumes Surge; CMPort Studies Capacity Expansion Amid Unresolved MSC Stake Talks
+China Merchants Port Group is studying plans to expand container capacity at Hambantota International Port after container volumes surged in the first half of 2026, as reported by TradeWinds. In a briefing to investors featuring six senior CMPort representatives led by Chair Feng Boming, management outlined plans to strengthen the Sri Lankan hub while sidestepping questions about the status of MSC's proposed stake acquisition — indicating that the MSC talks (first reported in July 2026) remain unresolved. Confirms growing commercial momentum at Hambantota port.^[TradeWinds, September 7, 2026]
+
+### September 23, 2026 -- Ambassador Wei Huaxiang Delivers First Major Public Address at PRC 77th Anniversary Reception
+Ambassador Wei Huaxiang addressed diplomats, political leaders, and guests at the PRC 77th anniversary reception at the Shangri-La Hotel in Colombo, his first major public address since arriving in August. Key announcements: China's Mazu AI intelligent meteorological early-warning system to be deployed in Sri Lanka; China provided nearly RMB 600 million in school uniform materials over four consecutive years, benefiting over 4.4 million students. Emphasized 2027 as a milestone year — the 70th anniversary of diplomatic relations and the 75th anniversary of the Rubber-Rice Pact. Reaffirmed BRI commitment to Colombo Port City and Hambantota Port. Described relations as a "strategic cooperative partnership featuring sincere mutual assistance and everlasting friendship." Sent a clear signal of enduring partnership at a time of intensifying geopolitical competition in the Indian Ocean.^[Newswire, September 24, 2026]
+
+### September 29, 2026 -- China Proposes Governance & Capacity-Building Cooperation With Sri Lanka
+| Ambassador Wei Huaxiang met Public Administration, Provincial Councils and Local Government Minister Prof. Chandana Abayarathna to discuss expanded bilateral cooperation in public administration reform, local government capacity building, disaster management, AI-based early warning systems, and clean drinking water infrastructure. China proposed establishing a specialized capacity-building programme for Sri Lankan provincial and local government officials and an AI-powered early warning system for weather-related disasters, with Chinese companies including Huawei providing technical assistance and emergency relief. Wei emphasized that Chinese aid and cooperation has never been subject to political conditions. This meeting represents a significant expansion of China-Sri Lanka bilateral engagement beyond traditional infrastructure and trade into governance, public sector reform, and technology cooperation.^[Ada Derana, September 29, 2026]
+
+### September 28, 2026 -- Implementation Agreement Signed for Cyclone Ditwah Bridge Reconstruction Grant
+| China and Sri Lanka signed an implementation agreement for the China Aid project to rebuild 14 bridges destroyed by Cyclone Ditwah, moving the RMB 79 million (~US$11M) grant from pledge to execution. Chinese Ambassador Wei Huaxiang and Ministry of Transport, Highways and Urban Development Secretary Asiri Karunawardena signed the agreement. Chinese experts had already conducted on-site assessments and Beijing fast-tracked approval. The project covers bridges in Western, Sabaragamuwa, North Western, and North Central provinces. This marks the first major implementation step for the grant-based assistance model first announced in August 2026 (Source #55).^[Xinhua Silk Road, September 28, 2026]
+
+### October 2026 -- Hambantota Surpasses 1 Million TEU in Cumulative Container Throughput
+|Hambantota International Port surpassed 1 million TEU in cumulative container throughput. Container growth trajectory: 53,170 TEU (2024) to 428,036 TEU (2025) to 574,196 TEU handled in 2026 YTD. MSC is the main container customer and the port's growth driver. US$108M equipment investment committed for six new STS cranes, 16 eRTGs, and 40 trailers from ZPMC (due early 2027). Phase II expansion under way adding four dedicated container berths (total seven), scheduled for end-2026 completion, with 30% yard capacity increase. Long-term target of 2m TEU annually. CEO Wilson Qu cited operational reliability and responsiveness to customer needs as growth drivers. Marks validation of CMPort's management and the commercial potential of Chinese-invested port infrastructure.^[WorldCargo News, October 2026]
+
+### October 4, 2026 -- IMF Reaches Staff-Level Agreement on Seventh EFF Review with Sri Lanka (PR26/318)
+|IMF staff and Sri Lankan authorities reached staff-level agreement on the Seventh Review under the Extended Fund Facility, concluding discussions during the September 10-23, 2026 mission led by Evan Papageorgiou. The agreement is contingent on Executive Board approval, which requires (i) presentation of the 2027 Budget to Parliament and (ii) completion of financing assurances review. Sri Lanka would access SDR 254M (~US$345 million), bringing total IMF disbursements to SDR 2.032B (~US$2.7 billion). Key data: Q2 2026 GDP growth 4.2% y/y (11th consecutive quarter of expansion); headline inflation 8% y/y (September); gross official reserves US$6.9 billion (end-August 2026); banks well capitalized; H1 2026 fiscal outturn strong. Debt restructuring "largely completed." Downside risks persist from the Middle East war, global trade policy, and El Nino. IMF criticized the government's diesel subsidy reintroduction and urged continuation of cost-recovery energy pricing. The Article IV Consultation discussions were also concluded alongside the review. Represents the institutional follow-through on the 7th Review first announced as scheduled for fall 2026 (June 2026 IMF staff visit).^[IMF Press Release PR26/318, October 4, 2026]
+
+### October 6, 2026 -- Carnegie Endowment: Comprehensive Analysis of Sri Lanka's Post-Crisis Balancing Act
+|Avinash Paliwal (Nonresident Scholar, Carnegie South Asia Program / SOAS) published a comprehensive analysis of Sri Lanka's post-crisis political economy and foreign policy under the NPP government. Key findings: JVP politburo led by Tilvin Silva operates as a parallel power center to President Dissanayake, raising concerns about potential one-party state trajectory if economic conditions deteriorate. China provided only US$1M + RMB 1M in Cyclone Ditwah relief versus India's $450M package. Sri Lanka refused Shi Yan 6 entry in March 2026; Chinese research vessel visits indefinitely paused. China's developmental footprint concentrated in southern Sinhala regions (capital-intensive mega-projects); India's $7.5B assistance geographically dispersed and people-centered in the north. Analysis concludes another economic crisis would push Colombo further toward India.^[Carnegie Endowment, October 6, 2026]
+
 ---
 
 ## Key Statistics
@@ -270,7 +291,16 @@ President Dissanayake secured cabinet approval to borrow the equivalent of US$50
 |||| **Total government external debt (June 2026)** | **US$38.01 billion** | **Newswire / PDMO, Sep 1 2026 (Q2 bulletin)** |
 |||| **Debt-to-GDP ratio (June 2026)** | **88.8% (from 95% in Dec 2025)** | **EconomyNext / Deputy FinMin, Sep 2 2026** |
 |||| **Total government debt (June 2026)** | **US$95 billion (from US$100.4B in Dec 2025)** | **EconomyNext / Deputy FinMin, Sep 2 2026** |
-|||| **Bilateral debt: non-Paris Club share (Q1 2026)** | **59% (led by China)** | **EconomyNext / PDMO, June 3 2026** |
-|||| **Bilateral debt: Paris Club share (Q1 2026)** | **41%** | **EconomyNext / PDMO, June 3 2026** |
+||||| **Bilateral debt: non-Paris Club share (Q1 2026)** | **59% (led by China)** | **EconomyNext / PDMO, June 3 2026** |
+||||| **Bilateral debt: Paris Club share (Q1 2026)** | **41%** | **EconomyNext / PDMO, June 3 2026** |
+|||||| **Total IMF disbursements under EFF (7th Review agreement, Oct 2026)** | **SDR 2.032B (~US$2.7B)** | **IMF PR26/318, Oct 4 2026** |
+|||||| **Gross official reserves (end-August 2026)** | **US$6.9 billion** | **IMF PR26/318, Oct 4 2026** |
+|||||| **Q2 2026 GDP growth** | **4.2% y/y** | **IMF PR26/318, Oct 4 2026** |
+|||||| **Headline inflation (September 2026)** | **8% y/y** | **IMF PR26/318, Oct 4 2026** |
+|||||| **Hambantota container throughput (2024)** | **53,170 TEU** | **WorldCargo News, Oct 2026** |
+|||||| **Hambantota container throughput (2025)** | **428,036 TEU** | **WorldCargo News, Oct 2026** |
+|||||| **Hambantota container throughput (2026 YTD)** | **574,196 TEU** | **WorldCargo News, Oct 2026** |
+|||||| **Hambantota cumulative container throughput** | **>1 million TEU** | **WorldCargo News, Oct 2026** |
+|||||| **Hambantota Phase II expansion investment** | **US$108 million** | **WorldCargo News, Oct 2026** |
 
 See also: [[debt-trap-debate]], [[hambantota-port]], [[belt-and-road-initiative]], [[key-conclusions]]

@@ -1,6 +1,6 @@
 # Sources
 
-| Total sources: 63 | Last updated: 2026-09-24 |
+| Total sources: 70 | Last updated: 2026-10-08 |
 
 ## Debt and Lending
 
@@ -223,6 +223,10 @@
     https://www.imf.org/en/news/articles/2026/06/30/pr26229-sri-lanka-imf-staff-concludes-visit
     IMF mission led by Evan Papageorgiou visited Colombo from June 24–30, 2026. Key new data: headline inflation rose from 1.6% (Feb 2026) to 5.5% (May 2026) due to Middle East war energy price increases; CBSL responded with a 100-basis-point rate hike and macroprudential measures. The government rolled out a temporary relief package (fuel, electricity, fertilizer subsidies + cash transfers). Authorities committed to 2.3% of GDP primary balance target in 2027. Debt restructuring is "nearing completion." Seventh EFF Review mission scheduled for fall 2026. Exchange rate flexibility, SOE reform, and PDMO capacity building identified as priorities. The mission met with President Dissanayake, PM Amarasuriya, CBSL Governor Weerasinghe, and other officials.
 
+68. "IMF Reaches Staff-Level Agreement on the Seventh Review under the Extended Fund Facility with Sri Lanka" -- IMF Press Release No. 26/318 (October 4, 2026)
+    https://www.imf.org/en/news/articles/2026/10/04/pr26318-sri-lanka-imf-reaches-sla-on-7th-review-under-the-eff
+    IMF staff and Sri Lankan authorities reached staff-level agreement on the Seventh Review under the EFF. Upon Executive Board approval (contingent on 2027 budget presentation to Parliament and financing assurances review), Sri Lanka would access SDR 254M (~US$345 million), bringing total IMF disbursements to SDR 2.032B (~US$2.7 billion). Key data: economy expanded 4.2% in 2026Q2 (11 consecutive quarters of growth); headline inflation 8% y/y (September); gross official reserves US$6.9B (end-August); banks well capitalized; fiscal outturn strong H1 2026; debt restructuring largely completed. Downside risks from Middle East war, global trade policy, and El Nino. Mission visited Colombo September 10-23, 2026 led by Evan Papageorgiou. IMF urged cost-recovery fuel pricing and warned the government's diesel subsidy reintroduction risks fiscal sustainability. Represents the institutional follow-through on the 7th Review first announced as scheduled for fall 2026 in the June 2026 staff visit (Source #40). Article IV Consultation discussions also concluded.
+
 ---
 
 ## Diplomatic Engagement & Trade
@@ -373,6 +377,46 @@
 
 ## Post-Crisis Developments, Geopolitics, and Multilateral Institutions
 
-63. "Borrowers' Platform faces a test from creditors in the room" -- Policy Circle / RIS India (September 23, 2026)
+|63. "Borrowers' Platform faces a test from creditors in the room" -- Policy Circle / RIS India (September 23, 2026)
     https://www.policycircle.org/opinion/borrowers-platform-faces-a-test
     Amol Baxi (Visiting Fellow, RIS New Delhi) analyzes the newly formed Borrowers' Platform (launched April 15, 2026 under UNCTAD) and its governance challenges. Uses Sri Lanka as a case study: the country's restructuring involved a uniquely diverse creditor group including China, India, Paris Club creditors, and commercial lenders — the IMF described the process as "unusually complex." Sri Lanka was ineligible for the G20 Common Framework due to middle-income status, forcing separate negotiations with multiple creditor groups. The article highlights that some developing countries are simultaneously borrowers and lenders (China, India), creating potential tension in a borrower-only forum. First Governing Council meeting scheduled for October 14, 2026 in Bangkok. Provides institutional context for understanding the debt architecture within which Sri Lanka's restructuring occurred.
+
+70. "Sri Lanka's Economic and Geopolitical Balancing Act" -- Carnegie Endowment for International Peace, by Avinash Paliwal (October 6, 2026)
+    https://carnegieendowment.org/research/2026/10/sri-lankas-economic-and-geopolitical-balancing-act
+    Comprehensive analytical piece on Sri Lanka's post-crisis political economy and foreign policy under the NPP government. Key findings relevant to China-Sri Lanka financial relations: JVP politburo (led by Tilvin Silva) functions as parallel power center to President Dissanayake, raising risks of one-party state trajectory if economic conditions deteriorate. China's Cyclone Ditwah relief was US$1M + RMB 1M disaster supplies vs India's US$450M relief package -- stark disparity in crisis responsiveness. Chinese developmental footprint is capital-intensive and concentrated in southern Sinhala regions (Hambantota, Colombo Port City, expressways, coal plant, airport) while India's $7.5B assistance is more geographically dispersed and people-centered (northern railway, housing, solar, ports). Sri Lanka refused Chinese research vessel Shi Yan 6 entry in March 2026, paused Chinese naval visits indefinitely. Chinese organized crime activity in Colombo and Beijing's 2022 non-support during crisis have reduced China's geopolitical appeal. The Carnegie analysis concludes another economic crisis would push Colombo further toward India, not China. Published by Avinash Paliwal, Nonresident Scholar, Carnegie South Asia Program / SOAS University of London.
+
+---
+
+## US Government Investment Climate Assessment
+
+64. "2026 Sri Lanka Investment Climate Statement" -- US Department of State (September 2026)
+    https://www.state.gov/wp-content/uploads/2026/09/701264_2026-Sri-Lanka-Investment-Climate-Statement.pdf
+    Comprehensive US government assessment of Sri Lanka's investment climate published September 2026. Key data: FDI inflows were US$1.06 billion in 2025 (just 1% of GDP, well below the 3-4% typical of emerging economies); Sinopec Hambantota refinery ($3.7B) remains pending as of June 2026 due to disagreements between the government and Sinopec; government ended negotiations with CHEC on a floating LNG terminal in December 2025 days before the contract was to be signed; Adani Green Energy withdrew from a $400M, 484 MW wind farm in February 2025 citing renegotiation efforts. Five percent GDP growth in 2025 exceeded expectations. The ICS cites project reversals, regulatory shifts, and slow decision-making as persistent concerns limiting broader foreign participation. Authoritative USG source providing top-level data on China-related FDI dynamics, project status, and the overall investment climate context for China-Sri Lanka financial relations.
+
+---
+
+## Hambantota Port: New Commercial Developments
+
+65. "China Merchants faces MSC question as Hambantota volumes soar" -- TradeWinds (September 7, 2026)
+    https://www.tradewindsnews.com/containers/china-merchants-faces-msc-question-as-hambantota-volumes-soar/2-1-2040221
+    China Merchants Port Group is studying plans to expand container capacity at Hambantota International Port after container volumes surged in the first half of 2026. In a briefing to investors featuring six senior CMPort representatives led by Chair Feng Boming, management outlined plans to strengthen the Sri Lankan hub while sidestepping questions about the status of MSC's proposed stake acquisition (Source #48 — MSC talks, July 2026). Confirms both the port's growing commercial momentum and the unresolved status of MSC's entry as a stakeholder. Published by Huaqing Ma, TradeWinds China Correspondent, Singapore.
+
+69. "Hambantota hits 1m TEU mark" -- WorldCargo News (October 2026)
+    https://www.worldcargonews.com/news/2026/10/hambantota-hits-1m-teu-mark
+    Hambantota International Port surpassed 1 million TEU in cumulative container throughput. Container growth: 53,170 TEU (2024) -> 428,036 TEU (2025) -> 574,196 TEU (2026 YTD). MSC is the main container customer and has driven much of the growth; in April, MSC Marie Leslie set a single-vessel record of 13,260 TEU. Highest monthly throughput: 80,325 TEU (June 2026). HIP committed US$108M to six additional STS cranes, 16 eRTGs, and 40 trailers ordered from ZPMC (due early 2027). Phase II expansion will add four dedicated container berths (total seven), scheduled for completion by end of 2026, increasing yard capacity by 30%. HIP's long-term target: 2m TEU annually. CEO Wilson Qu cited close engagement with shipping lines, operational reliability, and responsiveness as growth drivers. Represents a major commercial milestone validating CMPort's operational management and MSC's role as anchor customer, following the July 2026 MSC stake talks (Source #48) and the September 2026 volume surge report (Source #65).
+
+---
+
+## Diplomatic Engagement & Public Diplomacy
+
+66. "Chinese Ambassador says China-Sri Lanka ties set for key milestones in 2027" -- Newswire (September 24, 2026)
+    https://www.newswire.lk/2026/09/24/chinese-ambassador-says-china-sri-lanka-ties-set-for-key-milestones-in-2027
+    Ambassador Wei Huaxiang's first major public address at the PRC 77th anniversary reception in Colombo (September 23, 2026). Key announcements: China's Mazu AI intelligent meteorological early-warning system to be deployed in Sri Lanka; China has provided nearly RMB 600 million in school uniform materials over four consecutive years, benefiting over 4.4 million students; China's H1 2026 GDP grew 4.7% (~US$530B). Emphasized 2027 as a milestone year — the 70th anniversary of diplomatic relations and the 75th anniversary of the Rubber-Rice Pact. Reaffirmed BRI commitment to Colombo Port City and Hambantota Port as flagship projects. Described Sri Lanka-China relations as a "strategic cooperative partnership featuring sincere mutual assistance and everlasting friendship," sending a signal of enduring partnership ("no matter what happens") at a time of intensifying geopolitical competition in the Indian Ocean.
+
+---
+
+## Governance & Capacity-Building Cooperation
+
+67. "Sri Lanka, China discuss public administration reforms, disaster response and clean water" -- Ada Derana (September 29, 2026)
+    https://adaderana.lk/news/cmumh7b7f0005356o6h2m2jcw
+    Ambassador Wei Huaxiang met Public Administration, Provincial Councils and Local Government Minister Prof. Chandana Abayarathna on September 29, 2026 to discuss expanded bilateral cooperation in public administration reform, local government capacity building, disaster management, AI-based early warning systems, and clean drinking water infrastructure. China proposed establishing a specialized capacity-building programme for Sri Lankan provincial and local government officials and an AI-powered early warning system for weather-related disasters, with Chinese companies including Huawei providing technical assistance and emergency relief. Wei emphasized that Chinese aid and cooperation has never been subject to political conditions and this policy would remain unchanged. Represents a significant expansion of China-Sri Lanka bilateral engagement beyond traditional infrastructure and trade into governance, public sector reform, and technology cooperation.

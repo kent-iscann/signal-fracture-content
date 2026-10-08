@@ -240,3 +240,20 @@
 |- **Confidence level: Medium**
 |- Watch report: Watch Report 26-09-2026.md
 |- PDF generated and uploaded to R2
+
+## 2026-10-01 - Weekly Source Update | 4 new sources (US ICS, Hambantota volumes surge, Ambassador Wei speech, governance cooperation)
+| **New sources:** 4
+| **Source #64:** "2026 Sri Lanka Investment Climate Statement" — US Department of State (September 2026). Comprehensive USG assessment: FDI US$1.06B in 2025 (1% of GDP); Sinopec refinery ($3.7B) pending; CHEC LNG terminal negotiations ended Dec 2025; Adani wind farm withdrew Feb 2025; 5% GDP growth 2025. Authoritative data on China-related FDI dynamics and project status.
+| **Source #65:** "China Merchants faces MSC question as Hambantota volumes soar" — TradeWinds (September 7, 2026). CMPort studies capacity expansion after H1 2026 volume surge; management sidesteps MSC stake question in investor briefing. Follow-up to Source #48 confirming both commercial momentum and unresolved MSC entry.
+| **Source #66:** "Chinese Ambassador says China-Sri Lanka ties set for key milestones in 2027" — Newswire (September 24, 2026). Ambassador Wei's first major public address: Mazu AI weather system deployment announced; RMB 600M in school uniforms over 4 years (4.4M+ students); 2027 milestone anniversaries (70th diplomatic, 75th Rubber-Rice Pact); enduring partnership commitment.
+|| **Source #67:** "Sri Lanka, China discuss public administration reforms, disaster response and clean water" — Ada Derana (September 29, 2026). New governance cooperation dimension: public admin reform, local govt capacity building, AI disaster warning systems, clean water. China proposed specialized capacity-building programme for SL officials. Expands bilateral engagement beyond traditional infrastructure.
+|| **Files updated:** sources.md, index.md, timeline/china-sri-lanka-timeline.md, domain-notes.md, log.md
+|| **Total sources**: 63 → 67
+
+## 2026-10-08 - Weekly Source Update | 3 new sources (IMF 7th Review, Hambantota 1m TEU, Carnegie analysis)
+|| **New sources:** 3
+|| **Source #68:** "IMF Reaches Staff-Level Agreement on the Seventh Review under the Extended Fund Facility with Sri Lanka" — IMF Press Release PR26/318 (October 4, 2026). Staff-level agreement on 7th EFF Review. Upon Executive Board approval: SDR 254M (~$345M), total EFF disbursements SDR 2.032B (~$2.7B). Economy 4.2% in 2026Q2 (11 consecutive quarters). Reserves US$6.9B. Inflation 8%. Contingent on 2027 budget and financing assurances review.
+|| **Source #69:** "Hambantota hits 1m TEU mark" — WorldCargo News (October 2026). Container growth: 53,170 (2024) → 428,036 (2025) → 574,196 (2026 YTD). US$108M Phase II expansion. 2m TEU/yr target.
+|| **Source #70:** "Sri Lanka's Economic and Geopolitical Balancing Act" — Carnegie Endowment, Avinash Paliwal (October 6, 2026). JVP politburo power structure, China vs India development footprints, Cyclone Ditwah aid disparity ($1M vs $450M).
+|| **Files updated:** sources.md, index.md, timeline/china-sri-lanka-timeline.md, log.md, domain-notes.md
+|| **Total sources**: 67 → 70
