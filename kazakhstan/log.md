@@ -525,5 +525,33 @@
 - entities/china.md: added $8.2B China Investment Forum (Sept 25)
 - concepts/multi-vector-foreign-policy.md: added Germany-China-South Korea deal pipeline data
 - concepts/tech-pivot.md: added Higgsfield $400M, Y Combinator, Nace.AI data
-- concepts/caspian-geopolitics.md: added oil route diversification data
-- timeline/kazakhstan-timeline.md: extended Sept-Oct 2026 entries
+|- concepts/caspian-geopolitics.md: added oil route diversification data
+|- timeline/kazakhstan-timeline.md: extended Sept-Oct 2026 entries
+
+## 2026-10-09 - Weekly Source Update — 5 New Sources Added
+### Sources added
+
+1. **Astana Times: Kazakhstan-Germany Relations Through Lens of Global Instability** (Oct 6, 2026)
+   - Eldaniz Gusseinov traces three-stage evolution of KZ-Germany diplomatic dialogue on Ukraine (2023-2026). Druzhba pipeline oil transit suspended May 1, 2026 — 2.1M tonnes shipped to Schwedt refinery in 2025. Tokayev proposed freezing hostilities then diplomacy; called Putin "most acceptable political figure." Berlin accepts multi-vector policy as given. 37 bilateral projects worth €1.8B.
+
+2. **Astana Hub / RISE: Kazakhstan Startup Landscape 2026** (Oct 3, 2026)
+   - First national study of startup ecosystem: 1,500+ startups (5x since 2020), venture funding forecast >$460M in 2026. 82% of surveyed companies use AI. IT services exports grew from $35M (2020) to $1.1B (2025). 40% of scaling companies have paying foreign customers.
+
+3. **DKNews / World Financial Review: $155bn in Seven Years** (Oct 2026)
+   - $155.8B gross FDI inflows (2019-2025). GDP per capita exceeded $15,000 (+52.9% over seven years). 625 new industrial enterprises (62K jobs). S&P upgraded to BBB. 90%+ public services online. R&D spending up 6x. External debt/GDP from 83.1% to 59.4%.
+
+4. **SCSP: Who Is Winning in Kazakhstan?** (Oct 2026)
+   - Yeva Grigoryan analysis of US-China tech competition. Framework: measure success through diversification, resilience, institutional integration, trusted adoption — not MoUs. Four-powers analysis: Russia as spoiler, EU regulatory heavyweight, China integrated infrastructure, US opening through established sectors.
+
+5. **BigGo Finance: Yuan Extends Reach Into Central Asian Retail Payments** (Sept 2026)
+   - KZ-China cross-border QR payment system launching 2026 — yuan internationalization reaches retail level. Kaspi.kz-Alipay partnership. 11,000+ Chinese-capital enterprises in Central Asia. Yuan share 3.1% globally (5th, SWIFT June 2026).
+
+### Files updated
+- sources.md: 111 → 116 sources
+- log.md: updated
+- index.md: updated source count and date
+- entities/western-powers.md: added Germany dialogue evolution, Druzhba pipeline suspension, Tokayev's 3-stage Ukraine peace framing
+- concepts/tech-pivot.md: added Startup Landscape 2026 data, SCSP tech competition framework
+- concepts/multi-vector-foreign-policy.md: added Yuan QR payment internationalization, SCSP framework for measuring success
+- timeline/kazakhstan-timeline.md: added Oct 2026 entries (Germany analysis piece, Startup Landscape study)
+- domain-notes.md: reviewed, key data points updated

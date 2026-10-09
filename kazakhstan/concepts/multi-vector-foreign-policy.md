@@ -160,4 +160,16 @@ Whether multi-vector foreign policy can survive the intensifying great power com
   - **US (Nov 2025, Washington):** 29 agreements worth **~$17B**
   - **Germany (Sept 28-30, Berlin/Munich):** ~30 agreements worth **~$2B**; 37 projects worth €1.8B
   - **Russia (May 2026, Astana):** Balkhash NPP contract, bilateral trade $28B (2025)
-|- Tokayev's approach frames multi-vectorism as moving from diplomatic language to concrete project delivery. The aggregate deal pipeline across all vectors exceeds **$60B** in 2025-2026.
+||- Tokayev's approach frames multi-vectorism as moving from diplomatic language to concrete project delivery. The aggregate deal pipeline across all vectors exceeds **$60B** in 2025-2026.
+|
+|## Yuan QR payment internationalization — new retail dimension (Sept 2026)
+||- Cross-border QR payment system with China launching end-2026 — yuan internationalization extends to retail level in Kazakhstan.
+||- Builds on Kaspi.kz-Alipay partnership (2024). NBK Deputy Gov Zhalenov: 11 more countries to link from mid-2027.
+||- Yuan share at 3.1% of global payments (5th, SWIFT June 2026). CIPS annual volume CNY 180T (~$26.8T).
+||- For multi-vectorism: adds a **financial infrastructure** dimension — Kazakhstan becomes the test case for China's retail yuan strategy in Central Asia, creating new dependencies alongside the real economic benefits.
+||
+|## SCSP framework: redefining success in multi-vector competition (Oct 2026)
+||- SCSP analysis by Yeva Grigoryan argues US should measure competition success not by deal values or announcements but by: diversification of critical systems, infrastructure resilience, institutional integration (C5+1), trusted adoption of transparent procurement.
+||- **Four-powers framework:** Russia as spoiler (leverage over physical infrastructure, not tech); EU as regulatory heavyweight (Global Gateway, CRM); China's integrated infrastructure advantage (85% rail, Digital Silk Road); US opening through established sectors (tungsten, C5+1, Orion consortium).
+||- Core insight: **Kazakhstan is building options, not alignment** — it seeks diversification from all powers simultaneously. Multi-vectorism succeeds when no single power becomes a point of coercive dependency.
+||- Applies the framework to four infrastructure layers: energy (Rosatom+CNNC control), water (45% transboundary from China), transit (Russian CPC dependency), connectivity (Huawei/ZTE telecom hardware).

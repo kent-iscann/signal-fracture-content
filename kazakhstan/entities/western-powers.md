@@ -119,3 +119,12 @@ Western powers are cautiously increasing engagement with Kazakhstan, viewing it 
 |- **Merz invited** to Kazakhstan for state visit in 2027 (35th anniversary of diplomatic relations).
 |- **Munich leg:** Visited Bavaria for tech/manufacturing cooperation. Kazakhstan-Bavarian Technology Forum.
 |- **Strategic significance:** Represents the Germany/Europe pillar of multi-vector balancing — adding European technology, standards, dual education models alongside Russia/China ties. EU capital vs BRI infrastructure competition over investment direction.
+|
+|## Evolution of KZ-Germany Ukraine war dialogue (Oct 2026 analysis)
+||- Eldaniz Gusseinov (Astana Times, Oct 6) traces **three-stage evolution** of KZ-Germany diplomatic dialogue on Ukraine:
+||  - **2023 (Scholz):** Tokayev confirmed sanctions compliance; Germany gained reliable oil supplier. Kazakh oil began flowing to Schwedt refinery via Russian pipelines.
+||  - **2024 (Scholz visit to Astana):** Tokayev stated Russia is militarily invincible, endorsed Chinese-Brazilian peace plan. Joint press conference cancelled. Economic agenda unaffected.
+||  - **2026 (Merz):** Tokayev dropped "Russian invincibility" formula but said quick peace unrealistic. Proposed freezing hostilities then diplomacy. Called Putin "most acceptable political figure." Joint briefing held without cancelling — sign of bilateral maturity.
+||- **Druzhba pipeline:** Oil transit to Germany suspended May 1, 2026 — 2.1M tonnes had shipped to Schwedt in 2025, 3M planned for 2026. Overall KZ supplied Germany >10M tonnes in 2025 — most via Russian territory.
+||- **Two-track model:** War differences no longer slow economic agenda. 37 bilateral projects worth **€1.8B** continue in industry, raw materials processing, energy, logistics. Linde-Qarmet air separation unit in Temirtau, railway wheels export deal.
+||- Tokayev offered Berlin a joint value chain from geological exploration to component manufacturing and recycling, plus shared investment platform.

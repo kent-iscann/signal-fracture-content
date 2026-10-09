@@ -86,7 +86,12 @@
 |- **China Investment Forum (Sept 25, 2026):** 50 commercial documents worth $8.2B signed covering energy, aluminum, automotive, fertilizers. Mutqi-vector deal pipeline (Trend.az data): China $15B+ (July) + $8.2B, South Korea $19B (Sept), US $17B (Nov 2025), EU $12B+ (June), Germany ~$2B (Sept) — aggregate >$60B.
 |- **Higgsfield AI milestone (Oct 2026):** $400M Series B at $5.4B valuation (DST Global-led). Three Y Combinator startups (Nozomio $6.2M, Leaping AI $4.7M, Hillclimb). Kazakh-rooted US startups >$214M total.
 |- **Oil route diversification data (Jan-Aug 2026):** Atasu-Alashankou 863K tons (+24%), BTC 1M tons (+12%), Aktau port 2.4M tons (+6%), KazTransOil total 31.9M tons (+4%).
-|- **KIOGE 2026:** 500+ companies from 62 countries (Sept 30-Oct 2, Almaty). KMG managing 65 mature fields (~70% depleted).
+89||- **KIOGE 2026:** 500+ companies from 62 countries (Sept 30-Oct 2, Almaty). KMG managing 65 mature fields (~70% depleted).
+90||- **Startup Landscape 2026 (Oct 3):** First national study — 1,500+ startups (5x since 2020), VC forecast >$460M, 82% use AI. IT services exports $1.1B (2025, up from $35M in 2020). 40% of scaling companies have paying foreign customers.
+91||- **KZ-Germany diplomatic evolution (Oct 6):** Eldaniz Gusseinov traces 3-stage dialogue (2023/2024/2026) on Ukraine. Druzhba pipeline KZ→Germany suspended May 1, 2026 — 2.1M tonnes to Schwedt in 2025. Two-track model: war differences don't slow economic agenda.
+92||- **Yuan QR payments (Sept 2026):** Cross-border QR system launching end-2026 — yuan internationalization reaches retail level. 11,000+ Chinese-capital enterprises in Central Asia ($36B).
+93||- **$155.8B FDI gross inflows (2019-2025):** 625 new industrial enterprises (62K jobs), 800K vehicles, 36,300km roads. S&P BBB upgrade (Aug 2026). R&D KZT 42.3B→252.5B. External debt/GDP 83.1%→59.4%.
+94||- **SCSP framework (Oct 2026):** Yeva Grigoryan — measure tech competition success through diversification, resilience, institutional integration, trusted adoption. Four-powers: Russia spoiler, EU regulatory, China infrastructure, US established sectors.
 |- KazISS (Mussabekova): BRI-SCO synergy operational framework — new source type (Kazakh official think tank in Chinese media)
 |- Hudson Institute (Moriyasu): "Connector state" framework — Kazakhstan should move beyond raw resource export to processing, computing infrastructure, higher-value components
 |- Route redundancy hierarchy: Middle Corridor > Afghanistan > CPC > Iran (Moriyasu assessment, Aug 2026)

@@ -1,6 +1,6 @@
 # Kazakhstan — Global Competitiveness Wiki Index
 
-> Content catalog. Last updated: 2026-10-02 | Total pages: 11 | Total sources: 111 | Watch Reports: 4
+> Content catalog. Last updated: 2026-10-09 | Total pages: 11 | Total sources: 116 | Watch Reports: 4
 
 ## Timelines
 - [[kazakhstan-timeline]] — Chronological overview of Kazakhstan's economic evolution from independence to present

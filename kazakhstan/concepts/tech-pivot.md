@@ -123,3 +123,18 @@ The tech pivot is real but nascent. Kazakhstan has made significant progress in 
 |- **Kazakh-rooted US-focused startups** raised >**$214M** total (RISE Research).
 |- **Golden Gate Ventures** (Singapore) opening Tashkent office for 2-year program for 20 Central Asian startup founders.
 |- Sub-venture market remains small and concentrated: Higgsfield + Uzum accounted for 61% of $320M regional VC in 2025.
+|
+|## Startup Landscape 2026 — first national study (Oct 3, 2026)
+||- RISE Research / Astana Hub: first national study covering **1,500+ Kazakhstani startups** (up from ~300 in 2020 — 5x growth). Presented at AI & Digital Bridge 2026.
+||- **Venture funding forecast** to exceed **$460M in 2026** (up from $20M in 2020 — 23x growth). More than 200 companies have raised VC, 45 above $1M.
+||- **82% of surveyed companies** use AI in their products (30% as core, 52% as feature). 76% of revenue-generating startups earned first income within a year.
+||- **IT services exports** grew from $35M (2020) to **$1.1B** (2025).
+||- **40% of scaling companies** already have paying customers abroad (vs 16% early-stage). International market access is the next frontier, not early funding.
+||- Qualitative finding: "The technology itself is no longer an exclusive advantage. Today the market pays for proven returns and reliability."
+||- Digital Qazaqstan targets at least **3 unicorns** in global markets by 2029.
+|
+|## SCSP tech competition framework (Oct 2026)
+||- Yeva Grigoryan / Special Competitive Studies Project (SCSP): framework for measuring US success in Kazakhstan's tech competition.
+||- **Four-powers analysis:** Russia as spoiler (leverage over CPC/uranium, not tech); EU as regulatory heavyweight (Global Gateway, CRM partnerships); China's integrated infrastructure advantage (85% rail traffic, Digital Silk Road, Huawei, CATL); US opening through established sectors (tungsten JV, C5+1).
+||- **Kazakhstan building options, not alignment:** Signed Pax Silica (US) and WAICO (China) in same season. Seeking diversification of energy, water, transit, and connectivity infrastructure.
+||- **Washington should measure success by:** (1) diversification of critical systems, (2) infrastructure resilience, (3) institutional integration (C5+1), (4) trusted adoption of transparent procurement — not announced investment value or MoUs.

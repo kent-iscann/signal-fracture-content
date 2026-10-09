@@ -102,4 +102,6 @@
 ||- **Sept 25:** Kazakhstan-China Investment Forum in Almaty — 50 commercial documents worth $8.2B signed.
 ||- **Sept 28-30:** Tokayev state visit to Germany (Berlin/Munich) — ~30 agreements worth ~$2B, 37 projects worth €1.8B. Handelsblatt op-ed. KZ-Germany trade $4.5B.
 ||- **Sept 30-Oct 2:** KIOGE 2026 in Almaty (500+ companies, 62 countries). UAE Energy Minister urges multiple export routes. KMG managing 65 mature fields.
-||- **Oct 1:** Times of Central Asia reports Central Asian startup ecosystem milestones: Higgsfield $400M Series B, Y Combinator startups, Nace.AI $26.5M.
+|||- **Oct 1:** Times of Central Asia reports Central Asian startup ecosystem milestones: Higgsfield $400M Series B, Y Combinator startups, Nace.AI $26.5M.
+|||- **Oct 3:** RISE / Astana Hub publish Kazakhstan Startup Landscape 2026 — first national study (1,500+ startups, 5x since 2020). VC forecast >$460M. 82% use AI.
+|||- **Oct 6:** Eldaniz Gusseinov analysis traces 3-stage evolution of KZ-Germany Ukraine dialogue. Druzhba pipeline transit to Germany suspended May 1. Tokayev's "Berlin formula" — two-track model where war differences don't slow economic agenda. Tokayev called Putin "most acceptable political figure."
