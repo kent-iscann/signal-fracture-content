@@ -1,6 +1,6 @@
 # Armenia-Azerbaijan Peace Process: Structural Notes
 
-## The Sequential Condition Chain (as of May 2026)
+## The Sequential Condition Chain (as of October 2026)
 
 The peace process between Armenia and Azerbaijan operates on an explicit sequential condition model, publicly outlined by Azerbaijani Ambassador to Turkey Rashad Mammadov (May 19, 2026):
 
@@ -134,7 +134,25 @@ As of Republic Day 2026, Pashinyan announced:
 || Russian gas cutoff duration/pattern | Whether Sep 15-25 cutoff is repeated or extended; Gazprom pricing decision December 2026 | Official/industry |
 || TRIPP construction timeline | Bayramov's 2027 target; any formal US/Armenia confirmation | Official/diplomatic |
 || C5+1 outcome (mid-Oct 2026) | Rubio-led delegation to Uzbekistan; new connectivity/commercial announcements | Official/diplomatic |
-|| Border delimitation field work start | Whether northern tripoint section begins in Q4 2026; specific settlements addressed | Official/OSINT |
+||- **Border delimitation field work start** | Whether northern tripoint section begins in Q4 2026; specific settlements addressed | Official/OSINT |
+||- **Pashinyan-Aliyev CIS summit** | Informal contact in Ashgabat Oct 8-9; whether formal meeting follows | Official/diplomatic |
+||- **TRIPP ratification timeline** | Parliament submission expected late October 2026; charter negotiations near completion | Official |
+||- **"Putin's Route" proposal** | Russia's Black Sea railway/road concept linking Russia-Georgia-Armenia — whether it gains traction or is rejected | Diplomatic/media |
+
+## Key Recent Developments (Oct 2026)
+
+||- **Medvedev threatens "Ukrainisation" of Armenia (Oct 4):** Russian Security Council Deputy Chair Dmitry Medvedev warned Armenia against EU course: "The worst thing that could happen to Armenia is for it to turn into a new Ukraine." Pashinyan rejected the threat (Oct 8-9), citing CSTO's failure to defend Armenia in 2021-2022 and retorting: "One could also say Armenia should not suddenly become a new Russia, because explosions are being heard in various places in Russia."
+||- **Pashinyan nuclear plant u-turn (Oct 1):** After Rosatom CEO Likhachev's Yerevan visit, Pashinyan shifted from preference for US small modular reactors toward Russian VVER-1000 technology, citing AI data center energy demand requiring larger capacity. A day earlier, Russia Security Council's Shevtsov assailed TRIPP as a US "state within a state."
+||- **Mirzoyan in Tehran — Iran "satisfied" with TRIPP (Oct 5-8):** Mirzoyan visited Tehran, met Pezeshkian, Ghalibaf, and Araghchi. On return, told parliament Iran is "satisfied" with entire TRIPP process — transparency, readiness to discuss all questions, and economic opportunities for Iran. Armenia negotiating comprehensive strategic partnership document with Iran.
+||- **Pashinyan-Aliyev informal contact at CIS summit (Oct 8-9):** Leaders attended CIS heads of state council in Turkmenistan. Pashinyan confirmed informal contact with Aliyev but said no formal meeting was planned. Both in same venue for two days.
+||- **"Putin's Route" concept emerges (early Oct 2026):** Russia proposed a railway/road link along the Black Sea coast connecting Russia, Georgia, and Armenia, provisionally dubbed "Putin's Route." Framed as counterbalance to TRIPP and Crossroads of Peace. Moscow testing Armenian and Georgian reactions. Suren Sargsyan analysis in Mirror-Spectator.
+||- **TRIPP ratification timeline clarified (Oct 10):** Deputy FM Kostanyan told CIVILNET: TRIPP international agreement expected in parliament late October; feasibility studies by year-end; preliminary ground work end 2026 or early 2027. No US military presence "has not been planned, is not being planned and will not be planned."
+||- **Azerbaijani soldier crosses border, shoots woman in Syunik (Oct 1):** Azerbaijani serviceman Nasimi Musayev illegally crossed into Armenia's Syunik province, shot a local woman. Armenia detained him, brought charges under five criminal code articles. Pashinyan stressed it's an "ordinary crime," not a threat to peace process.
+||- **Turkey-Azerbaijan public spat (Oct 2026):** First significant public divergence between Ankara and Baku over hijab ban in Azerbaijani schools, Azerbaijan's Israel ties. Turkish religious figures protested outside Azerbaijani consulate in Istanbul, questioning "one nation, two states" narrative. OC Media detailed analysis.
+||- **Ex-German BND chief arrested over Azerbaijani intelligence links (Oct 7):** August Hanning (80, former BND chief 1998-2005) and former chief of staff Manfred D. arrested on suspicion of passing ~2,000 classified documents to Azerbaijani intelligence service over 12 years. Documents included material on Iran's nuclear program and Russian military.
+||- **EU Commission's Kos: Armenia closest of all countries to EU (Oct 7):** EU Commissioner Marta Kos stated Armenia is "really moving a lot toward the European Union" and is the only country with which the EU is negotiating visa liberalization.
+||- **Pashinyan at CIS summit declares peace established (Oct 9):** Pashinyan stated peace with Azerbaijan is an "established reality" based on Alma-Ata Declaration. Noted 2.5 years without border casualties, Azerbaijani railway open to Armenian cargo, bilateral trade begun, 12km border delimitation. Unresolved: missing persons (1,000+), demining, Armenian detainees in Baku.
+||- **Goris meeting on TRIPP power lines (Oct 9):** Azerbaijani and Armenian delegations met in Goris to discuss constructing power transmission lines as part of TRIPP. Aliyev previously said Azerbaijan could supply Armenia with electricity; power line to Nakhchivan could take 6 months. Armenia also discussing Gyumri-Kars power line restoration with Turkey.
 
 |- **EU Council backs two-year trade boost (Sep 5):** Council approved temporary trade-liberalization measures removing import duties on ~80% of Armenian exports (duty-free access for ~99% fresh fruit/veg, ~91% beverages/spirits) for two years. EP expected to adopt in September plenary. Expands on von der Leyen's July 2 announcement of autonomous trade measures.
 |- **TRIPP feasibility study timeline (Sep 5):** Armenian Ambassador Mkrtchyan tells Semafor TRIPP feasibility study expected by end 2026, construction could begin early 2027. US committed ~$201M with $1.5B estimated economic development. Armenia comfortable with US's 74% stake.

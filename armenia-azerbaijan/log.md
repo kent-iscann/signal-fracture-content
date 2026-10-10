@@ -262,3 +262,20 @@
 |- **Source 174:** [Mirror-Spectator] Suren Sargsyan — Azerbaijan benefits from delaying peace treaty to extract maximum concessions; TRIPP doesn't guarantee signing; Russian railway concession and Iran-US war remain obstacles
 |- **Source 175:** [OC Media/Mirror-Spectator] Armenia denies conceding land near Berdavan in Tavush during demarcation — Defense Ministry calls claims "another fabrication"
 |- **Files updated:** sources.md (168→175), index.md (168→175), log.md
+
+## 2026-10-10 - Weekly Source Update
+- **New sources:** 13
+- **Source 176:** [Caucasian Knot] Pashinyan at Armenia-British business forum — expects Turkey border opening and railway communication with Azerbaijan/Turkey alongside TRIPP development
+- **Source 177:** [Mirror-Spectator] Suren Sargsyan analysis of Russia's "Putin's Route" proposal — Black Sea railway/road linking Russia-Georgia-Armenia to counterbalance TRIPP
+- **Source 178:** [OC Media] Explainer on Turkey-Azerbaijan spat over hijab ban, Israel ties, and unequal power dynamics straining "one nation, two states" narrative
+- **Source 179:** [JAMnews] Former BND chief August Hanning arrested for passing ~2,000 classified documents to Azerbaijani intelligence over 12 years
+- **Source 180:** [Eurasianet] Russia's intimidation campaign — Medvedev's "new Ukraine" threat; Pashinyan's nuclear plant u-turn toward Rosatom VVER-1000
+- **Source 181:** [OC Media] Mirzoyan: Iran is "satisfied" with entire TRIPP process after Tehran visit; transparency and economic opportunities cited
+- **Source 182:** [JAMnews] Pashinyan briefing — no extradition for Azerbaijani soldier who shot woman in Syunik; informal Aliyev contact at CIS summit; Medvedev threat dismissed
+- **Source 183:** [OC Media] Goris meeting on TRIPP power transmission lines; Pashinyan reconsidering nuclear reactor size for AI data center demand
+- **Source 184:** [OC Media] Pashinyan pushes back against Medvedev's "new Ukraine" threat citing CSTO's 2022 inaction
+- **Source 185:** [Eurasianet/CAC Analyst] Why TRIPP is stalled — external obstacles: Iran security concerns and Russia's railway concession ($400M) require US-Iran and US-Russia agreements
+- **Source 186:** [MassisPost] Pashinyan at CIS summit declares peace established reality; 2.5 years without casualties; unresolved humanitarian issues
+- **Source 187:** [CIVILNET] Deputy FM Kostanyan: no US military presence in TRIPP; ratification expected late October; feasibility studies by year-end
+- **Source 188:** [JAMnews] Analyst Surenyants: Aliyev's tougher rhetoric signals dissatisfaction; Baku may be hurried by growing Iranian factor
+- **Files updated:** sources.md (175→188), index.md, log.md
