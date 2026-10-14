@@ -127,6 +127,8 @@
 - **Financial data precision:** AidData's $22B figure is authoritative. Avoid citing rounded figures from news articles that derive from the same AidData report.
 - **BRICS/G7 coverage overlap:** BRICS coordination stories (Source 25) and G7 de-risking coverage frequently overlap. Check if the BRICS angle adds genuinely new institutional context beyond the G7 target announcement.
 - **Zimbabwe lithium boom coverage:** Al Jazeera (Source 24), Business Insider (Source 3), MarketScreener (Source 10), and local Zimbabwe outlets (Herald, Mining Zimbabwe) all cover the lithium sector. Compare specific data points (Q1 revenue, Bikita timeline, Sandawana partnerships) — prefer the source with the most granular data.
+- **Reuters-via-Mining.com aggregation:** Zimbabwere lithium earnings figures (Source 87) originate from Reuters and may be republished identically across Mining.com, Miningweekly.com, and other aggregators. Check for identical data points ($2.16B, 283%, $190M lithium sulphate) before adding dupes.
+- **Wansom/Briefly premium content:** This is a paid-subscription analytical platform with original legal trade analysis. Content republished summararily on LinkedI or free sites is not a substitute. Prefer the original.
 - **CRS report vs media aggregation:** The CRS R49080 report data (Source 56) may appear republished across Legis1, SOF News, and other aggregators. The CRS report itself is the authoritative source; media write-ups are not new sources if they only re-cite the same data without original analysis.
 
 ## File Update Checklist (per source added)
