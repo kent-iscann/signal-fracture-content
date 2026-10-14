@@ -137,6 +137,11 @@
 ||- **IMF Board approval (Oct 2, 2026):** $1.9B 36-month EFF approved; $214M disbursed immediately; first multi-year IMF arrangement since 2006; Moody's upgrades to Caa2; country risk falls to 485 bps; fiscal surplus in H1 2026
 ||- **Hydrocarbon production crisis (Oct 2026):** Down 13.4% YoY; Cochabamba economy -4.15% contraction; worst economic crisis in 67 years per consulted economists (24EcoNews/El Deber)
 ||- **Official BOB/USD (Oct 5, 2026):** 12.05; boliviano weakening continues
+||- **Morales third legal front (Oct 12, 2026):** Preliminary investigation opened by Acting AG Urioste for 2009 Las Americas hotel killings (murder, abuse, torture, unlawful detention) — third active legal front alongside human trafficking and armed insurrection/terrorism
+||- **Mariaca purge chain (Oct 13, 2026):** La Paz coordinating prosecutor Armando Rojas arrested; also investigating fiscal superior Martín Irusta, Santa Cruz fiscal Alberto Zeballos, police major Rubén Aparicio
+||- **Evista march postponement (Oct 13, 2026):** Morales-aligned groups postpone Oct 13 march to new start Oct 16 from Patacamaya, arriving La Paz Oct 19 — signals coordination difficulties
+||- **Santa Cruz Oct 10 deadline:** Passed without mass escalation; government offered partial fuel concessions; phased street pressure begins
+||- **Shield of the Americas test:** Fox News exclusive — Justiniano confirms preventive troop deployments nationwide
 
 ## Prediction History
 | Date | Probability | Δ | Key Driver |
