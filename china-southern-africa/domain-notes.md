@@ -101,6 +101,9 @@
 - **Shenghe Resources** building Mineral Separation Plant in Pangani, Tanzania — regional processing hub for Africa, processing raw materials from Mozambique, SA, Madagascar (Sep 2026)
 - **China-Africa Innovation Alliance on Mining and Metallurgy**: proposed SA-China research alliance for battery mineral processing, NMC precursors, AI-driven mineral separation (Sep 2026)
 - **Sinomine $2.8B total announced investment** in Zimbabwe lithium and energy; Bikita upgraded to 400,000t/yr spodumene; 100,000t/yr lithium sulphate plant by mid-2027 (Aug 2026)
+- **Chinese companies invested ~$2B in Zimbabwe's lithium sector since 2021** (Source 88, Oct 2026)
+- **Zimbabwe lithium export earnings: $2.16B in 9 months to Sep 2026** (nearly 4x total 2025); 283% spodumene price increase; $190M lithium sulphate exports from Huayou's Africa-first salt plant (Source 87, Oct 2026)
+- **Non-Chinese investor diversification in Zimbabwe:** Indian company LOHUM dispatches first lithium ore from Matabeleland South (Sep 9, 2026); ZIDA signs non-binding MoU with Invest Hong Kong for Asian capital referrals; Karo Platinum (Tharisa) signs 25-year special mining lease with 15% state free-carry (Aug 24, 2026) (Source 88, Oct 2026)
 - **Team Europe Global Gateway:** Two projects >R1B (EUR57.8M) for SA green hydrogen and minerals/battery value chains, EU/Germany/Denmark/Netherlands (Sep 2026)
 - **CSIS Congressional testimony (Baskaran, Sep 2026):** Africa's exploration spending fell from 16%→10%; Glencore 40% Mutanda/Kamoto sale to Orion CMC (backed by DFC/ADQ); AGOA lapsed 2025
 - **US DRC copper cathode imports hit record 53,290t in July 2026 (23.9% of US imports):** US Section 232 tariff (50%) on semi-finished copper reshapes trade; Congolese cathode gains US industrial acceptance (bne IntelliNews, Sep 2026)
