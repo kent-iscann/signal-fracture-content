@@ -201,4 +201,15 @@
 
 ### October 7, 2026
 |- **Kobakhidze promotes China economic ties** — PM announces exports to China +177% Jan-Aug; China #1 FDI ($236M) overtaking UK; 14 weekly flights; free trade talks with South Korea, Serbia, GCC. GD continues deepening China ties while diversifying trade partners.
-|- **Jamestown: Church dispute analysis** — Beka Chedia analyzes Kurmukh Church dispute, warns Baku's assertiveness since Nagorno-Karabakh victory could advance historical territorial claims given undelimited Georgia-Azerbaijan border.
+||- **Jamestown: Church dispute analysis** — Beka Chedia analyzes Kurmukh Church dispute, warns Baku's assertiveness since Nagorno-Karabakh victory could advance historical territorial claims given undelimited Georgia-Azerbaijan border.
+|
+|### October 9-13, 2026
+|- **Russia bans imports from 7 Georgian companies** — Rospotrebnadzor suspends imports from Teliani Valley, Tbilvino, Askaneli Brothers, Wineman, Georgian Beer Company, Coca-Cola Georgia, Nabeglavi. Moscow simultaneously demands Tbilisi guarantee non-use-of-force against Abkhazia/South Ossetia and agree to border demarcation. Experts link ban to GD's failure to meet Kremlin commitments, including possible rail link restoration through Abkhazia. Kobakhidze says government \"working on the issue,\" expresses hope Russia reverses decision. Directly undermines GD's claim that maintaining Russia ties protects Georgia's interests. (Source 109)
+|
+|### October 12-13, 2026
+|- **Vietnam's Vice President Võ Thị Ánh Xuân visits Tbilisi** — Meets Kobakhidze, Kavelashvili, Papuashvili. MoU on foreign ministry cooperation signed. Vietnam offers to serve as \"bridge between Georgia and Southeast Asia.\" Georgia opening embassy in Vietnam in 2027. Expands GD's Asian pivot beyond China. (Source 115)
+|
+|### October 13, 2026
+|- **Constitutional Court judge Manana Kobakhidze resigns** — GD founder, former MP quits after recusal request denied in party-ban lawsuit. GD now lacks 90 votes needed to replace her; 2 of 9 seats vacant. Third judge to depart since party ban lawsuit filed. (Source 110)
+|- **Venice Commission releases 24-page opinion on Georgia's March 2026 foreign funding restrictions** — Rejects GD's sovereignty-protection claim; finds amendments \"impose disproportionate and unnecessary restrictions on fundamental rights\" and undermine democratic pluralism. Criticizes lack of legislative deliberation. (Source 111)
+|- **Civil.ge publishes comprehensive analysis of GD's foreign policy alignment** — Authors Sirbiladze, Bezhanishvili & Danelia (TSU) identify three patterns: Westlessness, Russia security bandwagoning, transactional multi-alignment. Warns partisan foreign policy erodes Georgia's strategic autonomy. (Source 112)

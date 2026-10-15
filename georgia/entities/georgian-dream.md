@@ -107,5 +107,8 @@ SCEEUS Commentary no. 9 (June 23, 2026) analyzed the complete breakdown of once-
 - 66.2% of Ukrainians disapprove of Georgia's abandonment of European integration.
 - The new Hungarian PM Peter Magyar (replacing Orbán) is likely to be less supportive of GD in EU forums.
 
-## Timeline
-- **2026-08-04:** Kobakhidze publishes detailed social media post defending GD's Russia policy — argues opposition became anti-Russian only after 2022, not after 2008 war, accusing them of serving a "global war party." Claims UNM government itself promoted Russian tourism and investment after 2008.
+|## Timeline
+|- **2026-08-04:** Kobakhidze publishes detailed social media post defending GD's Russia policy — argues opposition became anti-Russian only after 2022, not after 2008 war, accusing them of serving a "global war party." Claims UNM government itself promoted Russian tourism and investment after 2008.
+|- **2026-09-15:** GD adds For Georgia (Gakharia's party) to constitutional court lawsuit seeking to ban all 4 major opposition parties — the only remaining parliamentary opposition.
+|- **2026-10-09:** Russia bans imports from 7 Georgian companies — directly undermines GD's claim that maintaining Russia ties protects Georgia's economic interests. Kobakhidze says government "working on the issue" as experts link ban to GD's failure to meet Kremlin commitments.
+|- **2026-10-13:** Constitutional Court judge Manana Kobakhidze (GD founder, former MP) resigns after recusal denied in party-ban case. GD may lack 90 votes needed to replace her; 2 of 9 seats now vacant. Third judge departure since party ban filed.

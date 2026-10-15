@@ -294,6 +294,17 @@
 - **Source 75:** JAMnews: Is Georgia expecting a new wave of Russian migrants? — Upper Lars data analyzed; Russian citizens 18% of property buyers (up from 13%); mobilization rumors persist.
 |- **Source 76:** JAMnews: Pashinyan-Putin Bishkek meeting — Putin argues EU/EAEU incompatibility, offers to remove Gyumri base; Pashinyan rejects referendum; Armenia-West pivot accelerates, reshaping Georgia's regional context.
 |- **Files updated:** sources.md (+8), index.md, timeline/georgia-timeline.md, log.md
+
+## 2026-10-15 - Weekly Source Update
+- **New sources:** 7 (109–115)
+- **Source 109:** JAMnews: New Russian trade ban on Georgian goods (Oct 13) — Russia bans imports from 7 major Georgian companies, demands non-use-of-force guarantee on Abkhazia/South Ossetia. Directly undermines GD's claim that maintaining Russia ties protects Georgia's interests. High-signal event.
+- **Source 110:** Civil.ge: Judge Manana Kobakhidze Quits Constitutional Court (Oct 13) — GD-founder judge resigns after recusal denied in party-ban case. GD may lack 90 votes to replace her; third judge departure since ban lawsuit filed.
+- **Source 111:** Civil.ge: Venice Commission Criticizes Foreign Funding Restrictions (Oct 13) — New 24-page opinion rejects GD sovereignty-protection claim, warns restrictions threaten democratic pluralism.
+- **Source 112:** Civil.ge: Is All Foreign Policy Local? — Comprehensive analytical framework on GD's alignment patterns (Westlessness, Russia bandwagoning, transactional multi-alignment). Warns partisan foreign policy erodes strategic autonomy.
+- **Source 113:** Jamestown: Georgia Backs Ukraine at UN While Bilateral Rift Persists (Oct 14) — Analysis of GD's balancing act: pro-Ukraine UN statements alongside anti-Western domestic rhetoric; no ambassador in Kyiv since 2023.
+- **Source 114:** ChinaObservers: Georgia's China Pivot — An Illusion of Alternatives? (Sep 30) — Chinese FDI dwindled $98M→$29M (2023→24); China only 4.6% FDI in Q1 2026; partnership is political signalling, not strategic depth.
+- **Source 115:** Civil.ge: Vietnam's Vice President Visits Georgia (Oct 13) — MoU signed, embassy opening 2027; expands Asian pivot beyond China to Southeast Asia.
+- **Files updated:** sources.md (+7), index.md, log.md
 |
 |## 2026-10-08 - Weekly Source Update
 |- **New sources:** 6 (103–108)

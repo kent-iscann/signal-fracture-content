@@ -31,6 +31,9 @@ A project for direct rail and road transit linking Russia, Georgia, and Armenia 
 ## Bottleneck strategy framework (Sep 2026)
 GEOpolitics analysis by Temuri Yakobashvili ("Choke, Don't Block") introduces the concept of Russia's "bottleneck strategy" in the South Caucasus. Russia's objective is not to block regional connectivity but to prevent it from becoming independent of Russian influence. Key instruments: control over gas transit pipelines (Gazprom Armenia supplies Armenia via Georgia), strategic infrastructure nodes, and the ability to slow/redirect/price access to corridors. Framework helps explain Russian policy in the Middle Corridor context: Russia benefits when alternatives remain sufficiently expensive, uncertain, or politically vulnerable that its own infrastructure retains leverage.
 
+## Russian trade ban on Georgian goods (Oct 2026)
+On October 9, 2026, Russia's Rospotrebnadzor banned imports from 7 major Georgian companies: Teliani Valley, Tbilvino, Askaneli Brothers, Wineman, Georgian Beer Company, Coca-Cola Georgia, and Nabeglavi. Moscow simultaneously demanded Tbilisi guarantee non-use-of-force against Abkhazia/South Ossetia and agree to border demarcation — treating occupied territories as independent states. Georgian experts linked the ban to GD's failure to meet Kremlin commitments, possibly including restoring rail links through Abkhazia. The ban directly undermines GD's claim that maintaining economic ties with Russia protects Georgia's interests — demonstrating that Moscow is willing to use economic coercion regardless of GD's accommodating posture. (Source 109)
+
 ## South Ossetia governance absorption (July 2026)
 In a qualitatively new phase of de facto annexation, Russia accelerated the administrative integration of South Ossetia:
 - **June 23, 2026:** De facto president Alan Gagloev resigned and was appointed as an adviser to Vladimir Putin.
