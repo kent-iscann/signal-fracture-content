@@ -257,3 +257,12 @@
 || **Source #70:** "Sri Lanka's Economic and Geopolitical Balancing Act" — Carnegie Endowment, Avinash Paliwal (October 6, 2026). JVP politburo power structure, China vs India development footprints, Cyclone Ditwah aid disparity ($1M vs $450M).
 || **Files updated:** sources.md, index.md, timeline/china-sri-lanka-timeline.md, log.md, domain-notes.md
 || **Total sources**: 67 → 70
+|
+|## 2026-10-15 - Weekly Source Update | 4 new sources (Fitch B- upgrade, World Bank SLDU, IMF successor signal, China-Sri Lanka FTA analysis)
+|| **New sources:** 4
+||| **Source #71:** "Debt reset nears finish, but $4 bn repayment storm looms" — Sunday Times (October 11, 2026). Fitch upgrades Sri Lanka to B- with Stable Outlook — first post-default upgrade. Macro-Linked Bonds (MLBs) with GDP-linked payoff structure maturing 2040. Harsha de Silva warns Fitch upgrade does not guarantee market access, urges proactive MLB buyback saving $300-400M. Treasury confirms 93.5% of domestic ops were banking roll-overs, external cash outflow $530M. Key forward-looking debt management analysis.
+||| **Source #72:** "Sri Lanka Development Update, October 2026: From Recovery to Transformation" — World Bank Group (October 6, 2026). Real GDP returned to pre-crisis (2018) levels; economy expanded 4.7% in H1 2026, 12 consecutive quarters. Projected 4.4% (2026) and 4.2% (2027). Poverty at 16.9% (2025), above pre-crisis. Special focus on agribusiness. World Bank Country Manager Gevorg Sargsyan: "a beginning, not the end."
+||| **Source #73:** "IMF stands ready to support Sri Lanka as economy improves, debt restructuring nears completion" — Reuters / The Economic Times (October 2026). IMF Asia-Pacific Deputy Director Sonali Jain-Chandra signals IMF will engage on a new financial arrangement beyond the EFF (expires March 2027). First explicit IMF signal of successor financing arrangement.
+||| **Source #74:** "Beyond Isolation: Why 2027 Is the Moment for a China-Sri Lanka FTA" — Colombo Wire (October 2026). Analytical piece making case for FTA timed to 2027 anniversaries (75th Rubber-Rice Pact, 70th diplomatic). FTA talks began 2014, stalled 2017, restarted 2023. World Bank simulation: FTA could increase exports 24.2%. China signed 24 FTAs globally.
+|| **Files updated:** sources.md, index.md, timeline/china-sri-lanka-timeline.md, log.md
+|| **Total sources**: 70 → 74

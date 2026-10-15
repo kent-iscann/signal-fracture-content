@@ -1,7 +1,7 @@
 ---
 title: Timeline of China-Sri Lanka Financial Relations
 created: 2026-05-20
-updated: 2026-10-08
+updated: 2026-10-15
 type: timeline
 tags: [timeline, debt, infrastructure, diplomacy, politics, economics]
 sources: [raw/papers/cari-chinese-lending-sri-lanka-2022.md, raw/papers/hkust-debt-trap-myth-sri-lanka-2019.md, raw/articles/jamestown-bri-blowback-sri-lanka-2022.md]
@@ -240,6 +240,11 @@ Ambassador Wei Huaxiang addressed diplomats, political leaders, and guests at th
 ### October 4, 2026 -- IMF Reaches Staff-Level Agreement on Seventh EFF Review with Sri Lanka (PR26/318)
 |IMF staff and Sri Lankan authorities reached staff-level agreement on the Seventh Review under the Extended Fund Facility, concluding discussions during the September 10-23, 2026 mission led by Evan Papageorgiou. The agreement is contingent on Executive Board approval, which requires (i) presentation of the 2027 Budget to Parliament and (ii) completion of financing assurances review. Sri Lanka would access SDR 254M (~US$345 million), bringing total IMF disbursements to SDR 2.032B (~US$2.7 billion). Key data: Q2 2026 GDP growth 4.2% y/y (11th consecutive quarter of expansion); headline inflation 8% y/y (September); gross official reserves US$6.9 billion (end-August 2026); banks well capitalized; H1 2026 fiscal outturn strong. Debt restructuring "largely completed." Downside risks persist from the Middle East war, global trade policy, and El Nino. IMF criticized the government's diesel subsidy reintroduction and urged continuation of cost-recovery energy pricing. The Article IV Consultation discussions were also concluded alongside the review. Represents the institutional follow-through on the 7th Review first announced as scheduled for fall 2026 (June 2026 IMF staff visit).^[IMF Press Release PR26/318, October 4, 2026]
 
+### October 6, 2026 -- World Bank: Sri Lanka Returns to Pre-Crisis GDP Levels (October 2026 Development Update)
+||The World Bank's twice-yearly Sri Lanka Development Update (SLDU), "From Recovery to Transformation," reports that Sri Lanka's real GDP has returned to pre-crisis (2018) levels — a major milestone. Key data: economy expanded 4.7% in H1 2026 (12 consecutive quarters of growth); projected 4.4% in 2026 and 4.2% in 2027; primary budget surplus rose sharply; poverty 16.9% in 2025 (well above pre-crisis). The report argues recovery must shift from government spending toward private investment, exports, and productivity. World Bank Country Manager Gevorg Sargsyan described the upper-middle-income reclassification as "a beginning, not the end." Special focus on agribusiness (one-sixth of GDP, >40% of employment).^[World Bank SLDU, October 6, 2026]
+
+### October 11, 2026 -- Fitch Upgrades Sri Lanka to B- with Stable Outlook; Post-Restructuring Framework Finalized
+||The Sunday Times reports the finalization of Sri Lanka's external debt restructuring and the resumption of normalized debt servicing. Fitch Ratings revised Sri Lanka's sovereign credit rating to B- with a Stable Outlook — the first post-default upgrade since exiting restricted default. The restructured commercial bonds use Macro-Linked Bonds (MLBs) with an adaptive payoff structure tied to Sri Lanka's average GDP between 2025-2027, plus a secondary tier cutting the bond coupon by 75 bps (~$80M in savings). The instruments become fixed plain-vanilla bonds by 2027/2028, maturing in 2040. Dr. Harsha de Silva warned the Fitch upgrade does not guarantee automatic capital market access and urged a proactive buyback of MLBs that could save $300-400M over ten years. Official Treasury data: 93.5% of early 2026 domestic operations were local banking system roll-overs, with actual external liquid cash outflows at $530M.^[Sunday Times, October 11, 2026]
 ### October 6, 2026 -- Carnegie Endowment: Comprehensive Analysis of Sri Lanka's Post-Crisis Balancing Act
 |Avinash Paliwal (Nonresident Scholar, Carnegie South Asia Program / SOAS) published a comprehensive analysis of Sri Lanka's post-crisis political economy and foreign policy under the NPP government. Key findings: JVP politburo led by Tilvin Silva operates as a parallel power center to President Dissanayake, raising concerns about potential one-party state trajectory if economic conditions deteriorate. China provided only US$1M + RMB 1M in Cyclone Ditwah relief versus India's $450M package. Sri Lanka refused Shi Yan 6 entry in March 2026; Chinese research vessel visits indefinitely paused. China's developmental footprint concentrated in southern Sinhala regions (capital-intensive mega-projects); India's $7.5B assistance geographically dispersed and people-centered in the north. Analysis concludes another economic crisis would push Colombo further toward India.^[Carnegie Endowment, October 6, 2026]
 
@@ -301,6 +306,11 @@ Ambassador Wei Huaxiang addressed diplomats, political leaders, and guests at th
 |||||| **Hambantota container throughput (2025)** | **428,036 TEU** | **WorldCargo News, Oct 2026** |
 |||||| **Hambantota container throughput (2026 YTD)** | **574,196 TEU** | **WorldCargo News, Oct 2026** |
 |||||| **Hambantota cumulative container throughput** | **>1 million TEU** | **WorldCargo News, Oct 2026** |
-|||||| **Hambantota Phase II expansion investment** | **US$108 million** | **WorldCargo News, Oct 2026** |
+||||||| **Hambantota Phase II expansion investment** | **US$108 million** | **WorldCargo News, Oct 2026** |
+|||||||| **H1 2026 GDP growth** | **4.7%** | **World Bank SLDU, Oct 2026** |
+|||||||| **Poverty rate (2025)** | **16.9%** | **World Bank SLDU, Oct 2026** |
+|||||||| **Projected GDP growth (2026)** | **4.4%** | **World Bank SLDU, Oct 2026** |
+|||||||| **Projected GDP growth (2027)** | **4.2%** | **World Bank SLDU, Oct 2026** |
+|||||||| **Fitch sovereign credit rating (Oct 2026)** | **B- / Stable Outlook** | **Sunday Times / Fitch, Oct 2026** |
 
 See also: [[debt-trap-debate]], [[hambantota-port]], [[belt-and-road-initiative]], [[key-conclusions]]

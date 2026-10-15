@@ -1,6 +1,6 @@
 # Sources
 
-| Total sources: 70 | Last updated: 2026-10-08 |
+| Total sources: 74 | Last updated: 2026-10-15 |
 
 ## Debt and Lending
 
@@ -420,3 +420,32 @@
 67. "Sri Lanka, China discuss public administration reforms, disaster response and clean water" -- Ada Derana (September 29, 2026)
     https://adaderana.lk/news/cmumh7b7f0005356o6h2m2jcw
     Ambassador Wei Huaxiang met Public Administration, Provincial Councils and Local Government Minister Prof. Chandana Abayarathna on September 29, 2026 to discuss expanded bilateral cooperation in public administration reform, local government capacity building, disaster management, AI-based early warning systems, and clean drinking water infrastructure. China proposed establishing a specialized capacity-building programme for Sri Lankan provincial and local government officials and an AI-powered early warning system for weather-related disasters, with Chinese companies including Huawei providing technical assistance and emergency relief. Wei emphasized that Chinese aid and cooperation has never been subject to political conditions and this policy would remain unchanged. Represents a significant expansion of China-Sri Lanka bilateral engagement beyond traditional infrastructure and trade into governance, public sector reform, and technology cooperation.
+
+---
+
+## Post-Crisis Recovery & International Recognition
+
+71. "Debt reset nears finish, but $4 bn repayment storm looms" -- Sunday Times (October 11, 2026)
+    https://www.sundaytimes.lk/261011/business-times/debt-reset-nears-finish-but-4-bn-repayment-storm-looms-660330.html
+    By Bandula Sirimanna. Reports on the finalization of Sri Lanka's external debt restructuring and the resumption of normalized debt servicing. Key new data: Fitch Ratings revised Sri Lanka's sovereign credit rating to B- with a Stable Outlook — the first post-default upgrade since exiting restricted default. The restructured commercial bonds use Macro-Linked Bonds (MLBs) with an adaptive payoff structure tied to Sri Lanka's average GDP between 2025-2027, plus a secondary tier cutting the bond coupon by 75 bps (generating ~$80M in interest savings). The instruments become fixed plain-vanilla bonds by 2027/2028, maturing in 2040. Dr. Harsha de Silva (CoPF Chairman) warned that the Fitch upgrade does not guarantee automatic international capital market access and urged a proactive buyback of MLBs that could save $300-400M over ten years. Official Treasury data confirmed 93.5% of early 2026 domestic operations were local banking system roll-overs, keeping actual external liquid cash outflows at $530M. Represents the first comprehensive post-restructuring debt management analysis from a Sri Lankan perspective, capturing the Fitch B- upgrade, MLB mechanics, and the forward-looking debt management strategy debate.
+
+72. "Sri Lanka Development Update, October 2026: From Recovery to Transformation" -- World Bank Group (October 6, 2026)
+    https://www.worldbank.org/en/country/srilanka/publication/development-update
+    Press Release: https://www.worldbank.org/en/news/press-release/2026/10/02/sri-lanka-s-economy-reaches-pre-crisis-levels-but-recovery-uneven
+    The twice-yearly World Bank Development Update reporting that Sri Lanka's real GDP has returned to pre-crisis (2018) levels — a major milestone. The economy expanded by 4.7% in the first half of 2026, marking twelve consecutive quarters of growth, driven by industrial activity, investment growth, and resilient services. Growth is projected at 4.4% in 2026 and 4.2% in 2027. Fiscal performance significantly exceeded expectations, with the primary budget surplus rising sharply. However, the recovery remains incomplete and uneven: poverty is estimated at 16.9% in 2025 (well above pre-crisis levels), labor market indicators continue to lag, and renewed inflationary pressures have partially eroded household welfare gains. A special focus examines how agribusiness (contributing one-sixth of GDP, >40% of employment, and nearly one-third of merchandise exports) can drive the next phase of growth. The report argues moving from recovery to transformation requires shifting the growth model toward private investment, exports, and productivity growth. World Bank Country Manager Gevorg Sargsyan described the upper-middle-income reclassification as "a beginning, not the end." Complements the World Bank's July 2026 reclassification (Sources #43-44) with a broader macro-fiscal assessment of the recovery.
+
+---
+
+## IMF Program & Recent Assessments
+
+73. "IMF stands ready to support Sri Lanka as economy improves, debt restructuring nears completion" -- Reuters / The Economic Times (October 2026)
+    https://m.economictimes.com/news/international/business/imf-stands-ready-to-support-sri-lanka-as-economy-improves-debt-restructuring-nears-completion/articleshow/134957288.cms
+    Sonali Jain-Chandra, Deputy Director of the IMF's Asia and Pacific Department, stated at a press conference during the IMF/World Bank annual meetings in Bangkok that the IMF stands ready to support Sri Lanka "in any way they desired, as appropriate." Sri Lanka's macroeconomic situation is "much improved" with fiscal performance very strong and debt restructuring largely complete. The staff-level agreement on the Seventh EFF Review (Source #68, PR26/318) will be considered by the IMF Board "in the coming weeks" and will be followed by another review mission before the program expires in March 2027. Beyond the current program, the IMF will continue to engage with Sri Lanka's authorities through a new financial arrangement and policy advice in the form of surveillance or capacity development. This is the first explicit IMF signal of a successor financing arrangement beyond the current EFF, which expires March 2027 — a forward-looking institutional indicator of the post-program relationship between Sri Lanka and the IMF.
+
+---
+
+## Diplomatic Engagement & Trade
+
+74. "Beyond Isolation: Why 2027 Is the Moment for a China-Sri Lanka FTA" -- Colombo Wire (October 2026)
+    https://www.colombowire.com/2026/10/beyond-isolation-why-2027-is-moment-for.html
+    Analytical advocacy piece making the case for a China-Sri Lanka Free Trade Agreement timed to the 75th anniversary of the Rubber-Rice Pact (1952) and the 70th anniversary of diplomatic relations, both in 2027. Key substantive content: China-Sri Lanka FTA talks began in 2014 and stalled in 2017; both sides restarted negotiations in 2023 but progress has been halting. China has signed 24 FTAs covering 31 countries and regions globally. Sri Lanka's trade deficit widened to over $6 billion in 2024. The World Bank simulation found an FTA would drive growth in textiles and wearing apparel, with full reform potentially increasing exports by 24.2% relative to baseline. Chinese Commerce Minister Wang Wentao stated an FTA would help Sri Lanka's competitive products gain greater market access. Chinese chambers of commerce highlighted opportunities in textiles, machinery, and electronics at the 2025 Sri Lanka-China Trade and Investment Forum. The piece also references the 2014 China-Sri Lanka currency swap agreement (renewed 2021) as a mechanism for liquidity support. While advocacy rather than news reporting, the article provides a substantive synthesis of the FTA's economic stakes, stalled timeline, and the intersection of 2027 anniversaries with trade policy momentum.
