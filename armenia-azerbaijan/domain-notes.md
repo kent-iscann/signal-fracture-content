@@ -137,7 +137,23 @@ As of Republic Day 2026, Pashinyan announced:
 ||- **Border delimitation field work start** | Whether northern tripoint section begins in Q4 2026; specific settlements addressed | Official/OSINT |
 ||- **Pashinyan-Aliyev CIS summit** | Informal contact in Ashgabat Oct 8-9; whether formal meeting follows | Official/diplomatic |
 ||- **TRIPP ratification timeline** | Parliament submission expected late October 2026; charter negotiations near completion | Official |
-||- **"Putin's Route" proposal** | Russia's Black Sea railway/road concept linking Russia-Georgia-Armenia — whether it gains traction or is rejected | Diplomatic/media |
+|||- **"Putin's Route" proposal** | Russia's Black Sea railway/road concept linking Russia-Georgia-Armenia — whether it gains traction or is rejected | Diplomatic/media |
+
+## Key Recent Developments (Oct 10-17, 2026)
+
+|||- **Pashinyan sets 2031 peace treaty target (Oct 15):** Pashinyan at government session stated he aims to sign and ratify peace treaty with Azerbaijan before 2031, calling it his "most important task." Proposed "no enclaves or exclaves on either side" via territory exchange (Karki, Barkhudarlyu, Yukhari Askipara for Artsvashen). Mirzoyan said enclaves/exclaves "do not pose an obstacle" to peace — contrast with constitutional issue.
+|||- **Pashinyan-Belozerov railway meeting (Oct 14-15):** Pashinyan hosted Russian Railways CEO Belozerov; agreed to 3-month joint working group on Russian investment. Pashinyan: Western companies ready to invest but see Russian concession as obstacle. If Russia invests $3B, that would end "political debate." Russia has not offered concrete solutions. Strategic priorities: Ijevan-Hrazdan railway, wheel-changing at Akhurik, Vanadzor-Gyumri connection.
+|||- **Mirzoyan at Warsaw Security Forum (Oct 14):** EU membership is "question for future" — "let us enjoy these warm relations, discover new opportunities." Turkey border opening "entirely possible" — could happen "tomorrow morning." Normalization with neighbors continues regardless of EU aspirations.
+|||- **EU trade regime enters force (Oct 10):** EU autonomous trade measures liberalizing ~80% of Armenian imports came into effect. Data shows dramatic diversification: June 2026 fruit exports — Uzbekistan 48%, Georgia 34%, Ukraine 12% vs Russia 87% in June 2025. EU exports grew 80% to $516M Jan-Jun 2026.
+|||- **Pashinyan RFI interview (Oct 6, published Oct 12):** Relations with Russia "can no longer be the same." Rejects replacing Russian dependence with Western. Approach is diversification. Peace with Azerbaijan irreversible: 2.5 years without border casualties.
+|||- **Herzog-Aliyev CICA summit (Oct 14-16):** Israeli President Herzog visits Baku for CICA summit, bypasses Turkish airspace ban on Azerbaijani commercial jet. Turkish FM Fidan stages walk-out during Herzog speech. Deepens Turkey-Azerbaijan tensions.
+|||- **Azerbaijan opens Israeli weapons factory (early Oct):** ARI Arms joint venture with Azerbaijani Defense Ministry launches AR-15 rifle production — first Western-standard rifle factory in Azerbaijan. Aliyev attends ADEX exhibition.
+|||- **US-Armenia critical minerals talks (Sep 30):** State Department Director Paul Hueper met Armenian officials to implement May critical minerals MoU.
+|||- **Pashinyan talent pool program (Aug-Oct):** 1,141 applications from top 200 global universities; 459 shortlisted. Two appointments confirmed: Deputy Health Minister (Harvard) and Deputy Economy Minister (Erasmus). Program reroutes civil service training from Russian to Western institutions.
+|||- **101 Members of Congress on Section 907 (Oct 5):** Bicameral letter led by Peters (D-MI) and Bilirakis (R-FL) warns Azerbaijan's conduct undermines peace; notes 241 sq km occupation, 16 Armenian prisoners.
+|||- **COP17 opens in Yerevan (Oct 15-16):** Armenia hosts UN biodiversity conference with 15,000 participants from 196 countries. Pashinyan and UN Secretary-General Guterres open leaders' summit. Guterres urges Armenia-Azerbaijan peace implementation including detainee release. Iranian President Pezeshkian addresses summit on environmental impacts of US-Israel war.
+|||- **Aliyev party congress rhetoric (Oct 2):** Aliyev at New Azerbaijan Party congress declares "current Armenian authorities made territorial demands." Michael Rubin (MEF) argues Aliyev is not sincere about peace, comparing to Arafat's negotiating tactics.
+|||- **Azerbaijan-EU partnership talks (Oct 1):** Deputy FM Rafiyev meets EU COEST delegation; discusses Middle Corridor, energy, Armenia-Azerbaijan reconciliation.
 
 ## Key Recent Developments (Oct 2026)
 

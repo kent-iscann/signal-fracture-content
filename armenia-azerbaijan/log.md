@@ -264,18 +264,35 @@
 |- **Files updated:** sources.md (168→175), index.md (168→175), log.md
 
 ## 2026-10-10 - Weekly Source Update
-- **New sources:** 13
-- **Source 176:** [Caucasian Knot] Pashinyan at Armenia-British business forum — expects Turkey border opening and railway communication with Azerbaijan/Turkey alongside TRIPP development
-- **Source 177:** [Mirror-Spectator] Suren Sargsyan analysis of Russia's "Putin's Route" proposal — Black Sea railway/road linking Russia-Georgia-Armenia to counterbalance TRIPP
-- **Source 178:** [OC Media] Explainer on Turkey-Azerbaijan spat over hijab ban, Israel ties, and unequal power dynamics straining "one nation, two states" narrative
-- **Source 179:** [JAMnews] Former BND chief August Hanning arrested for passing ~2,000 classified documents to Azerbaijani intelligence over 12 years
-- **Source 180:** [Eurasianet] Russia's intimidation campaign — Medvedev's "new Ukraine" threat; Pashinyan's nuclear plant u-turn toward Rosatom VVER-1000
-- **Source 181:** [OC Media] Mirzoyan: Iran is "satisfied" with entire TRIPP process after Tehran visit; transparency and economic opportunities cited
-- **Source 182:** [JAMnews] Pashinyan briefing — no extradition for Azerbaijani soldier who shot woman in Syunik; informal Aliyev contact at CIS summit; Medvedev threat dismissed
-- **Source 183:** [OC Media] Goris meeting on TRIPP power transmission lines; Pashinyan reconsidering nuclear reactor size for AI data center demand
-- **Source 184:** [OC Media] Pashinyan pushes back against Medvedev's "new Ukraine" threat citing CSTO's 2022 inaction
-- **Source 185:** [Eurasianet/CAC Analyst] Why TRIPP is stalled — external obstacles: Iran security concerns and Russia's railway concession ($400M) require US-Iran and US-Russia agreements
-- **Source 186:** [MassisPost] Pashinyan at CIS summit declares peace established reality; 2.5 years without casualties; unresolved humanitarian issues
-- **Source 187:** [CIVILNET] Deputy FM Kostanyan: no US military presence in TRIPP; ratification expected late October; feasibility studies by year-end
-- **Source 188:** [JAMnews] Analyst Surenyants: Aliyev's tougher rhetoric signals dissatisfaction; Baku may be hurried by growing Iranian factor
-- **Files updated:** sources.md (175→188), index.md, log.md
+|- **New sources:** 13
+|- **Source 176:** [Caucasian Knot] Pashinyan at Armenia-British business forum — expects Turkey border opening and railway communication with Azerbaijan/Turkey alongside TRIPP development
+|- **Source 177:** [Mirror-Spectator] Suren Sargsyan analysis of Russia's "Putin's Route" proposal — Black Sea railway/road linking Russia-Georgia-Armenia to counterbalance TRIPP
+|- **Source 178:** [OC Media] Explainer on Turkey-Azerbaijan spat over hijab ban, Israel ties, and unequal power dynamics straining "one nation, two states" narrative
+|- **Source 179:** [JAMnews] Former BND chief August Hanning arrested for passing ~2,000 classified documents to Azerbaijani intelligence over 12 years
+|- **Source 180:** [Eurasianet] Russia's intimidation campaign — Medvedev's "new Ukraine" threat; Pashinyan's nuclear plant u-turn toward Rosatom VVER-1000
+|- **Source 181:** [OC Media] Mirzoyan: Iran is "satisfied" with entire TRIPP process after Tehran visit; transparency and economic opportunities cited
+|- **Source 182:** [JAMnews] Pashinyan briefing — no extradition for Azerbaijani soldier who shot woman in Syunik; informal Aliyev contact at CIS summit; Medvedev threat dismissed
+|- **Source 183:** [OC Media] Goris meeting on TRIPP power transmission lines; Pashinyan reconsidering nuclear reactor size for AI data center demand
+|- **Source 184:** [OC Media] Pashinyan pushes back against Medvedev's "new Ukraine" threat citing CSTO's 2022 inaction
+|- **Source 185:** [Eurasianet/CAC Analyst] Why TRIPP is stalled — external obstacles: Iran security concerns and Russia's railway concession ($400M) require US-Iran and US-Russia agreements
+|- **Source 186:** [MassisPost] Pashinyan at CIS summit declares peace established reality; 2.5 years without casualties; unresolved humanitarian issues
+|- **Source 187:** [CIVILNET] Deputy FM Kostanyan: no US military presence in TRIPP; ratification expected late October; feasibility studies by year-end
+|- **Source 188:** [JAMnews] Analyst Surenyants: Aliyev's tougher rhetoric signals dissatisfaction; Baku may be hurried by growing Iranian factor
+|- **Files updated:** sources.md (175→188), index.md, log.md
+
+## 2026-10-17 - Weekly Source Update
+|- **New sources:** 13 (189–201)
+|- **Source 189:** [OC Media] Pashinyan sets 2031 target for peace treaty with Azerbaijan; proposes enclave/exclave territory exchange; Guterres in Yerevan urges implementation; Lavrov on 3+3
+|- **Source 190:** [JAMnews] Russia seeks to retain Armenian railway concession — Pashinyan-Belozerov meeting; 3-month working group; Western companies see Russian concession as obstacle
+|- **Source 191:** [JAMnews] Mirzoyan at Warsaw Security Forum: EU membership is "question for future"; Turkey border could open "tomorrow morning"
+|- **Source 192:** [JAMnews] EU preferential trade regime enters into force Oct 10; dramatic trade diversification data: Uzbekistan 48%, Georgia 34% of fruit exports vs Russia 87% in 2025
+|- **Source 193:** [Caucasus Watch] Pashinyan makes peace deal government priority at Oct 1 cabinet meeting
+|- **Source 194:** [RFI] Exclusive Pashinyan interview: Russia relations "can no longer be the same"; diversification not replacement of dependence
+|- **Source 195:** [OC Media] Azerbaijan opens first Israeli weapons factory — ARI Arms AR-15 joint venture with Defense Ministry
+|- **Source 196:** [OC Media] Herzog bypasses Turkish airspace ban using Azerbaijani commercial jet for CICA summit; Fidan walks out
+|- **Source 197:** [Caucasus Watch] Armenia-US advance critical minerals cooperation — Hueper meets Armenian officials
+|- **Source 198:** [Caucasus Watch] Major analysis: Pashinyan's talent pool program reroutes civil service from Russian to Western institutions
+|- **Source 199:** [Caucasus Watch] Azerbaijan-EU advance talks on new partnership agreement — COEST delegation visit Oct 1
+|- **Source 200:** [Mirror-Spectator] 101 Members of Congress sign letter to Rubio on Section 907 — cite 241 sq km occupation, prisoners
+|- **Source 201:** [Middle East Forum/Michael Rubin] Argues Aliyev not sincere about peace; Oct 2 party congress speech shows ideological drivers
+|- **Files updated:** sources.md (188→201), index.md, domain-notes.md, log.md
